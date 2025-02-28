@@ -1,0 +1,1 @@
+function l(n){return n===null||n.x===0&&n.y===0}function f(n,x=!1){if(n===null)return"";let u=x&&n.x>0?`+${n.x}`:n.x,y=x&&n.y>0?`+${n.y}`:n.y;return n.x==n.y?`${u}`:`(${u}~${y})`}export{f as g,l as i};

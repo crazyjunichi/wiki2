@@ -1,0 +1,1 @@
+const e="调味料",t=[{key:"Spice_Fat",text:"脂肪(调味料)",icon:"",type:"spice"},{key:"Spice_Fireroot",text:"火根草(调味料)",icon:"",type:"spice"},{key:"Spice_Frostleaf",text:"霜叶(调味料)",icon:"",type:"spice"},{key:"Spice_GarlicDry",text:"蒜(调味料)",icon:"",type:"spice"},{key:"TestSpiceTag",text:"试验香料(调味料)",icon:"",type:"spice"}],c={title:e,list:t};export{c as default,t as list,e as title};
