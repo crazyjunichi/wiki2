@@ -1,1 +1,0 @@
-import{f as t,c as n,x as o,o as s}from"./BiCLwLJS.js";const _={class:"textBg"},a=t({__name:"hint",props:{highlight:{type:Boolean}},setup(c){return(e,p)=>(s(),n("span",_,[o(e.$slots,"default")]))}}),i=Object.assign(a,{__name:"Hint"});export{i as _};
