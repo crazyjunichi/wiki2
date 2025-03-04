@@ -1,0 +1,1 @@
+import{f as e,c as n,z as o,o as s}from"./BPNI_pLR.js";const _={class:"text-hint"},a=e({__name:"hint",props:{highlight:{type:Boolean}},setup(c){return(t,p)=>(s(),n("span",_,[o(t.$slots,"default")]))}}),i=Object.assign(a,{__name:"Hint"});export{i as _};
