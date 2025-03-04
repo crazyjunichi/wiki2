@@ -1,0 +1,1 @@
+import{f as s,c as o,o as a,a as t,t as i,g as r,h as c}from"./CDkxzjdl.js";const l={class:"flex flex-col items-center justify-center gap-4 h-screen"},m=s({__name:"index",setup(u){const n=c();return(f,e)=>(a(),o("div",l,[e[0]||(e[0]=t("h1",{class:"font-bold text-2xl text-(--ui-primary)"}," 建设中…… ",-1)),t("div",null,"页面总数："+i(r(n).public.pageCount),1)]))}});export{m as default};

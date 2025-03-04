@@ -1,1 +1,0 @@
-import{_ as t,c as s,a as c,o}from"./B4l7yeGO.js";const r={},n={class:"flex flex-col items-center justify-center gap-4 h-screen"};function a(l,e){return o(),s("div",n,e[0]||(e[0]=[c("h1",{class:"font-bold text-2xl text-(--ui-primary)"}," 建设中…… ",-1)]))}const i=t(r,[["render",a]]);export{i as default};
