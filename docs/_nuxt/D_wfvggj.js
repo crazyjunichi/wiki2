@@ -1,0 +1,1 @@
+import{d as t,c as s,a as o,o as a}from"./BwF4k88o.js";const n={class:"flex flex-col items-center justify-center gap-4 h-screen"},p=t({__name:"BlankPage",props:{id:{}},setup(r){return(c,e)=>(a(),s("div",n,e[0]||(e[0]=[o("h1",{class:"font-bold text-2xl"}," 建设中…… 欢迎投稿 ",-1)])))}});export{p as default};
