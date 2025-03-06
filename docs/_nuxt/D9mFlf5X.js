@@ -1,0 +1,1 @@
+const e="InvisibleCard",i=[{key:"FallowFieldInvisible",text:"不可见的休耕地",icon:"Field_Tilled@805"},{key:"InvisibleLocationEnricher",text:"InvisibleLocationEnricher",icon:"Feeder@782"},{key:"TestInvisible",text:"Feeder",icon:"Feeder@782"}],t=!0,n={title:e,list:i,useImage:t};export{n as default,i as list,e as title,t as useImage};
