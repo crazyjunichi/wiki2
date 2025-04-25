@@ -1,0 +1,1 @@
+import{i as a}from"./Brd0kxXE.js";function g(e){return a(e.SpoilageChange)&&a(e.UsageChange)&&a(e.FuelChange)&&a(e.ChargesChange)&&a(e.Special1Change)&&a(e.Special2Change)&&a(e.Special3Change)&&a(e.Special4Change)}export{g as i};
