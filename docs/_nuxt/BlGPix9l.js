@@ -1,1 +1,0 @@
-import{d as e,c as n,a as o,C as s}from"./CmWOI6Fk.js";const a={class:"text-hint"},_=e({__name:"hint",props:{highlight:{type:Boolean}},setup(c){return(t,p)=>(o(),n("span",a,[s(t.$slots,"default")]))}}),i=Object.assign(_,{__name:"Hint"});export{i as _};
