@@ -1,1 +1,0 @@
-import{e as t,c as n,o,r as s}from"./DlIlrAki.js";const _={class:"text-hint"},a=t({__name:"hint",props:{highlight:{type:Boolean}},setup(c){return(e,r)=>(o(),n("span",_,[s(e.$slots,"default")]))}}),i=Object.assign(a,{__name:"Hint"});export{i as _};
