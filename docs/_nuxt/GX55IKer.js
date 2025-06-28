@@ -1,0 +1,1 @@
+const t="NutAction",n="坚果动作",c="NutAction",o="NutAction",s=[],e=[],m=0,a={},u=null,i=1,_={m_Name:t,zh:n,en:c,ja:o,_actions:s,_modifiers:e,count:0,templateCard:a,m_GameObject:null,m_Enabled:1};export{s as _actions,e as _modifiers,m as count,_ as default,c as en,o as ja,i as m_Enabled,u as m_GameObject,t as m_Name,a as templateCard,n as zh};
