@@ -4,18 +4,21 @@
 Install BepInEx and place WikiMod.dll in the Plugin folder.
 After entering the game, you can enable or disable the main mod features from the game’s Settings menu.
 
-## Latest Update V2.1
-- Added Environment Settings to adjust various global rates in-game. (Entry: Anything Mod -> World Environment Settings)
-- Added Move Tool to migrate any object (including rooms) on the current map to another map with one click. (Entry: Anything Mod -> Move Tool)
-- Added Build Tool to quickly build rooms, expand rooms, remodel rooms, and add furniture. (Entry: Anything Mod -> Build Tool)
-- Added a 6-hour snooze option to the rest interface (duration configurable in advanced settings)
-- Cave and carcass icons are now shown on the map
-- Map legend toggles are now saved to config
-- Map capacity is now shown on both map UI and scene card tooltips
-- Added version compatibility check and update notice
-- Fixed incorrect prompt display for actions such as fishing
-- Fixed incorrect prompt display for forest beast encounters
-- Fixed crop progress bars affecting card dragging
+## Latest Update V2.2 [2026/03/20]
+- [Detail Tooltip] Shows unlock conditions for locked cards
+- [Detail Tooltip] Shows reasons for paused conversions
+- [Detail Tooltip] Shows liquids inside containers
+- [Detail Tooltip] Shows compound statuses related to status effects
+- [Detail Tooltip] Displays status phase change duration
+- [Detail Tooltip] Syncs food score with game algorithm, temporarily fixing incorrect scoring for seasoned food
+- [Detail Tooltip] Supports displaying card creation time (can be enabled in advanced settings)
+- [Detail Tooltip] Fixed incomplete status effect display
+- [Detail Tooltip] Optimized quality calculation formula display
+- Build Tool can rename rooms, automatically updating the room's main card name and all door names leading to the room
+- Added option to show Detail Tooltip only when holding CTRL
+- Extended 6-hour light sleep option to various bed types
+- Added more error tolerance for better compatibility with other mods
+- Fixed blueprint requirement hints including unavailable items
 
 ## ✨ Main Features
 
@@ -66,7 +69,7 @@ A simplified nearby map is shown in the exploration interface.
 - Infection: shows various infection statuses and related effects
 - Chemistry: shows various compound/chemical statuses and related effects
 
-### 🔢 Full Numeric Display
+### 🔢 Full Detail Tooltip
 - Hover to view related values for cards, statuses, perks, and action buttons
 - Correctly displays trap chance, action conditions, food score, etc.
 
@@ -100,20 +103,41 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 ### 📈 Useful Information Display
 - Current season, date, and total survival time
 - Current temperature
+- Current moon phase
 - Weather forecast
 - Weight info
 - Blueprint info
 - Salad score
 - Highlight crop status
 
-### 🏷️ Rename All Cards
-When enabled, most cards can be renamed freely.
+### 🏷️ More Useful Features
 
-### 🏷️ 6-Hour Sleep
-When enabled, you can choose a 6-hour sleep option in rest actions (duration configurable in advanced settings).
+- Support renaming almost all cards
+- Can add 6-hour sleep option in rest interface (duration adjustable in advanced settings)
+- Hold CTRL + click the arrow on a card to move the whole stack
+- Support displaying card attribute change arrows
+- Support optimizing default card placement on the ground
+- Support disabling animal tracks/blood trails
+- Show critical marker on weight progress bar
 
 
 ## 📝 Changelog
+
+### 2.2
+- [Detail Tooltip] Shows unlock conditions for locked cards
+- [Detail Tooltip] Shows reasons for paused conversions
+- [Detail Tooltip] Shows liquids inside containers
+- [Detail Tooltip] Shows compound statuses related to status effects
+- [Detail Tooltip] Displays status phase change duration
+- [Detail Tooltip] Syncs food score with game algorithm, temporarily fixing incorrect scoring for seasoned food
+- [Detail Tooltip] Supports displaying card creation time (can be enabled in advanced settings)
+- [Detail Tooltip] Fixed incomplete status effect display
+- [Detail Tooltip] Optimized quality calculation formula display
+- Build Tool can rename rooms, automatically updating the room's main card name and all door names leading to the room
+- Added option to show Detail Tooltip only when holding CTRL
+- Extended 6-hour light sleep option to various bed types
+- Added more error tolerance for better compatibility with other mods
+- Fixed blueprint requirement hints including unavailable items
 
 ### 2.1
 - Added Environment Settings to adjust some global rates in-game. (Entry: Anything Mod -> World Environment Settings)
