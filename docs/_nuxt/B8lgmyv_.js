@@ -1,1 +1,0 @@
-import{d as n,w as o,e as r}from"./BsbHt_sJ.js";const l=n({__name:"test",async setup(a){let e,t;const _=([e,t]=o(()=>r(()=>import("./CoDkT4PS.js"),[],import.meta.url)),e=await e,t(),e).default;return console.log(_),(s,i)=>null}});export{l as default};

@@ -4,21 +4,16 @@
 Install BepInEx and place WikiMod.dll in the Plugin folder.
 After entering the game, you can enable or disable the main mod features from the game’s Settings menu.
 
-## Latest Update V2.2 [2026/03/20]
-- [Detail Tooltip] Shows unlock conditions for locked cards
-- [Detail Tooltip] Shows reasons for paused conversions
-- [Detail Tooltip] Shows liquids inside containers
-- [Detail Tooltip] Shows compound statuses related to status effects
-- [Detail Tooltip] Displays status phase change duration
-- [Detail Tooltip] Syncs food score with game algorithm, temporarily fixing incorrect scoring for seasoned food
-- [Detail Tooltip] Supports displaying card creation time (can be enabled in advanced settings)
-- [Detail Tooltip] Fixed incomplete status effect display
-- [Detail Tooltip] Optimized quality calculation formula display
-- Build Tool can rename rooms, automatically updating the room's main card name and all door names leading to the room
-- Added option to show Detail Tooltip only when holding CTRL
-- Extended 6-hour light sleep option to various bed types
-- Added more error tolerance for better compatibility with other mods
-- Fixed blueprint requirement hints including unavailable items
+## Latest Update V2.3 (2026/03/22)
+- [Detail Tooltip] Action tooltips now show conditions that may reduce required time
+- [Detail Tooltip] Card tooltips now show passive status effects
+- [Detail Tooltip] NPC tooltips now show animal burrow locations
+- [Anything Mod] Added a save repair tool to fix void environments and incorrect environment cards
+- [Anything Mod] Save editing now supports unlocking all blueprints
+- [Map] Optimized auto-walk to reduce risk of save corruption
+- [Map] Improved map screen opening speed
+- [Map] Indoor map now displays more room types
+- [BugFix] Fixed crops in gardens not displaying progress bars
 
 ## ✨ Main Features
 
@@ -122,8 +117,21 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 
 
 ## 📝 Changelog
+### V2.3 (2026/03/22)
+- [Detail Tooltip] Action tooltips now show conditions that may reduce required time
+- [Detail Tooltip] Card tooltips now show passive status effects
+- [Detail Tooltip] NPC tooltips now show animal burrow locations
+- [Anything Mod] Added a save repair tool to fix void environments and incorrect environment cards
+- [Anything Mod] Save editing now supports unlocking all blueprints
+- [Map] Optimized auto-walk to reduce risk of save corruption
+- [Map] Improved map screen opening speed
+- [Map] Indoor map now displays more room types
+- [BugFix] Fixed crops in gardens not displaying progress bars
 
-### 2.2
+### V2.2.1 (2026/03/21)
+- Fixed crops in gardens not displaying progress bars
+
+### V2.2 (2026/03/20)
 - [Detail Tooltip] Shows unlock conditions for locked cards
 - [Detail Tooltip] Shows reasons for paused conversions
 - [Detail Tooltip] Shows liquids inside containers
@@ -139,7 +147,7 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 - Added more error tolerance for better compatibility with other mods
 - Fixed blueprint requirement hints including unavailable items
 
-### 2.1
+### V2.1 (2026/03/17)
 - Added Environment Settings to adjust some global rates in-game. (Entry: Anything Mod -> World Environment Settings)
 - Added Move Tool to migrate any object (including rooms) on current map to other maps in one click. (Entry: Anything Mod -> Move Tool)
 - Added Build Tool to quickly build rooms, expand rooms, remodel rooms, and add furniture. (Entry: Anything Mod -> Build Tool)
@@ -152,7 +160,7 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 - Fixed incorrect prompt display for forest beast encounters
 - Fixed crop progress bars affecting card dragging
 
-### 2.0
+### V2.0 (2026/03/12)
 - Brand-new numeric tooltip display (covers more scenes and more data). By default this overrides other tooltip mods and can be disabled in settings.
 - Added Quick Find feature. Supports searching current map cards, target blueprints, and related maps
 - Map now supports hunting fences, animal burrows, and animal heat areas
@@ -162,7 +170,7 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 - Added shortcut key customization for Anything Mod features
 - Fixed unreasonable auto-pathing routes on map UI.
 
-### 1.5
+### V1.5 (2026/02/04)
 - Advanced character info page (press `C`)
 - Support renaming all cards
 - Show moon phase
@@ -170,7 +178,7 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 - Fixed issue where modifier could not enchant items
 - Fixed field compatibility issues with game version 0.58
 
-### 1.4
+### V1.4 (2026/01/28)
 - Support detailed encounter logs (off by default)
 - Support disabling animal tracks (off by default)
 - Support loading wiki Chinese translation patch
@@ -181,13 +189,13 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 - Fixed error when opening Anything Mod if card does not exist
 - Fixed occasional blueprint display issues
 
-### 1.3
+### V1.3 (2026/01/20)
 - Added card stat-change arrow indicators
 - Added scene carry-weight display
 - Fixed save issue caused by teleport
 - Fixed inability to disable trap alarms
 
-### 1.2
+### V1.2 (2026/01/18)
 - Added alerts (animal incoming alert, trap triggered alert) (off by default)
 - Added auto card placement on card entry (off by default)
 - Added Ctrl + click arrow to move whole stack
@@ -202,32 +210,32 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
     - Support pinning entries to Anything home
     - Fixed inability to modify statuses
 
-### 1.1.0
+### V1.1.0 (2026/01/11)
 - Added Anything Mod
 - Optimized map, added cave map jump, and detailed trap/crop status display
 - Added blueprint info display
 
-### 1.0.6
+### V1.0.6 (2026/01/6)
 - Move directly to destination from map
 - Show NPC respawn time
 - Adjusted sun/moon/stars
 - Show weather forecast
 - Show weight info
 
-### 1.0.4
+### V1.0.4 (2025/12/05)
 - Support official map data
 - Map displays detailed animal data and behavior preview
 - Optimized date display
 - Show detailed temperature info
 - Optimized indoor map display
 
-### 1.0.3
+### V1.0.3 (2025/08/10)
 - Added quick add item feature
 - Added mod settings
 - Added food score display
 - Indoor map can switch to outdoor map
 
-### 1.0.2
+### V1.0.2 (2025/07/31)
 - Added indoor map
 - Compatible with CSTI; built-in wiki supports mods
 - Added material hints on blueprint UI
@@ -235,11 +243,11 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 - Fixed incorrect zoom in exploration map
 - Adjusted part of color scheme
 
-### 1.0.1
+### V1.0.1 (2025/07/27)
 - Added display for triggered traps / mature fields
 - Fixed incorrect display on paved areas
 
-### 1.0.0
+### V1.0.0 (2025/07/20)
 - Press M to open in-game map
 - Added built-in wiki on card/status detail pages
 - Added nearby map display in exploration interface
