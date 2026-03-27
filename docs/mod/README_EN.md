@@ -8,7 +8,7 @@ After entering the game, you can enable or disable the main mod features from th
 - [Detail Tooltip] Action tooltips now show conditions that may reduce required time
 - [Detail Tooltip] Card tooltips now show passive status effects
 - [Detail Tooltip] NPC tooltips now show animal burrow locations
-- [Anything Mod] Added a save repair tool to fix void environments and incorrect environment cards
+- [Anything Mod] Added a repair tool to fix void environments and incorrect environment cards
 - [Anything Mod] Save editing now supports unlocking all blueprints
 - [Map] Optimized auto-walk to reduce risk of save corruption
 - [Map] Improved map screen opening speed
