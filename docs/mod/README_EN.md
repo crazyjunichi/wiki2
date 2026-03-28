@@ -4,16 +4,17 @@
 Install BepInEx and place WikiMod.dll in the Plugin folder.
 After entering the game, you can enable or disable the main mod features from the game’s Settings menu.
 
-## Latest Update V2.3 (2026/03/22)
-- [Detail Tooltip] Action tooltips now show conditions that may reduce required time
-- [Detail Tooltip] Card tooltips now show passive status effects
-- [Detail Tooltip] NPC tooltips now show animal burrow locations
-- [Anything Mod] Added a repair tool to fix void environments and incorrect environment cards
-- [Anything Mod] Save editing now supports unlocking all blueprints
-- [Map] Optimized auto-walk to reduce risk of save corruption
-- [Map] Improved map screen opening speed
-- [Map] Indoor map now displays more room types
-- [BugFix] Fixed crops in gardens not displaying progress bars
+## Latest Update V2.4 (2026/03/28)
+- Added WikiMod achievement series (badges, mysterious statues, rewards)
+- [Detail Tooltip] Shows attribute requirements in blueprint conditions
+- [Detail Tooltip] Fixed missing display of transferred attribute values
+- [Detail Tooltip] Fixed missing display of inner-item change rates during conversions
+- [Anything Mod] Supports locking status values and saving auto-lock for next game launch
+- [Anything Mod] Environment modifier now supports freely shifting game time while keeping seasons in sync
+- [Anything Mod] Added "Speed Up Time Animation" option in More Settings
+- [Anything Mod] Added "Exit Without Saving" option in More Settings
+- [Map] Optimized map node tooltip details and added current attributes display
+- [BugFix] Fixed time hints disappearing after loading a save
 
 ## ✨ Main Features
 
@@ -84,11 +85,13 @@ This feature is disabled by default and can be enabled from options.
 - Modify any data on existing cards
 - View/modify any status and clear staleness
 - View/modify NPC status and move NPC near player
+- Freely shift game time while keeping seasons in sync
 - Adjust global rates: blueprint research time / food spoilage speed / skill staleness / animal respawn speed / farm growth speed / garden growth speed / crop Product / garden product / map environment capacity / encounter difficulty
 - Fast build and move tools
 - Add or remove character perks after game start
 - Force complete quests
-- More experimental features
+- Speed up time animations
+- More experimental features can be found in More Settings
 
 ### ⚡ Quick Add Items
 In blueprint/container slot UI, right-click to open menu and quickly add available items.
@@ -117,6 +120,18 @@ In blueprint/container slot UI, right-click to open menu and quickly add availab
 
 
 ## 📝 Changelog
+### V2.4 (2026/03/28)
+- Added WikiMod achievement series (badges, mysterious statues, rewards)
+- [Detail Tooltip] Shows attribute requirements in blueprint conditions
+- [Detail Tooltip] Fixed missing display of transferred attribute values
+- [Detail Tooltip] Fixed missing display of inner-item change rates during conversions
+- [Anything Mod] Supports locking status values and saving auto-lock for next game launch
+- [Anything Mod] Environment modifier now supports freely shifting game time while keeping seasons in sync
+- [Anything Mod] Added "Speed Up Time Animation" option in More Settings
+- [Anything Mod] Added "Exit Without Saving" option in More Settings
+- [Map] Optimized map node tooltip details and added current attributes display
+- [BugFix] Fixed time hints disappearing after loading a save
+
 ### V2.3 (2026/03/22)
 - [Detail Tooltip] Action tooltips now show conditions that may reduce required time
 - [Detail Tooltip] Card tooltips now show passive status effects
