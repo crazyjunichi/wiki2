@@ -6,7 +6,7 @@
   "zh": "狩猎工具",
   "en": "Tools of the Hunt",
   "ja": "Tools of the Hunt",
-  "UniqueIDIndex": 4573,
+  "UniqueIDIndex": 4583,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Craft a Hunting Spear",
         "ja": "Craft a Hunting Spear",
         "UniqueID": "9b7c66bc203b6984f9c5d949368d5f96",
-        "UniqueIDIndex": 4576,
+        "UniqueIDIndex": 4586,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -336,7 +336,7 @@
         "en": "Craft a Hunting Spear",
         "ja": "Craft a Hunting Spear",
         "UniqueID": "461396527db7d7d4ca5e7eace46e2e02",
-        "UniqueIDIndex": 4577,
+        "UniqueIDIndex": 4587,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -552,7 +552,7 @@
         "en": "Craft Broadhead Arrows",
         "ja": "Craft Broadhead Arrows",
         "UniqueID": "095361fdcf8fa254b89a4f7d4dc83e24",
-        "UniqueIDIndex": 4578,
+        "UniqueIDIndex": 4588,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -862,7 +862,7 @@
         "en": "Apply Wolfsbane to a Weapon",
         "ja": "Apply Wolfsbane to a Weapon",
         "UniqueID": "0c829362855ee184d83e1007de60aa2c",
-        "UniqueIDIndex": 4579,
+        "UniqueIDIndex": 4589,
         "StartUnlocked": false,
         "ActionObjectives": [
           {

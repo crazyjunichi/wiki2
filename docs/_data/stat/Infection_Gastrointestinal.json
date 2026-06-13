@@ -6,7 +6,7 @@
   "zh": "胃肠道感染",
   "en": "Gastrointestinal Infection",
   "ja": "胃腸感染",
-  "UniqueIDIndex": 3670,
+  "UniqueIDIndex": 3680,
   "GameName": {
     "DefaultText": "Gastrointestinal Infection",
     "Text": "胃肠道感染",
@@ -2976,13 +2976,34 @@
         "ja": "アイスホール"
       },
       "localization": {
-        "zh": "动作：饮用",
+        "zh": "动作：Drink",
         "en": "Action: Drink",
-        "ja": "アクション：飲む"
+        "ja": "アクション：Drink"
       },
       "value": {
         "x": 5,
         "y": 50
+      },
+      "key": "IceHoleRiver_Drink"
+    },
+    {
+      "link": {
+        "key": "IceHoleRiver",
+        "icon": "FishingHole",
+        "type": "card",
+        "CardType": 2,
+        "zh": "冰洞",
+        "en": "Ice Hole",
+        "ja": "アイスホール"
+      },
+      "localization": {
+        "zh": "动作：Drink",
+        "en": "Action: Drink",
+        "ja": "アクション：Drink"
+      },
+      "value": {
+        "x": 50,
+        "y": 350
       },
       "key": "IceHoleRiver_Drink"
     },

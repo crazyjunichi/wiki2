@@ -1716,7 +1716,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる"
@@ -2896,7 +2896,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる"
@@ -3000,6 +3000,16 @@
       "zh": "可鞣制",
       "en": "Tannable",
       "ja": "Tannable"
+    },
+    {
+      "key": "tag_TanningLiqour",
+      "text": "“Tanning Liqour”",
+      "icon": "",
+      "type": "tag",
+      "count": 0,
+      "zh": "Tanning Liqour",
+      "en": "Tanning Liqour",
+      "ja": "Tanning Liqour"
     },
     {
       "key": "tag_TanningResult",
@@ -3668,7 +3678,7 @@
       "key": "CarnivorousAction",
       "text": "CarnivorousAction",
       "type": "tag",
-      "count": 125,
+      "count": 129,
       "SpoilageTime": {
         "Active": true,
         "CardStatName": {
@@ -4204,7 +4214,7 @@
       "key": "DrinkingAction",
       "text": "DrinkingAction",
       "type": "tag",
-      "count": 57,
+      "count": 58,
       "UsageDurability": {
         "Active": true,
         "CardStatName": {
@@ -5265,7 +5275,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000
@@ -5287,7 +5297,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {
@@ -6122,7 +6132,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000
@@ -6147,7 +6157,7 @@
       "key": "TravelAction",
       "text": "TravelAction",
       "type": "tag",
-      "count": 385,
+      "count": 350,
       "SpoilageTime": {
         "Active": true,
         "CardStatName": {
@@ -6303,7 +6313,7 @@
       "key": "VegetarianAction",
       "text": "VegetarianAction",
       "type": "tag",
-      "count": 105,
+      "count": 101,
       "SpoilageTime": {
         "Active": true,
         "CardStatName": {
@@ -7497,10 +7507,10 @@
     },
     {
       "key": "GpTag_DriedStomach",
-      "text": "“巫石粉末”",
+      "text": "“胃干”",
       "type": "tag",
-      "zh": "巫石粉末",
-      "en": "Witchstone Dust",
+      "zh": "胃干",
+      "en": "Dried Stomach",
       "ja": "Dried Stomach",
       "SubGroups": [],
       "count": 2
@@ -7553,7 +7563,7 @@
       "en": "Enchantable",
       "ja": "エンチャント可能",
       "SubGroups": [],
-      "count": 60
+      "count": 61
     },
     {
       "key": "GpTag_Fairyweed",
@@ -7984,6 +7994,16 @@
       "ja": "針",
       "SubGroups": [],
       "count": 2
+    },
+    {
+      "key": "GpTag_OakLongStick",
+      "text": "“碎料”",
+      "type": "tag",
+      "zh": "碎料",
+      "en": "Scraps",
+      "ja": "残り物",
+      "SubGroups": [],
+      "count": 1
     },
     {
       "key": "GpTag_Oil",

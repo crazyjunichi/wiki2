@@ -6,7 +6,7 @@
   "zh": "生长中的小麦",
   "en": "Growing Wheat Field",
   "ja": "Growing Wheat Field",
-  "UniqueIDIndex": 2671,
+  "UniqueIDIndex": 2679,
   "CardType": 2,
   "CardTags": [
     {
@@ -8253,7 +8253,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

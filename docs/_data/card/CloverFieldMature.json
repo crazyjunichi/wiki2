@@ -6,7 +6,7 @@
   "zh": "三叶草田(成熟)",
   "en": "Clover Field",
   "ja": "クローバー畑",
-  "UniqueIDIndex": 886,
+  "UniqueIDIndex": 887,
   "CardType": 2,
   "CardTags": [
     {
@@ -7283,7 +7283,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -9678,7 +9678,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -12073,7 +12073,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -14369,7 +14369,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

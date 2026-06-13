@@ -5,7 +5,7 @@
   "zh": "Beaver Start Building Dam",
   "en": "Beaver Start Building Dam",
   "ja": "Beaver Start Building Dam",
-  "UniqueIDIndex": 2870,
+  "UniqueIDIndex": 2878,
   "DutyName": {
     "DefaultText": "Beaver Start Building Dam",
     "Text": "Beaver Start Building Dam",
@@ -578,7 +578,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

@@ -6,7 +6,7 @@
   "zh": "松林坡地",
   "en": "Pine Slopes",
   "ja": "Pine Slopes",
-  "UniqueIDIndex": 2489,
+  "UniqueIDIndex": 2490,
   "CardType": 8,
   "CardTags": [
     {
@@ -16197,7 +16197,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -22618,7 +22618,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -22739,7 +22739,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -24010,7 +24010,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -24131,7 +24131,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -25404,7 +25404,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -25525,7 +25525,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -26800,7 +26800,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -26921,7 +26921,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -29491,7 +29491,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -29612,7 +29612,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -32188,7 +32188,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -32309,7 +32309,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

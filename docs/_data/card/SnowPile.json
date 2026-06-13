@@ -6,7 +6,7 @@
   "zh": "雪堆",
   "en": "Snow Pile",
   "ja": "雪の山",
-  "UniqueIDIndex": 2293,
+  "UniqueIDIndex": 2294,
   "CardType": 0,
   "CardTags": [
     {
@@ -7010,7 +7010,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -7026,7 +7026,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

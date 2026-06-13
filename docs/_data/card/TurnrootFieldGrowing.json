@@ -6,7 +6,7 @@
   "zh": "生长中的翻根田",
   "en": "Growing Turnroot Field",
   "ja": "成長中のターンルート畑",
-  "UniqueIDIndex": 2575,
+  "UniqueIDIndex": 2576,
   "CardType": 2,
   "CardTags": [
     {
@@ -7987,7 +7987,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

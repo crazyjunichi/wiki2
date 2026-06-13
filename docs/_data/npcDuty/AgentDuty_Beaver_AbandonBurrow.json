@@ -5,7 +5,7 @@
   "zh": "Beaver Abandon Burrow",
   "en": "Beaver Abandon Burrow",
   "ja": "Beaver Abandon Burrow",
-  "UniqueIDIndex": 2852,
+  "UniqueIDIndex": 2860,
   "DutyName": {
     "DefaultText": "Beaver Abandon Burrow",
     "Text": "Beaver Abandon Burrow",
@@ -250,7 +250,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -295,7 +295,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "83b8a6020dd988c4ea1b93d0fe4bedb3",
-          "UniqueIDIndex": 2799
+          "UniqueIDIndex": 2807
         },
         "ConditionRange": {
           "x": 1,

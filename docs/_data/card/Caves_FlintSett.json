@@ -6,7 +6,7 @@
   "zh": "燧石巢穴",
   "en": "Flint Sett",
   "ja": "火打石の大鉱脈",
-  "UniqueIDIndex": 798,
+  "UniqueIDIndex": 799,
   "CardType": 8,
   "CardTags": [
     {
@@ -17345,7 +17345,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -17466,7 +17466,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

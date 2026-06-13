@@ -6,7 +6,7 @@
   "zh": "已种植的豌豆",
   "en": "Planted Peas",
   "ja": "ピースを植える",
-  "UniqueIDIndex": 2076,
+  "UniqueIDIndex": 2077,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

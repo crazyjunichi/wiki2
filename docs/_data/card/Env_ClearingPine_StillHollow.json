@@ -2388,6 +2388,22 @@
         "en": "Action: Exit",
         "ja": "アクション：Exit"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods1",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Still Hollow",
+        "en": "Action: Still Hollow",
+        "ja": "アクション：Still Hollow"
+      }
     }
   ],
   "_useFor": [

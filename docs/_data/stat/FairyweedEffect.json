@@ -6,7 +6,7 @@
   "zh": "仙灵草",
   "en": "Fairyweed",
   "ja": "妖精草",
-  "UniqueIDIndex": 3231,
+  "UniqueIDIndex": 3241,
   "GameName": {
     "DefaultText": "Fairyweed",
     "Text": "仙灵草",
@@ -1184,7 +1184,7 @@
         "ja": "妖精茶"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
         "ja": "アクション：Drink"
       },

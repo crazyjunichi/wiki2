@@ -6,7 +6,7 @@
   "zh": "外厅洞室",
   "en": "Outer Chamber",
   "ja": "Outer Chamber",
-  "UniqueIDIndex": 941,
+  "UniqueIDIndex": 942,
   "CardType": 8,
   "CardTags": [
     {
@@ -15983,7 +15983,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -16104,7 +16104,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -17173,7 +17173,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -17294,7 +17294,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

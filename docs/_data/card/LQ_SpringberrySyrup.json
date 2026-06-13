@@ -6,7 +6,7 @@
   "zh": "春莓糖浆",
   "en": "Springberry Syrup",
   "ja": "スプリングベリーシロップ",
-  "UniqueIDIndex": 1703,
+  "UniqueIDIndex": 1704,
   "CardType": 9,
   "CardTags": [
     {
@@ -5994,7 +5994,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

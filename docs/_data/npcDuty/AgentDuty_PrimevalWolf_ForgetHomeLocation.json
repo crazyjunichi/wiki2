@@ -5,7 +5,7 @@
   "zh": "Primeval Wolf Forget Home Location",
   "en": "Primeval Wolf Forget Home Location",
   "ja": "Primeval Wolf Forget Home Location",
-  "UniqueIDIndex": 2976,
+  "UniqueIDIndex": 2985,
   "DutyName": {
     "DefaultText": "Primeval Wolf Forget Home Location",
     "Text": "Primeval Wolf Forget Home Location",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "0e991b807e7703949b02b48ca7828f59",
-          "UniqueIDIndex": 3066
+          "UniqueIDIndex": 3075
         },
         "ConditionRange": {
           "x": 2875,

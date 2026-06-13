@@ -6,7 +6,7 @@
   "zh": "灰山鹑",
   "en": "Partridge",
   "ja": "ヤマウズラ",
-  "UniqueIDIndex": 3179,
+  "UniqueIDIndex": 3189,
   "EncounterTitle": {
     "DefaultText": "Partridge",
     "Text": "灰山鹑",
@@ -1183,7 +1183,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-      "UniqueIDIndex": 3056
+      "UniqueIDIndex": 3065
     },
     "TriggerLoadStat": 1,
     "MaxValue": 12,
@@ -4765,7 +4765,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 2
       },
@@ -4807,7 +4807,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 2
       }
@@ -5307,7 +5307,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 0
       },
@@ -5349,7 +5349,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 0
       }
@@ -5878,7 +5878,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 2
       },
@@ -5920,7 +5920,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 2
       }
@@ -6420,7 +6420,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 0
       },
@@ -6462,7 +6462,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 0
       }

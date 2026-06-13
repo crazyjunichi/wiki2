@@ -6,7 +6,7 @@
   "zh": "创作者",
   "en": "Creative",
   "ja": "クリエイティブ",
-  "UniqueIDIndex": 3878,
+  "UniqueIDIndex": 3888,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -637,7 +637,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

@@ -5,7 +5,7 @@
   "zh": "Beaver Seek Half Built Dam",
   "en": "Beaver Seek Half Built Dam",
   "ja": "Beaver Seek Half Built Dam",
-  "UniqueIDIndex": 2865,
+  "UniqueIDIndex": 2873,
   "DutyName": {
     "DefaultText": "Beaver Seek Half Built Dam",
     "Text": "Beaver Seek Half Built Dam",
@@ -349,7 +349,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

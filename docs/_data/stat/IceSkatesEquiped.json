@@ -7,7 +7,7 @@
   "zh_fix": "装备冰鞋",
   "en": "Ice Skates Equiped",
   "ja": "Ice Skates Equiped",
-  "UniqueIDIndex": 3666,
+  "UniqueIDIndex": 3676,
   "GameName": {
     "DefaultText": "Ice Skates Equiped",
     "Text": "Ice Skates Equiped",
@@ -364,7 +364,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000
@@ -896,7 +896,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000

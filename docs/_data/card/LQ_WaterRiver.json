@@ -6,7 +6,7 @@
   "zh": "河水",
   "en": "River Water",
   "ja": "川の水",
-  "UniqueIDIndex": 1712,
+  "UniqueIDIndex": 1713,
   "CardType": 9,
   "CardTags": [
     {
@@ -6281,7 +6281,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

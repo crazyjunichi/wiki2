@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 3405,
+  "UniqueIDIndex": 3415,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "The Hunt Begins",
         "ja": "The Hunt Begins",
         "UniqueID": "62aca57ad2e80264996b4feb8e839a94",
-        "UniqueIDIndex": 3542,
+        "UniqueIDIndex": 3552,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Make a Rustic Spear",
               "ja": "Make a Rustic Spear",
               "UniqueID": "b2001feed40fc21489b1fed0b8c44400",
-              "UniqueIDIndex": 3545,
+              "UniqueIDIndex": 3555,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -258,7 +258,7 @@
               "en": "Make a Rustic Spear",
               "ja": "Make a Rustic Spear",
               "UniqueID": "b2001feed40fc21489b1fed0b8c44400",
-              "UniqueIDIndex": 3545,
+              "UniqueIDIndex": 3555,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -470,7 +470,7 @@
               "en": "Build one or more Snare traps",
               "ja": "Build one or more Snare traps",
               "UniqueID": "962d643d6e4f9b9409e67da5e9e59e4f",
-              "UniqueIDIndex": 3547,
+              "UniqueIDIndex": 3557,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -682,7 +682,7 @@
               "en": "Catch a Badger, Fox or Hare",
               "ja": "Catch a Badger, Fox or Hare",
               "UniqueID": "40a492208f8dafa4d9c61cfb12d2a51b",
-              "UniqueIDIndex": 3548,
+              "UniqueIDIndex": 3558,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1224,7 +1224,7 @@
               "en": "Butcher an Animal",
               "ja": "Butcher an Animal",
               "UniqueID": "487dbb53235d82444919e6c21ef278cd",
-              "UniqueIDIndex": 3549,
+              "UniqueIDIndex": 3559,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1523,7 +1523,7 @@
               "en": "Roast some Meat",
               "ja": "Roast some Meat",
               "UniqueID": "ca48fb8bccbf38e4ca29b8fbfa09f22e",
-              "UniqueIDIndex": 3550,
+              "UniqueIDIndex": 3560,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2615,7 +2615,7 @@
         "en": "The Secret of Clay",
         "ja": "The Secret of Clay",
         "UniqueID": "5c58726589f7a95448dc3e9d544e0648",
-        "UniqueIDIndex": 3583,
+        "UniqueIDIndex": 3593,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -2635,7 +2635,7 @@
               "en": "Dig up Mud or Dirt from the lake",
               "ja": "Dig up Mud or Dirt from the lake",
               "UniqueID": "6b3aa2d844346de4593bce8d2d928d32",
-              "UniqueIDIndex": 3586,
+              "UniqueIDIndex": 3596,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3003,7 +3003,7 @@
               "en": "Crush Mud into Clay",
               "ja": "Crush Mud into Clay",
               "UniqueID": "5b55873ca7985a7448ea6d940cb79bc0",
-              "UniqueIDIndex": 3587,
+              "UniqueIDIndex": 3597,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3215,7 +3215,7 @@
               "en": "Craft a Clay Bowl",
               "ja": "Craft a Clay Bowl",
               "UniqueID": "1b8d68125d028014b92edfcaed2e27f1",
-              "UniqueIDIndex": 3588,
+              "UniqueIDIndex": 3598,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3427,7 +3427,7 @@
               "en": "Fire a Clay Bowl",
               "ja": "Fire a Clay Bowl",
               "UniqueID": "b0049e08e46993f47953a0b575a20b74",
-              "UniqueIDIndex": 3589,
+              "UniqueIDIndex": 3599,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3639,7 +3639,7 @@
               "en": "Eat from a Clay Bowl using a Eat All Action",
               "ja": "Eat from a Clay Bowl using a Eat All Action",
               "UniqueID": "e6f0150b26797b240b0a05e98b39e63d",
-              "UniqueIDIndex": 3590,
+              "UniqueIDIndex": 3600,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {

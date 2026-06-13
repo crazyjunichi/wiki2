@@ -6,7 +6,7 @@
   "zh": "烧伤",
   "en": "Fire Burn",
   "ja": "火傷",
-  "UniqueIDIndex": 2621,
+  "UniqueIDIndex": 2629,
   "CardType": 0,
   "CardTags": [
     {
@@ -11844,8 +11844,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

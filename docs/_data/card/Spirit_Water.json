@@ -6,7 +6,7 @@
   "zh": "水精魄(召唤)",
   "en": "Water Spirit",
   "ja": "水の精霊",
-  "UniqueIDIndex": 2334,
+  "UniqueIDIndex": 2335,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",
@@ -9837,14 +9837,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "影响掉落几率：动作：凝视水面",
         "en": "Influence drop chance: Action: Gaze at Water",
-        "ja": "影響ドロップ確率：アクション：水を眺める"
+        "ja": "影響ドロップ確率：アクション：Gaze at Water"
       }
     },
     {
@@ -12013,14 +12013,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "影响掉落几率：动作：凝视水面",
         "en": "Influence drop chance: Action: Gaze at Water",
-        "ja": "影響ドロップ確率：アクション：水を眺める"
+        "ja": "影響ドロップ確率：アクション：Gaze at Water"
       }
     },
     {

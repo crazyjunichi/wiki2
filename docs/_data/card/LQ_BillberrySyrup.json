@@ -6,7 +6,7 @@
   "zh": "越橘糖浆",
   "en": "Billberry Syrup",
   "ja": "ビルベリーのシロップ",
-  "UniqueIDIndex": 1615,
+  "UniqueIDIndex": 1616,
   "CardType": 9,
   "CardTags": [
     {
@@ -5994,7 +5994,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

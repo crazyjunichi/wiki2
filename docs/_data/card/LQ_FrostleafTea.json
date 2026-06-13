@@ -6,7 +6,7 @@
   "zh": "霜叶茶",
   "en": "Frostleaf Tea",
   "ja": "フロストリーフのお茶",
-  "UniqueIDIndex": 1639,
+  "UniqueIDIndex": 1640,
   "CardType": 9,
   "CardTags": [
     {
@@ -5651,7 +5651,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

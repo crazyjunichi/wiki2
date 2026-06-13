@@ -6,7 +6,7 @@
   "zh": "新鲜柰草",
   "en": "Fresh Appleweed",
   "ja": "新鮮なアップルウィード",
-  "UniqueIDIndex": 172,
+  "UniqueIDIndex": 173,
   "CardType": 0,
   "CardTags": [
     {
@@ -486,7 +486,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

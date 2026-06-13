@@ -6,7 +6,7 @@
   "zh": "燧石附魔",
   "en": "Flint Enchantment",
   "ja": "火打石エンチャント",
-  "UniqueIDIndex": 416,
+  "UniqueIDIndex": 417,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

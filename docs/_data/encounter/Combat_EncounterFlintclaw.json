@@ -6,7 +6,7 @@
   "zh": "燧爪",
   "en": "Flintclaw",
   "ja": "フリントクロー",
-  "UniqueIDIndex": 3173,
+  "UniqueIDIndex": 3183,
   "EncounterTitle": {
     "DefaultText": "Flintclaw",
     "Text": "燧爪",
@@ -5179,7 +5179,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-      "UniqueIDIndex": 3056
+      "UniqueIDIndex": 3065
     },
     "TriggerLoadStat": 1,
     "MaxValue": 24,

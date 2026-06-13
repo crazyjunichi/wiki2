@@ -6,7 +6,7 @@
   "zh": "在冰层上开个钓洞",
   "en": "Make a Fishing Hole in the Ice",
   "ja": "氷に釣り穴を開ける",
-  "UniqueIDIndex": 3662,
+  "UniqueIDIndex": 3672,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [
@@ -108,16 +108,16 @@
           "MaxValue": 1000
         },
         "SpecialDurability4": {
-          "Active": false,
+          "Active": true,
           "CardStatName": {
-            "DefaultText": "",
-            "Text": "SpecialDurability4",
-            "zh": "特殊4",
-            "en": "Special4",
-            "ja": ""
+            "DefaultText": "River Type",
+            "Text": "River Type",
+            "zh": "River Type",
+            "en": "River Type",
+            "ja": "River Type"
           },
           "OverrideIcon": null,
-          "MaxValue": 0
+          "MaxValue": 1000
         }
       },
       "Quantity": 1,

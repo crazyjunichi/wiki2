@@ -6,7 +6,7 @@
   "zh": "园艺作物",
   "en": "Garden Crops",
   "ja": "Garden Crops",
-  "UniqueIDIndex": 3264,
+  "UniqueIDIndex": 3274,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Frostleaf",
         "ja": "Frostleaf",
         "UniqueID": "dd03076a14b5bd9489bb951a4eb0dba5",
-        "UniqueIDIndex": 3267,
+        "UniqueIDIndex": 3277,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -244,7 +244,7 @@
         "en": "Garlic",
         "ja": "Garlic",
         "UniqueID": "f393b1780056ab54fa2601bd0592b5ee",
-        "UniqueIDIndex": 3268,
+        "UniqueIDIndex": 3278,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -462,7 +462,7 @@
         "en": "Fairyweed",
         "ja": "Fairyweed",
         "UniqueID": "1a4a1d5cf7fc8a943acf7228abee0f88",
-        "UniqueIDIndex": 3269,
+        "UniqueIDIndex": 3279,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -680,7 +680,7 @@
         "en": "Appleweed",
         "ja": "Appleweed",
         "UniqueID": "3a06933726f8a7149b1714953d9e7f45",
-        "UniqueIDIndex": 3270,
+        "UniqueIDIndex": 3280,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -898,7 +898,7 @@
         "en": "Forest Caps",
         "ja": "Forest Caps",
         "UniqueID": "335a0964f652d2f49897329ffb179b61",
-        "UniqueIDIndex": 3271,
+        "UniqueIDIndex": 3281,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1116,7 +1116,7 @@
         "en": "Spirit Mushrooms",
         "ja": "Spirit Mushrooms",
         "UniqueID": "6e89fa1775f20ae4b912c0214bcca20f",
-        "UniqueIDIndex": 3272,
+        "UniqueIDIndex": 3282,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1334,7 +1334,7 @@
         "en": "Fireroot",
         "ja": "Fireroot",
         "UniqueID": "c5293f000530fc64081587bb6331aad7",
-        "UniqueIDIndex": 3273,
+        "UniqueIDIndex": 3283,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

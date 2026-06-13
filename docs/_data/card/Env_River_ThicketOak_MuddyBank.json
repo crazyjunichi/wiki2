@@ -6,7 +6,7 @@
   "zh": "泥泞河岸",
   "en": "Muddy Bank",
   "ja": "泥だらけの川岸",
-  "UniqueIDIndex": 118,
+  "UniqueIDIndex": 119,
   "CardType": 4,
   "CardTags": [
     {
@@ -2610,6 +2610,22 @@
         "zh": "动作：东方",
         "en": "Action: East",
         "ja": "アクション：東"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Muddy Bank",
+        "en": "Action: Muddy Bank",
+        "ja": "アクション：Muddy Bank"
       }
     }
   ],

@@ -6,7 +6,7 @@
   "zh": "River Marsh",
   "en": "River Marsh",
   "ja": "River Marsh",
-  "UniqueIDIndex": 2181,
+  "UniqueIDIndex": 2182,
   "CardType": 2,
   "CardTags": [
     {
@@ -192,8 +192,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "River Type",
-          "Text": "河流类型",
-          "zh": "河流类型",
+          "Text": "River Type",
+          "zh": "River Type",
           "en": "River Type",
           "ja": "River Type"
         },
@@ -20247,7 +20247,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",
@@ -31256,7 +31256,7 @@
               "Text": "青蛙种群",
               "zh": "青蛙种群",
               "en": "Frog Population",
-              "ja": "カエルの数"
+              "ja": "Frog Population"
             },
             "OverrideIcon": null,
             "MaxValue": 20000
@@ -36909,7 +36909,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

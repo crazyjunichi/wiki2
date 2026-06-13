@@ -2542,6 +2542,22 @@
         "en": "Action: South",
         "ja": "アクション：South"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Old Glade",
+        "en": "Action: Old Glade",
+        "ja": "アクション：Old Glade"
+      }
     }
   ],
   "_useFor": [

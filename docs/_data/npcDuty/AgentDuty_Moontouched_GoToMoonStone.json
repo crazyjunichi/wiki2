@@ -5,7 +5,7 @@
   "zh": "Moontouched go to Moon Stone",
   "en": "Moontouched go to Moon Stone",
   "ja": "Moontouched go to Moon Stone",
-  "UniqueIDIndex": 2967,
+  "UniqueIDIndex": 2975,
   "DutyName": {
     "DefaultText": "Moontouched go to Moon Stone",
     "Text": "Moontouched go to Moon Stone",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "3e28624a2f19d464aaa8ee9087abbbe5",
-          "UniqueIDIndex": 3052
+          "UniqueIDIndex": 3061
         },
         "ConditionRange": {
           "x": 0,
@@ -284,7 +284,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

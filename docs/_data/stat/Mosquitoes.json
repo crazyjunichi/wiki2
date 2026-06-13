@@ -6,7 +6,7 @@
   "zh": "蚊子",
   "en": "Mosquitoes",
   "ja": "Mosquitoes",
-  "UniqueIDIndex": 3749,
+  "UniqueIDIndex": 3759,
   "GameName": {
     "DefaultText": "Mosquitoes",
     "Text": "蚊子",
@@ -5748,7 +5748,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5768,7 +5768,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5788,7 +5788,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5808,7 +5808,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5828,7 +5828,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5848,7 +5848,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5868,7 +5868,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

@@ -6,7 +6,7 @@
   "zh": "火根水",
   "en": "Firewater",
   "ja": "ファイヤーウォーター",
-  "UniqueIDIndex": 1635,
+  "UniqueIDIndex": 1636,
   "CardType": 9,
   "CardTags": [
     {
@@ -829,9 +829,9 @@
           "ja": "ファイヤーウォーター"
         },
         "localization": {
-          "zh": "动作：Drink",
+          "zh": "动作：饮用",
           "en": "Action: Drink",
-          "ja": "アクション：Drink"
+          "ja": "アクション：飲む"
         },
         "value": {
           "x": -250,
@@ -893,8 +893,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1018,8 +1018,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1143,8 +1143,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1460,8 +1460,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1733,8 +1733,8 @@
     "FloatValue": 0,
     "CardStatName": {
       "DefaultText": "Thickness",
-      "Text": "Thickness",
-      "zh": "Thickness",
+      "Text": "浓稠度",
+      "zh": "浓稠度",
       "en": "Thickness",
       "ja": "Thickness"
     },
@@ -4348,10 +4348,10 @@
     {
       "ActionName": {
         "DefaultText": "Drink",
-        "Text": "Drink",
-        "zh": "Drink",
+        "Text": "饮用",
+        "zh": "饮用",
         "en": "Drink",
-        "ja": "Drink"
+        "ja": "飲む"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -4397,7 +4397,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -5336,9 +5336,9 @@
         "ja": "ファイヤールートの粉"
       },
       "localization": {
-        "zh": "动作：Soak",
+        "zh": "动作：浸泡",
         "en": "Action: Soak",
-        "ja": "アクション：Soak"
+        "ja": "アクション：浸す"
       }
     },
     {
@@ -5370,7 +5370,7 @@
         "ja": "ファイヤールートの粉"
       },
       "localization": {
-        "zh": "动作：Soak",
+        "zh": "动作：浸泡",
         "en": "Action: Soak",
         "ja": "アクション：Soak"
       }

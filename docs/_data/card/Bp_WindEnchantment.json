@@ -6,7 +6,7 @@
   "zh": "风附魔",
   "en": "Wind Enchantment",
   "ja": "風のエンチャント",
-  "UniqueIDIndex": 673,
+  "UniqueIDIndex": 674,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

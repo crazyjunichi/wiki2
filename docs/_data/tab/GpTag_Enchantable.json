@@ -1275,6 +1275,15 @@
       "ja": "火打石ナイフ"
     },
     {
+      "key": "LeatherQuiver",
+      "icon": "Quiver",
+      "type": "card",
+      "CardType": 0,
+      "zh": "箭筒",
+      "en": "Quiver",
+      "ja": "矢筒"
+    },
+    {
       "key": "ToolOrWeapon_Knife_Metal",
       "icon": "Knife_Copper",
       "type": "card",

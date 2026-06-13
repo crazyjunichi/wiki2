@@ -6,7 +6,7 @@
   "zh": "冻伤",
   "en": "Frostbite",
   "ja": "凍傷",
-  "UniqueIDIndex": 2624,
+  "UniqueIDIndex": 2632,
   "CardType": 0,
   "CardTags": [
     {
@@ -11844,8 +11844,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

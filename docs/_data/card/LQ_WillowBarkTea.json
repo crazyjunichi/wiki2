@@ -6,7 +6,7 @@
   "zh": "柳树皮茶",
   "en": "Willow Bark Tea",
   "ja": "ヤナギの樹皮のお茶",
-  "UniqueIDIndex": 1720,
+  "UniqueIDIndex": 1721,
   "CardType": 9,
   "CardTags": [
     {
@@ -5692,7 +5692,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

@@ -5,7 +5,7 @@
   "zh": "All Animals Wait if Bleeding Out",
   "en": "All Animals Wait if Bleeding Out",
   "ja": "All Animals Wait if Bleeding Out",
-  "UniqueIDIndex": 2805,
+  "UniqueIDIndex": 2813,
   "DutyName": {
     "DefaultText": "All Animals Wait if Bleeding Out",
     "Text": "All Animals Wait if Bleeding Out",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -284,7 +284,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "ConditionRange": {
           "x": 0,

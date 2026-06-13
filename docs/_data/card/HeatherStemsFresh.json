@@ -6,7 +6,7 @@
   "zh": "新鲜帚石南茎",
   "en": "Fresh Heather Stems",
   "ja": "Fresh Heather Stems",
-  "UniqueIDIndex": 1443,
+  "UniqueIDIndex": 1444,
   "CardType": 0,
   "CardTags": [
     {
@@ -538,7 +538,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -1737,7 +1737,7 @@
     "HasActionOnFull": true,
     "RepeatActionOnFull": false,
     "ShowPopupOnFull": false,
-    "OnFullNotification": 0,
+    "OnFullNotification": 1,
     "OnFull": {
       "ActionName": {
         "DefaultText": "",
@@ -1747,11 +1747,11 @@
         "ja": ""
       },
       "ActionDescription": {
-        "DefaultText": "",
-        "Text": "",
-        "zh": "",
-        "en": "",
-        "ja": ""
+        "DefaultText": "Heather has taken.",
+        "Text": "Heather has taken.",
+        "zh": "Heather has taken.",
+        "en": "Heather has taken.",
+        "ja": "Heather has taken."
       },
       "NoveltyShared": false,
       "VictorySettings": {

@@ -5,7 +5,7 @@
   "zh": "Poop",
   "en": "Poop",
   "ja": "Poop",
-  "UniqueIDIndex": 4321,
+  "UniqueIDIndex": 4331,
   "DutyName": {
     "DefaultText": "Poop",
     "Text": "Poop",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "4f60d4497a50f3b4ea0eabae2e48457f",
-          "UniqueIDIndex": 4329
+          "UniqueIDIndex": 4339
         },
         "ConditionRange": {
           "x": 10,

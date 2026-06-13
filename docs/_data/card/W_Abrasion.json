@@ -6,7 +6,7 @@
   "zh": "擦伤",
   "en": "Abrasion",
   "ja": "擦り傷",
-  "UniqueIDIndex": 2605,
+  "UniqueIDIndex": 2613,
   "CardType": 0,
   "CardTags": [
     {
@@ -14216,8 +14216,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

@@ -6,7 +6,7 @@
   "zh": "成熟的亚麻田(成熟)",
   "en": "Mature Flax Field",
   "ja": "Mature Flax Field",
-  "UniqueIDIndex": 1297,
+  "UniqueIDIndex": 1298,
   "CardType": 2,
   "CardTags": [
     {
@@ -7411,7 +7411,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -10489,7 +10489,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -13571,7 +13571,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -26634,7 +26634,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

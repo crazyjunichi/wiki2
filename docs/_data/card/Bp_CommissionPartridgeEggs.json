@@ -3,18 +3,18 @@
   "key": "Bp_CommissionPartridgeEggs",
   "icon": "Egg_Partridge",
   "type": "card",
-  "zh": "布衬衫",
+  "zh": "15 颗灰山鹑蛋",
   "en": "15 Partridge Eggs",
-  "ja": "シャツ（布）",
-  "UniqueIDIndex": 364,
+  "ja": "15 Partridge Eggs",
+  "UniqueIDIndex": 365,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
     "DefaultText": "15 Partridge Eggs",
-    "Text": "布衬衫",
-    "zh": "布衬衫",
-    "en": "Cloth Shirt",
-    "ja": "シャツ（布）"
+    "Text": "15 颗灰山鹑蛋",
+    "zh": "15 颗灰山鹑蛋",
+    "en": "15 Partridge Eggs",
+    "ja": "15 Partridge Eggs"
   },
   "CardImage": {
     "FileName": "Egg_Partridge"
@@ -851,10 +851,10 @@
   },
   "CardDescription": {
     "DefaultText": "",
-    "Text": "能减轻一些虫咬和日晒对我的伤害。",
-    "zh": "能减轻一些虫咬和日晒对我的伤害。",
-    "en": "Should protect me a bit from bug bites and the sun.",
-    "ja": "虫や日差しから守ってくれる。"
+    "Text": "",
+    "zh": "",
+    "en": "",
+    "ja": ""
   },
   "CanBeRenamed": false,
   "AlternateNames": [],
@@ -1677,7 +1677,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "1cc9bc09c684bf646a6f917a56e2ef19",
-        "UniqueIDIndex": 2801
+        "UniqueIDIndex": 2809
       },
       "UseAssociatedAgent": false,
       "TargetAgent": {
@@ -1729,7 +1729,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "f361a98afe344ba4aab2b00a7412fb08",
-        "UniqueIDIndex": 3073
+        "UniqueIDIndex": 3082
       },
       "UseAssociatedAgent": false,
       "TargetAgent": {
@@ -1885,7 +1885,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "eeccbe55704197944a02a36405404c46",
-        "UniqueIDIndex": 3081
+        "UniqueIDIndex": 3090
       },
       "ConditionRange": {
         "x": 50,
@@ -1937,7 +1937,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "1cc9bc09c684bf646a6f917a56e2ef19",
-        "UniqueIDIndex": 2801
+        "UniqueIDIndex": 2809
       },
       "ConditionRange": {
         "x": 1,

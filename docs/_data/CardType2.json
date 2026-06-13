@@ -964,9 +964,9 @@
       "icon": "Pond_Winter",
       "type": "card",
       "CardType": 2,
-      "zh": "结冰的池塘",
+      "zh": "冰冻老妪池塘",
       "en": "Frozen Hag Pond",
-      "ja": "凍った池"
+      "ja": "Frozen Hag Pond"
     },
     {
       "key": "Hearth",
@@ -1348,9 +1348,9 @@
       "icon": "Pond_Winter",
       "type": "card",
       "CardType": 2,
-      "zh": "结冰的池塘",
+      "zh": "冰冻蚊虫池塘",
       "en": "Frozen Mosquito Pond",
-      "ja": "凍った池"
+      "ja": "Frozen Mosquito Pond"
     },
     {
       "key": "MudHutConstructionDoorConnectionDown",
@@ -3898,7 +3898,7 @@
       "ja": " SpringBerryBush with Berries"
     },
     {
-      "key": "VDEBUG_Path_TeleportAJ",
+      "key": "VDEBUG_Path_TeleportMiddleWoods1",
       "icon": "",
       "type": "card",
       "CardType": 2,
@@ -3907,7 +3907,7 @@
       "ja": "East"
     },
     {
-      "key": "VDEBUG_Path_TeleportKP",
+      "key": "VDEBUG_Path_TeleportMiddleWoods2",
       "icon": "",
       "type": "card",
       "CardType": 2,
@@ -3916,7 +3916,70 @@
       "ja": "East"
     },
     {
-      "key": "VDEBUG_Path_TeleportQY",
+      "key": "VDEBUG_Path_TeleportMiddleWoods3",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportNorthWoods1",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportNorthWoods2",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportNorthWoods3",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportRiverNorth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportRiverSouth",
       "icon": "",
       "type": "card",
       "CardType": 2,

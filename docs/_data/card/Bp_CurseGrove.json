@@ -6,7 +6,7 @@
   "zh": "诅咒林地",
   "en": "Curse Grove",
   "ja": "Curse Grove",
-  "UniqueIDIndex": 374,
+  "UniqueIDIndex": 375,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -2352,9 +2352,9 @@
         "type": "dialog"
       },
       "localization": {
-        "zh": "Insight_0_7753",
-        "en": "Insight_0_7753",
-        "ja": "Insight_0_7753"
+        "zh": "Insight_0_7764",
+        "en": "Insight_0_7764",
+        "ja": "Insight_0_7764"
       }
     }
   ],

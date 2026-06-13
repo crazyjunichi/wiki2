@@ -6,7 +6,7 @@
   "zh": "森林猛兽咬伤",
   "en": "Forest Beast Bite",
   "ja": "Forest Beast Bite",
-  "UniqueIDIndex": 2622,
+  "UniqueIDIndex": 2630,
   "CardType": 0,
   "CardTags": [
     {
@@ -12979,8 +12979,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

@@ -6,7 +6,7 @@
   "zh": "碎铁渣",
   "en": "Crushed Iron Slag",
   "ja": "Crushed Iron Slag",
-  "UniqueIDIndex": 1553,
+  "UniqueIDIndex": 1554,
   "CardType": 0,
   "CardTags": [
     {
@@ -72,7 +72,7 @@
         "OverrideIcon": {
           "FileName": "Cooking"
         },
-        "MaxValue": 2
+        "MaxValue": 1
       },
       "SpecialDurability2": {
         "Active": true,

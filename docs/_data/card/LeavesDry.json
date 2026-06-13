@@ -6,7 +6,7 @@
   "zh": "枯叶",
   "en": "Dry Leaves",
   "ja": "乾燥した葉",
-  "UniqueIDIndex": 1594,
+  "UniqueIDIndex": 1595,
   "CardType": 0,
   "CardTags": [
     {
@@ -8457,7 +8457,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

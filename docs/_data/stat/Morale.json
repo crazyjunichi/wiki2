@@ -6,7 +6,7 @@
   "zh": "情绪",
   "en": "Morale",
   "ja": "士気",
-  "UniqueIDIndex": 3747,
+  "UniqueIDIndex": 3757,
   "GameName": {
     "DefaultText": "Morale",
     "Text": "情绪",
@@ -2213,7 +2213,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -3499,7 +3499,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {

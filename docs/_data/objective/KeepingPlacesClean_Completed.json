@@ -6,7 +6,7 @@
   "zh": "保持场所清洁",
   "en": "Keeping Places Clean",
   "ja": "Keeping Places Clean",
-  "UniqueIDIndex": 3689,
+  "UniqueIDIndex": 3699,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Research & Build a Broom",
         "ja": "Research & Build a Broom",
         "UniqueID": "22b0a0ef1b7f2664db86d9e4db9b0c78",
-        "UniqueIDIndex": 3692,
+        "UniqueIDIndex": 3702,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -238,7 +238,7 @@
         "en": "Clean an Indoors Location",
         "ja": "Clean an Indoors Location",
         "UniqueID": "b3ae234d71ae1264dbeed6ed364fb30f",
-        "UniqueIDIndex": 3693,
+        "UniqueIDIndex": 3703,
         "StartUnlocked": false,
         "ActionObjectives": [
           {

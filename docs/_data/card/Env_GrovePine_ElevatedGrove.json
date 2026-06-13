@@ -2116,55 +2116,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Elevated Grove",
-        "en": "Action: Elevated Grove",
-        "ja": "アクション：Elevated Grove"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Elevated Grove",
-        "en": "Action: Elevated Grove",
-        "ja": "アクション：Elevated Grove"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：traps place",
-        "en": "Action: traps place",
-        "ja": "アクション：traps place"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
+        "key": "VDEBUG_Path_TeleportNorthWoods3",
         "icon": "",
         "type": "card",
         "CardType": 2,

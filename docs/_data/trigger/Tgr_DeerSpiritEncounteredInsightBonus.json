@@ -3,7 +3,7 @@
   "key": "Tgr_DeerSpiritEncounteredInsightBonus",
   "icon": "",
   "type": "trigger",
-  "UniqueIDIndex": 4350,
+  "UniqueIDIndex": 4360,
   "Actions": [
     {
       "ActionName": {

@@ -6,7 +6,7 @@
   "zh": "生长中的荨麻茎",
   "en": "Planted Nettle Stems ",
   "ja": "植えたイラクサの茎",
-  "UniqueIDIndex": 1878,
+  "UniqueIDIndex": 1879,
   "CardType": 0,
   "CardTags": [
     {
@@ -106,7 +106,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

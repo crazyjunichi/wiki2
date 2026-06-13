@@ -2254,7 +2254,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
+        "key": "VDEBUG_Path_TeleportNorthWoods1",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2263,9 +2263,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Howling Woods",
-        "en": "Action: Howling Woods",
-        "ja": "アクション：Howling Woods"
+        "zh": "动作：HowlingWoods",
+        "en": "Action: HowlingWoods",
+        "ja": "アクション：HowlingWoods"
       }
     }
   ],

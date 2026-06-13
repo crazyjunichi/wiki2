@@ -5,7 +5,7 @@
   "zh": "Bear Wondering Pine Groves Summer",
   "en": "Bear Wondering Pine Groves Summer",
   "ja": "Bear Wondering Pine Groves Summer",
-  "UniqueIDIndex": 2850,
+  "UniqueIDIndex": 2858,
   "DutyName": {
     "DefaultText": "Bear Wondering Pine Groves Summer",
     "Text": "Bear Wondering Pine Groves Summer",
@@ -271,7 +271,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

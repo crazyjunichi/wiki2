@@ -5,7 +5,7 @@
   "zh": "Bear Wondering",
   "en": "Bear Wondering",
   "ja": "Bear Wondering",
-  "UniqueIDIndex": 2847,
+  "UniqueIDIndex": 2855,
   "DutyName": {
     "DefaultText": "Bear Wondering",
     "Text": "Bear Wondering",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -455,7 +455,7 @@
       "ja": ""
     },
     {
-      "key": "New WaitDutyAction_0_2101",
+      "key": "New WaitDutyAction_0_2100",
       "icon": "",
       "type": "WaitDutyAction",
       "zh": "",

@@ -6,7 +6,7 @@
   "zh": "皮革手套(专有)",
   "en": "Leather Gloves(Pk)",
   "ja": "Leather Gloves",
-  "UniqueIDIndex": 2094,
+  "UniqueIDIndex": 2095,
   "CardType": 0,
   "CardTags": [
     {
@@ -226,7 +226,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

@@ -3,10 +3,10 @@
   "key": "MosquitoPondFrozen",
   "icon": "Pond_Winter",
   "type": "card",
-  "zh": "结冰的池塘",
+  "zh": "冰冻蚊虫池塘",
   "en": "Frozen Mosquito Pond",
-  "ja": "凍った池",
-  "UniqueIDIndex": 1823,
+  "ja": "Frozen Mosquito Pond",
+  "UniqueIDIndex": 1824,
   "CardType": 2,
   "CardTags": [
     {
@@ -121,7 +121,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000
@@ -178,10 +178,10 @@
   ],
   "CardName": {
     "DefaultText": "Frozen Mosquito Pond",
-    "Text": "结冰的池塘",
-    "zh": "结冰的池塘",
-    "en": "Frozen Pond",
-    "ja": "凍った池"
+    "Text": "冰冻蚊虫池塘",
+    "zh": "冰冻蚊虫池塘",
+    "en": "Frozen Mosquito Pond",
+    "ja": "Frozen Mosquito Pond"
   },
   "CardImage": {
     "FileName": "Pond_Winter"
@@ -284,16 +284,16 @@
           "icon": "Pond_Winter",
           "type": "card",
           "CardType": 2,
-          "zh": "结冰的池塘",
+          "zh": "冰冻蚊虫池塘",
           "en": "Frozen Mosquito Pond",
-          "ja": "凍った池"
+          "ja": "Frozen Mosquito Pond"
         },
         "localization": {
           "DefaultText": "Dig Up Dirt",
           "Text": "挖干土",
           "zh": "挖干土",
           "en": "Dig Up Dirt",
-          "ja": "土をすくう"
+          "ja": "Dig Up Dirt"
         },
         "value": {
           "x": -2,
@@ -306,9 +306,9 @@
           "icon": "Pond_Winter",
           "type": "card",
           "CardType": 2,
-          "zh": "结冰的池塘",
+          "zh": "冰冻蚊虫池塘",
           "en": "Frozen Mosquito Pond",
-          "ja": "凍った池"
+          "ja": "Frozen Mosquito Pond"
         },
         "localization": {
           "DefaultText": "Dig Up Mud",
@@ -328,16 +328,16 @@
           "icon": "Pond_Winter",
           "type": "card",
           "CardType": 2,
-          "zh": "结冰的池塘",
+          "zh": "冰冻蚊虫池塘",
           "en": "Frozen Mosquito Pond",
-          "ja": "凍った池"
+          "ja": "Frozen Mosquito Pond"
         },
         "localization": {
           "DefaultText": "Create Ice Hole",
           "Text": "凿个冰洞",
           "zh": "凿个冰洞",
           "en": "Create Ice Hole",
-          "ja": "アイスホールを作る"
+          "ja": "Create Ice Hole"
         },
         "value": {
           "x": -2,
@@ -350,16 +350,16 @@
           "icon": "Pond_Winter",
           "type": "card",
           "CardType": 2,
-          "zh": "结冰的池塘",
+          "zh": "冰冻蚊虫池塘",
           "en": "Frozen Mosquito Pond",
-          "ja": "凍った池"
+          "ja": "Frozen Mosquito Pond"
         },
         "localization": {
           "DefaultText": "Create Ice Hole",
           "Text": "凿个冰洞",
           "zh": "凿个冰洞",
           "en": "Create Ice Hole",
-          "ja": "アイスホールを作る"
+          "ja": "Create Ice Hole"
         },
         "value": {
           "x": -2,
@@ -376,7 +376,7 @@
       "Text": "青蛙种群",
       "zh": "青蛙种群",
       "en": "Frog Population",
-      "ja": "カエルの数"
+      "ja": "Frog Population"
     },
     "RandomStartingOffset": 0,
     "MaxValue": 20000,
@@ -647,7 +647,7 @@
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -3967,7 +3967,7 @@
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -4263,16 +4263,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           },
           "OnlyInHand": false,
@@ -5643,7 +5643,7 @@
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -5921,16 +5921,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           },
           "OnlyInHand": false,
@@ -7303,7 +7303,7 @@
         "Text": "解冻",
         "zh": "解冻",
         "en": "UnFreeze",
-        "ja": "氷を溶かす"
+        "ja": "UnFreeze"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -8304,7 +8304,7 @@
     "Text": "饮用前应将水煮沸。",
     "zh": "饮用前应将水煮沸。",
     "en": "Should boil its water before drinking it.",
-    "ja": "水は沸騰させてから飲むべき。"
+    "ja": "Should boil its water before drinking it."
   },
   "CanBeRenamed": false,
   "AlternateNames": [],
@@ -8657,7 +8657,7 @@
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig up Dirt",
-        "ja": "泥をすくう"
+        "ja": "Dig up Dirt"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -11289,7 +11289,7 @@
         "Text": "凝视水面",
         "zh": "凝视水面",
         "en": "Gaze at Water",
-        "ja": "水を眺める"
+        "ja": "Gaze at Water"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -12802,7 +12802,7 @@
               "Text": "青蛙种群",
               "zh": "青蛙种群",
               "en": "Frog Population",
-              "ja": "カエルの数"
+              "ja": "Frog Population"
             },
             "OverrideIcon": null,
             "MaxValue": 20000
@@ -12883,7 +12883,7 @@
               "Text": "青蛙种群",
               "zh": "青蛙种群",
               "en": "Frog Population",
-              "ja": "カエルの数"
+              "ja": "Frog Population"
             },
             "OverrideIcon": null,
             "MaxValue": 20000
@@ -13865,9 +13865,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "状态触发",

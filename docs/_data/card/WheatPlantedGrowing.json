@@ -6,7 +6,7 @@
   "zh": "生长中的小麦",
   "en": "Growing Wheat",
   "ja": "Growing Wheat",
-  "UniqueIDIndex": 2683,
+  "UniqueIDIndex": 2691,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

@@ -6,7 +6,7 @@
   "zh": "潮润幽谷",
   "en": "Damp Hollow",
   "ja": "Damp Hollow",
-  "UniqueIDIndex": 867,
+  "UniqueIDIndex": 868,
   "CardType": 8,
   "CardTags": [
     {
@@ -21103,7 +21103,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -26509,6 +26509,21 @@
                       "zh": "长柳木棍",
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
+                    }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
                     }
                   }
                 ],
@@ -36124,7 +36139,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -36245,7 +36260,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -37518,7 +37533,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -37639,7 +37654,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -38914,7 +38929,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -39035,7 +39050,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -41153,7 +41168,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -41274,7 +41289,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

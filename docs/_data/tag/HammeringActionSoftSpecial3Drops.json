@@ -137,6 +137,22 @@
     },
     {
       "link": {
+        "key": "Bp_ToolOrWeapon_Hoe_Metal",
+        "icon": "Hoe_Copper",
+        "type": "card",
+        "CardType": 7,
+        "zh": "金属锄",
+        "en": "Metal Hoe",
+        "ja": "Metal Hoe"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
         "key": "Bp_ToolOrWeapon_Knife_Metal",
         "icon": "Knife_Copper",
         "type": "card",

@@ -6,7 +6,7 @@
   "zh": "切图修正",
   "en": "Travel Modifier",
   "ja": "トラベル調整",
-  "UniqueIDIndex": 3714,
+  "UniqueIDIndex": 3724,
   "GameName": {
     "DefaultText": "Travel Modifier",
     "Text": "切图修正",
@@ -305,7 +305,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -818,7 +818,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -1331,7 +1331,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {

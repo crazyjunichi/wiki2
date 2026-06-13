@@ -6,7 +6,7 @@
   "zh": "冻结的冰洞",
   "en": "Frozen Ice Hole",
   "ja": "凍ったアイスホール",
-  "UniqueIDIndex": 1947,
+  "UniqueIDIndex": 1948,
   "CardType": 2,
   "CardTags": [
     {
@@ -64,6 +64,18 @@
           "zh": "珍稀鱼类种群数量",
           "en": "Rare Fish Population",
           "ja": "レアな魚の数"
+        },
+        "OverrideIcon": null,
+        "MaxValue": 1000
+      },
+      "SpecialDurability4": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "River Type",
+          "Text": "River Type",
+          "zh": "River Type",
+          "en": "River Type",
+          "ja": "River Type"
         },
         "OverrideIcon": null,
         "MaxValue": 1000
@@ -563,7 +575,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -688,7 +700,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -3611,7 +3623,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -3736,7 +3748,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -8170,16 +8182,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "TransformToLiquidQuantity": 0,
@@ -12364,7 +12376,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

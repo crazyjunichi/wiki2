@@ -6,7 +6,7 @@
   "zh": "油",
   "en": "Oil",
   "ja": "オイル",
-  "UniqueIDIndex": 1973,
+  "UniqueIDIndex": 1974,
   "CardType": 9,
   "CardTags": [
     {
@@ -3345,7 +3345,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

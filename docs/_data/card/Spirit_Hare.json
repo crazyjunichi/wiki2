@@ -6,7 +6,7 @@
   "zh": "野兔精魄(召唤)",
   "en": "Hare Spirit",
   "ja": "Hare Spirit",
-  "UniqueIDIndex": 2321,
+  "UniqueIDIndex": 2322,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

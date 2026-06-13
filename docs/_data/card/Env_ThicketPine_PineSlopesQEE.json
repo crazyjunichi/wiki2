@@ -6,7 +6,7 @@
   "zh": "松林坡地",
   "en": "Pine Slopes",
   "ja": "Pine Slopes",
-  "UniqueIDIndex": 140,
+  "UniqueIDIndex": 141,
   "CardType": 4,
   "CardTags": [
     {
@@ -2266,22 +2266,6 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：North"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：PIne Slopes",
-        "en": "Action: PIne Slopes",
-        "ja": "アクション：PIne Slopes"
       }
     }
   ],

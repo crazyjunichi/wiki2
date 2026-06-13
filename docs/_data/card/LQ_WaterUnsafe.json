@@ -6,7 +6,7 @@
   "zh": "不安全的水",
   "en": "Unsafe Water",
   "ja": "危険な水",
-  "UniqueIDIndex": 1713,
+  "UniqueIDIndex": 1714,
   "CardType": 9,
   "CardTags": [
     {
@@ -6101,7 +6101,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -8225,6 +8225,38 @@
     },
     {
       "link": {
+        "key": "HagPond",
+        "icon": "Pond",
+        "type": "card",
+        "CardType": 2,
+        "zh": "老妪池塘",
+        "en": "Hag Pond",
+        "ja": "Hag Pond"
+      },
+      "localization": {
+        "zh": "动作：Fill",
+        "en": "Action: Fill",
+        "ja": "アクション：Fill"
+      }
+    },
+    {
+      "link": {
+        "key": "IceHolePond",
+        "icon": "FishingHole",
+        "type": "card",
+        "CardType": 2,
+        "zh": "冰洞",
+        "en": "Ice Hole",
+        "ja": "アイスホール"
+      },
+      "localization": {
+        "zh": "动作：Fill",
+        "en": "Action: Fill",
+        "ja": "アクション：Fill"
+      }
+    },
+    {
+      "link": {
         "key": "LQ_AppleweedTea",
         "icon": "",
         "type": "card",
@@ -8914,6 +8946,38 @@
         "zh": "细菌 达到最大",
         "en": "Bacteria Full",
         "ja": "Bacteria フル"
+      }
+    },
+    {
+      "link": {
+        "key": "MosquitoPond",
+        "icon": "Pond",
+        "type": "card",
+        "CardType": 2,
+        "zh": "蚊虫池塘",
+        "en": "Mosquito Pond",
+        "ja": "Mosquito Pond"
+      },
+      "localization": {
+        "zh": "动作：Fill",
+        "en": "Action: Fill",
+        "ja": "アクション：Fill"
+      }
+    },
+    {
+      "link": {
+        "key": "Pond",
+        "icon": "Pond",
+        "type": "card",
+        "CardType": 2,
+        "zh": "池塘",
+        "en": "Pond",
+        "ja": "池"
+      },
+      "localization": {
+        "zh": "动作：Fill",
+        "en": "Action: Fill",
+        "ja": "アクション：Fill"
       }
     },
     {

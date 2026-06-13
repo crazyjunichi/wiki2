@@ -6,7 +6,7 @@
   "zh": "耕地",
   "en": "Tilled Field",
   "ja": "耕した畑",
-  "UniqueIDIndex": 627,
+  "UniqueIDIndex": 628,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -3879,7 +3879,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {

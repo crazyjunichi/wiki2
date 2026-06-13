@@ -6,7 +6,7 @@
   "zh": "泥泞草场",
   "en": "Boggy Meadows",
   "ja": "Boggy Meadows",
-  "UniqueIDIndex": 2155,
+  "UniqueIDIndex": 2156,
   "CardType": 8,
   "CardTags": [
     {
@@ -15993,16 +15993,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           },
           "OnlyInHand": false,
@@ -23190,7 +23190,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -29305,7 +29305,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -29426,7 +29426,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -32628,7 +32628,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -32749,7 +32749,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -35943,7 +35943,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -36064,7 +36064,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -39260,7 +39260,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -39381,7 +39381,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -41953,7 +41953,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -42074,7 +42074,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -44646,7 +44646,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -44767,7 +44767,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "松林峭崖",
   "en": "Pine Cliffs",
   "ja": "Pine Cliffs",
-  "UniqueIDIndex": 139,
+  "UniqueIDIndex": 140,
   "CardType": 4,
   "CardTags": [
     {
@@ -2102,6 +2102,22 @@
         "zh": "动作：西方",
         "en": "Action: West",
         "ja": "アクション：West"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Pine Cliffs",
+        "en": "Action: Pine Cliffs",
+        "ja": "アクション：Pine Cliffs"
       }
     }
   ],

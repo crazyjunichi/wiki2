@@ -6,7 +6,7 @@
   "zh": "饮用火根水",
   "en": "Drink Fire Water",
   "ja": "Drink Fire Water",
-  "UniqueIDIndex": 4204,
+  "UniqueIDIndex": 4214,
   "StartUnlocked": false,
   "ActionObjectives": [
     {
@@ -64,8 +64,8 @@
           "Active": true,
           "CardStatName": {
             "DefaultText": "Thickness",
-            "Text": "Thickness",
-            "zh": "Thickness",
+            "Text": "浓稠度",
+            "zh": "浓稠度",
             "en": "Thickness",
             "ja": "Thickness"
           },
@@ -127,16 +127,16 @@
       },
       "OnCardWithTags": [],
       "WithActionTags": [],
-      "ActionName": "Drink",
+      "ActionName": "饮用",
       "OnActionStarted": true,
       "PerformMultipleTimes": 0,
       "DebugMode": false,
       "ActionNameText": {
         "DefaultText": "Drink",
-        "Text": "Drink",
-        "zh": "Drink",
+        "Text": "饮用",
+        "zh": "饮用",
         "en": "Drink",
-        "ja": "Drink"
+        "ja": "飲む"
       }
     }
   ],

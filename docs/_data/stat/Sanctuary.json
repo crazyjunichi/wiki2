@@ -6,7 +6,7 @@
   "zh": "庇护度",
   "en": "Sanctuary",
   "ja": "Sanctuary",
-  "UniqueIDIndex": 4032,
+  "UniqueIDIndex": 4042,
   "GameName": {
     "DefaultText": "Sanctuary",
     "Text": "庇护度",
@@ -2967,6 +2967,178 @@
       "value": {
         "x": 19,
         "y": 19
+      }
+    },
+    {
+      "link": {
+        "key": "SkinLeatherPlaced",
+        "icon": "Skin_Leather",
+        "type": "card",
+        "CardType": 2,
+        "zh": "皮革",
+        "en": "Leather",
+        "ja": "Leather",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 320,
+                "y": 320
+              }
+            },
+            "Name": {
+              "DefaultText": "Wolf Leather",
+              "Text": "狼皮革",
+              "zh": "狼皮革",
+              "en": "Wolf Leather",
+              "ja": "Wolf Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 330,
+                "y": 330
+              }
+            },
+            "Name": {
+              "DefaultText": "Moontouched Leather",
+              "Text": "月触皮革",
+              "zh": "月触皮革",
+              "en": "Moontouched Leather",
+              "ja": "Moontouched Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 340,
+                "y": 340
+              }
+            },
+            "Name": {
+              "DefaultText": "Primeval Wolf Leather",
+              "Text": "原初狼皮革",
+              "zh": "原初狼皮革",
+              "en": "Primeval Wolf Leather",
+              "ja": "Primeval Wolf Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 420,
+                "y": 420
+              }
+            },
+            "Name": {
+              "DefaultText": "Boar Leather",
+              "Text": "野猪皮革",
+              "zh": "野猪皮革",
+              "en": "Boar Leather",
+              "ja": "Boar Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 430,
+                "y": 430
+              }
+            },
+            "Name": {
+              "DefaultText": "Doe Leather",
+              "Text": "母鹿皮革",
+              "zh": "母鹿皮革",
+              "en": "Doe Leather",
+              "ja": "Doe Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 440,
+                "y": 440
+              }
+            },
+            "Name": {
+              "DefaultText": "Stag Leather",
+              "Text": "公鹿皮革",
+              "zh": "公鹿皮革",
+              "en": "Stag Leather",
+              "ja": "Stag Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 450,
+                "y": 450
+              }
+            },
+            "Name": {
+              "DefaultText": "Calf Leather",
+              "Text": "小牛皮革",
+              "zh": "小牛皮革",
+              "en": "Calf Leather",
+              "ja": "Calf Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 520,
+                "y": 520
+              }
+            },
+            "Name": {
+              "DefaultText": "Bear Leather",
+              "Text": "熊皮革",
+              "zh": "熊皮革",
+              "en": "Bear Leather",
+              "ja": "Bear Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 530,
+                "y": 530
+              }
+            },
+            "Name": {
+              "DefaultText": "Forest Beast Leather",
+              "Text": "森林猛兽皮革",
+              "zh": "森林猛兽皮革",
+              "en": "Forest Beast Leather",
+              "ja": "Forest Beast Leather"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 540,
+                "y": 540
+              }
+            },
+            "Name": {
+              "DefaultText": "Cow Leather",
+              "Text": "牛皮革",
+              "zh": "牛皮革",
+              "en": "Cow Leather",
+              "ja": "Cow Leather"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "被动效果：Sanctuary Primal Wolf",
+        "en": "Passive Effect：Sanctuary Primal Wolf",
+        "ja": "パッシブ効果：Sanctuary Primal Wolf"
+      },
+      "value": {
+        "x": 38,
+        "y": 38
       }
     },
     {

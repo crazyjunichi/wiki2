@@ -805,12 +805,12 @@
       "NewNextLine": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Insight_0_7753",
+          "key": "Insight_0_7764",
           "icon": "",
           "type": "dialog",
-          "zh": "Insight_0_7753",
-          "en": "Insight_0_7753",
-          "ja": "Insight_0_7753"
+          "zh": "Insight_0_7764",
+          "en": "Insight_0_7764",
+          "ja": "Insight_0_7764"
         },
         "NextScene": null,
         "DontClearHistory": false

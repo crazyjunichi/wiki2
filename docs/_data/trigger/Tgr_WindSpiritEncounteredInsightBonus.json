@@ -3,7 +3,7 @@
   "key": "Tgr_WindSpiritEncounteredInsightBonus",
   "icon": "",
   "type": "trigger",
-  "UniqueIDIndex": 4423,
+  "UniqueIDIndex": 4433,
   "Actions": [
     {
       "ActionName": {

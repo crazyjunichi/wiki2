@@ -328,7 +328,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -1054,7 +1054,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -1780,7 +1780,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -2506,7 +2506,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -3232,7 +3232,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -3841,7 +3841,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -12194,8 +12194,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "Thickness",
-          "Text": "Thickness",
-          "zh": "Thickness",
+          "Text": "浓稠度",
+          "zh": "浓稠度",
           "en": "Thickness",
           "ja": "Thickness"
         },
@@ -16957,8 +16957,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "Thickness",
-          "Text": "Thickness",
-          "zh": "Thickness",
+          "Text": "浓稠度",
+          "zh": "浓稠度",
           "en": "Thickness",
           "ja": "Thickness"
         },

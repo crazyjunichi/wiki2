@@ -6,7 +6,7 @@
   "zh": "狼咬伤",
   "en": "Wolf Bite",
   "ja": "狼の噛み傷",
-  "UniqueIDIndex": 2641,
+  "UniqueIDIndex": 2649,
   "CardType": 0,
   "CardTags": [
     {
@@ -12499,8 +12499,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

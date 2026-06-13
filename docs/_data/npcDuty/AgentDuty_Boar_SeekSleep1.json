@@ -5,7 +5,7 @@
   "zh": "Boar1 Seek Sleep",
   "en": "Boar1 Seek Sleep",
   "ja": "Boar1 Seek Sleep",
-  "UniqueIDIndex": 2892,
+  "UniqueIDIndex": 2900,
   "DutyName": {
     "DefaultText": "Boar1 Seek Sleep",
     "Text": "Boar1 Seek Sleep",
@@ -263,7 +263,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

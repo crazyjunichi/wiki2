@@ -5,7 +5,7 @@
   "zh": "Bear Wondering Pine Groves Autumn",
   "en": "Bear Wondering Pine Groves Autumn",
   "ja": "Bear Wondering Pine Groves Autumn",
-  "UniqueIDIndex": 2849,
+  "UniqueIDIndex": 2857,
   "DutyName": {
     "DefaultText": "Bear Wondering Pine Groves Autumn",
     "Text": "Bear Wondering Pine Groves Autumn",
@@ -271,7 +271,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -487,7 +487,7 @@
       "ja": ""
     },
     {
-      "key": "New WaitDutyAction_0_7643",
+      "key": "New WaitDutyAction_0_7654",
       "icon": "",
       "type": "WaitDutyAction",
       "zh": "",

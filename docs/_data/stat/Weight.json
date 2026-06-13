@@ -6,7 +6,7 @@
   "zh": "体重",
   "en": "Weight",
   "ja": "体重",
-  "UniqueIDIndex": 4534,
+  "UniqueIDIndex": 4544,
   "GameName": {
     "DefaultText": "Weight",
     "Text": "体重",
@@ -4020,9 +4020,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -4134,9 +4134,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -32378,14 +32378,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": -43,
@@ -32399,9 +32399,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -32420,9 +32420,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -32441,16 +32441,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": -43,
@@ -32464,9 +32464,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -33467,6 +33467,27 @@
         "y": -3
       },
       "key": "IceHolePond_Wash the Dressing"
+    },
+    {
+      "link": {
+        "key": "IceHoleRiver",
+        "icon": "FishingHole",
+        "type": "card",
+        "CardType": 2,
+        "zh": "冰洞",
+        "en": "Ice Hole",
+        "ja": "アイスホール"
+      },
+      "localization": {
+        "zh": "动作：Drink",
+        "en": "Action: Drink",
+        "ja": "アクション：Drink"
+      },
+      "value": {
+        "x": -3,
+        "y": -3
+      },
+      "key": "IceHoleRiver_Drink"
     },
     {
       "link": {
@@ -37616,14 +37637,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": -43,
@@ -37637,9 +37658,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -37658,9 +37679,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -37679,16 +37700,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": -43,
@@ -37702,9 +37723,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -46954,7 +46975,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -46975,7 +46996,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -46996,7 +47017,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47017,7 +47038,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47038,7 +47059,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47059,7 +47080,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47080,7 +47101,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47103,7 +47124,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47126,7 +47147,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -47149,7 +47170,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -69131,7 +69152,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -69151,7 +69172,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -69171,7 +69192,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

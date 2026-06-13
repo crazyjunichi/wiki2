@@ -7,16 +7,16 @@
   "SceneBackground": null,
   "SceneLines": [
     {
-      "m_Name": "Trader Talk Intro_0_2263",
+      "m_Name": "Trader Talk Intro_0_2262",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2263",
-      "___fn": "Trader Talk Intro@2263.json",
-      "key": "Trader_Talk_Intro_0_2263",
-      "zh": "Trader_Talk_Intro_0_2263",
-      "en": "Trader_Talk_Intro_0_2263",
-      "ja": "Trader_Talk_Intro_0_2263",
+      "___key": "0_2262",
+      "___fn": "Trader Talk Intro@2262.json",
+      "key": "Trader_Talk_Intro_0_2262",
+      "zh": "Trader_Talk_Intro_0_2262",
+      "en": "Trader_Talk_Intro_0_2262",
+      "ja": "Trader_Talk_Intro_0_2262",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -1099,12 +1099,12 @@
           "NewNextLine": {
             "NextStep": 0,
             "NextLine": {
-              "key": "Questions_Hub_0_7846",
+              "key": "Questions_Hub_0_7856",
               "icon": "",
               "type": "dialog",
-              "zh": "Questions_Hub_0_7846",
-              "en": "Questions_Hub_0_7846",
-              "ja": "Questions_Hub_0_7846"
+              "zh": "Questions_Hub_0_7856",
+              "en": "Questions_Hub_0_7856",
+              "ja": "Questions_Hub_0_7856"
             },
             "NextScene": null,
             "DontClearHistory": false
@@ -1414,7 +1414,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "ConditionRange": {
                   "x": 25,
@@ -1470,12 +1470,12 @@
           "NewNextLine": {
             "NextStep": 0,
             "NextLine": {
-              "key": "Request_Hub_0_7628",
+              "key": "Request_Hub_0_7639",
               "icon": "",
               "type": "dialog",
-              "zh": "Request_Hub_0_7628",
-              "en": "Request_Hub_0_7628",
-              "ja": "Request_Hub_0_7628"
+              "zh": "Request_Hub_0_7639",
+              "en": "Request_Hub_0_7639",
+              "ja": "Request_Hub_0_7639"
             },
             "NextScene": null,
             "DontClearHistory": false
@@ -1533,8 +1533,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7807",
-      "___fn": "Bring Food@7807.json",
+      "___key": "0_7818",
+      "___fn": "Bring Food@7818.json",
       "key": "Bring_Food",
       "zh": "Bring_Food",
       "en": "Bring_Food",
@@ -1755,12 +1755,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -1839,8 +1839,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2132",
-      "___fn": "Bring Forge Hammer@2132.json",
+      "___key": "0_2131",
+      "___fn": "Bring Forge Hammer@2131.json",
       "key": "Bring_Forge_Hammer",
       "zh": "Bring_Forge_Hammer",
       "en": "Bring_Forge_Hammer",
@@ -2061,12 +2061,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -2145,8 +2145,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2282",
-      "___fn": "Bring Knife@2282.json",
+      "___key": "0_2281",
+      "___fn": "Bring Knife@2281.json",
       "key": "Bring_Knife",
       "zh": "Bring_Knife",
       "en": "Bring_Knife",
@@ -2367,12 +2367,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -2451,8 +2451,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7818",
-      "___fn": "Bring Mortar@7818.json",
+      "___key": "0_7829",
+      "___fn": "Bring Mortar@7829.json",
       "key": "Bring_Mortar",
       "zh": "Bring_Mortar",
       "en": "Bring_Mortar",
@@ -2673,12 +2673,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -2757,8 +2757,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2290",
-      "___fn": "Bring Salt@2290.json",
+      "___key": "0_2289",
+      "___fn": "Bring Salt@2289.json",
       "key": "Bring_Salt",
       "zh": "Bring_Salt",
       "en": "Bring_Salt",
@@ -2979,12 +2979,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -3063,8 +3063,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7625",
-      "___fn": "Bring Tin@7625.json",
+      "___key": "0_7636",
+      "___fn": "Bring Tin@7636.json",
       "key": "Bring_Tin",
       "zh": "Bring_Tin",
       "en": "Bring_Tin",
@@ -3285,12 +3285,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -3664,16 +3664,16 @@
       }
     },
     {
-      "m_Name": "Questions Hub_0_7846",
+      "m_Name": "Questions Hub_0_7856",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7846",
-      "___fn": "Questions Hub@7846.json",
-      "key": "Questions_Hub_0_7846",
-      "zh": "Questions_Hub_0_7846",
-      "en": "Questions_Hub_0_7846",
-      "ja": "Questions_Hub_0_7846",
+      "___key": "0_7856",
+      "___fn": "Questions Hub@7856.json",
+      "key": "Questions_Hub_0_7856",
+      "zh": "Questions_Hub_0_7856",
+      "en": "Questions_Hub_0_7856",
+      "ja": "Questions_Hub_0_7856",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -4166,12 +4166,12 @@
           "NewNextLine": {
             "NextStep": 0,
             "NextLine": {
-              "key": "Trader_from_the_West_0_7810",
+              "key": "Trader_from_the_West_0_7821",
               "icon": "",
               "type": "dialog",
-              "zh": "Trader_from_the_West_0_7810",
-              "en": "Trader_from_the_West_0_7810",
-              "ja": "Trader_from_the_West_0_7810"
+              "zh": "Trader_from_the_West_0_7821",
+              "en": "Trader_from_the_West_0_7821",
+              "ja": "Trader_from_the_West_0_7821"
             },
             "NextScene": null,
             "DontClearHistory": false
@@ -4427,12 +4427,12 @@
           "NewNextLine": {
             "NextStep": 0,
             "NextLine": {
-              "key": "Trading_Interests_0_7786",
+              "key": "Trading_Interests_0_7796",
               "icon": "",
               "type": "dialog",
-              "zh": "Trading_Interests_0_7786",
-              "en": "Trading_Interests_0_7786",
-              "ja": "Trading_Interests_0_7786"
+              "zh": "Trading_Interests_0_7796",
+              "en": "Trading_Interests_0_7796",
+              "ja": "Trading_Interests_0_7796"
             },
             "NextScene": null,
             "DontClearHistory": false
@@ -4742,7 +4742,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -5113,7 +5113,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "ConditionRange": {
                   "x": 50,
@@ -5228,16 +5228,16 @@
       }
     },
     {
-      "m_Name": "Request Hub_0_7628",
+      "m_Name": "Request Hub_0_7639",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7628",
-      "___fn": "Request Hub@7628.json",
-      "key": "Request_Hub_0_7628",
-      "zh": "Request_Hub_0_7628",
-      "en": "Request_Hub_0_7628",
-      "ja": "Request_Hub_0_7628",
+      "___key": "0_7639",
+      "___fn": "Request Hub@7639.json",
+      "key": "Request_Hub_0_7639",
+      "zh": "Request_Hub_0_7639",
+      "en": "Request_Hub_0_7639",
+      "ja": "Request_Hub_0_7639",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -5730,12 +5730,12 @@
           "NewNextLine": {
             "NextStep": 0,
             "NextLine": {
-              "key": "Trader_Talk_Intro_0_2263",
+              "key": "Trader_Talk_Intro_0_2262",
               "icon": "",
               "type": "dialog",
-              "zh": "Trader_Talk_Intro_0_2263",
-              "en": "Trader_Talk_Intro_0_2263",
-              "ja": "Trader_Talk_Intro_0_2263"
+              "zh": "Trader_Talk_Intro_0_2262",
+              "en": "Trader_Talk_Intro_0_2262",
+              "ja": "Trader_Talk_Intro_0_2262"
             },
             "NextScene": null,
             "DontClearHistory": false
@@ -5988,7 +5988,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                  "UniqueIDIndex": 3060
+                  "UniqueIDIndex": 3069
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -6131,7 +6131,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                  "UniqueIDIndex": 3060
+                  "UniqueIDIndex": 3069
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -6233,7 +6233,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -6488,7 +6488,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-                  "UniqueIDIndex": 3059
+                  "UniqueIDIndex": 3068
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -6631,7 +6631,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-                  "UniqueIDIndex": 3059
+                  "UniqueIDIndex": 3068
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -6733,7 +6733,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -6988,7 +6988,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-                  "UniqueIDIndex": 3062
+                  "UniqueIDIndex": 3071
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -7131,7 +7131,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-                  "UniqueIDIndex": 3062
+                  "UniqueIDIndex": 3071
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -7233,7 +7233,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -7488,7 +7488,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-                  "UniqueIDIndex": 3063
+                  "UniqueIDIndex": 3072
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -7631,7 +7631,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-                  "UniqueIDIndex": 3063
+                  "UniqueIDIndex": 3072
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -7733,7 +7733,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -7988,7 +7988,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "03c369090e8759d4091a02845c852cff",
-                  "UniqueIDIndex": 3065
+                  "UniqueIDIndex": 3074
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -8131,7 +8131,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "03c369090e8759d4091a02845c852cff",
-                  "UniqueIDIndex": 3065
+                  "UniqueIDIndex": 3074
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -8233,7 +8233,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -8488,7 +8488,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-                  "UniqueIDIndex": 3061
+                  "UniqueIDIndex": 3070
                 },
                 "ConditionRange": {
                   "x": 0,
@@ -8631,7 +8631,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-                  "UniqueIDIndex": 3061
+                  "UniqueIDIndex": 3070
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -8733,7 +8733,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "eeccbe55704197944a02a36405404c46",
-                  "UniqueIDIndex": 3081
+                  "UniqueIDIndex": 3090
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,
@@ -8789,16 +8789,16 @@
       }
     },
     {
-      "m_Name": "Trader from the West_0_7810",
+      "m_Name": "Trader from the West_0_7821",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7810",
-      "___fn": "Trader from the West@7810.json",
-      "key": "Trader_from_the_West_0_7810",
-      "zh": "Trader_from_the_West_0_7810",
-      "en": "Trader_from_the_West_0_7810",
-      "ja": "Trader_from_the_West_0_7810",
+      "___key": "0_7821",
+      "___fn": "Trader from the West@7821.json",
+      "key": "Trader_from_the_West_0_7821",
+      "zh": "Trader_from_the_West_0_7821",
+      "en": "Trader_from_the_West_0_7821",
+      "ja": "Trader_from_the_West_0_7821",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -9015,12 +9015,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -9321,12 +9321,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -9401,16 +9401,16 @@
       }
     },
     {
-      "m_Name": "Trading Interests_0_7786",
+      "m_Name": "Trading Interests_0_7796",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7786",
-      "___fn": "Trading Interests@7786.json",
-      "key": "Trading_Interests_0_7786",
-      "zh": "Trading_Interests_0_7786",
-      "en": "Trading_Interests_0_7786",
-      "ja": "Trading_Interests_0_7786",
+      "___key": "0_7796",
+      "___fn": "Trading Interests@7796.json",
+      "key": "Trading_Interests_0_7796",
+      "zh": "Trading_Interests_0_7796",
+      "en": "Trading_Interests_0_7796",
+      "ja": "Trading_Interests_0_7796",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -9627,12 +9627,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -9933,12 +9933,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -10017,8 +10017,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2124",
-      "___fn": "commisions intro@2124.json",
+      "___key": "0_2123",
+      "___fn": "commisions intro@2123.json",
       "key": "commisions_intro",
       "zh": "commisions_intro",
       "en": "commisions_intro",
@@ -10239,12 +10239,12 @@
       "NextStep": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Trader_Talk_Intro_0_2263",
+          "key": "Trader_Talk_Intro_0_2262",
           "icon": "",
           "type": "dialog",
-          "zh": "Trader_Talk_Intro_0_2263",
-          "en": "Trader_Talk_Intro_0_2263",
-          "ja": "Trader_Talk_Intro_0_2263"
+          "zh": "Trader_Talk_Intro_0_2262",
+          "en": "Trader_Talk_Intro_0_2262",
+          "ja": "Trader_Talk_Intro_0_2262"
         },
         "NextScene": null,
         "DontClearHistory": false

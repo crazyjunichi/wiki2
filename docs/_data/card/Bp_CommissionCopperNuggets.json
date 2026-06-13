@@ -3,18 +3,18 @@
   "key": "Bp_CommissionCopperNuggets",
   "icon": "CopperNugget",
   "type": "card",
-  "zh": "布衬衫",
+  "zh": "5 块铜块",
   "en": "5 Copper Nuggets",
-  "ja": "シャツ（布）",
-  "UniqueIDIndex": 363,
+  "ja": "5 Copper Nuggets",
+  "UniqueIDIndex": 364,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
     "DefaultText": "5 Copper Nuggets",
-    "Text": "布衬衫",
-    "zh": "布衬衫",
-    "en": "Cloth Shirt",
-    "ja": "シャツ（布）"
+    "Text": "5 块铜块",
+    "zh": "5 块铜块",
+    "en": "5 Copper Nuggets",
+    "ja": "5 Copper Nuggets"
   },
   "CardImage": {
     "FileName": "CopperNugget"
@@ -851,10 +851,10 @@
   },
   "CardDescription": {
     "DefaultText": "",
-    "Text": "能减轻一些虫咬和日晒对我的伤害。",
-    "zh": "能减轻一些虫咬和日晒对我的伤害。",
-    "en": "Should protect me a bit from bug bites and the sun.",
-    "ja": "虫や日差しから守ってくれる。"
+    "Text": "",
+    "zh": "",
+    "en": "",
+    "ja": ""
   },
   "CanBeRenamed": false,
   "AlternateNames": [],
@@ -1676,7 +1676,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "e88093d49e13f3749b57bf97d0b3f3da",
-        "UniqueIDIndex": 2800
+        "UniqueIDIndex": 2808
       },
       "UseAssociatedAgent": false,
       "TargetAgent": {
@@ -1728,7 +1728,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "f361a98afe344ba4aab2b00a7412fb08",
-        "UniqueIDIndex": 3073
+        "UniqueIDIndex": 3082
       },
       "UseAssociatedAgent": false,
       "TargetAgent": {
@@ -1884,7 +1884,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "eeccbe55704197944a02a36405404c46",
-        "UniqueIDIndex": 3081
+        "UniqueIDIndex": 3090
       },
       "ConditionRange": {
         "x": 50,
@@ -1936,7 +1936,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "e88093d49e13f3749b57bf97d0b3f3da",
-        "UniqueIDIndex": 2800
+        "UniqueIDIndex": 2808
       },
       "ConditionRange": {
         "x": 1,

@@ -6,7 +6,7 @@
   "zh": "老鼠附魔",
   "en": "Mouse Enchantment",
   "ja": "Mouse Enchantment",
-  "UniqueIDIndex": 499,
+  "UniqueIDIndex": 500,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

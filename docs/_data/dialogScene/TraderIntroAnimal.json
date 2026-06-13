@@ -11,8 +11,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2258",
-      "___fn": "TraderIntroIntro@2258.json",
+      "___key": "0_2257",
+      "___fn": "TraderIntroIntro@2257.json",
       "key": "TraderIntroIntro",
       "zh": "TraderIntroIntro",
       "en": "TraderIntroIntro",
@@ -596,7 +596,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "42ceede610e6053498ba43292e3d0684",
-                  "UniqueIDIndex": 4055
+                  "UniqueIDIndex": 4065
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,

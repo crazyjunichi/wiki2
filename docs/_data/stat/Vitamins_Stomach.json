@@ -6,7 +6,7 @@
   "zh": "胃中的维生素",
   "en": "Stomach Vitamins",
   "ja": "お腹のビタミン",
-  "UniqueIDIndex": 4513,
+  "UniqueIDIndex": 4523,
   "GameName": {
     "DefaultText": "Stomach Vitamins",
     "Text": "胃中的维生素",
@@ -1816,9 +1816,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       },
       "value": {
         "x": 0,

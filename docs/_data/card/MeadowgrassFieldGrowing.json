@@ -6,7 +6,7 @@
   "zh": "生长中的牧草",
   "en": "Growing Meadowgrass Field",
   "ja": "成長中の牧草地",
-  "UniqueIDIndex": 1729,
+  "UniqueIDIndex": 1730,
   "CardType": 2,
   "CardTags": [
     {
@@ -7077,7 +7077,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

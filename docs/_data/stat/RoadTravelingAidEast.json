@@ -7,7 +7,7 @@
   "zh_fix": "东方道路辅助",
   "en": "Road Traveling Aid East",
   "ja": "Road Traveling Aid East",
-  "UniqueIDIndex": 4026,
+  "UniqueIDIndex": 4036,
   "GameName": {
     "DefaultText": "Road Traveling Aid East",
     "Text": "Road Traveling Aid East",
@@ -310,7 +310,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {

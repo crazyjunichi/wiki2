@@ -2237,6 +2237,22 @@
         "en": "Action: West",
         "ja": "アクション：西"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Sacred Grove",
+        "en": "Action: Sacred Grove",
+        "ja": "アクション：Sacred Grove"
+      }
     }
   ],
   "_useFor": [

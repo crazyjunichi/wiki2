@@ -5,7 +5,7 @@
   "zh": "Beaver Repair Burrow",
   "en": "Beaver Repair Burrow",
   "ja": "Beaver Repair Burrow",
-  "UniqueIDIndex": 2861,
+  "UniqueIDIndex": 2869,
   "DutyName": {
     "DefaultText": "Beaver Repair Burrow",
     "Text": "Beaver Repair Burrow",
@@ -349,7 +349,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

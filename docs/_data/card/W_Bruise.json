@@ -6,7 +6,7 @@
   "zh": "淤青",
   "en": "Bruise",
   "ja": "アザ",
-  "UniqueIDIndex": 2618,
+  "UniqueIDIndex": 2626,
   "CardType": 0,
   "CardTags": [
     {
@@ -8317,8 +8317,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

@@ -6,7 +6,7 @@
   "zh": "饮用湖水",
   "en": "Drink Water from the Lake",
   "ja": "Drink Water from the Lake",
-  "UniqueIDIndex": 3461,
+  "UniqueIDIndex": 3471,
   "StartUnlocked": false,
   "ActionObjectives": [
     {
@@ -306,30 +306,30 @@
           "MaxValue": 1000
         },
         "SpecialDurability4": {
-          "Active": false,
+          "Active": true,
           "CardStatName": {
-            "DefaultText": "",
-            "Text": "SpecialDurability4",
-            "zh": "特殊4",
-            "en": "Special4",
-            "ja": ""
+            "DefaultText": "River Type",
+            "Text": "River Type",
+            "zh": "River Type",
+            "en": "River Type",
+            "ja": "River Type"
           },
           "OverrideIcon": null,
-          "MaxValue": 0
+          "MaxValue": 1000
         }
       },
       "OnCardWithTags": [],
       "WithActionTags": [],
-      "ActionName": "饮用",
+      "ActionName": "Drink",
       "OnActionStarted": true,
       "PerformMultipleTimes": 0,
       "DebugMode": false,
       "ActionNameText": {
         "DefaultText": "Drink",
-        "Text": "饮用",
-        "zh": "饮用",
+        "Text": "Drink",
+        "zh": "Drink",
         "en": "Drink",
-        "ja": "飲む"
+        "ja": "Drink"
       }
     }
   ],

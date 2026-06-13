@@ -6,7 +6,7 @@
   "zh": "粘土大锅",
   "en": "Clay Cauldron",
   "ja": "粘土の鍋",
-  "UniqueIDIndex": 844,
+  "UniqueIDIndex": 845,
   "CardType": 0,
   "CardTags": [
     {
@@ -10714,7 +10714,7 @@
   "CarriesOverTo": [],
   "CanDragItemsToTravel": false,
   "DoesNotPile": false,
-  "ToggleablePiling": false,
+  "ToggleablePiling": true,
   "DoesNotPinAutomatically": false,
   "Ambience": {
     "InternalName": "",

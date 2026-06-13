@@ -114,16 +114,16 @@
         "MaxValue": 1000
       },
       "SpecialDurability4": {
-        "Active": false,
+        "Active": true,
         "CardStatName": {
-          "DefaultText": "",
-          "Text": "SpecialDurability4",
-          "zh": "特殊4",
-          "en": "Special4",
-          "ja": ""
+          "DefaultText": "River Type",
+          "Text": "River Type",
+          "zh": "River Type",
+          "en": "River Type",
+          "ja": "River Type"
         },
         "OverrideIcon": null,
-        "MaxValue": 0
+        "MaxValue": 1000
       }
     },
     {
@@ -284,6 +284,18 @@
       "zh": "珍稀鱼类种群数量",
       "en": "Rare Fish Population",
       "ja": "レアな魚の数"
+    },
+    "OverrideIcon": null,
+    "MaxValue": 1000
+  },
+  "SpecialDurability4": {
+    "Active": true,
+    "CardStatName": {
+      "DefaultText": "River Type",
+      "Text": "River Type",
+      "zh": "River Type",
+      "en": "River Type",
+      "ja": "River Type"
     },
     "OverrideIcon": null,
     "MaxValue": 1000

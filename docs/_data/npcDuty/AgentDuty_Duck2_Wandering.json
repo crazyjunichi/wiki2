@@ -5,7 +5,7 @@
   "zh": "Duck Wondering",
   "en": "Duck Wondering",
   "ja": "Duck Wondering",
-  "UniqueIDIndex": 2913,
+  "UniqueIDIndex": 2921,
   "DutyName": {
     "DefaultText": "Duck Wondering",
     "Text": "Duck Wondering",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

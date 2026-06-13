@@ -6,7 +6,7 @@
   "zh": "Leather Bracers",
   "en": "Leather Bracers",
   "ja": "Leather Bracers",
-  "UniqueIDIndex": 1957,
+  "UniqueIDIndex": 1958,
   "CardType": 0,
   "CardTags": [
     {
@@ -172,7 +172,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

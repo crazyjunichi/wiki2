@@ -6,7 +6,7 @@
   "zh": "狩猎大型动物",
   "en": "Big Game Hunting",
   "ja": "Big Game Hunting",
-  "UniqueIDIndex": 4542,
+  "UniqueIDIndex": 4552,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Wolf",
         "ja": "Wolf",
         "UniqueID": "05e10f7958cc1d842aa683eedf3ec6d6",
-        "UniqueIDIndex": 4545,
+        "UniqueIDIndex": 4555,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -244,7 +244,7 @@
         "en": "Doe",
         "ja": "Doe",
         "UniqueID": "2f57297535ab4cb4988390f07dd5cfbc",
-        "UniqueIDIndex": 4546,
+        "UniqueIDIndex": 4556,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -462,7 +462,7 @@
         "en": "Stag",
         "ja": "Stag",
         "UniqueID": "6b52d652e9959d445ac996321a6fc833",
-        "UniqueIDIndex": 4547,
+        "UniqueIDIndex": 4557,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -680,7 +680,7 @@
         "en": "Boar",
         "ja": "Boar",
         "UniqueID": "b412a17ff5276d048b0efbe7660e10c3",
-        "UniqueIDIndex": 4548,
+        "UniqueIDIndex": 4558,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -900,7 +900,7 @@
         "en": "Bear",
         "ja": "Bear",
         "UniqueID": "6a3d52ae9084b2b43ab766a1e756de9d",
-        "UniqueIDIndex": 4549,
+        "UniqueIDIndex": 4559,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

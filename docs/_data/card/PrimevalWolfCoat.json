@@ -6,7 +6,7 @@
   "zh": "原初狼大衣",
   "en": "Primeval Wolf Coat",
   "ja": "Primeval Wolf Coat",
-  "UniqueIDIndex": 2134,
+  "UniqueIDIndex": 2135,
   "CardType": 0,
   "CardTags": [
     {
@@ -226,7 +226,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

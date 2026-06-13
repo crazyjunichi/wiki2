@@ -6,7 +6,7 @@
   "zh": "冰块",
   "en": "Ice Block",
   "ja": "Ice Block",
-  "UniqueIDIndex": 459,
+  "UniqueIDIndex": 460,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -677,7 +677,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000
@@ -809,7 +809,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000
@@ -1198,7 +1198,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000

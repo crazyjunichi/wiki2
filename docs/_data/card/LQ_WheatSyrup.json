@@ -6,7 +6,7 @@
   "zh": "小麦糖浆",
   "en": "Wheat Syrup",
   "ja": "Wheat Syrup",
-  "UniqueIDIndex": 1716,
+  "UniqueIDIndex": 1717,
   "CardType": 9,
   "CardTags": [
     {
@@ -6006,7 +6006,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

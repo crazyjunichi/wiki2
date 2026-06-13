@@ -3,7 +3,7 @@
   "key": "Tgr_LesserFireSpiritEncounteredInsightBonus",
   "icon": "",
   "type": "trigger",
-  "UniqueIDIndex": 4386,
+  "UniqueIDIndex": 4396,
   "Actions": [
     {
       "ActionName": {

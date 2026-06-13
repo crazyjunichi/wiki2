@@ -2114,9 +2114,9 @@
     "id": "bbd72396a77f3ad4f9b118db2c7a5a9e",
     "icon": "CopperNugget",
     "type": "card",
-    "zh": "布衬衫",
+    "zh": "5 块铜块",
     "en": "5 Copper Nuggets",
-    "ja": "シャツ（布）",
+    "ja": "5 Copper Nuggets",
     "CardType": 7
   },
   {
@@ -2124,9 +2124,9 @@
     "id": "607e90b32540e1540a2b0a8e0e4832ce",
     "icon": "Egg_Partridge",
     "type": "card",
-    "zh": "布衬衫",
+    "zh": "15 颗灰山鹑蛋",
     "en": "15 Partridge Eggs",
-    "ja": "シャツ（布）",
+    "ja": "15 Partridge Eggs",
     "CardType": 7
   },
   {
@@ -9290,6 +9290,16 @@
     "CardType": 4
   },
   {
+    "key": "Env_MoontouchedWorld",
+    "id": "aff7accd46d88f24f97b9531f20ebe1b",
+    "icon": "",
+    "type": "card",
+    "zh": "MoontouchedWorld",
+    "en": "MoontouchedWorld",
+    "ja": "MoontouchedWorld",
+    "CardType": 4
+  },
+  {
     "key": "Env_MudHut",
     "id": "b60b06a6405702a45bf2e3985e76d213",
     "icon": "",
@@ -9454,7 +9464,7 @@
     "id": "083d377fdea77c44d865f98df8350e6f",
     "icon": "",
     "type": "card",
-    "zh": "芦苇池塘",
+    "zh": "芦苇水池",
     "en": "Reed Pool",
     "ja": "Reed Pool",
     "CardType": 4
@@ -14174,9 +14184,9 @@
     "id": "2f5f09c91257610458f271e4c1cfa4ea",
     "icon": "Pond_Winter",
     "type": "card",
-    "zh": "结冰的池塘",
+    "zh": "冰冻老妪池塘",
     "en": "Frozen Hag Pond",
-    "ja": "凍った池",
+    "ja": "Frozen Hag Pond",
     "CardType": 2
   },
   {
@@ -18204,9 +18214,9 @@
     "id": "67f4c269acd1b3c439a1083a45c633b6",
     "icon": "Pond_Winter",
     "type": "card",
-    "zh": "结冰的池塘",
+    "zh": "冰冻蚊虫池塘",
     "en": "Frozen Mosquito Pond",
-    "ja": "凍った池",
+    "ja": "Frozen Mosquito Pond",
     "CardType": 2
   },
   {
@@ -21664,7 +21674,7 @@
     "id": "975248d7e988366438f877c451ca118d",
     "icon": "Reeds_Plant",
     "type": "card",
-    "zh": "芦苇池塘",
+    "zh": "芦苇水池",
     "en": "Reed Pool",
     "ja": "Reed Pool",
     "CardType": 8
@@ -25920,7 +25930,87 @@
     "CardType": 2
   },
   {
-    "key": "VDEBUG_Path_TeleportAJ",
+    "key": "VDEBUG_Path_TeleportMiddleWoods1",
+    "id": "e66db45e6cd6e3c4f96b95ab15e6d7f5",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportMiddleWoods2",
+    "id": "75e2565770b501b42b427a91f835bec8",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportMiddleWoods3",
+    "id": "0e8b784357ab3414da23291b7c6b5076",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportNorthWoods1",
+    "id": "9cef1f764d35fde4ea82cbe450388719",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportNorthWoods2",
+    "id": "5aeebfafa49bc424e9a1d141b6c56ec7",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportNorthWoods3",
+    "id": "07c55ff13e92cb9488c907cadbd64b6a",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
+    "id": "f28eea1440d70124db5dbe9d9c544e82",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+    "id": "3d392648a27a86a49b382dbf1d85cbb9",
+    "icon": "",
+    "type": "card",
+    "zh": "East",
+    "en": "East",
+    "ja": "East",
+    "CardType": 2
+  },
+  {
+    "key": "VDEBUG_Path_TeleportRiverNorth",
     "id": "21300401c0d6046488a10676675d09a9",
     "icon": "",
     "type": "card",
@@ -25930,18 +26020,8 @@
     "CardType": 2
   },
   {
-    "key": "VDEBUG_Path_TeleportKP",
-    "id": "8080092b2cded7a4e9310348cc262d57",
-    "icon": "",
-    "type": "card",
-    "zh": "East",
-    "en": "East",
-    "ja": "East",
-    "CardType": 2
-  },
-  {
-    "key": "VDEBUG_Path_TeleportQY",
-    "id": "90857fc14142220448462203ec242894",
+    "key": "VDEBUG_Path_TeleportRiverSouth",
+    "id": "bfcec460566dc3249bb2586b6648445e",
     "icon": "",
     "type": "card",
     "zh": "East",
@@ -28620,7 +28700,7 @@
   {
     "key": "BogMyrtleEffect",
     "id": "c9e345df3e6e02c4c83d2525d5332883",
-    "icon": "FlyAgaric",
+    "icon": "BogMyrtle_Fresh",
     "type": "stat",
     "zh": "沼泽香木效果",
     "en": "Bog Myrtle Effect",

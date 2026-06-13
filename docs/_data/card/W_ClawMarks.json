@@ -6,7 +6,7 @@
   "zh": "抓伤",
   "en": "Claw Marks",
   "ja": "引っ掻かれた跡",
-  "UniqueIDIndex": 2619,
+  "UniqueIDIndex": 2627,
   "CardType": 0,
   "CardTags": [
     {
@@ -12499,8 +12499,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

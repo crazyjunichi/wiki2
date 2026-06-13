@@ -6,7 +6,7 @@
   "zh": "新畜栏（西）",
   "en": "New Enclosure (West)",
   "ja": "新しい囲い（西）",
-  "UniqueIDIndex": 1532,
+  "UniqueIDIndex": 1533,
   "CardType": 10,
   "CardTags": [],
   "CardName": {
@@ -1202,669 +1202,20 @@
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
                 }
-              }
-            ],
-            "SpoilageTime": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpoilageTime",
-                "zh": "时间",
-                "en": "Spoilage",
-                "ja": ""
               },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "UsageDurability": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "UsageDurability",
-                "zh": "耐久",
-                "en": "Usage",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "FuelCapacity": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "FuelCapacity",
-                "zh": "容量",
-                "en": "Fuel",
-                "ja": ""
-              },
-              "OverrideIcon": {
-                "FileName": "Drying"
-              },
-              "MaxValue": 672
-            },
-            "Progress": {
-              "Active": true,
-              "CardStatName": {
-                "DefaultText": "Dryness",
-                "Text": "干燥度",
-                "zh": "干燥度",
-                "en": "Dryness",
-                "ja": "Dryness"
-              },
-              "OverrideIcon": {
-                "FileName": "Drying"
-              },
-              "MaxValue": 23040
-            },
-            "SpecialDurability1": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability1",
-                "zh": "特殊1",
-                "en": "Special1",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "SpecialDurability2": {
-              "Active": true,
-              "CardStatName": {
-                "DefaultText": "Quality",
-                "Text": "品质",
-                "zh": "品质",
-                "en": "Quality",
-                "ja": "クオリティ"
-              },
-              "OverrideIcon": {
-                "FileName": "Quality"
-              },
-              "MaxValue": 96
-            },
-            "SpecialDurability3": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability3",
-                "zh": "特殊3",
-                "en": "Special3",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "SpecialDurability4": {
-              "Active": true,
-              "CardStatName": {
-                "DefaultText": "ID",
-                "Text": "ID",
-                "zh": "ID",
-                "en": "ID",
-                "ja": "ID"
-              },
-              "OverrideIcon": {
-                "FileName": "TreeOak"
-              },
-              "MaxValue": 10000
-            }
-          },
-          "RequiredTabGroup": null,
-          "RequiredQuantity": 6,
-          "Spoilage": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Usage": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Fuel": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Progress": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special1": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special2": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special3": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special4": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "DurabilityFeedback": 0,
-          "FilterStackWithDurability": {
-            "MaskValue": 0
-          },
-          "DontSpend": false,
-          "RequiredLiquidContent": {
-            "IsActive": false,
-            "RequiredLiquid": null,
-            "RequiredGroup": null,
-            "RequiredQuantity": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          "EffectOnIngredient": {
-            "ModType": 0,
-            "TransformInto": null,
-            "TransformToLiquidQuantity": 0,
-            "TransferSpoilage": false,
-            "TransferUsage": false,
-            "TransferFuel": false,
-            "TransferCharges": false,
-            "TransferSpecial1": false,
-            "TransferSpecial2": false,
-            "TransferSpecial3": false,
-            "TransferSpecial4": false,
-            "TransferInventory": false,
-            "TransferSavedIngredients": false,
-            "AverageGivenAndReceivingCards": false,
-            "TransferLiquid": false,
-            "SpoilageTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "UsageTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "FuelTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "ProgressTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special1TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special2TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special3TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special4TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "ModifyDurability": false,
-            "ModifyLiquid": false,
-            "DropOnDestroyList": false,
-            "LiquidEffectScaling": 0,
-            "AddFlavoursFromTargetCard": false,
-            "AddFlavoursFromOtherCard": false,
-            "AddSpicesFromTargetCard": false,
-            "AddSpicesFromOtherCard": false,
-            "AddedFlavours": [],
-            "AddedSpiceTags": [],
-            "SpoilageChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpoilageFromOtherCard": false,
-            "UsageChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetUsageFromOtherCard": false,
-            "FuelChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetFuelFromOtherCard": false,
-            "ChargesChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetProgressFromOtherCard": false,
-            "LiquidQuantityChange": {
-              "x": 0,
-              "y": 0
-            },
-            "Special1Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial1FromOtherCard": false,
-            "Special2Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial2FromOtherCard": false,
-            "Special3Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial3FromOtherCard": false,
-            "Special4Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial4FromOtherCard": false,
-            "StatInterpolatedDurabilityChanges": [],
-            "DurabilityInterpolatedTransfers": [],
-            "ScaleChangesPerPortionOfLiquid": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "UseOtherCardForLiquidQuantity": false
-          },
-          "LiquidBecomesResult": false,
-          "AffectResultDurabilities": {
-            "MaskValue": 0
-          },
-          "Remember": false
-        },
-        {
-          "RequiredCard": {
-            "key": "Twine",
-            "icon": "Twine",
-            "type": "card",
-            "CardType": 0,
-            "zh": "细线",
-            "en": "Twine",
-            "ja": "紐",
-            "AlternateNames": [
               {
                 "Conditions": {
-                  "Special3Range": {
+                  "Special4Range": {
                     "x": 5,
                     "y": 5
                   }
                 },
                 "Name": {
-                  "DefaultText": "Leather Cordage",
-                  "Text": "皮革绳",
-                  "zh": "皮革绳",
-                  "en": "Leather Cordage",
-                  "ja": "Leather Cordage"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special3Range": {
-                    "x": 10,
-                    "y": 10
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Sinew Cordage",
-                  "Text": "肌腱绳",
-                  "zh": "肌腱绳",
-                  "en": "Sinew Cordage",
-                  "ja": "Sinew Cordage"
-                }
-              }
-            ],
-            "SpoilageTime": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpoilageTime",
-                "zh": "时间",
-                "en": "Spoilage",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "UsageDurability": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "UsageDurability",
-                "zh": "耐久",
-                "en": "Usage",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "FuelCapacity": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "FuelCapacity",
-                "zh": "容量",
-                "en": "Fuel",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "Progress": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "Progress",
-                "zh": "进度",
-                "en": "Progress",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "SpecialDurability1": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability1",
-                "zh": "特殊1",
-                "en": "Special1",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "SpecialDurability2": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability2",
-                "zh": "特殊2",
-                "en": "Special2",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
-            "SpecialDurability3": {
-              "Active": true,
-              "CardStatName": {
-                "DefaultText": "Flexibility",
-                "Text": "柔韧",
-                "zh": "柔韧",
-                "en": "Flexibility",
-                "ja": "Flexibility"
-              },
-              "OverrideIcon": null,
-              "MaxValue": 100
-            },
-            "SpecialDurability4": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 100
-            }
-          },
-          "RequiredTabGroup": null,
-          "RequiredQuantity": 3,
-          "Spoilage": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Usage": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Fuel": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Progress": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special1": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special2": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special3": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "Special4": {
-            "Active": false,
-            "FloatValue": 0,
-            "MaxValue": 0
-          },
-          "DurabilityFeedback": 0,
-          "FilterStackWithDurability": {
-            "MaskValue": 0
-          },
-          "DontSpend": false,
-          "RequiredLiquidContent": {
-            "IsActive": false,
-            "RequiredLiquid": null,
-            "RequiredGroup": null,
-            "RequiredQuantity": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          "EffectOnIngredient": {
-            "ModType": 0,
-            "TransformInto": null,
-            "TransformToLiquidQuantity": 0,
-            "TransferSpoilage": false,
-            "TransferUsage": false,
-            "TransferFuel": false,
-            "TransferCharges": false,
-            "TransferSpecial1": false,
-            "TransferSpecial2": false,
-            "TransferSpecial3": false,
-            "TransferSpecial4": false,
-            "TransferInventory": false,
-            "TransferSavedIngredients": false,
-            "AverageGivenAndReceivingCards": false,
-            "TransferLiquid": false,
-            "SpoilageTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "UsageTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "FuelTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "ProgressTransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special1TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special2TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special3TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "Special4TransferScale": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "ModifyDurability": false,
-            "ModifyLiquid": false,
-            "DropOnDestroyList": false,
-            "LiquidEffectScaling": 0,
-            "AddFlavoursFromTargetCard": false,
-            "AddFlavoursFromOtherCard": false,
-            "AddSpicesFromTargetCard": false,
-            "AddSpicesFromOtherCard": false,
-            "AddedFlavours": [],
-            "AddedSpiceTags": [],
-            "SpoilageChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpoilageFromOtherCard": false,
-            "UsageChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetUsageFromOtherCard": false,
-            "FuelChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetFuelFromOtherCard": false,
-            "ChargesChange": {
-              "x": 0,
-              "y": 0
-            },
-            "GetProgressFromOtherCard": false,
-            "LiquidQuantityChange": {
-              "x": 0,
-              "y": 0
-            },
-            "Special1Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial1FromOtherCard": false,
-            "Special2Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial2FromOtherCard": false,
-            "Special3Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial3FromOtherCard": false,
-            "Special4Change": {
-              "x": 0,
-              "y": 0
-            },
-            "GetSpecial4FromOtherCard": false,
-            "StatInterpolatedDurabilityChanges": [],
-            "DurabilityInterpolatedTransfers": [],
-            "ScaleChangesPerPortionOfLiquid": {
-              "Active": false,
-              "FloatValue": 0
-            },
-            "UseOtherCardForLiquidQuantity": false
-          },
-          "LiquidBecomesResult": false,
-          "AffectResultDurabilities": {
-            "MaskValue": 0
-          },
-          "Remember": false
-        }
-      ],
-      "StepActionTags": []
-    },
-    {
-      "CannotRevertToThisStage": false,
-      "RequiredElements": [
-        {
-          "RequiredCard": {
-            "key": "StickLong",
-            "icon": "LongStick",
-            "type": "card",
-            "CardType": 0,
-            "zh": "长木棍",
-            "en": "Long Stick",
-            "ja": "長い棒",
-            "AlternateNames": [
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 1,
-                    "y": 1
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Oak Long Stick",
-                  "Text": "长橡木棍",
-                  "zh": "长橡木棍",
-                  "en": "Oak Long Stick",
-                  "ja": "オークの長い棒"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 2,
-                    "y": 2
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Pine Long Stick",
-                  "Text": "长松木棍",
-                  "zh": "长松木棍",
-                  "en": "Pine Long Stick",
-                  "ja": "松の長い棒"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 3,
-                    "y": 3
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Birch Long Stick",
-                  "Text": "长白桦木棍",
-                  "zh": "长白桦木棍",
-                  "en": "Birch Long Stick",
-                  "ja": "シラカバの長い棒"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 4,
-                    "y": 4
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Willow Long Stick",
-                  "Text": "长柳木棍",
-                  "zh": "长柳木棍",
-                  "en": "Willow Long Stick",
-                  "ja": "ヤナギの長い棒"
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],
@@ -2530,6 +1881,21 @@
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
                 }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
+                }
               }
             ],
             "SpoilageTime": {
@@ -3194,6 +2560,21 @@
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
                 }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
+                }
               }
             ],
             "SpoilageTime": {
@@ -3857,6 +3238,700 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
+                }
+              }
+            ],
+            "SpoilageTime": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpoilageTime",
+                "zh": "时间",
+                "en": "Spoilage",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "UsageDurability": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "UsageDurability",
+                "zh": "耐久",
+                "en": "Usage",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "FuelCapacity": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "FuelCapacity",
+                "zh": "容量",
+                "en": "Fuel",
+                "ja": ""
+              },
+              "OverrideIcon": {
+                "FileName": "Drying"
+              },
+              "MaxValue": 672
+            },
+            "Progress": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Dryness",
+                "Text": "干燥度",
+                "zh": "干燥度",
+                "en": "Dryness",
+                "ja": "Dryness"
+              },
+              "OverrideIcon": {
+                "FileName": "Drying"
+              },
+              "MaxValue": 23040
+            },
+            "SpecialDurability1": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpecialDurability1",
+                "zh": "特殊1",
+                "en": "Special1",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "SpecialDurability2": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Quality",
+                "Text": "品质",
+                "zh": "品质",
+                "en": "Quality",
+                "ja": "クオリティ"
+              },
+              "OverrideIcon": {
+                "FileName": "Quality"
+              },
+              "MaxValue": 96
+            },
+            "SpecialDurability3": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpecialDurability3",
+                "zh": "特殊3",
+                "en": "Special3",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "SpecialDurability4": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "ID",
+                "Text": "ID",
+                "zh": "ID",
+                "en": "ID",
+                "ja": "ID"
+              },
+              "OverrideIcon": {
+                "FileName": "TreeOak"
+              },
+              "MaxValue": 10000
+            }
+          },
+          "RequiredTabGroup": null,
+          "RequiredQuantity": 6,
+          "Spoilage": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Usage": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Fuel": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Progress": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special1": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special2": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special3": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special4": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "DurabilityFeedback": 0,
+          "FilterStackWithDurability": {
+            "MaskValue": 0
+          },
+          "DontSpend": false,
+          "RequiredLiquidContent": {
+            "IsActive": false,
+            "RequiredLiquid": null,
+            "RequiredGroup": null,
+            "RequiredQuantity": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "EffectOnIngredient": {
+            "ModType": 0,
+            "TransformInto": null,
+            "TransformToLiquidQuantity": 0,
+            "TransferSpoilage": false,
+            "TransferUsage": false,
+            "TransferFuel": false,
+            "TransferCharges": false,
+            "TransferSpecial1": false,
+            "TransferSpecial2": false,
+            "TransferSpecial3": false,
+            "TransferSpecial4": false,
+            "TransferInventory": false,
+            "TransferSavedIngredients": false,
+            "AverageGivenAndReceivingCards": false,
+            "TransferLiquid": false,
+            "SpoilageTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "UsageTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "FuelTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "ProgressTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special1TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special2TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special3TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special4TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "ModifyDurability": false,
+            "ModifyLiquid": false,
+            "DropOnDestroyList": false,
+            "LiquidEffectScaling": 0,
+            "AddFlavoursFromTargetCard": false,
+            "AddFlavoursFromOtherCard": false,
+            "AddSpicesFromTargetCard": false,
+            "AddSpicesFromOtherCard": false,
+            "AddedFlavours": [],
+            "AddedSpiceTags": [],
+            "SpoilageChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpoilageFromOtherCard": false,
+            "UsageChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetUsageFromOtherCard": false,
+            "FuelChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetFuelFromOtherCard": false,
+            "ChargesChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetProgressFromOtherCard": false,
+            "LiquidQuantityChange": {
+              "x": 0,
+              "y": 0
+            },
+            "Special1Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial1FromOtherCard": false,
+            "Special2Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial2FromOtherCard": false,
+            "Special3Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial3FromOtherCard": false,
+            "Special4Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial4FromOtherCard": false,
+            "StatInterpolatedDurabilityChanges": [],
+            "DurabilityInterpolatedTransfers": [],
+            "ScaleChangesPerPortionOfLiquid": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "UseOtherCardForLiquidQuantity": false
+          },
+          "LiquidBecomesResult": false,
+          "AffectResultDurabilities": {
+            "MaskValue": 0
+          },
+          "Remember": false
+        },
+        {
+          "RequiredCard": {
+            "key": "Twine",
+            "icon": "Twine",
+            "type": "card",
+            "CardType": 0,
+            "zh": "细线",
+            "en": "Twine",
+            "ja": "紐",
+            "AlternateNames": [
+              {
+                "Conditions": {
+                  "Special3Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Leather Cordage",
+                  "Text": "皮革绳",
+                  "zh": "皮革绳",
+                  "en": "Leather Cordage",
+                  "ja": "Leather Cordage"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special3Range": {
+                    "x": 10,
+                    "y": 10
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Sinew Cordage",
+                  "Text": "肌腱绳",
+                  "zh": "肌腱绳",
+                  "en": "Sinew Cordage",
+                  "ja": "Sinew Cordage"
+                }
+              }
+            ],
+            "SpoilageTime": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpoilageTime",
+                "zh": "时间",
+                "en": "Spoilage",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "UsageDurability": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "UsageDurability",
+                "zh": "耐久",
+                "en": "Usage",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "FuelCapacity": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "FuelCapacity",
+                "zh": "容量",
+                "en": "Fuel",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "Progress": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "Progress",
+                "zh": "进度",
+                "en": "Progress",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "SpecialDurability1": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpecialDurability1",
+                "zh": "特殊1",
+                "en": "Special1",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "SpecialDurability2": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpecialDurability2",
+                "zh": "特殊2",
+                "en": "Special2",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 0
+            },
+            "SpecialDurability3": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Flexibility",
+                "Text": "柔韧",
+                "zh": "柔韧",
+                "en": "Flexibility",
+                "ja": "Flexibility"
+              },
+              "OverrideIcon": null,
+              "MaxValue": 100
+            },
+            "SpecialDurability4": {
+              "Active": false,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "SpecialDurability4",
+                "zh": "特殊4",
+                "en": "Special4",
+                "ja": ""
+              },
+              "OverrideIcon": null,
+              "MaxValue": 100
+            }
+          },
+          "RequiredTabGroup": null,
+          "RequiredQuantity": 3,
+          "Spoilage": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Usage": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Fuel": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Progress": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special1": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special2": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special3": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "Special4": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "DurabilityFeedback": 0,
+          "FilterStackWithDurability": {
+            "MaskValue": 0
+          },
+          "DontSpend": false,
+          "RequiredLiquidContent": {
+            "IsActive": false,
+            "RequiredLiquid": null,
+            "RequiredGroup": null,
+            "RequiredQuantity": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "EffectOnIngredient": {
+            "ModType": 0,
+            "TransformInto": null,
+            "TransformToLiquidQuantity": 0,
+            "TransferSpoilage": false,
+            "TransferUsage": false,
+            "TransferFuel": false,
+            "TransferCharges": false,
+            "TransferSpecial1": false,
+            "TransferSpecial2": false,
+            "TransferSpecial3": false,
+            "TransferSpecial4": false,
+            "TransferInventory": false,
+            "TransferSavedIngredients": false,
+            "AverageGivenAndReceivingCards": false,
+            "TransferLiquid": false,
+            "SpoilageTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "UsageTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "FuelTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "ProgressTransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special1TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special2TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special3TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "Special4TransferScale": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "ModifyDurability": false,
+            "ModifyLiquid": false,
+            "DropOnDestroyList": false,
+            "LiquidEffectScaling": 0,
+            "AddFlavoursFromTargetCard": false,
+            "AddFlavoursFromOtherCard": false,
+            "AddSpicesFromTargetCard": false,
+            "AddSpicesFromOtherCard": false,
+            "AddedFlavours": [],
+            "AddedSpiceTags": [],
+            "SpoilageChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpoilageFromOtherCard": false,
+            "UsageChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetUsageFromOtherCard": false,
+            "FuelChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetFuelFromOtherCard": false,
+            "ChargesChange": {
+              "x": 0,
+              "y": 0
+            },
+            "GetProgressFromOtherCard": false,
+            "LiquidQuantityChange": {
+              "x": 0,
+              "y": 0
+            },
+            "Special1Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial1FromOtherCard": false,
+            "Special2Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial2FromOtherCard": false,
+            "Special3Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial3FromOtherCard": false,
+            "Special4Change": {
+              "x": 0,
+              "y": 0
+            },
+            "GetSpecial4FromOtherCard": false,
+            "StatInterpolatedDurabilityChanges": [],
+            "DurabilityInterpolatedTransfers": [],
+            "ScaleChangesPerPortionOfLiquid": {
+              "Active": false,
+              "FloatValue": 0
+            },
+            "UseOtherCardForLiquidQuantity": false
+          },
+          "LiquidBecomesResult": false,
+          "AffectResultDurabilities": {
+            "MaskValue": 0
+          },
+          "Remember": false
+        }
+      ],
+      "StepActionTags": []
+    },
+    {
+      "CannotRevertToThisStage": false,
+      "RequiredElements": [
+        {
+          "RequiredCard": {
+            "key": "StickLong",
+            "icon": "LongStick",
+            "type": "card",
+            "CardType": 0,
+            "zh": "长木棍",
+            "en": "Long Stick",
+            "ja": "長い棒",
+            "AlternateNames": [
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 1,
+                    "y": 1
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Oak Long Stick",
+                  "Text": "长橡木棍",
+                  "zh": "长橡木棍",
+                  "en": "Oak Long Stick",
+                  "ja": "オークの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 2,
+                    "y": 2
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Pine Long Stick",
+                  "Text": "长松木棍",
+                  "zh": "长松木棍",
+                  "en": "Pine Long Stick",
+                  "ja": "松の長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 3,
+                    "y": 3
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Birch Long Stick",
+                  "Text": "长白桦木棍",
+                  "zh": "长白桦木棍",
+                  "en": "Birch Long Stick",
+                  "ja": "シラカバの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 4,
+                    "y": 4
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Willow Long Stick",
+                  "Text": "长柳木棍",
+                  "zh": "长柳木棍",
+                  "en": "Willow Long Stick",
+                  "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

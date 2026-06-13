@@ -6,7 +6,7 @@
   "zh": "蒜水",
   "en": "Garlic Water",
   "ja": "ニンニク水",
-  "UniqueIDIndex": 1641,
+  "UniqueIDIndex": 1642,
   "CardType": 9,
   "CardTags": [
     {
@@ -5138,7 +5138,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

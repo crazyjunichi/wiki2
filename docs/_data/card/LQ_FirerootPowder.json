@@ -6,7 +6,7 @@
   "zh": "火根粉",
   "en": "Fireroot Powder",
   "ja": "Fireroot Powder",
-  "UniqueIDIndex": 1634,
+  "UniqueIDIndex": 1635,
   "CardType": 9,
   "CardTags": [
     {
@@ -3837,8 +3837,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },

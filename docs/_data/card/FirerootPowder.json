@@ -6,7 +6,7 @@
   "zh": "火根粉",
   "en": "Fireroot Powder",
   "ja": "ファイヤールートの粉",
-  "UniqueIDIndex": 1266,
+  "UniqueIDIndex": 1267,
   "CardType": 0,
   "CardTags": [
     {
@@ -3996,10 +3996,10 @@
     {
       "ActionName": {
         "DefaultText": "Add",
-        "Text": "Add",
-        "zh": "Add",
+        "Text": "添加",
+        "zh": "添加",
         "en": "Add",
-        "ja": "Add"
+        "ja": "入れる"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -4874,10 +4874,10 @@
     {
       "ActionName": {
         "DefaultText": "Soak",
-        "Text": "Soak",
-        "zh": "Soak",
+        "Text": "浸泡",
+        "zh": "浸泡",
         "en": "Soak",
-        "ja": "Soak"
+        "ja": "浸す"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -5453,8 +5453,8 @@
             },
             "Message": {
               "DefaultText": "Not enough liquid",
-              "Text": "Not enough liquid",
-              "zh": "Not enough liquid",
+              "Text": "液体不足",
+              "zh": "液体不足",
               "en": "Not enough liquid",
               "ja": "Not enough liquid"
             }
@@ -5465,8 +5465,8 @@
             },
             "Message": {
               "DefaultText": "Too thick",
-              "Text": "Too thick",
-              "zh": "Too thick",
+              "Text": "太浓稠",
+              "zh": "太浓稠",
               "en": "Too thick",
               "ja": "Too thick"
             }
@@ -5477,8 +5477,8 @@
             },
             "Message": {
               "DefaultText": "Not hot enough",
-              "Text": "Not hot enough",
-              "zh": "Not hot enough",
+              "Text": "还不够热",
+              "zh": "还不够热",
               "en": "Not hot enough",
               "ja": "Not hot enough"
             }
@@ -5548,8 +5548,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -6003,8 +6003,8 @@
     {
       "ActionName": {
         "DefaultText": "Soak",
-        "Text": "Soak",
-        "zh": "Soak",
+        "Text": "浸泡",
+        "zh": "浸泡",
         "en": "Soak",
         "ja": "Soak"
       },
@@ -6582,8 +6582,8 @@
             },
             "Message": {
               "DefaultText": "Not enough liquid",
-              "Text": "Not enough liquid",
-              "zh": "Not enough liquid",
+              "Text": "液体不足",
+              "zh": "液体不足",
               "en": "Not enough liquid",
               "ja": "Not enough liquid"
             }
@@ -6594,8 +6594,8 @@
             },
             "Message": {
               "DefaultText": "Too thick",
-              "Text": "Too thick",
-              "zh": "Too thick",
+              "Text": "太浓稠",
+              "zh": "太浓稠",
               "en": "Too thick",
               "ja": "Too thick"
             }
@@ -6606,8 +6606,8 @@
             },
             "Message": {
               "DefaultText": "Not hot enough",
-              "Text": "Not hot enough",
-              "zh": "Not hot enough",
+              "Text": "还不够热",
+              "zh": "还不够热",
               "en": "Not hot enough",
               "ja": "Not hot enough"
             }
@@ -6988,8 +6988,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "Thickness",
-                "Text": "Thickness",
-                "zh": "Thickness",
+                "Text": "浓稠度",
+                "zh": "浓稠度",
                 "en": "Thickness",
                 "ja": "Thickness"
               },

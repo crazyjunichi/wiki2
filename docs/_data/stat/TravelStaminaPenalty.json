@@ -6,7 +6,7 @@
   "zh": "旅行耐力惩罚",
   "en": "Travel Stamina Penalty",
   "ja": "移動スタミナペナルティ",
-  "UniqueIDIndex": 4486,
+  "UniqueIDIndex": 4496,
   "GameName": {
     "DefaultText": "Travel Stamina Penalty",
     "Text": "旅行耐力惩罚",
@@ -307,7 +307,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -822,7 +822,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -1337,7 +1337,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {

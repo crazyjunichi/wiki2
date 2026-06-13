@@ -5776,6 +5776,86 @@
               },
               {
                 "from": {
+                  "key": "CheeseHardWhole",
+                  "icon": "Cheese_Hard",
+                  "type": "card",
+                  "CardType": 0,
+                  "zh": "特硬奶酪",
+                  "en": "Hard Cheese",
+                  "ja": "Hard Cheese"
+                },
+                "to": {
+                  "key": "CheeseAged",
+                  "icon": "Cheese_Aged",
+                  "type": "card",
+                  "CardType": 0,
+                  "zh": "陈年奶酪",
+                  "en": "Aged Cheese",
+                  "ja": "Aged Cheese"
+                },
+                "method": {
+                  "zh": "成熟度 达到最大",
+                  "en": "Maturity Full",
+                  "ja": "Maturity フル"
+                },
+                "otherCards": []
+              },
+              {
+                "from": {
+                  "key": "CheeseAged",
+                  "icon": "Cheese_Aged",
+                  "type": "card",
+                  "CardType": 0,
+                  "zh": "陈年奶酪",
+                  "en": "Aged Cheese",
+                  "ja": "Aged Cheese"
+                },
+                "to": {
+                  "key": "CheeseAgedWedge",
+                  "icon": "CheeseWedge_Aged",
+                  "type": "card",
+                  "CardType": 0,
+                  "zh": "陈年奶酪楔块",
+                  "en": "Aged Cheese Wedge",
+                  "ja": "Aged Cheese Wedge"
+                },
+                "method": {
+                  "zh": "楔块 降为零",
+                  "en": "Wedges Depleted",
+                  "ja": "Wedges ゼロ"
+                },
+                "otherCards": []
+              },
+              {
+                "from": {
+                  "key": "CheeseAged",
+                  "icon": "Cheese_Aged",
+                  "type": "card",
+                  "CardType": 0,
+                  "zh": "陈年奶酪",
+                  "en": "Aged Cheese",
+                  "ja": "Aged Cheese"
+                },
+                "to": {
+                  "key": "CheeseAgedWedge",
+                  "icon": "CheeseWedge_Aged",
+                  "type": "card",
+                  "CardType": 0,
+                  "zh": "陈年奶酪楔块",
+                  "en": "Aged Cheese Wedge",
+                  "ja": "Aged Cheese Wedge"
+                },
+                "method": {
+                  "DefaultText": "Cut",
+                  "Text": "切",
+                  "zh": "切",
+                  "en": "Cut",
+                  "ja": "Cut"
+                },
+                "otherCards": []
+              },
+              {
+                "from": {
                   "key": "CheeseSoft",
                   "icon": "Cheese_Soft",
                   "type": "card",
@@ -41653,72 +41733,87 @@
                   ]
                 },
                 "to": {
-                  "key": "SkinFleshedMedium",
+                  "key": "SkinFleshedLarge",
                   "icon": "Skin_Cured",
                   "type": "card",
                   "CardType": 0,
-                  "zh": "中块刮净的皮",
-                  "en": "Medium Fleshed Skin",
-                  "ja": "Medium Fleshed Skin",
+                  "zh": "大块刮净的皮",
+                  "en": "Large Fleshed Skin",
+                  "ja": "Large Fleshed Skin",
                   "AlternateNames": [
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 300,
-                          "y": 300
+                          "x": 400,
+                          "y": 400
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Fleshed Skin",
-                        "Text": "中块刮净的皮",
-                        "zh": "中块刮净的皮",
-                        "en": "Medium Fleshed Skin",
-                        "ja": "Medium Fleshed Skin"
+                        "DefaultText": "Large Fleshed Skin",
+                        "Text": "大块刮净的皮",
+                        "zh": "大块刮净的皮",
+                        "en": "Large Fleshed Skin",
+                        "ja": "Large Fleshed Skin"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 320,
-                          "y": 320
+                          "x": 420,
+                          "y": 420
                         }
                       },
                       "Name": {
-                        "DefaultText": "Fleshed Wolf Skin",
-                        "Text": "刮净的狼皮",
-                        "zh": "刮净的狼皮",
-                        "en": "Fleshed Wolf Skin",
-                        "ja": "Fleshed Wolf Skin"
+                        "DefaultText": "Fleshed Boar Skin",
+                        "Text": "刮净的野猪皮",
+                        "zh": "刮净的野猪皮",
+                        "en": "Fleshed Boar Skin",
+                        "ja": "Fleshed Boar Skin"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 330,
-                          "y": 330
+                          "x": 430,
+                          "y": 430
                         }
                       },
                       "Name": {
-                        "DefaultText": "Fleshed Moontouched Skin",
-                        "Text": "刮净的月触兽皮",
-                        "zh": "刮净的月触兽皮",
-                        "en": "Fleshed Moontouched Skin",
-                        "ja": "Fleshed Moontouched Skin"
+                        "DefaultText": "Fleshed Doe Skin",
+                        "Text": "刮净的母鹿皮",
+                        "zh": "刮净的母鹿皮",
+                        "en": "Fleshed Doe Skin",
+                        "ja": "Fleshed Doe Skin"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 340,
-                          "y": 340
+                          "x": 440,
+                          "y": 440
                         }
                       },
                       "Name": {
-                        "DefaultText": "Fleshed Primeval Wolf Skin",
-                        "Text": "刮净的原初狼皮",
-                        "zh": "刮净的原初狼皮",
-                        "en": "Fleshed Primeval Wolf Skin",
-                        "ja": "Fleshed Primeval Wolf Skin"
+                        "DefaultText": "Fleshed Stag Skin",
+                        "Text": "刮净的公鹿皮",
+                        "zh": "刮净的公鹿皮",
+                        "en": "Fleshed Stag Skin",
+                        "ja": "Fleshed Stag Skin"
+                      }
+                    },
+                    {
+                      "Conditions": {
+                        "Special4Range": {
+                          "x": 450,
+                          "y": 450
+                        }
+                      },
+                      "Name": {
+                        "DefaultText": "Fleshed Calf Skin",
+                        "Text": "刮净的小牛皮",
+                        "zh": "刮净的小牛皮",
+                        "en": "Fleshed Calf Skin",
+                        "ja": "Fleshed Calf Skin"
                       }
                     }
                   ]
@@ -41734,84 +41829,99 @@
               },
               {
                 "from": {
-                  "key": "SkinFleshedMedium",
+                  "key": "SkinFleshedLarge",
                   "icon": "Skin_Cured",
                   "type": "card",
                   "CardType": 0,
-                  "zh": "中块刮净的皮",
-                  "en": "Medium Fleshed Skin",
-                  "ja": "Medium Fleshed Skin",
+                  "zh": "大块刮净的皮",
+                  "en": "Large Fleshed Skin",
+                  "ja": "Large Fleshed Skin",
                   "AlternateNames": [
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 300,
-                          "y": 300
+                          "x": 400,
+                          "y": 400
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Fleshed Skin",
-                        "Text": "中块刮净的皮",
-                        "zh": "中块刮净的皮",
-                        "en": "Medium Fleshed Skin",
-                        "ja": "Medium Fleshed Skin"
+                        "DefaultText": "Large Fleshed Skin",
+                        "Text": "大块刮净的皮",
+                        "zh": "大块刮净的皮",
+                        "en": "Large Fleshed Skin",
+                        "ja": "Large Fleshed Skin"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 320,
-                          "y": 320
+                          "x": 420,
+                          "y": 420
                         }
                       },
                       "Name": {
-                        "DefaultText": "Fleshed Wolf Skin",
-                        "Text": "刮净的狼皮",
-                        "zh": "刮净的狼皮",
-                        "en": "Fleshed Wolf Skin",
-                        "ja": "Fleshed Wolf Skin"
+                        "DefaultText": "Fleshed Boar Skin",
+                        "Text": "刮净的野猪皮",
+                        "zh": "刮净的野猪皮",
+                        "en": "Fleshed Boar Skin",
+                        "ja": "Fleshed Boar Skin"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 330,
-                          "y": 330
+                          "x": 430,
+                          "y": 430
                         }
                       },
                       "Name": {
-                        "DefaultText": "Fleshed Moontouched Skin",
-                        "Text": "刮净的月触兽皮",
-                        "zh": "刮净的月触兽皮",
-                        "en": "Fleshed Moontouched Skin",
-                        "ja": "Fleshed Moontouched Skin"
+                        "DefaultText": "Fleshed Doe Skin",
+                        "Text": "刮净的母鹿皮",
+                        "zh": "刮净的母鹿皮",
+                        "en": "Fleshed Doe Skin",
+                        "ja": "Fleshed Doe Skin"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 340,
-                          "y": 340
+                          "x": 440,
+                          "y": 440
                         }
                       },
                       "Name": {
-                        "DefaultText": "Fleshed Primeval Wolf Skin",
-                        "Text": "刮净的原初狼皮",
-                        "zh": "刮净的原初狼皮",
-                        "en": "Fleshed Primeval Wolf Skin",
-                        "ja": "Fleshed Primeval Wolf Skin"
+                        "DefaultText": "Fleshed Stag Skin",
+                        "Text": "刮净的公鹿皮",
+                        "zh": "刮净的公鹿皮",
+                        "en": "Fleshed Stag Skin",
+                        "ja": "Fleshed Stag Skin"
+                      }
+                    },
+                    {
+                      "Conditions": {
+                        "Special4Range": {
+                          "x": 450,
+                          "y": 450
+                        }
+                      },
+                      "Name": {
+                        "DefaultText": "Fleshed Calf Skin",
+                        "Text": "刮净的小牛皮",
+                        "zh": "刮净的小牛皮",
+                        "en": "Fleshed Calf Skin",
+                        "ja": "Fleshed Calf Skin"
                       }
                     }
                   ]
                 },
                 "to": {
-                  "key": "SkinLeatherMedium",
-                  "icon": "Skin_Leather_Medium",
+                  "key": "SkinLeatherLarge",
+                  "icon": "Skin_Leather_Large",
                   "type": "card",
                   "CardType": 0,
-                  "zh": "中块皮革",
-                  "en": "Medium Leather",
-                  "ja": "Medium Leather",
+                  "zh": "大块皮革",
+                  "en": "Large Leather",
+                  "ja": "Large Leather",
                   "AlternateNames": [
                     {
                       "Conditions": {
@@ -41820,16 +41930,16 @@
                           "y": 49
                         },
                         "Special4Range": {
-                          "x": 300,
-                          "y": 300
+                          "x": 400,
+                          "y": 400
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
+                        "DefaultText": "Large Leather",
+                        "Text": "大块皮革",
+                        "zh": "大块皮革",
+                        "en": "Large Leather",
+                        "ja": "Large Leather"
                       }
                     },
                     {
@@ -41839,16 +41949,16 @@
                           "y": 100
                         },
                         "Special4Range": {
-                          "x": 300,
-                          "y": 300
+                          "x": 400,
+                          "y": 400
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
+                        "DefaultText": "Large Leather",
+                        "Text": "大块皮革",
+                        "zh": "大块皮革",
+                        "en": "Large Leather",
+                        "ja": "Large Leather"
                       }
                     },
                     {
@@ -41858,16 +41968,16 @@
                           "y": 49
                         },
                         "Special4Range": {
-                          "x": 310,
-                          "y": 310
+                          "x": 410,
+                          "y": 410
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
+                        "DefaultText": "Large Patched Leather",
+                        "Text": "大块缝补皮革",
+                        "zh": "大块缝补皮革",
+                        "en": "Large Patched Leather",
+                        "ja": "Large Patched Leather"
                       }
                     },
                     {
@@ -41877,61 +41987,76 @@
                           "y": 100
                         },
                         "Special4Range": {
-                          "x": 310,
-                          "y": 310
+                          "x": 410,
+                          "y": 410
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
+                        "DefaultText": "Large Patched Leather",
+                        "Text": "大块缝补皮革",
+                        "zh": "大块缝补皮革",
+                        "en": "Large Patched Leather",
+                        "ja": "Large Patched Leather"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 320,
-                          "y": 320
+                          "x": 420,
+                          "y": 420
                         }
                       },
                       "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
+                        "DefaultText": "Boar Leather",
+                        "Text": "野猪皮革",
+                        "zh": "野猪皮革",
+                        "en": "Boar Leather",
+                        "ja": "Boar Leather"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 330,
-                          "y": 330
+                          "x": 430,
+                          "y": 430
                         }
                       },
                       "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
+                        "DefaultText": "Doe Leather",
+                        "Text": "母鹿皮革",
+                        "zh": "母鹿皮革",
+                        "en": "Doe Leather",
+                        "ja": "Doe Leather"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 340,
-                          "y": 340
+                          "x": 440,
+                          "y": 440
                         }
                       },
                       "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
+                        "DefaultText": "Stag Leather",
+                        "Text": "公鹿皮革",
+                        "zh": "公鹿皮革",
+                        "en": "Stag Leather",
+                        "ja": "Stag Leather"
+                      }
+                    },
+                    {
+                      "Conditions": {
+                        "Special4Range": {
+                          "x": 450,
+                          "y": 450
+                        }
+                      },
+                      "Name": {
+                        "DefaultText": "Calf Leather",
+                        "Text": "小牛皮革",
+                        "zh": "小牛皮革",
+                        "en": "Calf Leather",
+                        "ja": "Calf Leather"
                       }
                     }
                   ]
@@ -41945,13 +42070,13 @@
               },
               {
                 "from": {
-                  "key": "SkinLeatherMedium",
-                  "icon": "Skin_Leather_Medium",
+                  "key": "SkinLeatherLarge",
+                  "icon": "Skin_Leather_Large",
                   "type": "card",
                   "CardType": 0,
-                  "zh": "中块皮革",
-                  "en": "Medium Leather",
-                  "ja": "Medium Leather",
+                  "zh": "大块皮革",
+                  "en": "Large Leather",
+                  "ja": "Large Leather",
                   "AlternateNames": [
                     {
                       "Conditions": {
@@ -41960,16 +42085,16 @@
                           "y": 49
                         },
                         "Special4Range": {
-                          "x": 300,
-                          "y": 300
+                          "x": 400,
+                          "y": 400
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
+                        "DefaultText": "Large Leather",
+                        "Text": "大块皮革",
+                        "zh": "大块皮革",
+                        "en": "Large Leather",
+                        "ja": "Large Leather"
                       }
                     },
                     {
@@ -41979,16 +42104,16 @@
                           "y": 100
                         },
                         "Special4Range": {
-                          "x": 300,
-                          "y": 300
+                          "x": 400,
+                          "y": 400
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
+                        "DefaultText": "Large Leather",
+                        "Text": "大块皮革",
+                        "zh": "大块皮革",
+                        "en": "Large Leather",
+                        "ja": "Large Leather"
                       }
                     },
                     {
@@ -41998,16 +42123,16 @@
                           "y": 49
                         },
                         "Special4Range": {
-                          "x": 310,
-                          "y": 310
+                          "x": 410,
+                          "y": 410
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
+                        "DefaultText": "Large Patched Leather",
+                        "Text": "大块缝补皮革",
+                        "zh": "大块缝补皮革",
+                        "en": "Large Patched Leather",
+                        "ja": "Large Patched Leather"
                       }
                     },
                     {
@@ -42017,394 +42142,105 @@
                           "y": 100
                         },
                         "Special4Range": {
-                          "x": 310,
-                          "y": 310
+                          "x": 410,
+                          "y": 410
                         }
                       },
                       "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
+                        "DefaultText": "Large Patched Leather",
+                        "Text": "大块缝补皮革",
+                        "zh": "大块缝补皮革",
+                        "en": "Large Patched Leather",
+                        "ja": "Large Patched Leather"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 320,
-                          "y": 320
+                          "x": 420,
+                          "y": 420
                         }
                       },
                       "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
+                        "DefaultText": "Boar Leather",
+                        "Text": "野猪皮革",
+                        "zh": "野猪皮革",
+                        "en": "Boar Leather",
+                        "ja": "Boar Leather"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 330,
-                          "y": 330
+                          "x": 430,
+                          "y": 430
                         }
                       },
                       "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
+                        "DefaultText": "Doe Leather",
+                        "Text": "母鹿皮革",
+                        "zh": "母鹿皮革",
+                        "en": "Doe Leather",
+                        "ja": "Doe Leather"
                       }
                     },
                     {
                       "Conditions": {
                         "Special4Range": {
-                          "x": 340,
-                          "y": 340
+                          "x": 440,
+                          "y": 440
                         }
                       },
                       "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
+                        "DefaultText": "Stag Leather",
+                        "Text": "公鹿皮革",
+                        "zh": "公鹿皮革",
+                        "en": "Stag Leather",
+                        "ja": "Stag Leather"
+                      }
+                    },
+                    {
+                      "Conditions": {
+                        "Special4Range": {
+                          "x": 450,
+                          "y": 450
+                        }
+                      },
+                      "Name": {
+                        "DefaultText": "Calf Leather",
+                        "Text": "小牛皮革",
+                        "zh": "小牛皮革",
+                        "en": "Calf Leather",
+                        "ja": "Calf Leather"
                       }
                     }
                   ]
                 },
                 "to": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
+                  "key": "Bp_PatchedLeatherVeryLarge",
+                  "icon": "Skin_Leather_VeryLarge",
                   "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
+                  "CardType": 7,
+                  "zh": "特大块缝补皮革",
+                  "en": "Very Large Patched Leather",
+                  "ja": "Very Large Patched Leather"
                 },
                 "method": {
-                  "zh": "动作：放置",
-                  "en": "Action: Place",
-                  "ja": "アクション：Place"
+                  "zh": "蓝图",
+                  "en": "Blueprint",
+                  "ja": "ブループリント"
                 },
                 "otherCards": []
               },
               {
                 "from": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
+                  "key": "Bp_PatchedLeatherVeryLarge",
+                  "icon": "Skin_Leather_VeryLarge",
                   "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
+                  "CardType": 7,
+                  "zh": "特大块缝补皮革",
+                  "en": "Very Large Patched Leather",
+                  "ja": "Very Large Patched Leather"
                 },
                 "to": {
                   "key": "SkinLeatherVeryLarge",
@@ -42539,9 +42375,9 @@
                   ]
                 },
                 "method": {
-                  "zh": "动作：拿起",
-                  "en": "Action: Pick Up",
-                  "ja": "アクション：Pick Up"
+                  "zh": "蓝图制作",
+                  "en": "Blueprint",
+                  "ja": "ブループリント"
                 },
                 "otherCards": []
               },
@@ -42764,1208 +42600,6 @@
                   "zh": "蓝图制作",
                   "en": "Blueprint",
                   "ja": "ブループリント"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "FurFresh",
-                  "icon": "Fur_Fresh",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "新鲜毛皮",
-                  "en": "Fresh Fur",
-                  "ja": "新しい毛皮",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 100,
-                          "y": 100
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Fur Scraps",
-                        "Text": "新鲜毛皮碎料",
-                        "zh": "新鲜毛皮碎料",
-                        "en": "Fresh Fur Scraps",
-                        "ja": "Fresh Fur Scraps"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 120,
-                          "y": 120
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Squirrel Fur",
-                        "Text": "新鲜松鼠皮",
-                        "zh": "新鲜松鼠皮",
-                        "en": "Fresh Squirrel Fur",
-                        "ja": "Fresh Squirrel Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 200,
-                          "y": 200
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Small Fresh Fur",
-                        "Text": "小块新鲜毛皮",
-                        "zh": "小块新鲜毛皮",
-                        "en": "Small Fresh Fur",
-                        "ja": "Small Fresh Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 220,
-                          "y": 220
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Fox Fur",
-                        "Text": "新鲜狐狸皮",
-                        "zh": "新鲜狐狸皮",
-                        "en": "Fresh Fox Fur",
-                        "ja": "Fresh Fox Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 230,
-                          "y": 230
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Hare Fur",
-                        "Text": "新鲜野兔毛皮",
-                        "zh": "新鲜野兔毛皮",
-                        "en": "Fresh Hare Fur",
-                        "ja": "Fresh Hare Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 240,
-                          "y": 240
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Hare Fur",
-                        "Text": "新鲜野兔毛皮",
-                        "zh": "新鲜野兔毛皮",
-                        "en": "Fresh Hare Fur",
-                        "ja": "Fresh Hare Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 250,
-                          "y": 250
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Beaver Fur",
-                        "Text": "新鲜河狸皮",
-                        "zh": "新鲜河狸皮",
-                        "en": "Fresh Beaver Fur",
-                        "ja": "Fresh Beaver Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 300,
-                          "y": 300
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Fresh Fur",
-                        "Text": "中块新鲜毛皮",
-                        "zh": "中块新鲜毛皮",
-                        "en": "Medium Fresh Fur",
-                        "ja": "Medium Fresh Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Wolf Fur",
-                        "Text": "新鲜狼皮",
-                        "zh": "新鲜狼皮",
-                        "en": "Fresh Wolf Fur",
-                        "ja": "Fresh Wolf Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Moontouched Fur",
-                        "Text": "新鲜月兽毛皮",
-                        "zh": "新鲜月兽毛皮",
-                        "en": "Fresh Moontouched Fur",
-                        "ja": "Fresh Moontouched Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Primeval Wolf Fur",
-                        "Text": "新鲜原初之狼毛皮",
-                        "zh": "新鲜原初之狼毛皮",
-                        "en": "Fresh Primeval Wolf Fur",
-                        "ja": "Fresh Primeval Wolf Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Fresh Fur",
-                        "Text": "大块新鲜毛皮",
-                        "zh": "大块新鲜毛皮",
-                        "en": "Large Fresh Fur",
-                        "ja": "Large Fresh Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 500,
-                          "y": 500
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Fresh Very",
-                        "Text": "特大块新鲜毛皮",
-                        "zh": "特大块新鲜毛皮",
-                        "en": "Very Large Fresh Very",
-                        "ja": "Very Large Fresh Very"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Bear Fur",
-                        "Text": "新鲜熊皮",
-                        "zh": "新鲜熊皮",
-                        "en": "Fresh Bear Fur",
-                        "ja": "Fresh Bear Fur"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fresh Forest Beast Fur",
-                        "Text": "新鲜森林猛兽毛皮",
-                        "zh": "新鲜森林猛兽毛皮",
-                        "en": "Fresh Forest Beast Fur",
-                        "ja": "Fresh Forest Beast Fur"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinFleshedLarge",
-                  "icon": "Skin_Cured",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块刮净的皮",
-                  "en": "Large Fleshed Skin",
-                  "ja": "Large Fleshed Skin",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Fleshed Skin",
-                        "Text": "大块刮净的皮",
-                        "zh": "大块刮净的皮",
-                        "en": "Large Fleshed Skin",
-                        "ja": "Large Fleshed Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Boar Skin",
-                        "Text": "刮净的野猪皮",
-                        "zh": "刮净的野猪皮",
-                        "en": "Fleshed Boar Skin",
-                        "ja": "Fleshed Boar Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Doe Skin",
-                        "Text": "刮净的母鹿皮",
-                        "zh": "刮净的母鹿皮",
-                        "en": "Fleshed Doe Skin",
-                        "ja": "Fleshed Doe Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Stag Skin",
-                        "Text": "刮净的公鹿皮",
-                        "zh": "刮净的公鹿皮",
-                        "en": "Fleshed Stag Skin",
-                        "ja": "Fleshed Stag Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Calf Skin",
-                        "Text": "刮净的小牛皮",
-                        "zh": "刮净的小牛皮",
-                        "en": "Fleshed Calf Skin",
-                        "ja": "Fleshed Calf Skin"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "DefaultText": "Flesh Fur",
-                  "Text": "刮毛皮",
-                  "zh": "刮毛皮",
-                  "en": "Flesh Fur",
-                  "ja": "新しい毛皮"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinFleshedLarge",
-                  "icon": "Skin_Cured",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块刮净的皮",
-                  "en": "Large Fleshed Skin",
-                  "ja": "Large Fleshed Skin",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Fleshed Skin",
-                        "Text": "大块刮净的皮",
-                        "zh": "大块刮净的皮",
-                        "en": "Large Fleshed Skin",
-                        "ja": "Large Fleshed Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Boar Skin",
-                        "Text": "刮净的野猪皮",
-                        "zh": "刮净的野猪皮",
-                        "en": "Fleshed Boar Skin",
-                        "ja": "Fleshed Boar Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Doe Skin",
-                        "Text": "刮净的母鹿皮",
-                        "zh": "刮净的母鹿皮",
-                        "en": "Fleshed Doe Skin",
-                        "ja": "Fleshed Doe Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Stag Skin",
-                        "Text": "刮净的公鹿皮",
-                        "zh": "刮净的公鹿皮",
-                        "en": "Fleshed Stag Skin",
-                        "ja": "Fleshed Stag Skin"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Fleshed Calf Skin",
-                        "Text": "刮净的小牛皮",
-                        "zh": "刮净的小牛皮",
-                        "en": "Fleshed Calf Skin",
-                        "ja": "Fleshed Calf Skin"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherLarge",
-                  "icon": "Skin_Leather_Large",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块皮革",
-                  "en": "Large Leather",
-                  "ja": "Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "进度 达到最大",
-                  "en": "Progress Full",
-                  "ja": " フル"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinLeatherLarge",
-                  "icon": "Skin_Leather_Large",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块皮革",
-                  "en": "Large Leather",
-                  "ja": "Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "Bp_PatchedLeatherVeryLarge",
-                  "icon": "Skin_Leather_VeryLarge",
-                  "type": "card",
-                  "CardType": 7,
-                  "zh": "特大块缝补皮革",
-                  "en": "Very Large Patched Leather",
-                  "ja": "Very Large Patched Leather"
-                },
-                "method": {
-                  "zh": "蓝图",
-                  "en": "Blueprint",
-                  "ja": "ブループリント"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "Bp_PatchedLeatherVeryLarge",
-                  "icon": "Skin_Leather_VeryLarge",
-                  "type": "card",
-                  "CardType": 7,
-                  "zh": "特大块缝补皮革",
-                  "en": "Very Large Patched Leather",
-                  "ja": "Very Large Patched Leather"
-                },
-                "to": {
-                  "key": "SkinLeatherVeryLarge",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "特大块皮革",
-                  "en": "Very Large Leather",
-                  "ja": "Very Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 500,
-                          "y": 500
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Leather",
-                        "Text": "特大块皮革",
-                        "zh": "特大块皮革",
-                        "en": "Very Large Leather",
-                        "ja": "Very Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 500,
-                          "y": 500
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Leather",
-                        "Text": "特大块皮革",
-                        "zh": "特大块皮革",
-                        "en": "Very Large Leather",
-                        "ja": "Very Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 510,
-                          "y": 510
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Patched Leather",
-                        "Text": "特大块缝补皮革",
-                        "zh": "特大块缝补皮革",
-                        "en": "Very Large Patched Leather",
-                        "ja": "Very Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 510,
-                          "y": 510
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Patched Leather",
-                        "Text": "特大块缝补皮革",
-                        "zh": "特大块缝补皮革",
-                        "en": "Very Large Patched Leather",
-                        "ja": "Very Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "蓝图制作",
-                  "en": "Blueprint",
-                  "ja": "ブループリント"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinLeatherLarge",
-                  "icon": "Skin_Leather_Large",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块皮革",
-                  "en": "Large Leather",
-                  "ja": "Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "动作：放置",
-                  "en": "Action: Place",
-                  "ja": "アクション：Place"
                 },
                 "otherCards": []
               },
@@ -45588,623 +44222,6 @@
               },
               {
                 "from": {
-                  "key": "SkinLeatherMedium",
-                  "icon": "Skin_Leather_Medium",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "中块皮革",
-                  "en": "Medium Leather",
-                  "ja": "Medium Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 300,
-                          "y": 300
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 300,
-                          "y": 300
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 310,
-                          "y": 310
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 310,
-                          "y": 310
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "动作：放置",
-                  "en": "Action: Place",
-                  "ja": "アクション：Place"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherLarge",
-                  "icon": "Skin_Leather_Large",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块皮革",
-                  "en": "Large Leather",
-                  "ja": "Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "动作：拿起",
-                  "en": "Action: Pick Up",
-                  "ja": "アクション：Pick Up"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
                   "key": "FurFresh",
                   "icon": "Fur_Fresh",
                   "type": "card",
@@ -47301,307 +45318,6 @@
                   "zh": "进度 达到最大",
                   "en": "Progress Full",
                   "ja": " フル"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinLeatherVeryLarge",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "特大块皮革",
-                  "en": "Very Large Leather",
-                  "ja": "Very Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 500,
-                          "y": 500
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Leather",
-                        "Text": "特大块皮革",
-                        "zh": "特大块皮革",
-                        "en": "Very Large Leather",
-                        "ja": "Very Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 500,
-                          "y": 500
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Leather",
-                        "Text": "特大块皮革",
-                        "zh": "特大块皮革",
-                        "en": "Very Large Leather",
-                        "ja": "Very Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 510,
-                          "y": 510
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Patched Leather",
-                        "Text": "特大块缝补皮革",
-                        "zh": "特大块缝补皮革",
-                        "en": "Very Large Patched Leather",
-                        "ja": "Very Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 510,
-                          "y": 510
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Very Large Patched Leather",
-                        "Text": "特大块缝补皮革",
-                        "zh": "特大块缝补皮革",
-                        "en": "Very Large Patched Leather",
-                        "ja": "Very Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "动作：放置",
-                  "en": "Action: Place",
-                  "ja": "アクション：Place"
                 },
                 "otherCards": []
               },
@@ -50459,623 +48175,6 @@
                   "zh": "蓝图制作",
                   "en": "Blueprint",
                   "ja": "ブループリント"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinLeatherLarge",
-                  "icon": "Skin_Leather_Large",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "大块皮革",
-                  "en": "Large Leather",
-                  "ja": "Large Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 400,
-                          "y": 400
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Leather",
-                        "Text": "大块皮革",
-                        "zh": "大块皮革",
-                        "en": "Large Leather",
-                        "ja": "Large Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 410,
-                          "y": 410
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Large Patched Leather",
-                        "Text": "大块缝补皮革",
-                        "zh": "大块缝补皮革",
-                        "en": "Large Patched Leather",
-                        "ja": "Large Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "动作：放置",
-                  "en": "Action: Place",
-                  "ja": "アクション：Place"
-                },
-                "otherCards": []
-              },
-              {
-                "from": {
-                  "key": "SkinLeatherPlaced",
-                  "icon": "Skin_Leather",
-                  "type": "card",
-                  "CardType": 2,
-                  "zh": "皮革",
-                  "en": "Leather",
-                  "ja": "Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 420,
-                          "y": 420
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Boar Leather",
-                        "Text": "野猪皮革",
-                        "zh": "野猪皮革",
-                        "en": "Boar Leather",
-                        "ja": "Boar Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 430,
-                          "y": 430
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Doe Leather",
-                        "Text": "母鹿皮革",
-                        "zh": "母鹿皮革",
-                        "en": "Doe Leather",
-                        "ja": "Doe Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 440,
-                          "y": 440
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Stag Leather",
-                        "Text": "公鹿皮革",
-                        "zh": "公鹿皮革",
-                        "en": "Stag Leather",
-                        "ja": "Stag Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 450,
-                          "y": 450
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Calf Leather",
-                        "Text": "小牛皮革",
-                        "zh": "小牛皮革",
-                        "en": "Calf Leather",
-                        "ja": "Calf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 520,
-                          "y": 520
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Bear Leather",
-                        "Text": "熊皮革",
-                        "zh": "熊皮革",
-                        "en": "Bear Leather",
-                        "ja": "Bear Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 530,
-                          "y": 530
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Forest Beast Leather",
-                        "Text": "森林猛兽皮革",
-                        "zh": "森林猛兽皮革",
-                        "en": "Forest Beast Leather",
-                        "ja": "Forest Beast Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 540,
-                          "y": 540
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Cow Leather",
-                        "Text": "牛皮革",
-                        "zh": "牛皮革",
-                        "en": "Cow Leather",
-                        "ja": "Cow Leather"
-                      }
-                    }
-                  ]
-                },
-                "to": {
-                  "key": "SkinLeatherMedium",
-                  "icon": "Skin_Leather_Medium",
-                  "type": "card",
-                  "CardType": 0,
-                  "zh": "中块皮革",
-                  "en": "Medium Leather",
-                  "ja": "Medium Leather",
-                  "AlternateNames": [
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 300,
-                          "y": 300
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 300,
-                          "y": 300
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Leather",
-                        "Text": "中块皮革",
-                        "zh": "中块皮革",
-                        "en": "Medium Leather",
-                        "ja": "Medium Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 0,
-                          "y": 49
-                        },
-                        "Special4Range": {
-                          "x": 310,
-                          "y": 310
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special1Range": {
-                          "x": 50,
-                          "y": 100
-                        },
-                        "Special4Range": {
-                          "x": 310,
-                          "y": 310
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Medium Patched Leather",
-                        "Text": "中块缝补皮革",
-                        "zh": "中块缝补皮革",
-                        "en": "Medium Patched Leather",
-                        "ja": "Medium Patched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 320,
-                          "y": 320
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Wolf Leather",
-                        "Text": "狼皮革",
-                        "zh": "狼皮革",
-                        "en": "Wolf Leather",
-                        "ja": "Wolf Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 330,
-                          "y": 330
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Moontouched Leather",
-                        "Text": "月触皮革",
-                        "zh": "月触皮革",
-                        "en": "Moontouched Leather",
-                        "ja": "Moontouched Leather"
-                      }
-                    },
-                    {
-                      "Conditions": {
-                        "Special4Range": {
-                          "x": 340,
-                          "y": 340
-                        }
-                      },
-                      "Name": {
-                        "DefaultText": "Primeval Wolf Leather",
-                        "Text": "原初狼皮革",
-                        "zh": "原初狼皮革",
-                        "en": "Primeval Wolf Leather",
-                        "ja": "Primeval Wolf Leather"
-                      }
-                    }
-                  ]
-                },
-                "method": {
-                  "zh": "动作：拿起",
-                  "en": "Action: Pick Up",
-                  "ja": "アクション：Pick Up"
                 },
                 "otherCards": []
               },

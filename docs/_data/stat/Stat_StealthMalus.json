@@ -7,7 +7,7 @@
   "zh_fix": "暴露风险",
   "en": "Stealth Malus",
   "ja": "Stealth Malus",
-  "UniqueIDIndex": 4263,
+  "UniqueIDIndex": 4273,
   "GameName": {
     "DefaultText": "Stealth Malus",
     "Text": "Stealth Malus",
@@ -5464,7 +5464,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5487,7 +5487,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5510,7 +5510,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5533,7 +5533,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

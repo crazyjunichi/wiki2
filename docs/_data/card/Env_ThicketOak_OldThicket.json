@@ -6,7 +6,7 @@
   "zh": "古寂丛林",
   "en": "Old Thicket",
   "ja": "Old Thicket",
-  "UniqueIDIndex": 129,
+  "UniqueIDIndex": 130,
   "CardType": 4,
   "CardTags": [
     {
@@ -2293,6 +2293,22 @@
         "zh": "动作：西方",
         "en": "Action: West",
         "ja": "アクション：West"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Old Thicket",
+        "en": "Action: Old Thicket",
+        "ja": "アクション：Old Thicket"
       }
     }
   ],

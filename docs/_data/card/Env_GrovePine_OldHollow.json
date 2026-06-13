@@ -3225,6 +3225,22 @@
         "en": "Action: Exit",
         "ja": "アクション：Exit"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Old Hollow",
+        "en": "Action: Old Hollow",
+        "ja": "アクション：Old Hollow"
+      }
     }
   ],
   "_useFor": [

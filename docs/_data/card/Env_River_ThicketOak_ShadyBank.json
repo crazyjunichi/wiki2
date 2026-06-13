@@ -6,7 +6,7 @@
   "zh": "幽荫河畔",
   "en": "Shady Bank",
   "ja": "薄暗い川岸",
-  "UniqueIDIndex": 120,
+  "UniqueIDIndex": 121,
   "CardType": 4,
   "CardTags": [
     {
@@ -2610,6 +2610,22 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：北"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Shady Bank",
+        "en": "Action: Shady Bank",
+        "ja": "アクション：Shady Bank"
       }
     }
   ],

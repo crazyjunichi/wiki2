@@ -195,11 +195,11 @@
     "RequiredAlreadyVisitedEnvironments": []
   },
   "Line": {
-    "DefaultText": "He thanks you and says a new trader will join him on his next visit.",
-    "Text": "他向你道谢，并说下次来访时会有一位新商人与他同行。",
-    "zh": "他向你道谢，并说下次来访时会有一位新商人与他同行。",
-    "en": "He thanks you and says a new trader will join him on his next visit.",
-    "ja": "He thanks you and says a new trader will join him on his next visit."
+    "DefaultText": "The man looks up, measuring you.",
+    "Text": "男人抬头看着你，像是在衡量你。",
+    "zh": "男人抬头看着你，像是在衡量你。",
+    "en": "The man looks up, measuring you.",
+    "ja": "The man looks up, measuring you."
   },
   "OverrideSpeakerName": {
     "Active": false,
@@ -490,11 +490,11 @@
         "RequiredAlreadyVisitedEnvironments": []
       },
       "Answer": {
-        "DefaultText": "Continue",
-        "Text": "继续",
-        "zh": "继续",
-        "en": "Continue",
-        "ja": "Continue"
+        "DefaultText": "Approach cautiously",
+        "Text": "谨慎接触",
+        "zh": "谨慎接触",
+        "en": "Approach cautiously",
+        "ja": "Approach cautiously"
       },
       "OverrideSpeakerName": {
         "Active": false,
@@ -583,7 +583,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "42ceede610e6053498ba43292e3d0684",
-              "UniqueIDIndex": 4055
+              "UniqueIDIndex": 4065
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,
@@ -605,13 +605,267 @@
         "Ticks": 0,
         "Miniticks": 0
       }
+    },
+    {
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredNOTContainerTags": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "Answer": {
+        "DefaultText": "Leave the man alone",
+        "Text": "让他一个人待会儿。",
+        "zh": "让他一个人待会儿。",
+        "en": "Leave the man alone",
+        "ja": "Leave the man alone"
+      },
+      "OverrideSpeakerName": {
+        "Active": false,
+        "Text": {
+          "DefaultText": "",
+          "Text": "",
+          "zh": "",
+          "en": "",
+          "ja": ""
+        }
+      },
+      "Duration": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "TextSettings": {
+        "Active": false,
+        "Bold": false,
+        "Italics": false,
+        "Underlined": false
+      },
+      "TextAlignment": {
+        "Active": false,
+        "Alignment": 0
+      },
+      "TextColor": {
+        "Active": false,
+        "ColorValue": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        }
+      },
+      "ScreenShake": false,
+      "SoundEffects": [],
+      "NewNextLine": {
+        "NextStep": 2,
+        "NextLine": null,
+        "NextScene": null,
+        "DontClearHistory": false
+      },
+      "ActionToPerform": {
+        "StatModifications": [],
+        "NPCStatModifications": [],
+        "DroppedCards": [],
+        "BlueprintsFullUnlock": [],
+        "AffectCards": [],
+        "StartCombatEncounter": null,
+        "SkipEncounterEvent": false,
+        "OverrideEncounterNPC": false,
+        "EncounterNPC": null,
+        "StartTrading": false,
+        "SpendTicks": false,
+        "Ticks": 0,
+        "Miniticks": 0
+      }
     }
   ],
   "ownerDialogScene": {
-    "key": "TraderIntroGeneralCommissionComplete",
-    "zh": "TraderIntroGeneralCommissionComplete",
-    "en": "TraderIntroGeneralCommissionComplete",
-    "ja": "TraderIntroGeneralCommissionComplete",
+    "key": "TraderIntroMetal",
+    "zh": "TraderIntroMetal",
+    "en": "TraderIntroMetal",
+    "ja": "TraderIntroMetal",
     "icon": "",
     "type": "dialog"
   },

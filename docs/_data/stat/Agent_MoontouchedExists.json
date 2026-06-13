@@ -7,7 +7,7 @@
   "zh_fix": "月兽存在",
   "en": "Moontouched Exists",
   "ja": "Moontouched Exists",
-  "UniqueIDIndex": 2779,
+  "UniqueIDIndex": 2787,
   "GameName": {
     "DefaultText": "Moontouched Exists",
     "Text": "Moontouched Exists",
@@ -129,9 +129,9 @@
         "ja": "Moontouched"
       },
       "localization": {
-        "zh": "Spawn into the World_1",
-        "en": "Spawn into the World_1",
-        "ja": "Spawn into the World_1"
+        "zh": "Spawn into the Moontouched World_1",
+        "en": "Spawn into the Moontouched World_1",
+        "ja": "Spawn into the Moontouched World_1"
       },
       "value": {
         "x": 1,

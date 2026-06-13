@@ -6,7 +6,7 @@
   "zh": "饱食度",
   "en": "Satiation",
   "ja": "飽き",
-  "UniqueIDIndex": 4033,
+  "UniqueIDIndex": 4043,
   "GameName": {
     "DefaultText": "Satiation",
     "Text": "饱食度",
@@ -3555,7 +3555,7 @@
         "ja": "妖精茶"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
         "ja": "アクション：Drink"
       },
@@ -3576,7 +3576,7 @@
         "ja": "妖精茶"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
         "ja": "アクション：Drink"
       },
@@ -4894,9 +4894,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       },
       "value": {
         "x": 10,
@@ -4915,9 +4915,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       },
       "value": {
         "x": 0,

@@ -6,7 +6,7 @@
   "zh": "治疗伤口",
   "en": "Treating Wounds",
   "ja": "Treating Wounds",
-  "UniqueIDIndex": 4487,
+  "UniqueIDIndex": 4497,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Wash your Wounds",
         "ja": "Wash your Wounds",
         "UniqueID": "661ac7fe3bacd254b85033b6e61711ef",
-        "UniqueIDIndex": 4490,
+        "UniqueIDIndex": 4500,
         "StartUnlocked": false,
         "ActionObjectives": [
           {
@@ -223,7 +223,7 @@
         "en": "Equip Healers Moss or cut Fresh Bracket Fungus Strips on a Wound",
         "ja": "Equip Healers Moss or cut Fresh Bracket Fungus Strips on a Wound",
         "UniqueID": "cfb3394165d0a194894e6b15af17465e",
-        "UniqueIDIndex": 4491,
+        "UniqueIDIndex": 4501,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1140,7 +1140,7 @@
         "en": "Research and Craft Pine Salves",
         "ja": "Research and Craft Pine Salves",
         "UniqueID": "3c6e11c7fccd47e4ea2b98b7b65cf751",
-        "UniqueIDIndex": 4492,
+        "UniqueIDIndex": 4502,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1354,7 +1354,7 @@
         "en": "Apply Salves or Ointments to a Wound",
         "ja": "Apply Salves or Ointments to a Wound",
         "UniqueID": "87c20b915c3b3e147a91f694e5be41fb",
-        "UniqueIDIndex": 4493,
+        "UniqueIDIndex": 4503,
         "StartUnlocked": false,
         "ActionObjectives": [
           {

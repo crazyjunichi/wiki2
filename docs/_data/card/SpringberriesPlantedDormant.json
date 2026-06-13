@@ -6,7 +6,7 @@
   "zh": "休眠的春莓丛",
   "en": "Dormant Springberry Bush",
   "ja": "休眠してるビルベリーブッシュ",
-  "UniqueIDIndex": 2366,
+  "UniqueIDIndex": 2367,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

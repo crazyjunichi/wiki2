@@ -2097,6 +2097,22 @@
         "en": "Action: North",
         "ja": "アクション：North"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Old Grove",
+        "en": "Action: Old Grove",
+        "ja": "アクション：Old Grove"
+      }
     }
   ],
   "_useFor": [

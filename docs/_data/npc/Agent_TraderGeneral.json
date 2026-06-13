@@ -5,7 +5,7 @@
   "zh": "商人",
   "en": "Trader",
   "ja": "商人",
-  "UniqueIDIndex": 2791,
+  "UniqueIDIndex": 2799,
   "AgentName": {
     "DefaultText": "Trader",
     "Text": "商人",
@@ -61,7 +61,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "f361a98afe344ba4aab2b00a7412fb08",
-        "UniqueIDIndex": 3073
+        "UniqueIDIndex": 3082
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -124,7 +124,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "e404a2f165f845845856ce872fd2fd56",
-        "UniqueIDIndex": 2802
+        "UniqueIDIndex": 2810
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -187,7 +187,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "42ceede610e6053498ba43292e3d0684",
-        "UniqueIDIndex": 4055
+        "UniqueIDIndex": 4065
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -250,7 +250,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "f0b1b7a9bc04b5d488a30a66cbcaab5b",
-        "UniqueIDIndex": 4056
+        "UniqueIDIndex": 4066
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -370,7 +370,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "eeccbe55704197944a02a36405404c46",
-        "UniqueIDIndex": 3081
+        "UniqueIDIndex": 3090
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -433,7 +433,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-        "UniqueIDIndex": 3059
+        "UniqueIDIndex": 3068
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -496,7 +496,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-        "UniqueIDIndex": 3060
+        "UniqueIDIndex": 3069
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -559,7 +559,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-        "UniqueIDIndex": 3062
+        "UniqueIDIndex": 3071
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -622,7 +622,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-        "UniqueIDIndex": 3063
+        "UniqueIDIndex": 3072
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -685,7 +685,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "963621c873da688499b1a8ca7cf16f6f",
-        "UniqueIDIndex": 3064
+        "UniqueIDIndex": 3073
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -748,7 +748,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "03c369090e8759d4091a02845c852cff",
-        "UniqueIDIndex": 3065
+        "UniqueIDIndex": 3074
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -811,7 +811,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-        "UniqueIDIndex": 3061
+        "UniqueIDIndex": 3070
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -874,7 +874,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "e88093d49e13f3749b57bf97d0b3f3da",
-        "UniqueIDIndex": 2800
+        "UniqueIDIndex": 2808
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -937,7 +937,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "1cc9bc09c684bf646a6f917a56e2ef19",
-        "UniqueIDIndex": 2801
+        "UniqueIDIndex": 2809
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -1529,7 +1529,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "963621c873da688499b1a8ca7cf16f6f",
-                      "UniqueIDIndex": 3064
+                      "UniqueIDIndex": 3073
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -1741,7 +1741,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-                      "UniqueIDIndex": 3063
+                      "UniqueIDIndex": 3072
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -1957,7 +1957,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-                      "UniqueIDIndex": 3059
+                      "UniqueIDIndex": 3068
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -2171,7 +2171,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-                      "UniqueIDIndex": 3062
+                      "UniqueIDIndex": 3071
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -2383,7 +2383,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-                      "UniqueIDIndex": 3061
+                      "UniqueIDIndex": 3070
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -2681,7 +2681,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "03c369090e8759d4091a02845c852cff",
-                      "UniqueIDIndex": 3065
+                      "UniqueIDIndex": 3074
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -3456,7 +3456,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -3672,7 +3672,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -3888,7 +3888,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -4185,7 +4185,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -4405,7 +4405,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -7066,7 +7066,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-            "UniqueIDIndex": 3059
+            "UniqueIDIndex": 3068
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7111,7 +7111,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-            "UniqueIDIndex": 3060
+            "UniqueIDIndex": 3069
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7156,7 +7156,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-            "UniqueIDIndex": 3062
+            "UniqueIDIndex": 3071
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7201,7 +7201,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-            "UniqueIDIndex": 3063
+            "UniqueIDIndex": 3072
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7246,7 +7246,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "963621c873da688499b1a8ca7cf16f6f",
-            "UniqueIDIndex": 3064
+            "UniqueIDIndex": 3073
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7291,7 +7291,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "03c369090e8759d4091a02845c852cff",
-            "UniqueIDIndex": 3065
+            "UniqueIDIndex": 3074
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7336,7 +7336,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-            "UniqueIDIndex": 3061
+            "UniqueIDIndex": 3070
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -10030,7 +10030,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "963621c873da688499b1a8ca7cf16f6f",
-                      "UniqueIDIndex": 3064
+                      "UniqueIDIndex": 3073
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -10242,7 +10242,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-                      "UniqueIDIndex": 3063
+                      "UniqueIDIndex": 3072
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -10458,7 +10458,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-                      "UniqueIDIndex": 3059
+                      "UniqueIDIndex": 3068
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -10672,7 +10672,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-                      "UniqueIDIndex": 3062
+                      "UniqueIDIndex": 3071
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -10884,7 +10884,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-                      "UniqueIDIndex": 3061
+                      "UniqueIDIndex": 3070
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -11182,7 +11182,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "03c369090e8759d4091a02845c852cff",
-                      "UniqueIDIndex": 3065
+                      "UniqueIDIndex": 3074
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -11975,7 +11975,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -12191,7 +12191,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -12407,7 +12407,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -12704,7 +12704,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -12924,7 +12924,7 @@
                       "m_GameObject": null,
                       "m_Enabled": 1,
                       "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-                      "UniqueIDIndex": 3060
+                      "UniqueIDIndex": 3069
                     },
                     "UseAssociatedAgent": true,
                     "TargetAgent": null,
@@ -15603,7 +15603,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "5e0ee12c51032e0439d79378c62b5cfe",
-            "UniqueIDIndex": 3059
+            "UniqueIDIndex": 3068
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -15648,7 +15648,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "0531dff1b7cf2a24d825fd19bebc3d9d",
-            "UniqueIDIndex": 3060
+            "UniqueIDIndex": 3069
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -15693,7 +15693,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "d48814cf67eb50143ae082934c356d7d",
-            "UniqueIDIndex": 3062
+            "UniqueIDIndex": 3071
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -15738,7 +15738,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "0e961626ddf80944e9a33fee347bab69",
-            "UniqueIDIndex": 3063
+            "UniqueIDIndex": 3072
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -15783,7 +15783,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "963621c873da688499b1a8ca7cf16f6f",
-            "UniqueIDIndex": 3064
+            "UniqueIDIndex": 3073
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -15828,7 +15828,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "03c369090e8759d4091a02845c852cff",
-            "UniqueIDIndex": 3065
+            "UniqueIDIndex": 3074
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -15873,7 +15873,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "914f5aaf01cdfcc4c9580b525dd89b3f",
-            "UniqueIDIndex": 3061
+            "UniqueIDIndex": 3070
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -18237,7 +18237,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "42ceede610e6053498ba43292e3d0684",
-          "UniqueIDIndex": 4055
+          "UniqueIDIndex": 4065
         },
         "ConditionRange": {
           "x": 1,
@@ -18476,7 +18476,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "eeccbe55704197944a02a36405404c46",
-            "UniqueIDIndex": 3081
+            "UniqueIDIndex": 3090
           },
           "Modifier": {
             "Active": true,
@@ -18862,7 +18862,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "eeccbe55704197944a02a36405404c46",
-            "UniqueIDIndex": 3081
+            "UniqueIDIndex": 3090
           },
           "Modifier": {
             "Active": true,
@@ -18981,7 +18981,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "eeccbe55704197944a02a36405404c46",
-          "UniqueIDIndex": 3081
+          "UniqueIDIndex": 3090
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -19090,7 +19090,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "eeccbe55704197944a02a36405404c46",
-          "UniqueIDIndex": 3081
+          "UniqueIDIndex": 3090
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -19342,7 +19342,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "42ceede610e6053498ba43292e3d0684",
-              "UniqueIDIndex": 4055
+              "UniqueIDIndex": 4065
             },
             "ConditionRange": {
               "x": 0,
@@ -19604,7 +19604,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "42ceede610e6053498ba43292e3d0684",
-              "UniqueIDIndex": 4055
+              "UniqueIDIndex": 4065
             },
             "ConditionRange": {
               "x": 1,
@@ -19658,9 +19658,9 @@
       "icon": "Egg_Partridge",
       "type": "card",
       "CardType": 7,
-      "zh": "布衬衫",
+      "zh": "15 颗灰山鹑蛋",
       "en": "15 Partridge Eggs",
-      "ja": "シャツ（布）",
+      "ja": "15 Partridge Eggs",
       "SpoilageTime": {
         "Active": false,
         "CardStatName": {
@@ -19763,9 +19763,9 @@
       "icon": "CopperNugget",
       "type": "card",
       "CardType": 7,
-      "zh": "布衬衫",
+      "zh": "5 块铜块",
       "en": "5 Copper Nuggets",
-      "ja": "シャツ（布）",
+      "ja": "5 Copper Nuggets",
       "SpoilageTime": {
         "Active": false,
         "CardStatName": {

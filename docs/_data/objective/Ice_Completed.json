@@ -6,7 +6,7 @@
   "zh": "冰",
   "en": "Ice",
   "ja": "氷",
-  "UniqueIDIndex": 3659,
+  "UniqueIDIndex": 3669,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Make a Fishing Hole in the Ice",
         "ja": "氷に釣り穴を開ける",
         "UniqueID": "031f4c500ea37844fb00e0e9fddb125f",
-        "UniqueIDIndex": 3662,
+        "UniqueIDIndex": 3672,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -128,16 +128,16 @@
                 "MaxValue": 1000
               },
               "SpecialDurability4": {
-                "Active": false,
+                "Active": true,
                 "CardStatName": {
-                  "DefaultText": "",
-                  "Text": "SpecialDurability4",
-                  "zh": "特殊4",
-                  "en": "Special4",
-                  "ja": ""
+                  "DefaultText": "River Type",
+                  "Text": "River Type",
+                  "zh": "River Type",
+                  "en": "River Type",
+                  "ja": "River Type"
                 },
                 "OverrideIcon": null,
-                "MaxValue": 0
+                "MaxValue": 1000
               }
             },
             "Quantity": 1,
@@ -394,7 +394,7 @@
         "en": "Drink from a Fishing Hole",
         "ja": "釣り穴から水を飲む",
         "UniqueID": "adf74b81f4414d246a1f38fc06bb9ee6",
-        "UniqueIDIndex": 3663,
+        "UniqueIDIndex": 3673,
         "StartUnlocked": false,
         "ActionObjectives": [
           {
@@ -619,30 +619,30 @@
                 "MaxValue": 1000
               },
               "SpecialDurability4": {
-                "Active": false,
+                "Active": true,
                 "CardStatName": {
-                  "DefaultText": "",
-                  "Text": "SpecialDurability4",
-                  "zh": "特殊4",
-                  "en": "Special4",
-                  "ja": ""
+                  "DefaultText": "River Type",
+                  "Text": "River Type",
+                  "zh": "River Type",
+                  "en": "River Type",
+                  "ja": "River Type"
                 },
                 "OverrideIcon": null,
-                "MaxValue": 0
+                "MaxValue": 1000
               }
             },
             "OnCardWithTags": [],
             "WithActionTags": [],
-            "ActionName": "饮用",
+            "ActionName": "Drink",
             "OnActionStarted": true,
             "PerformMultipleTimes": 0,
             "DebugMode": false,
             "ActionNameText": {
               "DefaultText": "Drink",
-              "Text": "饮用",
-              "zh": "饮用",
+              "Text": "Drink",
+              "zh": "Drink",
               "en": "Drink",
-              "ja": "飲む"
+              "ja": "Drink"
             }
           }
         ],

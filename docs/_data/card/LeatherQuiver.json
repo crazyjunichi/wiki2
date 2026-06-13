@@ -6,7 +6,7 @@
   "zh": "箭筒",
   "en": "Quiver",
   "ja": "矢筒",
-  "UniqueIDIndex": 1588,
+  "UniqueIDIndex": 1589,
   "CardType": 0,
   "CardTags": [
     {
@@ -84,6 +84,126 @@
       "zh": "腰带",
       "en": "Belt",
       "ja": "ベルト"
+    },
+    {
+      "key": "tag_SpiritEnchantable",
+      "text": "“精魄附魔”",
+      "icon": "",
+      "type": "tag",
+      "count": 82,
+      "zh": "可容纳精魄",
+      "en": "Enchantable by Spirit",
+      "ja": "精霊でエンチャントできる",
+      "SpoilageTime": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Attunement",
+          "Text": "共鸣",
+          "zh": "共鸣",
+          "en": "Attunement",
+          "ja": "調和"
+        },
+        "OverrideIcon": {
+          "FileName": "Morale1"
+        },
+        "MaxValue": 672
+      },
+      "UsageDurability": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "",
+          "Text": "耐久",
+          "zh": "耐久",
+          "en": "Usage",
+          "ja": ""
+        },
+        "OverrideIcon": {
+          "FileName": "Spoilage"
+        },
+        "MaxValue": 11520
+      },
+      "FuelCapacity": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Wetness",
+          "Text": "湿度",
+          "zh": "湿度",
+          "en": "Wetness",
+          "ja": "Wetness"
+        },
+        "OverrideIcon": {
+          "FileName": "Water"
+        },
+        "MaxValue": 12
+      },
+      "Progress": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Colour Intensity",
+          "Text": "彩度",
+          "zh": "彩度",
+          "en": "Colour Intensity",
+          "ja": "Colour Intensity"
+        },
+        "OverrideIcon": {
+          "FileName": "Urine"
+        },
+        "MaxValue": 23040
+      },
+      "SpecialDurability1": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Fur",
+          "Text": "毛皮",
+          "zh": "毛皮",
+          "en": "Fur",
+          "ja": "Fur"
+        },
+        "OverrideIcon": {
+          "FileName": "Fur_Cured"
+        },
+        "MaxValue": 100
+      },
+      "SpecialDurability2": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Quality",
+          "Text": "品质",
+          "zh": "品质",
+          "en": "Quality",
+          "ja": "クオリティ"
+        },
+        "OverrideIcon": {
+          "FileName": "Quality"
+        },
+        "MaxValue": 100
+      },
+      "SpecialDurability3": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Softness",
+          "Text": "柔软度",
+          "zh": "柔软度",
+          "en": "Softness",
+          "ja": "Softness"
+        },
+        "OverrideIcon": {
+          "FileName": "Brain"
+        },
+        "MaxValue": 2
+      },
+      "SpecialDurability4": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "Colour",
+          "Text": "颜色",
+          "zh": "颜色",
+          "en": "Colour",
+          "ja": "Colour"
+        },
+        "OverrideIcon": null,
+        "MaxValue": 100
+      }
     }
   ],
   "CardName": {
@@ -426,7 +546,369 @@
     "OnFullNotification": 0,
     "CountsForTradingValue": false,
     "TradingValueCustomRanges": [],
-    "durabilityKey": "UsageDurability"
+    "durabilityKey": "UsageDurability",
+    "_valueModifications": [
+      {
+        "link": {
+          "key": "Bp_BadgerEnchantment",
+          "icon": "Badger_Wild",
+          "type": "card",
+          "CardType": 7,
+          "zh": "獾附魔",
+          "en": "Badger Enchantment",
+          "ja": "アナグマのエンチャント"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_BearEnchantment",
+          "icon": "Bear_Wild",
+          "type": "card",
+          "CardType": 7,
+          "zh": "熊附魔",
+          "en": "Bear Enchantment",
+          "ja": "Bear Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_BoarEnchantment",
+          "icon": "Boar_Wild",
+          "type": "card",
+          "CardType": 7,
+          "zh": "野猪附魔",
+          "en": "Boar Enchantment",
+          "ja": "イノシシのエンチャント"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 15,
+          "y": 15
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_DeerEnchantment",
+          "icon": "Stag_Wild",
+          "type": "card",
+          "CardType": 7,
+          "zh": "鹿附魔",
+          "en": "Deer Enchantment",
+          "ja": "鹿のエンチャント"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 10,
+          "y": 10
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_EarthEnchantment",
+          "icon": "Spirit_Earth",
+          "type": "card",
+          "CardType": 7,
+          "zh": "大地附魔",
+          "en": "Earth Enchantment",
+          "ja": "地のエンチャント"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 15,
+          "y": 15
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_FrogEnchantment",
+          "icon": "Frog",
+          "type": "card",
+          "CardType": 7,
+          "zh": "青蛙附魔",
+          "en": "Frog Enchantment",
+          "ja": "Frog Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_MoonEnchantment",
+          "icon": "FFMoonIcon",
+          "type": "card",
+          "CardType": 7,
+          "zh": "月附魔",
+          "en": "Moon Enchantment",
+          "ja": "Moon Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 10,
+          "y": 10
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_MoonMaidenEnchantment",
+          "icon": "MoonMaiden",
+          "type": "card",
+          "CardType": 7,
+          "zh": "月女附魔",
+          "en": "Moon Maiden Enchantment",
+          "ja": "Moon Maiden Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 10,
+          "y": 10
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_MouseEnchantment",
+          "icon": "Mouse",
+          "type": "card",
+          "CardType": 7,
+          "zh": "老鼠附魔",
+          "en": "Mouse Enchantment",
+          "ja": "Mouse Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_PartridgeEnchantment",
+          "icon": "Partridge_Wild",
+          "type": "card",
+          "CardType": 7,
+          "zh": "灰山鹑附魔",
+          "en": "Partridge Enchantment",
+          "ja": "Partridge Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_PerchEnchantment",
+          "icon": "Perch",
+          "type": "card",
+          "CardType": 7,
+          "zh": "鲈鱼附魔",
+          "en": "Perch Enchantment",
+          "ja": "Perch Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_PikeEnchantment",
+          "icon": "Pike",
+          "type": "card",
+          "CardType": 7,
+          "zh": "狗鱼附魔",
+          "en": "Pike Enchantment",
+          "ja": "Pike Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_SquirrelEnchantment",
+          "icon": "Squirrel_Wild",
+          "type": "card",
+          "CardType": 7,
+          "zh": "松鼠附魔",
+          "en": "Squirrel Enchantment",
+          "ja": "Squirrel Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_SturgeonEnchantment",
+          "icon": "Sturgeon",
+          "type": "card",
+          "CardType": 7,
+          "zh": "鲟鱼附魔",
+          "en": "Sturgeon Enchantment",
+          "ja": "Sturgeon Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_TroutEnchantment",
+          "icon": "Trout",
+          "type": "card",
+          "CardType": 7,
+          "zh": "鳟鱼附魔",
+          "en": "Trout Enchantment",
+          "ja": "Trout Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_WaterEnchantment",
+          "icon": "Spirit_Water",
+          "type": "card",
+          "CardType": 7,
+          "zh": "水附魔",
+          "en": "Water Enchantment",
+          "ja": "水のエンチャント"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 25,
+          "y": 25
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_WestStoneEnchantment",
+          "icon": "WestStone_3",
+          "type": "card",
+          "CardType": 7,
+          "zh": "韦石附魔",
+          "en": "West Stone Enchantment",
+          "ja": "West Stone Enchantment"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 10,
+          "y": 10
+        }
+      },
+      {
+        "link": {
+          "key": "Bp_WindEnchantment",
+          "icon": "Spirit_Wind",
+          "type": "card",
+          "CardType": 7,
+          "zh": "风附魔",
+          "en": "Wind Enchantment",
+          "ja": "風のエンチャント"
+        },
+        "localization": {
+          "zh": "蓝图制作",
+          "en": "Blueprint",
+          "ja": "ブループリント"
+        },
+        "value": {
+          "x": 10,
+          "y": 10
+        }
+      }
+    ]
   },
   "FuelCapacity": {
     "Active": false,
@@ -703,8 +1185,8 @@
   "CardInteractions": [],
   "OnStatsChangeActions": [],
   "MinQuantityLeftAfterATransfer": 0,
-  "KeepName": false,
-  "ShowLiquidAsSuffix": false,
+  "KeepName": true,
+  "ShowLiquidAsSuffix": true,
   "DefaultLiquidContained": {
     "LiquidCard": null,
     "Quantity": {
@@ -740,10 +1222,23 @@
   },
   "DefaultLiquidImage": null,
   "LiquidImages": [],
-  "ExclusivelyAcceptedLiquids": [],
+  "ExclusivelyAcceptedLiquids": [
+    {
+      "Target": {
+        "key": "tag_SpiritLiquid",
+        "text": "“精魄液体”",
+        "icon": "",
+        "type": "tag",
+        "count": 30,
+        "zh": "精魄液体",
+        "en": "Spirit Liquid",
+        "ja": "精霊水"
+      }
+    }
+  ],
   "NOTAcceptedLiquids": [],
-  "CannotGiveLiquidWithDragNDrop": false,
-  "CannotReceiveLiquidWithDragNDrop": false,
+  "CannotGiveLiquidWithDragNDrop": true,
+  "CannotReceiveLiquidWithDragNDrop": true,
   "DurabilityConditionsForGivingLiquid": {
     "RequiredSpoilagePercent": {
       "Active": false,
@@ -1750,7 +2245,7 @@
   "DurabilityTransferEffects": [],
   "ActiveCounters": [],
   "LocalCounterEffects": [],
-  "CannotEmptyWithAnAction": false,
+  "CannotEmptyWithAnAction": true,
   "ContainedBlueprintCards": [],
   "ContainedBlueprintsDontStartUnlocked": false,
   "BuildingCardConditions": [],
@@ -1974,7 +2469,7 @@
   "WeaponMoves": [],
   "DismantleActions": [],
   "AlternateDismantleActions": [],
-  "MaxLiquidCapacity": 0,
+  "MaxLiquidCapacity": 600,
   "UseCoordinates": false,
   "CreatedPath": null,
   "OppositePath": null,
@@ -2147,7 +2642,2152 @@
       }
     }
   ],
-  "_useFor": [],
+  "_useFor": [
+    {
+      "link": {
+        "key": "Bp_BadgerEnchantment",
+        "icon": "Badger_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "獾附魔",
+        "en": "Badger Enchantment",
+        "ja": "アナグマのエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_BearEnchantment",
+        "icon": "Bear_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "熊附魔",
+        "en": "Bear Enchantment",
+        "ja": "Bear Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_BoarEnchantment",
+        "icon": "Boar_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "野猪附魔",
+        "en": "Boar Enchantment",
+        "ja": "イノシシのエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_DeerEnchantment",
+        "icon": "Stag_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "鹿附魔",
+        "en": "Deer Enchantment",
+        "ja": "鹿のエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_EarthEnchantment",
+        "icon": "Spirit_Earth",
+        "type": "card",
+        "CardType": 7,
+        "zh": "大地附魔",
+        "en": "Earth Enchantment",
+        "ja": "地のエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_FireEnchantment",
+        "icon": "Spirit_Fire",
+        "type": "card",
+        "CardType": 7,
+        "zh": "火附魔",
+        "en": "Fire Enchantment",
+        "ja": "炎のエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_FlintEnchantment",
+        "icon": "Flint",
+        "type": "card",
+        "CardType": 7,
+        "zh": "燧石附魔",
+        "en": "Flint Enchantment",
+        "ja": "火打石エンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_FoxEnchantment",
+        "icon": "Fox_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "狐附魔",
+        "en": "Fox Enchantment",
+        "ja": "キツネのエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_FrogEnchantment",
+        "icon": "Frog",
+        "type": "card",
+        "CardType": 7,
+        "zh": "青蛙附魔",
+        "en": "Frog Enchantment",
+        "ja": "Frog Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_FrostEnchantment",
+        "icon": "Spirit_Frost",
+        "type": "card",
+        "CardType": 7,
+        "zh": "冰霜附魔",
+        "en": "Frost Enchantment",
+        "ja": "Frost Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_HareEnchantment",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "野兔附魔",
+        "en": "Hare Enchantment",
+        "ja": "Hare Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_MoonEnchantment",
+        "icon": "FFMoonIcon",
+        "type": "card",
+        "CardType": 7,
+        "zh": "月附魔",
+        "en": "Moon Enchantment",
+        "ja": "Moon Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_MoonMaidenEnchantment",
+        "icon": "MoonMaiden",
+        "type": "card",
+        "CardType": 7,
+        "zh": "月女附魔",
+        "en": "Moon Maiden Enchantment",
+        "ja": "Moon Maiden Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_MoontouchedEnchantment",
+        "icon": "Moontouched",
+        "type": "card",
+        "CardType": 7,
+        "zh": "月兽附魔",
+        "en": "Moontouched Enchantment",
+        "ja": "Moontouched Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_MouseEnchantment",
+        "icon": "Mouse",
+        "type": "card",
+        "CardType": 7,
+        "zh": "老鼠附魔",
+        "en": "Mouse Enchantment",
+        "ja": "Mouse Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_PartridgeEnchantment",
+        "icon": "Partridge_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "灰山鹑附魔",
+        "en": "Partridge Enchantment",
+        "ja": "Partridge Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_PerchEnchantment",
+        "icon": "Perch",
+        "type": "card",
+        "CardType": 7,
+        "zh": "鲈鱼附魔",
+        "en": "Perch Enchantment",
+        "ja": "Perch Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_PikeEnchantment",
+        "icon": "Pike",
+        "type": "card",
+        "CardType": 7,
+        "zh": "狗鱼附魔",
+        "en": "Pike Enchantment",
+        "ja": "Pike Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_PrimevalWolfEnchantment",
+        "icon": "PrimevalWolf",
+        "type": "card",
+        "CardType": 7,
+        "zh": "原初之狼附魔",
+        "en": "Primeval Wolf Enchantment",
+        "ja": "Primeval Wolf Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_SquirrelEnchantment",
+        "icon": "Squirrel_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "松鼠附魔",
+        "en": "Squirrel Enchantment",
+        "ja": "Squirrel Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_SturgeonEnchantment",
+        "icon": "Sturgeon",
+        "type": "card",
+        "CardType": 7,
+        "zh": "鲟鱼附魔",
+        "en": "Sturgeon Enchantment",
+        "ja": "Sturgeon Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_TroutEnchantment",
+        "icon": "Trout",
+        "type": "card",
+        "CardType": 7,
+        "zh": "鳟鱼附魔",
+        "en": "Trout Enchantment",
+        "ja": "Trout Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_WaterEnchantment",
+        "icon": "Spirit_Water",
+        "type": "card",
+        "CardType": 7,
+        "zh": "水附魔",
+        "en": "Water Enchantment",
+        "ja": "水のエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_WestStoneEnchantment",
+        "icon": "WestStone_3",
+        "type": "card",
+        "CardType": 7,
+        "zh": "韦石附魔",
+        "en": "West Stone Enchantment",
+        "ja": "West Stone Enchantment"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_WindEnchantment",
+        "icon": "Spirit_Wind",
+        "type": "card",
+        "CardType": 7,
+        "zh": "风附魔",
+        "en": "Wind Enchantment",
+        "ja": "風のエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "Bp_WolfEnchantment",
+        "icon": "Wolf_Wild",
+        "type": "card",
+        "CardType": 7,
+        "zh": "狼附魔",
+        "en": "Wolf Enchantment",
+        "ja": "狼のエンチャント"
+      },
+      "localization": {
+        "zh": "蓝图制作",
+        "en": "Blueprint",
+        "ja": "ブループリント"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBadger",
+        "icon": "Badger_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "獾精魄",
+        "en": "Badger Spirit",
+        "ja": "アナグマの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBadger",
+        "icon": "Badger_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "獾精魄",
+        "en": "Badger Spirit",
+        "ja": "アナグマの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：觅食辅助：可精神附魔",
+        "en": "Passive Effect：Foraging Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：採餌支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBadger",
+        "icon": "Badger_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "獾精魄",
+        "en": "Badger Spirit",
+        "ja": "アナグマの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：韧性：可精神附魔",
+        "en": "Passive Effect：Resilience : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：回復力：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBadger",
+        "icon": "Badger_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "獾精魄",
+        "en": "Badger Spirit",
+        "ja": "アナグマの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBear",
+        "icon": "Bear_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "熊精魄",
+        "en": "Bear Spirit",
+        "ja": "Bear Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBear",
+        "icon": "Bear_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "熊精魄",
+        "en": "Bear Spirit",
+        "ja": "Bear Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Strenght : tag_SpiritEnchantable",
+        "en": "Passive Effect：Strenght : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Strenght : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBear",
+        "icon": "Bear_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "熊精魄",
+        "en": "Bear Spirit",
+        "ja": "Bear Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：韧性：可精神附魔",
+        "en": "Passive Effect：Resilience : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：回復力：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBear",
+        "icon": "Bear_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "熊精魄",
+        "en": "Bear Spirit",
+        "ja": "Bear Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBoar",
+        "icon": "Boar_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野猪精魄",
+        "en": "Boar Spirit",
+        "ja": "イノシシの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBoar",
+        "icon": "Boar_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野猪精魄",
+        "en": "Boar Spirit",
+        "ja": "イノシシの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：觅食辅助：可精神附魔",
+        "en": "Passive Effect：Foraging Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：採餌支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBoar",
+        "icon": "Boar_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野猪精魄",
+        "en": "Boar Spirit",
+        "ja": "イノシシの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：韧性：可精神附魔",
+        "en": "Passive Effect：Resilience : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：回復力：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritBoar",
+        "icon": "Boar_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野猪精魄",
+        "en": "Boar Spirit",
+        "ja": "イノシシの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritDarkness",
+        "icon": "Darkness",
+        "type": "card",
+        "CardType": 9,
+        "zh": "黑暗精魄",
+        "en": "Darkness Spirit",
+        "ja": "闇の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritDarkness",
+        "icon": "Darkness",
+        "type": "card",
+        "CardType": 9,
+        "zh": "黑暗精魄",
+        "en": "Darkness Spirit",
+        "ja": "闇の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritDeer",
+        "icon": "Stag_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鹿精魄",
+        "en": "Deer Spirit",
+        "ja": "鹿の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritDeer",
+        "icon": "Stag_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鹿精魄",
+        "en": "Deer Spirit",
+        "ja": "鹿の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：警觉辅助：可附魔精神标签",
+        "en": "Passive Effect：Alertness Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：警戒支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritDeer",
+        "icon": "Stag_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鹿精魄",
+        "en": "Deer Spirit",
+        "ja": "鹿の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：韧性：可精神附魔",
+        "en": "Passive Effect：Resilience : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：回復力：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritDeer",
+        "icon": "Stag_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鹿精魄",
+        "en": "Deer Spirit",
+        "ja": "鹿の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritEarth",
+        "icon": "Overgrowth",
+        "type": "card",
+        "CardType": 9,
+        "zh": "大地精魄",
+        "en": "Earth Spirit",
+        "ja": "地の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritEarth",
+        "icon": "Overgrowth",
+        "type": "card",
+        "CardType": 9,
+        "zh": "大地精魄",
+        "en": "Earth Spirit",
+        "ja": "地の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：生育恩赐：tag_SpiritEnchantable",
+        "en": "Passive Effect：Fertility Boon : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：肥沃の恩恵：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritEarth",
+        "icon": "Overgrowth",
+        "type": "card",
+        "CardType": 9,
+        "zh": "大地精魄",
+        "en": "Earth Spirit",
+        "ja": "地の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFear",
+        "icon": "Spirit_Fear",
+        "type": "card",
+        "CardType": 9,
+        "zh": "恐惧精魄",
+        "en": "Fear Spirit",
+        "ja": "恐怖の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFear",
+        "icon": "Spirit_Fear",
+        "type": "card",
+        "CardType": 9,
+        "zh": "恐惧精魄",
+        "en": "Fear Spirit",
+        "ja": "恐怖の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFire",
+        "icon": "Flame",
+        "type": "card",
+        "CardType": 9,
+        "zh": "火精魄",
+        "en": "Fire Spirit",
+        "ja": "炎の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFire",
+        "icon": "Flame",
+        "type": "card",
+        "CardType": 9,
+        "zh": "火精魄",
+        "en": "Fire Spirit",
+        "ja": "炎の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：内心温暖：可精神附魔",
+        "en": "Passive Effect：Inner Warmth : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：内なる暖かさ：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFire",
+        "icon": "Flame",
+        "type": "card",
+        "CardType": 9,
+        "zh": "火精魄",
+        "en": "Fire Spirit",
+        "ja": "炎の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlint",
+        "icon": "Flint",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧石精魄",
+        "en": "Flint Spirit",
+        "ja": "火打石の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlint",
+        "icon": "Flint",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧石精魄",
+        "en": "Flint Spirit",
+        "ja": "火打石の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：燧石敲击：可附魔精神标签",
+        "en": "Passive Effect：Flint Knack : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：火打石の技：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlint",
+        "icon": "Flint",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧石精魄",
+        "en": "Flint Spirit",
+        "ja": "火打石の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlintclaw",
+        "icon": "Spirit_Flintclaw",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧爪精魄",
+        "en": "Flintclaw Spirit",
+        "ja": "フリントクローの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlintclaw",
+        "icon": "Spirit_Flintclaw",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧爪精魄",
+        "en": "Flintclaw Spirit",
+        "ja": "フリントクローの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：燧石敲击：可附魔精神标签",
+        "en": "Passive Effect：Flint Knack : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：火打石の技：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlintclaw",
+        "icon": "Spirit_Flintclaw",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧爪精魄",
+        "en": "Flintclaw Spirit",
+        "ja": "フリントクローの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：阴影祝福：可附魔精神标签",
+        "en": "Passive Effect：Shadow Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：影の祝福：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlintclaw",
+        "icon": "Spirit_Flintclaw",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧爪精魄",
+        "en": "Flintclaw Spirit",
+        "ja": "フリントクローの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：觅食辅助：可精神附魔",
+        "en": "Passive Effect：Foraging Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：採餌支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFlintclaw",
+        "icon": "Spirit_Flintclaw",
+        "type": "card",
+        "CardType": 9,
+        "zh": "燧爪精魄",
+        "en": "Flintclaw Spirit",
+        "ja": "フリントクローの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFox",
+        "icon": "Fox_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狐精魄",
+        "en": "Fox Spirit",
+        "ja": "キツネの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFox",
+        "icon": "Fox_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狐精魄",
+        "en": "Fox Spirit",
+        "ja": "キツネの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：追踪辅助：tag_SpiritEnchantable",
+        "en": "Passive Effect：Tracking Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFox",
+        "icon": "Fox_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狐精魄",
+        "en": "Fox Spirit",
+        "ja": "キツネの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：埋伏辅助：可精神附魔",
+        "en": "Passive Effect：Ambush Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：待ち伏せ支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFox",
+        "icon": "Fox_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狐精魄",
+        "en": "Fox Spirit",
+        "ja": "キツネの精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFrog",
+        "icon": "Frog",
+        "type": "card",
+        "CardType": 9,
+        "zh": "青蛙精魄",
+        "en": "Frog Spirit",
+        "ja": "Frog Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFrog",
+        "icon": "Frog",
+        "type": "card",
+        "CardType": 9,
+        "zh": "青蛙精魄",
+        "en": "Frog Spirit",
+        "ja": "Frog Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Insect Protection : tag_SpiritEnchantable",
+        "en": "Passive Effect：Insect Protection : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Insect Protection : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFrog",
+        "icon": "Frog",
+        "type": "card",
+        "CardType": 9,
+        "zh": "青蛙精魄",
+        "en": "Frog Spirit",
+        "ja": "Frog Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFrost",
+        "icon": "Snowman",
+        "type": "card",
+        "CardType": 9,
+        "zh": "冰霜精魄",
+        "en": "Frost Spirit",
+        "ja": "Frost Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFrost",
+        "icon": "Snowman",
+        "type": "card",
+        "CardType": 9,
+        "zh": "冰霜精魄",
+        "en": "Frost Spirit",
+        "ja": "Frost Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Frost Blessing : tag_SpiritEnchantable",
+        "en": "Passive Effect：Frost Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Frost Blessing : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritFrost",
+        "icon": "Snowman",
+        "type": "card",
+        "CardType": 9,
+        "zh": "冰霜精魄",
+        "en": "Frost Spirit",
+        "ja": "Frost Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritHare",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野兔精魄",
+        "en": "Hare Spirit",
+        "ja": "Hare Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritHare",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野兔精魄",
+        "en": "Hare Spirit",
+        "ja": "Hare Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Luck : tag_SpiritEnchantable",
+        "en": "Passive Effect：Luck : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Luck : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritHare",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野兔精魄",
+        "en": "Hare Spirit",
+        "ja": "Hare Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Fertility : tag_SpiritEnchantable",
+        "en": "Passive Effect：Fertility : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Fertility : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritHare",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野兔精魄",
+        "en": "Hare Spirit",
+        "ja": "Hare Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Alertnes Aid : tag_SpiritEnchantable",
+        "en": "Passive Effect：Alertnes Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Alertnes Aid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritHare",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野兔精魄",
+        "en": "Hare Spirit",
+        "ja": "Hare Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：体力恢复：可附魔精神标签",
+        "en": "Passive Effect：Stamina Recovery : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：スタミナ回復：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritHare",
+        "icon": "Hare_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "野兔精魄",
+        "en": "Hare Spirit",
+        "ja": "Hare Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoon",
+        "icon": "FFMoonIcon",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月精魄",
+        "en": "Moon Spirit",
+        "ja": "Moon Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoon",
+        "icon": "FFMoonIcon",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月精魄",
+        "en": "Moon Spirit",
+        "ja": "Moon Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Moon Blessing : tag_SpiritEnchantable",
+        "en": "Passive Effect：Moon Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Moon Blessing : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoon",
+        "icon": "FFMoonIcon",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月精魄",
+        "en": "Moon Spirit",
+        "ja": "Moon Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoonMaiden",
+        "icon": "MoonMaiden",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月女精魄",
+        "en": "Moon Maiden Spirit",
+        "ja": "Moon Maiden Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoonMaiden",
+        "icon": "MoonMaiden",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月女精魄",
+        "en": "Moon Maiden Spirit",
+        "ja": "Moon Maiden Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Moon Blessing : tag_SpiritEnchantable",
+        "en": "Passive Effect：Moon Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Moon Blessing : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoonMaiden",
+        "icon": "MoonMaiden",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月女精魄",
+        "en": "Moon Maiden Spirit",
+        "ja": "Moon Maiden Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Maiden Blessing : tag_SpiritEnchantable",
+        "en": "Passive Effect：Maiden Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Maiden Blessing : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoonMaiden",
+        "icon": "MoonMaiden",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月女精魄",
+        "en": "Moon Maiden Spirit",
+        "ja": "Moon Maiden Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoontouched",
+        "icon": "Moontouched",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月兽精魄",
+        "en": "Moontouched Spirit",
+        "ja": "Moontouched Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoontouched",
+        "icon": "Moontouched",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月兽精魄",
+        "en": "Moontouched Spirit",
+        "ja": "Moontouched Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Moon Blessing : tag_SpiritEnchantable",
+        "en": "Passive Effect：Moon Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Moon Blessing : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoontouched",
+        "icon": "Moontouched",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月兽精魄",
+        "en": "Moontouched Spirit",
+        "ja": "Moontouched Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：追踪辅助：tag_SpiritEnchantable",
+        "en": "Passive Effect：Tracking Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoontouched",
+        "icon": "Moontouched",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月兽精魄",
+        "en": "Moontouched Spirit",
+        "ja": "Moontouched Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：寻求援助：可灵魂附魔",
+        "en": "Passive Effect：Chasing Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMoontouched",
+        "icon": "Moontouched",
+        "type": "card",
+        "CardType": 9,
+        "zh": "月兽精魄",
+        "en": "Moontouched Spirit",
+        "ja": "Moontouched Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMouse",
+        "icon": "Mouse",
+        "type": "card",
+        "CardType": 9,
+        "zh": "老鼠精魄",
+        "en": "Mouse Spirit",
+        "ja": "Mouse Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMouse",
+        "icon": "Mouse",
+        "type": "card",
+        "CardType": 9,
+        "zh": "老鼠精魄",
+        "en": "Mouse Spirit",
+        "ja": "Mouse Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Escape Aid : tag_SpiritEnchantable",
+        "en": "Passive Effect：Escape Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Escape Aid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritMouse",
+        "icon": "Mouse",
+        "type": "card",
+        "CardType": 9,
+        "zh": "老鼠精魄",
+        "en": "Mouse Spirit",
+        "ja": "Mouse Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPartridge",
+        "icon": "Partridge_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "灰山鹑精魄",
+        "en": "Partridge Spirit",
+        "ja": "Partridge Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPartridge",
+        "icon": "Partridge_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "灰山鹑精魄",
+        "en": "Partridge Spirit",
+        "ja": "Partridge Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Allertness Aid : tag_SpiritEnchantable",
+        "en": "Passive Effect：Allertness Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Allertness Aid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPartridge",
+        "icon": "Partridge_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "灰山鹑精魄",
+        "en": "Partridge Spirit",
+        "ja": "Partridge Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPerch",
+        "icon": "Perch",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鲈鱼精魄",
+        "en": "Perch Spirit",
+        "ja": "Perch Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPerch",
+        "icon": "Perch",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鲈鱼精魄",
+        "en": "Perch Spirit",
+        "ja": "Perch Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Calming Flow : tag_SpiritEnchantable",
+        "en": "Passive Effect：Calming Flow : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Calming Flow : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPerch",
+        "icon": "Perch",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鲈鱼精魄",
+        "en": "Perch Spirit",
+        "ja": "Perch Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPike",
+        "icon": "Pike",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狗鱼精魄",
+        "en": "Pike Spirit",
+        "ja": "Pike Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPike",
+        "icon": "Pike",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狗鱼精魄",
+        "en": "Pike Spirit",
+        "ja": "Pike Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Fishing Aid : tag_SpiritEnchantable",
+        "en": "Passive Effect：Fishing Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Fishing Aid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPike",
+        "icon": "Pike",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狗鱼精魄",
+        "en": "Pike Spirit",
+        "ja": "Pike Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPrimevalWolf",
+        "icon": "Wolf_Dark",
+        "type": "card",
+        "CardType": 9,
+        "zh": "原初之狼精魄",
+        "en": "Primeval Wolf Spirit",
+        "ja": "Primeval Wolf Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPrimevalWolf",
+        "icon": "Wolf_Dark",
+        "type": "card",
+        "CardType": 9,
+        "zh": "原初之狼精魄",
+        "en": "Primeval Wolf Spirit",
+        "ja": "Primeval Wolf Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：追踪辅助：tag_SpiritEnchantable",
+        "en": "Passive Effect：Tracking Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPrimevalWolf",
+        "icon": "Wolf_Dark",
+        "type": "card",
+        "CardType": 9,
+        "zh": "原初之狼精魄",
+        "en": "Primeval Wolf Spirit",
+        "ja": "Primeval Wolf Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：寻求援助：可灵魂附魔",
+        "en": "Passive Effect：Chasing Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritPrimevalWolf",
+        "icon": "Wolf_Dark",
+        "type": "card",
+        "CardType": 9,
+        "zh": "原初之狼精魄",
+        "en": "Primeval Wolf Spirit",
+        "ja": "Primeval Wolf Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSquirrel",
+        "icon": "Squirrel_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "松鼠精魄",
+        "en": "Squirrel Spirit",
+        "ja": "Squirrel Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSquirrel",
+        "icon": "Squirrel_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "松鼠精魄",
+        "en": "Squirrel Spirit",
+        "ja": "Squirrel Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：ClimbingAid : tag_SpiritEnchantable",
+        "en": "Passive Effect：ClimbingAid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：ClimbingAid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSquirrel",
+        "icon": "Squirrel_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "松鼠精魄",
+        "en": "Squirrel Spirit",
+        "ja": "Squirrel Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：AcornForagingAid : tag_SpiritEnchantable",
+        "en": "Passive Effect：AcornForagingAid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：AcornForagingAid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSquirrel",
+        "icon": "Squirrel_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "松鼠精魄",
+        "en": "Squirrel Spirit",
+        "ja": "Squirrel Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSturgeon",
+        "icon": "Sturgeon",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鲟鱼精魄",
+        "en": "Sturgeon Spirit",
+        "ja": "Sturgeon Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSturgeon",
+        "icon": "Sturgeon",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鲟鱼精魄",
+        "en": "Sturgeon Spirit",
+        "ja": "Sturgeon Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Clean AId : tag_SpiritEnchantable",
+        "en": "Passive Effect：Clean AId : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Clean AId : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritSturgeon",
+        "icon": "Sturgeon",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鲟鱼精魄",
+        "en": "Sturgeon Spirit",
+        "ja": "Sturgeon Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritTea",
+        "icon": "",
+        "type": "card",
+        "CardType": 9,
+        "zh": "神奇茶",
+        "en": "Spirit Tea",
+        "ja": "精霊茶"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritTrout",
+        "icon": "Trout",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鳟鱼精魄",
+        "en": "Trout Spirit",
+        "ja": "Trout Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritTrout",
+        "icon": "Trout",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鳟鱼精魄",
+        "en": "Trout Spirit",
+        "ja": "Trout Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Swiming Aid : tag_SpiritEnchantable",
+        "en": "Passive Effect：Swiming Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Swiming Aid : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritTrout",
+        "icon": "Trout",
+        "type": "card",
+        "CardType": 9,
+        "zh": "鳟鱼精魄",
+        "en": "Trout Spirit",
+        "ja": "Trout Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritVoid",
+        "icon": "VoidState_Old",
+        "type": "card",
+        "CardType": 9,
+        "zh": "虚空之眼",
+        "en": "Void Eye",
+        "ja": "Void Eye"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritVoid",
+        "icon": "VoidState_Old",
+        "type": "card",
+        "CardType": 9,
+        "zh": "虚空之眼",
+        "en": "Void Eye",
+        "ja": "Void Eye"
+      },
+      "localization": {
+        "zh": "被动效果：Void: tag_SpiritEnchantable",
+        "en": "Passive Effect：Void: tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Void: tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritVoid",
+        "icon": "VoidState_Old",
+        "type": "card",
+        "CardType": 9,
+        "zh": "虚空之眼",
+        "en": "Void Eye",
+        "ja": "Void Eye"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWater",
+        "icon": "Spirit_Water",
+        "type": "card",
+        "CardType": 9,
+        "zh": "水精魄",
+        "en": "Water Spirit",
+        "ja": "水の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWater",
+        "icon": "Spirit_Water",
+        "type": "card",
+        "CardType": 9,
+        "zh": "水精魄",
+        "en": "Water Spirit",
+        "ja": "水の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Calming Flow : tag_SpiritEnchantable",
+        "en": "Passive Effect：Calming Flow : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Calming Flow : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWater",
+        "icon": "Spirit_Water",
+        "type": "card",
+        "CardType": 9,
+        "zh": "水精魄",
+        "en": "Water Spirit",
+        "ja": "水の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWestStone",
+        "icon": "WestStone_3",
+        "type": "card",
+        "CardType": 9,
+        "zh": "韦石精魄",
+        "en": "West Stone Spirit",
+        "ja": "West Stone Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWestStone",
+        "icon": "WestStone_3",
+        "type": "card",
+        "CardType": 9,
+        "zh": "韦石精魄",
+        "en": "West Stone Spirit",
+        "ja": "West Stone Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：West Stone Blessing : tag_SpiritEnchantable",
+        "en": "Passive Effect：West Stone Blessing : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：West Stone Blessing : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWestStone",
+        "icon": "WestStone_3",
+        "type": "card",
+        "CardType": 9,
+        "zh": "韦石精魄",
+        "en": "West Stone Spirit",
+        "ja": "West Stone Spirit"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWind",
+        "icon": "Spirit_Wind",
+        "type": "card",
+        "CardType": 9,
+        "zh": "风精魄",
+        "en": "Wind Spirit",
+        "ja": "風の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWind",
+        "icon": "Spirit_Wind",
+        "type": "card",
+        "CardType": 9,
+        "zh": "风精魄",
+        "en": "Wind Spirit",
+        "ja": "風の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：体力恢复：可附魔精神标签",
+        "en": "Passive Effect：Stamina Recovery : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：スタミナ回復：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWind",
+        "icon": "Spirit_Wind",
+        "type": "card",
+        "CardType": 9,
+        "zh": "风精魄",
+        "en": "Wind Spirit",
+        "ja": "風の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：闪避加成：可附魔精神标签",
+        "en": "Passive Effect：Dodge Bonus : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：回避ボーナス：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWind",
+        "icon": "Spirit_Wind",
+        "type": "card",
+        "CardType": 9,
+        "zh": "风精魄",
+        "en": "Wind Spirit",
+        "ja": "風の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：警觉辅助：可附魔精神标签",
+        "en": "Passive Effect：Alertness Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：警戒支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWind",
+        "icon": "Spirit_Wind",
+        "type": "card",
+        "CardType": 9,
+        "zh": "风精魄",
+        "en": "Wind Spirit",
+        "ja": "風の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWolf",
+        "icon": "Wolf_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狼精魄",
+        "en": "Wolf Spirit",
+        "ja": "狼の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWolf",
+        "icon": "Wolf_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狼精魄",
+        "en": "Wolf Spirit",
+        "ja": "狼の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：追踪辅助：tag_SpiritEnchantable",
+        "en": "Passive Effect：Tracking Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWolf",
+        "icon": "Wolf_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狼精魄",
+        "en": "Wolf Spirit",
+        "ja": "狼の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：寻求援助：可灵魂附魔",
+        "en": "Passive Effect：Chasing Aid : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：追跡支援：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "LQ_SpiritWolf",
+        "icon": "Wolf_Wild",
+        "type": "card",
+        "CardType": 9,
+        "zh": "狼精魄",
+        "en": "Wolf Spirit",
+        "ja": "狼の精霊"
+      },
+      "localization": {
+        "zh": "被动效果：液体速率-0.1：可灵魂附魔",
+        "en": "Passive Effect：Liquid Rate -0.1 : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：液体速度 -0.1：tag_SpiritEnchantable"
+      }
+    },
+    {
+      "link": {
+        "key": "Pk_5_5_SpiritualGear_Lq_SpiritMushroomsPowder",
+        "icon": "Powder_Garlic",
+        "type": "card",
+        "CardType": 9,
+        "zh": "灵魂菇粉(专有)",
+        "en": "Spirit Mushrooms Powder(Pk)",
+        "ja": "Spirit Mushrooms Powder"
+      },
+      "localization": {
+        "zh": "被动效果：Spiritual Noise : tag_SpiritEnchantable",
+        "en": "Passive Effect：Spiritual Noise : tag_SpiritEnchantable",
+        "ja": "パッシブ効果：Spiritual Noise : tag_SpiritEnchantable"
+      }
+    }
+  ],
   "existEnvCards": [],
   "containers": [],
   "tradingValueRange": {

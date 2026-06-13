@@ -6,7 +6,7 @@
   "zh": "獾洞",
   "en": "Badger Burrow",
   "ja": "Badger Burrow",
-  "UniqueIDIndex": 703,
+  "UniqueIDIndex": 704,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -342,7 +342,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -955,7 +955,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "ConditionRange": {
             "x": 0,
@@ -1198,7 +1198,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {

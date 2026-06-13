@@ -5,7 +5,7 @@
   "zh": "迷离古橡",
   "en": "Wandering Oak",
   "ja": "Wandering Oak",
-  "UniqueIDIndex": 2793,
+  "UniqueIDIndex": 2801,
   "AgentName": {
     "DefaultText": "Wandering Oak",
     "Text": "迷离古橡",
@@ -75,7 +75,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-        "UniqueIDIndex": 3050
+        "UniqueIDIndex": 3059
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -138,7 +138,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "6bf1c5e5fd581784180547c3850218a0",
-        "UniqueIDIndex": 3072
+        "UniqueIDIndex": 3081
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -201,7 +201,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "225d810ee75cf42438c4f391b1211c31",
-        "UniqueIDIndex": 3070
+        "UniqueIDIndex": 3079
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -264,7 +264,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "214dd943ddf18a541b9af962a352174d",
-        "UniqueIDIndex": 4520
+        "UniqueIDIndex": 4530
       },
       "OverrideStartingValue": {
         "Active": true,
@@ -579,7 +579,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-              "UniqueIDIndex": 3050
+              "UniqueIDIndex": 3059
             },
             "ConditionRange": {
               "x": 0,
@@ -628,7 +628,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-            "UniqueIDIndex": 3050
+            "UniqueIDIndex": 3059
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -1134,7 +1134,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "214dd943ddf18a541b9af962a352174d",
-              "UniqueIDIndex": 4520
+              "UniqueIDIndex": 4530
             },
             "ConditionRange": {
               "x": 0,
@@ -1221,7 +1221,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-            "UniqueIDIndex": 3050
+            "UniqueIDIndex": 3059
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -1266,7 +1266,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "214dd943ddf18a541b9af962a352174d",
-            "UniqueIDIndex": 4520
+            "UniqueIDIndex": 4530
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -2615,7 +2615,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "OutputDurability": 32,
         "Value": {
@@ -3526,7 +3526,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "225d810ee75cf42438c4f391b1211c31",
-            "UniqueIDIndex": 3070
+            "UniqueIDIndex": 3079
           },
           "ConditionRange": {
             "x": 672,
@@ -4313,7 +4313,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "225d810ee75cf42438c4f391b1211c31",
-            "UniqueIDIndex": 3070
+            "UniqueIDIndex": 3079
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -5305,7 +5305,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "214dd943ddf18a541b9af962a352174d",
-            "UniqueIDIndex": 4520
+            "UniqueIDIndex": 4530
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {

@@ -6,7 +6,7 @@
   "zh": "酪乳",
   "en": "Buttermilk",
   "ja": "Buttermilk",
-  "UniqueIDIndex": 1650,
+  "UniqueIDIndex": 1651,
   "CardType": 9,
   "CardTags": [
     {
@@ -6101,7 +6101,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -6222,7 +6222,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

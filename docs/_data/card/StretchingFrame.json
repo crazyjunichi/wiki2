@@ -6,7 +6,7 @@
   "zh": "伸张架",
   "en": "Stretching Frame",
   "ja": "ストレッチフレイム",
-  "UniqueIDIndex": 2392,
+  "UniqueIDIndex": 2393,
   "CardType": 2,
   "CardTags": [
     {
@@ -356,6 +356,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

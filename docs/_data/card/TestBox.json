@@ -6,7 +6,7 @@
   "zh": "Chest",
   "en": "Chest",
   "ja": "Chest",
-  "UniqueIDIndex": 2436,
+  "UniqueIDIndex": 2437,
   "CardType": 1,
   "CardTags": [],
   "CardName": {
@@ -6500,7 +6500,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "4f60d4497a50f3b4ea0eabae2e48457f",
-            "UniqueIDIndex": 4329
+            "UniqueIDIndex": 4339
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -6979,7 +6979,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "4f60d4497a50f3b4ea0eabae2e48457f",
-            "UniqueIDIndex": 4329
+            "UniqueIDIndex": 4339
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {

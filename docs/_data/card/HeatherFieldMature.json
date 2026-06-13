@@ -6,7 +6,7 @@
   "zh": "成熟的帚石南田(成熟)",
   "en": "Mature Heather Field",
   "ja": "成長したヘザー畑",
-  "UniqueIDIndex": 1434,
+  "UniqueIDIndex": 1435,
   "CardType": 2,
   "CardTags": [
     {
@@ -21899,7 +21899,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

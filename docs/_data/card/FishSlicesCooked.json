@@ -6,7 +6,7 @@
   "zh": "Cooked Fish Slices",
   "en": "Cooked Fish Slices",
   "ja": "Cooked Fish Slices",
-  "UniqueIDIndex": 1293,
+  "UniqueIDIndex": 1294,
   "CardType": 0,
   "CardTags": [
     {
@@ -4238,7 +4238,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

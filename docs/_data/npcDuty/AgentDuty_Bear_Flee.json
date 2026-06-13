@@ -5,7 +5,7 @@
   "zh": "Bear Flee",
   "en": "Bear Flee",
   "ja": "Bear Flee",
-  "UniqueIDIndex": 2839,
+  "UniqueIDIndex": 2847,
   "DutyName": {
     "DefaultText": "Bear Flee",
     "Text": "Bear Flee",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "ConditionRange": {
           "x": 0,
@@ -284,7 +284,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

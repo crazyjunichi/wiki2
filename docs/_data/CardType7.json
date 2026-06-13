@@ -681,18 +681,18 @@
       "icon": "CopperNugget",
       "type": "card",
       "CardType": 7,
-      "zh": "布衬衫",
+      "zh": "5 块铜块",
       "en": "5 Copper Nuggets",
-      "ja": "シャツ（布）"
+      "ja": "5 Copper Nuggets"
     },
     {
       "key": "Bp_CommissionPartridgeEggs",
       "icon": "Egg_Partridge",
       "type": "card",
       "CardType": 7,
-      "zh": "布衬衫",
+      "zh": "15 颗灰山鹑蛋",
       "en": "15 Partridge Eggs",
-      "ja": "シャツ（布）"
+      "ja": "15 Partridge Eggs"
     },
     {
       "key": "Bp_CompostBin",

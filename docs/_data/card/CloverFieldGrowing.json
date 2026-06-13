@@ -6,7 +6,7 @@
   "zh": "生长中的三叶草",
   "en": "Growing Clover Field",
   "ja": "成長中のクローバー畑",
-  "UniqueIDIndex": 885,
+  "UniqueIDIndex": 886,
   "CardType": 2,
   "CardTags": [
     {
@@ -7465,7 +7465,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

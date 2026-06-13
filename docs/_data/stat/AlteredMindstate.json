@@ -6,7 +6,7 @@
   "zh": "精神失常",
   "en": "Altered Mindstate",
   "ja": "変わった精神状態",
-  "UniqueIDIndex": 3087,
+  "UniqueIDIndex": 3096,
   "GameName": {
     "DefaultText": "Altered Mindstate",
     "Text": "精神失常",
@@ -2233,7 +2233,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -4758,14 +4758,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：凝视水面",
         "en": "Action: Gaze at Water",
-        "ja": "アクション：水を眺める"
+        "ja": "アクション：Gaze at Water"
       },
       "value": {
         "x": 51,
@@ -6850,14 +6850,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：凝视水面",
         "en": "Action: Gaze at Water",
-        "ja": "アクション：水を眺める"
+        "ja": "アクション：Gaze at Water"
       },
       "value": {
         "x": 51,

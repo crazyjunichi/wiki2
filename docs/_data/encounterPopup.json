@@ -5421,12 +5421,12 @@
   "ChaseEncounter": null,
   "ChaseNPC": null,
   "m_GameObject": {
-    "key": "AgentDuty_Forestbeast_TeleportToInterest",
+    "key": "AgentDuty_WolfPack_EatVeryLargeCarcass",
     "icon": "",
     "type": "npc",
-    "zh": "Forest Beast Teleport to Interest",
-    "en": "Forest Beast Teleport to Interest",
-    "ja": "Forest Beast Teleport to Interest"
+    "zh": "Wolf Pack Eat Carcass",
+    "en": "Wolf Pack Eat Carcass",
+    "ja": "Wolf Pack Eat Carcass"
   },
   "m_Enabled": 1,
   "LogParent": null,
@@ -5491,33 +5491,24 @@
   "WeaponsEquipmentButtonsParent": null,
   "WeaponNameText": null,
   "ContinueButtonObject": {
-    "key": "SpiritSpeaker_ElementalSpirits_Sub1_SummonAWaterSpirit",
+    "key": "SpiritSpeaker_SpiritualTools_Sub1_DrinkSpiritTea",
     "icon": "",
-    "zh": "召唤水精魄",
-    "en": "Summon a Water Spirit",
-    "ja": "Summon a Water Spirit",
+    "zh": "饮用神奇茶",
+    "en": "Drink Spirit Tea",
+    "ja": "Drink Spirit Tea",
     "type": "quest"
   },
   "ContinueButton": null,
   "ChaseButtonObject": {
-    "key": "Spice_PineNutsRaw",
-    "icon": "PineNuts",
-    "type": "spice",
-    "zh": "生松子",
-    "en": "Raw Pine Nuts",
-    "ja": "生の松の実"
-  },
-  "ChaseButton": null,
-  "LeaveBeButton": {
-    "key": "BurrowFox1",
-    "icon": "Burrow",
+    "key": "LQ_SpiritBoar",
+    "icon": "Boar_Wild",
     "type": "card",
-    "CardType": 2,
-    "zh": "狐狸洞",
-    "en": "Fox Burrow",
-    "ja": "Fox Burrow",
+    "CardType": 9,
+    "zh": "野猪精魄",
+    "en": "Boar Spirit",
+    "ja": "イノシシの精霊",
     "SpoilageTime": {
-      "Active": true,
+      "Active": false,
       "CardStatName": {
         "DefaultText": "",
         "Text": "SpoilageTime",
@@ -5525,10 +5516,8 @@
         "en": "Spoilage",
         "ja": ""
       },
-      "OverrideIcon": {
-        "FileName": "SaturationVegetables_Old"
-      },
-      "MaxValue": 288
+      "OverrideIcon": null,
+      "MaxValue": 0
     },
     "UsageDurability": {
       "Active": false,
@@ -5540,21 +5529,21 @@
         "ja": ""
       },
       "OverrideIcon": null,
-      "MaxValue": 1440
+      "MaxValue": 0
     },
     "FuelCapacity": {
       "Active": false,
       "CardStatName": {
         "DefaultText": "",
-        "Text": "FuelCapacity",
+        "Text": "温度",
         "zh": "容量",
         "en": "Fuel",
         "ja": ""
       },
       "OverrideIcon": {
-        "FileName": "Thirst_Old"
+        "FileName": "Hot_Old"
       },
-      "MaxValue": 1440
+      "MaxValue": 200
     },
     "Progress": {
       "Active": false,
@@ -5566,7 +5555,7 @@
         "ja": ""
       },
       "OverrideIcon": null,
-      "MaxValue": 1440
+      "MaxValue": 0
     },
     "SpecialDurability1": {
       "Active": false,
@@ -5590,7 +5579,7 @@
         "ja": ""
       },
       "OverrideIcon": null,
-      "MaxValue": 1440
+      "MaxValue": 0
     },
     "SpecialDurability3": {
       "Active": false,
@@ -5617,89 +5606,185 @@
       "MaxValue": 0
     }
   },
+  "ChaseButton": null,
+  "LeaveBeButton": {
+    "key": "AgentDuty_Bear_WanderingPineGrovesAutumn",
+    "icon": "",
+    "type": "npc",
+    "zh": "Bear Wondering Pine Groves Autumn",
+    "en": "Bear Wondering Pine Groves Autumn",
+    "ja": "Bear Wondering Pine Groves Autumn"
+  },
   "EscapeButton": null,
   "SwitchHandButtonsParent": {
-    "key": "PreparedMetalCrucibleSmall",
-    "icon": "Crucible",
+    "key": "Carcass_BoarCarcassSkinned",
+    "icon": "Boar_Skinned",
     "type": "card",
     "CardType": 0,
-    "zh": "小型预备坩埚",
-    "en": "Small Prepared Crucible",
-    "ja": "Small Prepared Crucible",
+    "zh": "剥皮的野猪尸体",
+    "en": "Skinned Boar Carcass",
+    "ja": "Skinned Boar Carcass",
+    "SpoilageTime": {
+      "Active": true,
+      "CardStatName": {
+        "DefaultText": "Spoilage",
+        "Text": "变质",
+        "zh": "变质",
+        "en": "Spoilage",
+        "ja": "Spoilage"
+      },
+      "OverrideIcon": {
+        "FileName": "Bacteria"
+      },
+      "MaxValue": 360
+    },
+    "UsageDurability": {
+      "Active": false,
+      "CardStatName": {
+        "DefaultText": "",
+        "Text": "UsageDurability",
+        "zh": "耐久",
+        "en": "Usage",
+        "ja": ""
+      },
+      "OverrideIcon": null,
+      "MaxValue": 1
+    },
+    "FuelCapacity": {
+      "Active": true,
+      "CardStatName": {
+        "DefaultText": "Consumed",
+        "Text": "已消耗",
+        "zh": "已消耗",
+        "en": "Consumed",
+        "ja": "Consumed"
+      },
+      "OverrideIcon": {
+        "FileName": "Bacteria"
+      },
+      "MaxValue": 1
+    },
+    "Progress": {
+      "Active": false,
+      "CardStatName": {
+        "DefaultText": "",
+        "Text": "Progress",
+        "zh": "进度",
+        "en": "Progress",
+        "ja": ""
+      },
+      "OverrideIcon": {
+        "FileName": "Insight"
+      },
+      "MaxValue": 1
+    },
+    "SpecialDurability1": {
+      "Active": true,
+      "CardStatName": {
+        "DefaultText": "Weight",
+        "Text": "重量",
+        "zh": "重量",
+        "en": "Weight",
+        "ja": "Weight"
+      },
+      "OverrideIcon": {
+        "FileName": "Weight_Old"
+      },
+      "MaxValue": 6000
+    },
+    "SpecialDurability2": {
+      "Active": true,
+      "CardStatName": {
+        "DefaultText": "Quality",
+        "Text": "品质",
+        "zh": "品质",
+        "en": "Quality",
+        "ja": "Quality"
+      },
+      "OverrideIcon": {
+        "FileName": "Quality"
+      },
+      "MaxValue": 16
+    },
+    "SpecialDurability3": {
+      "Active": true,
+      "CardStatName": {
+        "DefaultText": "Butchering Progress",
+        "Text": "屠宰进度",
+        "zh": "屠宰进度",
+        "en": "Butchering Progress",
+        "ja": "Butchering Progress"
+      },
+      "OverrideIcon": {
+        "FileName": "Knife_Copper"
+      },
+      "MaxValue": 4
+    },
+    "SpecialDurability4": {
+      "Active": false,
+      "CardStatName": {
+        "DefaultText": "",
+        "Text": "SpecialDurability4",
+        "zh": "特殊4",
+        "en": "Special4",
+        "ja": ""
+      },
+      "OverrideIcon": null,
+      "MaxValue": 0
+    }
+  },
+  "CancelAmmoSelectionButton": {
+    "key": "BearCoat",
+    "icon": "BearCoat",
+    "type": "card",
+    "CardType": 0,
+    "zh": "熊皮大衣",
+    "en": "Bear Coat",
+    "ja": "Bear Coat",
     "AlternateNames": [
       {
         "Conditions": {
-          "Special4Range": {
+          "Special1Range": {
+            "x": 2,
+            "y": 2
+          }
+        },
+        "Name": {
+          "DefaultText": "Green Bear Coat",
+          "Text": "绿色熊皮大衣",
+          "zh": "绿色熊皮大衣",
+          "en": "Green Bear Coat",
+          "ja": "Green Bear Coat"
+        }
+      },
+      {
+        "Conditions": {
+          "Special1Range": {
+            "x": 3,
+            "y": 3
+          }
+        },
+        "Name": {
+          "DefaultText": "Red Bear Coat",
+          "Text": "红色熊皮大衣",
+          "zh": "红色熊皮大衣",
+          "en": "Red Bear Coat",
+          "ja": "Red Bear Coat"
+        }
+      },
+      {
+        "Conditions": {
+          "Special1Range": {
             "x": 100,
             "y": 100
           }
         },
         "Name": {
-          "DefaultText": "Prepared Copper",
-          "Text": "预备铜",
-          "zh": "预备铜",
-          "en": "Prepared Copper",
-          "ja": "Prepared Copper"
-        }
-      },
-      {
-        "Conditions": {
-          "Special4Range": {
-            "x": 110,
-            "y": 110
-          }
-        },
-        "Name": {
-          "DefaultText": "Prepared Ghost Bronze",
-          "Text": "预备鬼铜",
-          "zh": "预备鬼铜",
-          "en": "Prepared Ghost Bronze",
-          "ja": "Prepared Ghost Bronze"
-        }
-      },
-      {
-        "Conditions": {
-          "Special4Range": {
-            "x": 120,
-            "y": 120
-          }
-        },
-        "Name": {
-          "DefaultText": "Prepared Tin",
-          "Text": "预备锡",
-          "zh": "预备锡",
-          "en": "Prepared Tin",
-          "ja": "Prepared Tin"
-        }
-      },
-      {
-        "Conditions": {
-          "Special4Range": {
-            "x": 130,
-            "y": 130
-          }
-        },
-        "Name": {
-          "DefaultText": "Prepared Tin Bronze",
-          "Text": "预备青铜",
-          "zh": "预备青铜",
-          "en": "Prepared Tin Bronze",
-          "ja": "Prepared Tin Bronze"
-        }
-      },
-      {
-        "Conditions": {
-          "Special4Range": {
-            "x": 140,
-            "y": 140
-          }
-        },
-        "Name": {
-          "DefaultText": "Prepared White Bronze",
-          "Text": "预备白铜",
-          "zh": "预备白铜",
-          "en": "Prepared White Bronze",
-          "ja": "Prepared White Bronze"
+          "DefaultText": "Brown Bear Coat",
+          "Text": "棕色熊皮大衣",
+          "zh": "棕色熊皮大衣",
+          "en": "Brown Bear Coat",
+          "ja": "Brown Bear Coat"
         }
       }
     ],
@@ -5719,69 +5804,59 @@
       "Active": true,
       "CardStatName": {
         "DefaultText": "",
-        "Text": "UsageDurability",
+        "Text": "耐久",
         "zh": "耐久",
         "en": "Usage",
         "ja": ""
       },
-      "OverrideIcon": null,
-      "MaxValue": 120
+      "OverrideIcon": {
+        "FileName": "Spoilage"
+      },
+      "MaxValue": 46080
     },
     "FuelCapacity": {
       "Active": false,
       "CardStatName": {
         "DefaultText": "",
-        "Text": "温度",
+        "Text": "FuelCapacity",
         "zh": "容量",
         "en": "Fuel",
         "ja": ""
       },
       "OverrideIcon": {
-        "FileName": "Hot"
+        "FileName": "Water"
       },
-      "MaxValue": 1100
+      "MaxValue": 12
     },
     "Progress": {
       "Active": true,
       "CardStatName": {
-        "DefaultText": "Smelted",
-        "Text": "熔炼",
-        "zh": "熔炼",
-        "en": "Smelted",
-        "ja": "Smelted"
+        "DefaultText": "Colour Intensity",
+        "Text": "彩度",
+        "zh": "彩度",
+        "en": "Colour Intensity",
+        "ja": "Colour Intensity"
       },
       "OverrideIcon": {
-        "FileName": "Cooking"
+        "FileName": "Urine"
       },
-      "MaxValue": 3
+      "MaxValue": 23040
     },
     "SpecialDurability1": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "SpecialDurability1",
-        "zh": "特殊1",
-        "en": "Special1",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 0
-    },
-    "SpecialDurability2": {
       "Active": true,
       "CardStatName": {
-        "DefaultText": "Metal Quality",
-        "Text": "总金属品质",
-        "zh": "总金属品质",
-        "en": "Metal Quality",
-        "ja": "Metal Quality"
+        "DefaultText": "Fur",
+        "Text": "毛皮",
+        "zh": "毛皮",
+        "en": "Fur",
+        "ja": "Fur"
       },
       "OverrideIcon": {
-        "FileName": "Quality"
+        "FileName": "Fur_Cured"
       },
       "MaxValue": 100
     },
-    "SpecialDurability3": {
+    "SpecialDurability2": {
       "Active": true,
       "CardStatName": {
         "DefaultText": "Quality",
@@ -5795,124 +5870,31 @@
       },
       "MaxValue": 100
     },
-    "SpecialDurability4": {
+    "SpecialDurability3": {
       "Active": true,
       "CardStatName": {
-        "DefaultText": "Metal Type",
-        "Text": "金属类型",
-        "zh": "金属类型",
-        "en": "Metal Type",
-        "ja": "Metal Type"
-      },
-      "OverrideIcon": null,
-      "MaxValue": 1000
-    }
-  },
-  "CancelAmmoSelectionButton": {
-    "key": "TourniquetRustic",
-    "icon": "TourniquetImprovised",
-    "type": "card",
-    "CardType": 0,
-    "zh": "简易止血带",
-    "en": "Improvised Tourniquet",
-    "ja": "手作り止血帯",
-    "SpoilageTime": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "SpoilageTime",
-        "zh": "时间",
-        "en": "Spoilage",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 672
-    },
-    "UsageDurability": {
-      "Active": true,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "耐久",
-        "zh": "耐久",
-        "en": "Usage",
-        "ja": ""
+        "DefaultText": "Softness",
+        "Text": "柔软度",
+        "zh": "柔软度",
+        "en": "Softness",
+        "ja": "Softness"
       },
       "OverrideIcon": {
-        "FileName": "Spoilage"
+        "FileName": "Brain"
       },
-      "MaxValue": 350
-    },
-    "FuelCapacity": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "FuelCapacity",
-        "zh": "容量",
-        "en": "Fuel",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 0
-    },
-    "Progress": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "Progress",
-        "zh": "进度",
-        "en": "Progress",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 0
-    },
-    "SpecialDurability1": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "SpecialDurability1",
-        "zh": "特殊1",
-        "en": "Special1",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 0
-    },
-    "SpecialDurability2": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "SpecialDurability2",
-        "zh": "特殊2",
-        "en": "Special2",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 0
-    },
-    "SpecialDurability3": {
-      "Active": false,
-      "CardStatName": {
-        "DefaultText": "",
-        "Text": "SpecialDurability3",
-        "zh": "特殊3",
-        "en": "Special3",
-        "ja": ""
-      },
-      "OverrideIcon": null,
-      "MaxValue": 0
+      "MaxValue": 2
     },
     "SpecialDurability4": {
-      "Active": false,
+      "Active": true,
       "CardStatName": {
-        "DefaultText": "",
-        "Text": "SpecialDurability4",
-        "zh": "特殊4",
-        "en": "Special4",
-        "ja": ""
+        "DefaultText": "Colour",
+        "Text": "颜色",
+        "zh": "颜色",
+        "en": "Colour",
+        "ja": "Colour"
       },
       "OverrideIcon": null,
-      "MaxValue": 0
+      "MaxValue": 100
     }
   },
   "WeaponSelectionPopup": null,

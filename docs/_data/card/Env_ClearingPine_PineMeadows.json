@@ -2429,6 +2429,22 @@
         "en": "Action: West",
         "ja": "アクション：West"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods1",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Pine Meadows",
+        "en": "Action: Pine Meadows",
+        "ja": "アクション：Pine Meadows"
+      }
     }
   ],
   "_useFor": [

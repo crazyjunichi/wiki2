@@ -6,7 +6,7 @@
   "zh": "木炭茶",
   "en": "Charcoal Tea",
   "ja": "木炭茶",
-  "UniqueIDIndex": 1629,
+  "UniqueIDIndex": 1630,
   "CardType": 9,
   "CardTags": [
     {
@@ -4618,7 +4618,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

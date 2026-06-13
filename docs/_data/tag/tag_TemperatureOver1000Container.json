@@ -1553,9 +1553,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -1667,9 +1667,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -13866,6 +13866,430 @@
             "FileName": "Hammer"
           },
           "MaxValue": 100
+        },
+        "SpecialDurability2": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Metal Quality",
+            "Text": "总金属品质",
+            "zh": "总金属品质",
+            "en": "Metal Quality",
+            "ja": "Metal Quality"
+          },
+          "OverrideIcon": {
+            "FileName": "Quality"
+          },
+          "MaxValue": 100
+        },
+        "SpecialDurability3": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Quality",
+            "Text": "品质",
+            "zh": "品质",
+            "en": "Quality",
+            "ja": "Quality"
+          },
+          "OverrideIcon": {
+            "FileName": "Quality"
+          },
+          "MaxValue": 100
+        },
+        "SpecialDurability4": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Metal Type",
+            "Text": "金属类型",
+            "zh": "金属类型",
+            "en": "Metal Type",
+            "ja": "Metal Type"
+          },
+          "OverrideIcon": null,
+          "MaxValue": 1000
+        }
+      },
+      "localization": {
+        "zh": "被动效果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "en": "Passive Effect：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "ja": "パッシブ効果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )"
+      }
+    },
+    {
+      "link": {
+        "key": "ToolOrWeapon_Torc_Metal",
+        "icon": "Torc_Copper",
+        "type": "card",
+        "CardType": 0,
+        "zh": "金属颈环",
+        "en": "Metal Torc",
+        "ja": "Metal Torc",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 100,
+                "y": 100
+              }
+            },
+            "Name": {
+              "DefaultText": "Copper Torc",
+              "Text": "铜颈环",
+              "zh": "铜颈环",
+              "en": "Copper Torc",
+              "ja": "Copper Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 110,
+                "y": 110
+              }
+            },
+            "Name": {
+              "DefaultText": "Ghost Bronze Torc",
+              "Text": "鬼铜颈环",
+              "zh": "鬼铜颈环",
+              "en": "Ghost Bronze Torc",
+              "ja": "Ghost Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 120,
+                "y": 120
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Torc",
+              "Text": "锡颈环",
+              "zh": "锡颈环",
+              "en": "Tin Torc",
+              "ja": "Tin Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 130,
+                "y": 130
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Bronze Torc",
+              "Text": "青铜颈环",
+              "zh": "青铜颈环",
+              "en": "Tin Bronze Torc",
+              "ja": "Tin Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 140,
+                "y": 140
+              }
+            },
+            "Name": {
+              "DefaultText": "White Bronze Torc",
+              "Text": "白铜颈环",
+              "zh": "白铜颈环",
+              "en": "White Bronze Torc",
+              "ja": "White Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 200,
+                "y": 200
+              }
+            },
+            "Name": {
+              "DefaultText": "Iron Torc",
+              "Text": "铁项圈",
+              "zh": "铁项圈",
+              "en": "Iron Torc",
+              "ja": "Iron Torc"
+            }
+          }
+        ],
+        "SpoilageTime": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Beauty",
+            "Text": "美观",
+            "zh": "美观",
+            "en": "Beauty",
+            "ja": "Beauty"
+          },
+          "OverrideIcon": null,
+          "MaxValue": 1000
+        },
+        "UsageDurability": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "UsageDurability",
+            "zh": "耐久",
+            "en": "Usage",
+            "ja": ""
+          },
+          "OverrideIcon": {
+            "FileName": "Shield"
+          },
+          "MaxValue": 10000
+        },
+        "FuelCapacity": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "FuelCapacity",
+            "zh": "容量",
+            "en": "Fuel",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 1
+        },
+        "Progress": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Smelted",
+            "Text": "熔炼",
+            "zh": "熔炼",
+            "en": "Smelted",
+            "ja": "Smelted"
+          },
+          "OverrideIcon": {
+            "FileName": "Cooking"
+          },
+          "MaxValue": 8
+        },
+        "SpecialDurability1": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability1",
+            "zh": "特殊1",
+            "en": "Special1",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability2": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Metal Quality",
+            "Text": "总金属品质",
+            "zh": "总金属品质",
+            "en": "Metal Quality",
+            "ja": "Metal Quality"
+          },
+          "OverrideIcon": {
+            "FileName": "Quality"
+          },
+          "MaxValue": 100
+        },
+        "SpecialDurability3": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Quality",
+            "Text": "品质",
+            "zh": "品质",
+            "en": "Quality",
+            "ja": "Quality"
+          },
+          "OverrideIcon": {
+            "FileName": "Quality"
+          },
+          "MaxValue": 100
+        },
+        "SpecialDurability4": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Metal Type",
+            "Text": "金属类型",
+            "zh": "金属类型",
+            "en": "Metal Type",
+            "ja": "Metal Type"
+          },
+          "OverrideIcon": null,
+          "MaxValue": 1000
+        }
+      },
+      "localization": {
+        "zh": "被动效果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "en": "Passive Effect：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "ja": "パッシブ効果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )"
+      }
+    },
+    {
+      "link": {
+        "key": "ToolOrWeapon_TwistedRing_Metal",
+        "icon": "RingTwisted_Copper",
+        "type": "card",
+        "CardType": 0,
+        "zh": "金属扭结戒指",
+        "en": "Metal Twisted Ring",
+        "ja": "Metal Twisted Ring",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 100,
+                "y": 100
+              }
+            },
+            "Name": {
+              "DefaultText": "Copper Twisted Ring",
+              "Text": "铜扭结戒指",
+              "zh": "铜扭结戒指",
+              "en": "Copper Twisted Ring",
+              "ja": "Copper Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 110,
+                "y": 110
+              }
+            },
+            "Name": {
+              "DefaultText": "Ghost Bronze Twisted Ring",
+              "Text": "鬼铜扭结戒指",
+              "zh": "鬼铜扭结戒指",
+              "en": "Ghost Bronze Twisted Ring",
+              "ja": "Ghost Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 120,
+                "y": 120
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Twisted Ring",
+              "Text": "锡扭结戒指",
+              "zh": "锡扭结戒指",
+              "en": "Tin Twisted Ring",
+              "ja": "Tin Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 130,
+                "y": 130
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Bronze Twisted Ring",
+              "Text": "青铜扭结戒指",
+              "zh": "青铜扭结戒指",
+              "en": "Tin Bronze Twisted Ring",
+              "ja": "Tin Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 140,
+                "y": 140
+              }
+            },
+            "Name": {
+              "DefaultText": "White Bronze Twisted Ring",
+              "Text": "白铜扭结戒指",
+              "zh": "白铜扭结戒指",
+              "en": "White Bronze Twisted Ring",
+              "ja": "White Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 200,
+                "y": 200
+              }
+            },
+            "Name": {
+              "DefaultText": "Iron Twisted Ring",
+              "Text": "铁扭结戒指",
+              "zh": "铁扭结戒指",
+              "en": "Iron Twisted Ring",
+              "ja": "Iron Twisted Ring"
+            }
+          }
+        ],
+        "SpoilageTime": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Beauty",
+            "Text": "美观",
+            "zh": "美观",
+            "en": "Beauty",
+            "ja": "Beauty"
+          },
+          "OverrideIcon": null,
+          "MaxValue": 1000
+        },
+        "UsageDurability": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "UsageDurability",
+            "zh": "耐久",
+            "en": "Usage",
+            "ja": ""
+          },
+          "OverrideIcon": {
+            "FileName": "Shield"
+          },
+          "MaxValue": 10000
+        },
+        "FuelCapacity": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "FuelCapacity",
+            "zh": "容量",
+            "en": "Fuel",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 1
+        },
+        "Progress": {
+          "Active": true,
+          "CardStatName": {
+            "DefaultText": "Smelted",
+            "Text": "熔炼",
+            "zh": "熔炼",
+            "en": "Smelted",
+            "ja": "Smelted"
+          },
+          "OverrideIcon": {
+            "FileName": "Cooking"
+          },
+          "MaxValue": 8
+        },
+        "SpecialDurability1": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability1",
+            "zh": "特殊1",
+            "en": "Special1",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
         },
         "SpecialDurability2": {
           "Active": true,

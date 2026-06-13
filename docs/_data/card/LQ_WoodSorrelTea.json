@@ -6,7 +6,7 @@
   "zh": "酢浆草茶",
   "en": "Wood Sorrel Tea",
   "ja": "Wood Sorrel Tea",
-  "UniqueIDIndex": 1722,
+  "UniqueIDIndex": 1723,
   "CardType": 9,
   "CardTags": [
     {
@@ -5226,7 +5226,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

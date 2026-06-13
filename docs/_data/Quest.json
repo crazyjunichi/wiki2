@@ -6,13 +6,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5254",
-      "___fn": "Farmer_FarmingTools_Main@5254.json",
+      "___key": "0_5256",
+      "___fn": "Farmer_FarmingTools_Main@5256.json",
       "zh": "农具",
       "en": "Farming Tools",
       "ja": "Farming Tools",
       "UniqueID": "e5a25d1ba7892c047be4b0651f6e6943",
-      "UniqueIDIndex": 3236,
+      "UniqueIDIndex": 3246,
       "QuestTitle": {
         "DefaultText": "Farming Tools",
         "Text": "农具",
@@ -61,7 +61,7 @@
         "en": "Farming Tools",
         "ja": "Farming Tools",
         "UniqueID": "bed10c2c8d4f5834b982972e0ddef33c",
-        "UniqueIDIndex": 3234,
+        "UniqueIDIndex": 3244,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -81,7 +81,7 @@
               "en": "Garden",
               "ja": "Garden",
               "UniqueID": "eb5038a5ead27ca4a9f13b01834fa62a",
-              "UniqueIDIndex": 3237,
+              "UniqueIDIndex": 3247,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -195,7 +195,7 @@
               "en": "Compost Bin",
               "ja": "Compost Bin",
               "UniqueID": "e972c7fbb54e6314785b4e9886ff5970",
-              "UniqueIDIndex": 3238,
+              "UniqueIDIndex": 3248,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -309,7 +309,7 @@
               "en": "Field",
               "ja": "Field",
               "UniqueID": "b8efbfc921f4a4940af29163fa96c4b0",
-              "UniqueIDIndex": 3239,
+              "UniqueIDIndex": 3249,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -423,7 +423,7 @@
               "en": "Sickle",
               "ja": "Sickle",
               "UniqueID": "178d78c96a933df4b9d1fc9f1f39dd0c",
-              "UniqueIDIndex": 3240,
+              "UniqueIDIndex": 3250,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -629,7 +629,7 @@
               "en": "Scythe",
               "ja": "Scythe",
               "UniqueID": "750bf1d0cc6d6c84da70af512b508498",
-              "UniqueIDIndex": 3241,
+              "UniqueIDIndex": 3251,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -835,7 +835,7 @@
               "en": "Metal Hoe",
               "ja": "Metal Hoe",
               "UniqueID": "f453a89fdc2598645a373dd6e1670a23",
-              "UniqueIDIndex": 3242,
+              "UniqueIDIndex": 3252,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1087,13 +1087,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5270",
-      "___fn": "Farmer_FieldCrops_Main@5270.json",
+      "___key": "0_5272",
+      "___fn": "Farmer_FieldCrops_Main@5272.json",
       "zh": "耕地作物",
       "en": "Field Crops",
       "ja": "Field Crops",
       "UniqueID": "f89daa0124a6fcf4c9f67f5678374aad",
-      "UniqueIDIndex": 3251,
+      "UniqueIDIndex": 3261,
       "QuestTitle": {
         "DefaultText": "Field Crops",
         "Text": "耕地作物",
@@ -1142,7 +1142,7 @@
         "en": "Field Crops",
         "ja": "Field Crops",
         "UniqueID": "faf25375987ceca4a85e993aa354f868",
-        "UniqueIDIndex": 3249,
+        "UniqueIDIndex": 3259,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -1162,7 +1162,7 @@
               "en": "Meadowgrass",
               "ja": "Meadowgrass",
               "UniqueID": "87056a57a68588347b00f8503b3870b2",
-              "UniqueIDIndex": 3252,
+              "UniqueIDIndex": 3262,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1276,7 +1276,7 @@
               "en": "Clover",
               "ja": "Clover",
               "UniqueID": "6a3527197c6f19e4fb9267b75418295e",
-              "UniqueIDIndex": 3253,
+              "UniqueIDIndex": 3263,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1390,7 +1390,7 @@
               "en": "Rye",
               "ja": "Rye",
               "UniqueID": "ea5dce44112802c4e96fabc40b8fe1da",
-              "UniqueIDIndex": 3254,
+              "UniqueIDIndex": 3264,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1504,7 +1504,7 @@
               "en": "Peas",
               "ja": "Peas",
               "UniqueID": "3bbdda1deffe1284192f8f7a619e3548",
-              "UniqueIDIndex": 3255,
+              "UniqueIDIndex": 3265,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1618,7 +1618,7 @@
               "en": "Flax",
               "ja": "Flax",
               "UniqueID": "29f212a26616cf14385eff0642111bed",
-              "UniqueIDIndex": 3256,
+              "UniqueIDIndex": 3266,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1732,7 +1732,7 @@
               "en": "Wheat",
               "ja": "Wheat",
               "UniqueID": "00b684c1ec7d53a47a476a1fe3546c86",
-              "UniqueIDIndex": 3257,
+              "UniqueIDIndex": 3267,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1892,13 +1892,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5286",
-      "___fn": "Farmer_GardenCrops_Main@5286.json",
+      "___key": "0_5288",
+      "___fn": "Farmer_GardenCrops_Main@5288.json",
       "zh": "园艺作物",
       "en": "Garden Crops",
       "ja": "Garden Crops",
       "UniqueID": "9cb0e8d2a2d6cc048b1d59ca530a50f3",
-      "UniqueIDIndex": 3266,
+      "UniqueIDIndex": 3276,
       "QuestTitle": {
         "DefaultText": "Garden Crops",
         "Text": "园艺作物",
@@ -1947,7 +1947,7 @@
         "en": "Garden Crops",
         "ja": "Garden Crops",
         "UniqueID": "c6c0816a80f3c864199d8923a9a2676f",
-        "UniqueIDIndex": 3264,
+        "UniqueIDIndex": 3274,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -1967,7 +1967,7 @@
               "en": "Frostleaf",
               "ja": "Frostleaf",
               "UniqueID": "dd03076a14b5bd9489bb951a4eb0dba5",
-              "UniqueIDIndex": 3267,
+              "UniqueIDIndex": 3277,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2081,7 +2081,7 @@
               "en": "Garlic",
               "ja": "Garlic",
               "UniqueID": "f393b1780056ab54fa2601bd0592b5ee",
-              "UniqueIDIndex": 3268,
+              "UniqueIDIndex": 3278,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2195,7 +2195,7 @@
               "en": "Fairyweed",
               "ja": "Fairyweed",
               "UniqueID": "1a4a1d5cf7fc8a943acf7228abee0f88",
-              "UniqueIDIndex": 3269,
+              "UniqueIDIndex": 3279,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2309,7 +2309,7 @@
               "en": "Appleweed",
               "ja": "Appleweed",
               "UniqueID": "3a06933726f8a7149b1714953d9e7f45",
-              "UniqueIDIndex": 3270,
+              "UniqueIDIndex": 3280,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2423,7 +2423,7 @@
               "en": "Forest Caps",
               "ja": "Forest Caps",
               "UniqueID": "335a0964f652d2f49897329ffb179b61",
-              "UniqueIDIndex": 3271,
+              "UniqueIDIndex": 3281,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2537,7 +2537,7 @@
               "en": "Spirit Mushrooms",
               "ja": "Spirit Mushrooms",
               "UniqueID": "6e89fa1775f20ae4b912c0214bcca20f",
-              "UniqueIDIndex": 3272,
+              "UniqueIDIndex": 3282,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2651,7 +2651,7 @@
               "en": "Fireroot",
               "ja": "Fireroot",
               "UniqueID": "c5293f000530fc64081587bb6331aad7",
-              "UniqueIDIndex": 3273,
+              "UniqueIDIndex": 3283,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2811,13 +2811,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5304",
-      "___fn": "Farmer_ProcessingTools_Main@5304.json",
+      "___key": "0_5306",
+      "___fn": "Farmer_ProcessingTools_Main@5306.json",
       "zh": "农务工具",
       "en": "Processing Tools",
       "ja": "Processing Tools",
       "UniqueID": "2f557ca7896f33f40bba378a85121678",
-      "UniqueIDIndex": 3283,
+      "UniqueIDIndex": 3293,
       "QuestTitle": {
         "DefaultText": "Processing Tools",
         "Text": "农务工具",
@@ -2866,7 +2866,7 @@
         "en": "Processing Tools",
         "ja": "Processing Tools",
         "UniqueID": "c0cc946f544d794428d07a0632409c64",
-        "UniqueIDIndex": 3281,
+        "UniqueIDIndex": 3291,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -2886,7 +2886,7 @@
               "en": "Saddle Quern",
               "ja": "Saddle Quern",
               "UniqueID": "2e6a6d10cd7cf41449d7c01736a0f7c6",
-              "UniqueIDIndex": 3284,
+              "UniqueIDIndex": 3294,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3000,7 +3000,7 @@
               "en": "Hand Stone",
               "ja": "Hand Stone",
               "UniqueID": "7c2d3ed31819c6e4bb0725fbf4883fde",
-              "UniqueIDIndex": 3285,
+              "UniqueIDIndex": 3295,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3114,7 +3114,7 @@
               "en": "Thresher",
               "ja": "Thresher",
               "UniqueID": "1a81bd3227f8b19409bc19d61305767a",
-              "UniqueIDIndex": 3286,
+              "UniqueIDIndex": 3296,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3228,7 +3228,7 @@
               "en": "Storage Pot",
               "ja": "Storage Pot",
               "UniqueID": "0cec7f4d4c153b04a962f5d0bc3e72c0",
-              "UniqueIDIndex": 3287,
+              "UniqueIDIndex": 3297,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3388,13 +3388,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5530",
-      "___fn": "Huntsman2_TheSecretOfFire_Main@5530.json",
+      "___key": "0_5532",
+      "___fn": "Huntsman2_TheSecretOfFire_Main@5532.json",
       "zh": "火的奥秘",
       "en": "The Secret of Fire",
       "ja": "The Secret of Fire",
       "UniqueID": "489d469f96b7ce642bc79f81c74b5ae4",
-      "UniqueIDIndex": 3598,
+      "UniqueIDIndex": 3608,
       "QuestTitle": {
         "DefaultText": "The Secret of Fire",
         "Text": "火的奥秘",
@@ -3443,7 +3443,7 @@
         "en": "The Secret of Fire",
         "ja": "The Secret of Fire",
         "UniqueID": "ee60be185d55627439fa5e8b87045bb7",
-        "UniqueIDIndex": 3596,
+        "UniqueIDIndex": 3606,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -3463,7 +3463,7 @@
               "en": "Grind a Stone on a Heavy Stone",
               "ja": "Grind a Stone on a Heavy Stone",
               "UniqueID": "2ada169790b72f24d8f0eaec32c0ad90",
-              "UniqueIDIndex": 3599,
+              "UniqueIDIndex": 3609,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3577,7 +3577,7 @@
               "en": "Build a Campfire",
               "ja": "Build a Campfire",
               "UniqueID": "fc738029e56e576458efd4827ad9d224",
-              "UniqueIDIndex": 3600,
+              "UniqueIDIndex": 3610,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3691,7 +3691,7 @@
               "en": "Combine a Sharpened Stone with Twigs",
               "ja": "Combine a Sharpened Stone with Twigs",
               "UniqueID": "b65acc2c37ba2c24aba5903e395e260e",
-              "UniqueIDIndex": 3601,
+              "UniqueIDIndex": 3611,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3805,7 +3805,7 @@
               "en": "Light some Dry Needles",
               "ja": "Light some Dry Needles",
               "UniqueID": "a43ef722ebe4caa4e8607d7ff7b54dd4",
-              "UniqueIDIndex": 3602,
+              "UniqueIDIndex": 3612,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3919,7 +3919,7 @@
               "en": "Combine Lit Tinders with Campfire",
               "ja": "Combine Lit Tinders with Campfire",
               "UniqueID": "43b42feffcdd73c439c4683a7909a531",
-              "UniqueIDIndex": 3603,
+              "UniqueIDIndex": 3613,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4079,13 +4079,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5158",
-      "___fn": "Ice_Main@5158.json",
+      "___key": "0_5160",
+      "___fn": "Ice_Main@5160.json",
       "zh": "冰",
       "en": "Ice",
       "ja": "氷",
       "UniqueID": "df3d51f1769ff534896f84539869ca6d",
-      "UniqueIDIndex": 3661,
+      "UniqueIDIndex": 3671,
       "QuestTitle": {
         "DefaultText": "Ice",
         "Text": "冰",
@@ -4131,7 +4131,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "bcc017e4251095748b4d3ca1f30090c7",
-        "UniqueIDIndex": 3660,
+        "UniqueIDIndex": 3670,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -4218,7 +4218,7 @@
         "en": "Ice",
         "ja": "氷",
         "UniqueID": "9c508111322b33c46a41d742ffc79318",
-        "UniqueIDIndex": 3659,
+        "UniqueIDIndex": 3669,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -4238,7 +4238,7 @@
               "en": "Make a Fishing Hole in the Ice",
               "ja": "氷に釣り穴を開ける",
               "UniqueID": "031f4c500ea37844fb00e0e9fddb125f",
-              "UniqueIDIndex": 3662,
+              "UniqueIDIndex": 3672,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4410,7 +4410,7 @@
               "en": "Drink from a Fishing Hole",
               "ja": "釣り穴から水を飲む",
               "UniqueID": "adf74b81f4414d246a1f38fc06bb9ee6",
-              "UniqueIDIndex": 3663,
+              "UniqueIDIndex": 3673,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -4453,16 +4453,16 @@
                   },
                   "OnCardWithTags": [],
                   "WithActionTags": [],
-                  "ActionName": "饮用",
+                  "ActionName": "Drink",
                   "OnActionStarted": true,
                   "PerformMultipleTimes": 0,
                   "DebugMode": false,
                   "ActionNameText": {
                     "DefaultText": "Drink",
-                    "Text": "饮用",
-                    "zh": "饮用",
+                    "Text": "Drink",
+                    "zh": "Drink",
                     "en": "Drink",
-                    "ja": "飲む"
+                    "ja": "Drink"
                   }
                 }
               ],
@@ -4564,13 +4564,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5166",
-      "___fn": "KeepingPlacesClean_Main@5166.json",
+      "___key": "0_5168",
+      "___fn": "KeepingPlacesClean_Main@5168.json",
       "zh": "保持场所清洁",
       "en": "Keeping Places Clean",
       "ja": "Keeping Places Clean",
       "UniqueID": "9e760891d493fb94682c1c1b03ccf04c",
-      "UniqueIDIndex": 3691,
+      "UniqueIDIndex": 3701,
       "QuestTitle": {
         "DefaultText": "Keeping Places Clean",
         "Text": "保持场所清洁",
@@ -4616,7 +4616,7 @@
         "en": "Keeping Places Clean",
         "ja": "Keeping Places Clean",
         "UniqueID": "91be4b0e4fbd4384c9038ca117c4b901",
-        "UniqueIDIndex": 3690,
+        "UniqueIDIndex": 3700,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -4703,7 +4703,7 @@
         "en": "Keeping Places Clean",
         "ja": "Keeping Places Clean",
         "UniqueID": "5c911443984165f4aa0106331263c44c",
-        "UniqueIDIndex": 3689,
+        "UniqueIDIndex": 3699,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -4723,7 +4723,7 @@
               "en": "Research & Build a Broom",
               "ja": "Research & Build a Broom",
               "UniqueID": "22b0a0ef1b7f2664db86d9e4db9b0c78",
-              "UniqueIDIndex": 3692,
+              "UniqueIDIndex": 3702,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4837,7 +4837,7 @@
               "en": "Clean an Indoors Location",
               "ja": "Clean an Indoors Location",
               "UniqueID": "b3ae234d71ae1264dbeed6ed364fb30f",
-              "UniqueIDIndex": 3693,
+              "UniqueIDIndex": 3703,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -4968,13 +4968,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5186",
-      "___fn": "MoonlitDreams_Main@5186.json",
+      "___key": "0_5188",
+      "___fn": "MoonlitDreams_Main@5188.json",
       "zh": "月之梦",
       "en": "Moonlit Dreams",
       "ja": "Moonlit Dreams",
       "UniqueID": "916a1dca23b77b34eac1cc6c02031d4d",
-      "UniqueIDIndex": 3721,
+      "UniqueIDIndex": 3731,
       "QuestTitle": {
         "DefaultText": "Moonlit Dreams",
         "Text": "月之梦",
@@ -5020,7 +5020,7 @@
         "en": "Prepare for Winter",
         "ja": "Prepare for Winter",
         "UniqueID": "4d63c433dde86c9429922768359f9541",
-        "UniqueIDIndex": 3720,
+        "UniqueIDIndex": 3730,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5107,7 +5107,7 @@
         "en": "Moonlit Dreams",
         "ja": "Moonlit Dreams",
         "UniqueID": "254c4a937bacda54ca26adb1ab2e7a8c",
-        "UniqueIDIndex": 3719,
+        "UniqueIDIndex": 3729,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5127,7 +5127,7 @@
               "en": "Find the Moonshrine to the North",
               "ja": "Find the Moonshrine to the North",
               "UniqueID": "725d21fc8464023499a8d18593a62ef8",
-              "UniqueIDIndex": 3722,
+              "UniqueIDIndex": 3732,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5241,7 +5241,7 @@
               "en": "Increase your Moon Affinity ( through moonlight & moonshrine exposure )",
               "ja": "Increase your Moon Affinity ( through moonlight & moonshrine exposure )",
               "UniqueID": "0a43bc3686fbc684997f083940411c9b",
-              "UniqueIDIndex": 3723,
+              "UniqueIDIndex": 3733,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -5320,7 +5320,7 @@
               "en": "Get a Moon Enchantment",
               "ja": "Get a Moon Enchantment",
               "UniqueID": "d36fa35876d6d8e47acc9126d5418996",
-              "UniqueIDIndex": 3724,
+              "UniqueIDIndex": 3734,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -5445,13 +5445,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5196",
-      "___fn": "Number1_Main@5196.json",
+      "___key": "0_5198",
+      "___fn": "Number1_Main@5198.json",
       "zh": "人有三急 上小号",
       "en": "Number 1",
       "ja": "始まり",
       "UniqueID": "f06acec8354793e459b432f26ea34fbd",
-      "UniqueIDIndex": 3789,
+      "UniqueIDIndex": 3799,
       "QuestTitle": {
         "DefaultText": "Number 1",
         "Text": "人有三急 上小号",
@@ -5497,7 +5497,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "f27d58ac7aa14994b91e84df920c5158",
-        "UniqueIDIndex": 3788,
+        "UniqueIDIndex": 3798,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5584,7 +5584,7 @@
         "en": "Number 1",
         "ja": "始まり",
         "UniqueID": "38aa5b86a60829c45b8df74d4ebb2017",
-        "UniqueIDIndex": 3787,
+        "UniqueIDIndex": 3797,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5604,7 +5604,7 @@
               "en": "Click on your Vesical Pressure Stat and Click on the Urinate Button",
               "ja": "膀胱圧をクリックした後に放尿ボタンをクリック",
               "UniqueID": "3c2e8d8efb164244283493e3ffbbacc7",
-              "UniqueIDIndex": 3790,
+              "UniqueIDIndex": 3800,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -5729,13 +5729,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5202",
-      "___fn": "Number2_Main@5202.json",
+      "___key": "0_5204",
+      "___fn": "Number2_Main@5204.json",
       "zh": "人有三急 上大号",
       "en": "Number 2",
       "ja": "２番",
       "UniqueID": "ca48ae8b87f96c84aafb87237abcae05",
-      "UniqueIDIndex": 3794,
+      "UniqueIDIndex": 3804,
       "QuestTitle": {
         "DefaultText": "Number 2",
         "Text": "人有三急 上大号",
@@ -5781,7 +5781,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "95d31942b654d1a44a1566aa575260f6",
-        "UniqueIDIndex": 3793,
+        "UniqueIDIndex": 3803,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5868,7 +5868,7 @@
         "en": "Number 2",
         "ja": "２番",
         "UniqueID": "942162a80ab0c5e41bb7726d919aaad5",
-        "UniqueIDIndex": 3792,
+        "UniqueIDIndex": 3802,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5888,7 +5888,7 @@
               "en": "Click on your Rectal Pressure Stat and Click on the Defecate Button",
               "ja": "直腸圧をクリックした後に排便ボタンをクリック",
               "UniqueID": "703e0d90ca34cf047b3e10ef59273ccb",
-              "UniqueIDIndex": 3795,
+              "UniqueIDIndex": 3805,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -6013,13 +6013,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5207",
-      "___fn": "PrepareForWInter_Main@5207.json",
+      "___key": "0_5209",
+      "___fn": "PrepareForWInter_Main@5209.json",
       "zh": "过冬准备",
       "en": "Prepare for Winter",
       "ja": "Prepare for Winter",
       "UniqueID": "61f58cf0bbc88084fb9312880e6f20d2",
-      "UniqueIDIndex": 4000,
+      "UniqueIDIndex": 4010,
       "QuestTitle": {
         "DefaultText": "Prepare for Winter",
         "Text": "过冬准备",
@@ -6065,7 +6065,7 @@
         "en": "Prepare for Winter",
         "ja": "Prepare for Winter",
         "UniqueID": "4c20e26109db7a3469fef4ed961f04a6",
-        "UniqueIDIndex": 3999,
+        "UniqueIDIndex": 4009,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -6152,7 +6152,7 @@
         "en": "Prepare for Winter",
         "ja": "Prepare for Winter",
         "UniqueID": "fbd4bcdef841b8143b9685b8e7e0fbf4",
-        "UniqueIDIndex": 3998,
+        "UniqueIDIndex": 4008,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -6172,7 +6172,7 @@
               "en": "Gather Acorns from the Oak Forests in the South",
               "ja": "Gather Acorns from the Oak Forests in the South",
               "UniqueID": "79c60e13a6a97aa43b4db81ab754e376",
-              "UniqueIDIndex": 4001,
+              "UniqueIDIndex": 4011,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -6286,7 +6286,7 @@
               "en": "Leech Acorns and Grind them into Flour",
               "ja": "Leech Acorns and Grind them into Flour",
               "UniqueID": "0efd2ce3af88b1c4f8d2f6ddaa746673",
-              "UniqueIDIndex": 4002,
+              "UniqueIDIndex": 4012,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -6400,7 +6400,7 @@
               "en": "Dry some Meat in an Oven or Drying Rack",
               "ja": "Dry some Meat in an Oven or Drying Rack",
               "UniqueID": "f54b8660c2f9caf4ca67f61e042e2b52",
-              "UniqueIDIndex": 4003,
+              "UniqueIDIndex": 4013,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -6753,13 +6753,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5218",
-      "___fn": "ShelteredSleep_Main@5218.json",
+      "___key": "0_5220",
+      "___fn": "ShelteredSleep_Main@5220.json",
       "zh": "睡在窝里",
       "en": "Sheltered Sleep",
       "ja": "安心して寝る",
       "UniqueID": "235f774634b471e45b26b1ff6dcd2683",
-      "UniqueIDIndex": 4062,
+      "UniqueIDIndex": 4072,
       "QuestTitle": {
         "DefaultText": "Sheltered Sleep",
         "Text": "睡在窝里",
@@ -6805,7 +6805,7 @@
         "en": "Sheltered Sleep",
         "ja": "安心して寝る",
         "UniqueID": "62e3611d3709eda4d92f09c26e8f8931",
-        "UniqueIDIndex": 4061,
+        "UniqueIDIndex": 4071,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -6951,7 +6951,7 @@
         "en": "Sheltered Sleep",
         "ja": "安心して寝る",
         "UniqueID": "16f28da76313b394cb359aefdf510a9d",
-        "UniqueIDIndex": 4060,
+        "UniqueIDIndex": 4070,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -6971,7 +6971,7 @@
               "en": "Sleep in The Improvised Shelter During the Night",
               "ja": "手作りシェルターの中で夜を過ごす",
               "UniqueID": "852a22a75de276f42ab199e49e444211",
-              "UniqueIDIndex": 4063,
+              "UniqueIDIndex": 4073,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -7149,13 +7149,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5590",
-      "___fn": "SpiritSpeaker_BeastSpirits_Main@5590.json",
+      "___key": "0_5592",
+      "___fn": "SpiritSpeaker_BeastSpirits_Main@5592.json",
       "zh": "野兽精魄",
       "en": "Beast Spirits",
       "ja": "Beast Spirits",
       "UniqueID": "97e9a0c2845142f41812450cc994530b",
-      "UniqueIDIndex": 4169,
+      "UniqueIDIndex": 4179,
       "QuestTitle": {
         "DefaultText": "Beast Spirits",
         "Text": "野兽精魄",
@@ -7204,7 +7204,7 @@
         "en": "Beast Spirits",
         "ja": "Beast Spirits",
         "UniqueID": "2e967f635b2cfe7418eca0ef700f712c",
-        "UniqueIDIndex": 4167,
+        "UniqueIDIndex": 4177,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -7224,7 +7224,7 @@
               "en": "Summon a Frog Spirit",
               "ja": "Summon a Frog Spirit",
               "UniqueID": "42203c1157ba78d4cb0a93d27f618707",
-              "UniqueIDIndex": 4170,
+              "UniqueIDIndex": 4180,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -7338,7 +7338,7 @@
               "en": "Summon a Sturgeon Spirit",
               "ja": "Summon a Sturgeon Spirit",
               "UniqueID": "8dfa85b8af44f8b4c857fe002693709e",
-              "UniqueIDIndex": 4171,
+              "UniqueIDIndex": 4181,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -7452,7 +7452,7 @@
               "en": "Summon a Badger Spirit",
               "ja": "Summon a Badger Spirit",
               "UniqueID": "a3e84e5de00af7f4db4b37b7ffcd707b",
-              "UniqueIDIndex": 4172,
+              "UniqueIDIndex": 4182,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -7566,7 +7566,7 @@
               "en": "Summon a Wolf Spirit",
               "ja": "Summon a Wolf Spirit",
               "UniqueID": "5e9515c7f47916849bb47c0723c17f30",
-              "UniqueIDIndex": 4173,
+              "UniqueIDIndex": 4183,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -7726,13 +7726,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5602",
-      "___fn": "SpiritSpeaker_ElementalSpirits_Main@5602.json",
+      "___key": "0_5604",
+      "___fn": "SpiritSpeaker_ElementalSpirits_Main@5604.json",
       "zh": "元素精魄",
       "en": "Elemental Spirits",
       "ja": "Elemental Spirits",
       "UniqueID": "4bc0c79fa6881de4ebfe93450590abf7",
-      "UniqueIDIndex": 4180,
+      "UniqueIDIndex": 4190,
       "QuestTitle": {
         "DefaultText": "Elemental Spirits",
         "Text": "元素精魄",
@@ -7781,7 +7781,7 @@
         "en": "Elemental Spirits",
         "ja": "Elemental Spirits",
         "UniqueID": "6fa457ba665667747a3b78373bfd6eba",
-        "UniqueIDIndex": 4178,
+        "UniqueIDIndex": 4188,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -7801,7 +7801,7 @@
               "en": "Summon a Water Spirit",
               "ja": "Summon a Water Spirit",
               "UniqueID": "82bb388f5f211e540886b28fd44efd8f",
-              "UniqueIDIndex": 4181,
+              "UniqueIDIndex": 4191,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -7915,7 +7915,7 @@
               "en": "Summon a Wind Spirit",
               "ja": "Summon a Wind Spirit",
               "UniqueID": "95b9c0b01daedc74e9a554eaad6356a4",
-              "UniqueIDIndex": 4182,
+              "UniqueIDIndex": 4192,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8029,7 +8029,7 @@
               "en": "Summon a Fire Spirit",
               "ja": "Summon a Fire Spirit",
               "UniqueID": "c321ac29be4f81e4f8ad7f2472380c91",
-              "UniqueIDIndex": 4183,
+              "UniqueIDIndex": 4193,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8143,7 +8143,7 @@
               "en": "Summon an Earth Spirit",
               "ja": "Summon an Earth Spirit",
               "UniqueID": "8207a289fe8c8ae4cb775e31ee466d88",
-              "UniqueIDIndex": 4184,
+              "UniqueIDIndex": 4194,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8303,13 +8303,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5614",
-      "___fn": "SpiritSpeaker_SecretSpirits_Main@5614.json",
+      "___key": "0_5616",
+      "___fn": "SpiritSpeaker_SecretSpirits_Main@5616.json",
       "zh": "神秘精魄",
       "en": "Secret Spirits",
       "ja": "Secret Spirits",
       "UniqueID": "45471248b570eac4484c636cc8949d12",
-      "UniqueIDIndex": 4191,
+      "UniqueIDIndex": 4201,
       "QuestTitle": {
         "DefaultText": "Secret Spirits",
         "Text": "神秘精魄",
@@ -8358,7 +8358,7 @@
         "en": "Elemental Spirits",
         "ja": "Elemental Spirits",
         "UniqueID": "6e24a1c38674c0546b5ebc2bf6a5ce5a",
-        "UniqueIDIndex": 4189,
+        "UniqueIDIndex": 4199,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -8378,7 +8378,7 @@
               "en": "Summon a Moon Spirit",
               "ja": "Summon a Moon Spirit",
               "UniqueID": "7c50f2f4eb493c74b87c231864137eaf",
-              "UniqueIDIndex": 4192,
+              "UniqueIDIndex": 4202,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8492,7 +8492,7 @@
               "en": "Summon a Frost Spirit",
               "ja": "Summon a Frost Spirit",
               "UniqueID": "8c8c4a2f24321ba4691759fa6f729bad",
-              "UniqueIDIndex": 4193,
+              "UniqueIDIndex": 4203,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8606,7 +8606,7 @@
               "en": "Summon a Darkness Spirit",
               "ja": "Summon a Darkness Spirit",
               "UniqueID": "2a85cd7e2d7360e48b82df29b35b7e63",
-              "UniqueIDIndex": 4194,
+              "UniqueIDIndex": 4204,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8720,7 +8720,7 @@
               "en": "Summon a Fear Spirit",
               "ja": "Summon a Fear Spirit",
               "UniqueID": "a20f908252e0b4d45be6ce7901cdebdb",
-              "UniqueIDIndex": 4195,
+              "UniqueIDIndex": 4205,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -8880,13 +8880,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5626",
-      "___fn": "SpiritSpeaker_SpiritualTools_Main@5626.json",
+      "___key": "0_5628",
+      "___fn": "SpiritSpeaker_SpiritualTools_Main@5628.json",
       "zh": "精神用具",
       "en": "Spiritual Tools",
       "ja": "Spiritual Tools",
       "UniqueID": "f6154682643c7e9449f7cf8684e8a6e6",
-      "UniqueIDIndex": 4202,
+      "UniqueIDIndex": 4212,
       "QuestTitle": {
         "DefaultText": "Spiritual Tools",
         "Text": "精神用具",
@@ -8935,7 +8935,7 @@
         "en": "Spiritual Tools",
         "ja": "Spiritual Tools",
         "UniqueID": "bd7e0727308785c45a78bb51099f2c95",
-        "UniqueIDIndex": 4200,
+        "UniqueIDIndex": 4210,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -8955,7 +8955,7 @@
               "en": "Drink Spirit Tea",
               "ja": "Drink Spirit Tea",
               "UniqueID": "cb106522be83dd84c8d9757195631fe4",
-              "UniqueIDIndex": 4203,
+              "UniqueIDIndex": 4213,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -9037,7 +9037,7 @@
               "en": "Drink Fire Water",
               "ja": "Drink Fire Water",
               "UniqueID": "076f7e0b441560c4682142f6f5022a76",
-              "UniqueIDIndex": 4204,
+              "UniqueIDIndex": 4214,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -9054,16 +9054,16 @@
                   },
                   "OnCardWithTags": [],
                   "WithActionTags": [],
-                  "ActionName": "Drink",
+                  "ActionName": "饮用",
                   "OnActionStarted": true,
                   "PerformMultipleTimes": 0,
                   "DebugMode": false,
                   "ActionNameText": {
                     "DefaultText": "Drink",
-                    "Text": "Drink",
-                    "zh": "Drink",
+                    "Text": "饮用",
+                    "zh": "饮用",
                     "en": "Drink",
-                    "ja": "Drink"
+                    "ja": "飲む"
                   }
                 }
               ],
@@ -9119,7 +9119,7 @@
               "en": "Mud Hut",
               "ja": "Mud Hut",
               "UniqueID": "7bbe192d3f1faca41ad5ded96ba1c3f7",
-              "UniqueIDIndex": 4205,
+              "UniqueIDIndex": 4215,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -9291,7 +9291,7 @@
               "en": "Cauldron",
               "ja": "Cauldron",
               "UniqueID": "08cb3012422126e48a8a1e59bc7a7ef0",
-              "UniqueIDIndex": 4206,
+              "UniqueIDIndex": 4216,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -9451,13 +9451,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5224",
-      "___fn": "StayingClean_Main@5224.json",
+      "___key": "0_5226",
+      "___fn": "StayingClean_Main@5226.json",
       "zh": "保持清洁",
       "en": "Staying Clean",
       "ja": "Staying Clean",
       "UniqueID": "9f14e155cbb2c0b4693952623e691bc0",
-      "UniqueIDIndex": 4274,
+      "UniqueIDIndex": 4284,
       "QuestTitle": {
         "DefaultText": "Staying Clean",
         "Text": "保持清洁",
@@ -9503,7 +9503,7 @@
         "en": "Prepare for Winter",
         "ja": "Prepare for Winter",
         "UniqueID": "acde60e0e1fba7b4299f0536483b75cd",
-        "UniqueIDIndex": 4273,
+        "UniqueIDIndex": 4283,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -9590,7 +9590,7 @@
         "en": "Staying Clean",
         "ja": "Staying Clean",
         "UniqueID": "820bb0abfcc6b9b4a84dc92e8ab53f99",
-        "UniqueIDIndex": 4272,
+        "UniqueIDIndex": 4282,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -9610,7 +9610,7 @@
               "en": "Wash yourself with Water to avoid bacteria and parasites",
               "ja": "Wash yourself with Water to avoid bacteria and parasites",
               "UniqueID": "00021db384de65b4c9d1923b3ca0f34d",
-              "UniqueIDIndex": 4275,
+              "UniqueIDIndex": 4285,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -9735,13 +9735,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5230",
-      "___fn": "SummerActivities_Main@5230.json",
+      "___key": "0_5232",
+      "___fn": "SummerActivities_Main@5232.json",
       "zh": "夏季活动",
       "en": "Summer Activities",
       "ja": "Summer Activities",
       "UniqueID": "f0cf180b22e7faf4ca7e8afe7cc931b7",
-      "UniqueIDIndex": 4284,
+      "UniqueIDIndex": 4294,
       "QuestTitle": {
         "DefaultText": "Summer Activities",
         "Text": "夏季活动",
@@ -9787,7 +9787,7 @@
         "en": "Prepare for Winter",
         "ja": "Prepare for Winter",
         "UniqueID": "d242a0882e9ae9340bc128519f82208b",
-        "UniqueIDIndex": 4283,
+        "UniqueIDIndex": 4293,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -9874,7 +9874,7 @@
         "en": "Summer Activities",
         "ja": "Summer Activities",
         "UniqueID": "166adace3ee46e544979b1e6828bf459",
-        "UniqueIDIndex": 4282,
+        "UniqueIDIndex": 4292,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -9894,7 +9894,7 @@
               "en": "Go for a Swim to have fun & relax",
               "ja": "Go for a Swim to have fun & relax",
               "UniqueID": "cf5c3f1dfa72b724e883bc30cb4d7581",
-              "UniqueIDIndex": 4285,
+              "UniqueIDIndex": 4295,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -9972,7 +9972,7 @@
               "en": "Forage Pine Areas for Bilberries",
               "ja": "Forage Pine Areas for Bilberries",
               "UniqueID": "3ef8e8faccc4b9044827151826d45630",
-              "UniqueIDIndex": 4286,
+              "UniqueIDIndex": 4296,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -10086,7 +10086,7 @@
               "en": "Gather Juniper Needles from Pine Clearings",
               "ja": "Gather Juniper Needles from Pine Clearings",
               "UniqueID": "c3477dedc2ec85549879c47790652298",
-              "UniqueIDIndex": 4287,
+              "UniqueIDIndex": 4297,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -10200,7 +10200,7 @@
               "en": "Burn Juniper Needles for a Mosquito Repellent Effect",
               "ja": "Burn Juniper Needles for a Mosquito Repellent Effect",
               "UniqueID": "f8136a63538ce8449ae86279186019d3",
-              "UniqueIDIndex": 4288,
+              "UniqueIDIndex": 4298,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -10325,13 +10325,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_7574",
-      "___fn": "TestQuestLog@7574.json",
+      "___key": "0_7585",
+      "___fn": "TestQuestLog@7585.json",
       "zh": "Testing character quests",
       "en": "Testing character quests",
       "ja": "Testing character quests",
       "UniqueID": "1a481c3b2abf51949ad4fe20524b1c30",
-      "UniqueIDIndex": 4332,
+      "UniqueIDIndex": 4342,
       "QuestTitle": {
         "DefaultText": "Testing character quests",
         "Text": "Testing character quests",
@@ -10359,7 +10359,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "3704123fe52221d478613ddb4c3d33eb",
-        "UniqueIDIndex": 4326,
+        "UniqueIDIndex": 4336,
         "StartUnlocked": false,
         "ActionObjectives": [
           {
@@ -10555,13 +10555,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5644",
-      "___fn": "Trapper_BigGameTraps_Main@5644.json",
+      "___key": "0_5646",
+      "___fn": "Trapper_BigGameTraps_Main@5646.json",
       "zh": "大型动物陷阱",
       "en": "Big Game Traps",
       "ja": "Big Game Traps",
       "UniqueID": "a78466d2beecf964fb7f3b0fc51534c1",
-      "UniqueIDIndex": 4439,
+      "UniqueIDIndex": 4449,
       "QuestTitle": {
         "DefaultText": "Big Game Traps",
         "Text": "大型动物陷阱",
@@ -10610,7 +10610,7 @@
         "en": "Big Game Traps",
         "ja": "Big Game Traps",
         "UniqueID": "963ec0f151552be4a9cee8d306176148",
-        "UniqueIDIndex": 4437,
+        "UniqueIDIndex": 4447,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -10630,7 +10630,7 @@
               "en": "Wolf",
               "ja": "Wolf",
               "UniqueID": "f77939c48014fe84c9a54b37c5c8620e",
-              "UniqueIDIndex": 4440,
+              "UniqueIDIndex": 4450,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -10744,7 +10744,7 @@
               "en": "Doe",
               "ja": "Doe",
               "UniqueID": "f4adacbeb85579a41858e757759c8a31",
-              "UniqueIDIndex": 4441,
+              "UniqueIDIndex": 4451,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -10858,7 +10858,7 @@
               "en": "Stag",
               "ja": "Stag",
               "UniqueID": "6602fee9025d8e84c8ee56a326b25bf2",
-              "UniqueIDIndex": 4442,
+              "UniqueIDIndex": 4452,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -10972,7 +10972,7 @@
               "en": "Boar",
               "ja": "Boar",
               "UniqueID": "bfe6323e8b9c3d044bf1bf28cd50be6e",
-              "UniqueIDIndex": 4443,
+              "UniqueIDIndex": 4453,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -11132,13 +11132,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5656",
-      "___fn": "Trapper_ButcheringTools_Main@5656.json",
+      "___key": "0_5658",
+      "___fn": "Trapper_ButcheringTools_Main@5658.json",
       "zh": "屠宰工具",
       "en": "Butchering Tools",
       "ja": "Butchering Tools",
       "UniqueID": "0dc77ad33ab73524d8c227ed9def51e0",
-      "UniqueIDIndex": 4450,
+      "UniqueIDIndex": 4460,
       "QuestTitle": {
         "DefaultText": "Butchering Tools",
         "Text": "屠宰工具",
@@ -11187,7 +11187,7 @@
         "en": "Butchering Tools",
         "ja": "Butchering Tools",
         "UniqueID": "8b76649118abcee4687e2897a794c826",
-        "UniqueIDIndex": 4448,
+        "UniqueIDIndex": 4458,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -11207,7 +11207,7 @@
               "en": "Butchering Mat",
               "ja": "Butchering Mat",
               "UniqueID": "844e8291e37a21241ad5c3bc736b80c1",
-              "UniqueIDIndex": 4451,
+              "UniqueIDIndex": 4461,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -11321,7 +11321,7 @@
               "en": "Butchering Knife",
               "ja": "Butchering Knife",
               "UniqueID": "8ef670bcbd504e742b5951b456ce177d",
-              "UniqueIDIndex": 4452,
+              "UniqueIDIndex": 4462,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -11527,7 +11527,7 @@
               "en": "Meat Hook",
               "ja": "Meat Hook",
               "UniqueID": "4951cee1a8f6ad1488b499b295f52680",
-              "UniqueIDIndex": 4453,
+              "UniqueIDIndex": 4463,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -11779,13 +11779,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5666",
-      "___fn": "Trapper_SkinningTools_Main@5666.json",
+      "___key": "0_5668",
+      "___fn": "Trapper_SkinningTools_Main@5668.json",
       "zh": "剥皮工具",
       "en": "Skinning Tools",
       "ja": "Skinning Tools",
       "UniqueID": "69f2c6968cc48b34b93c17d13f5fb611",
-      "UniqueIDIndex": 4459,
+      "UniqueIDIndex": 4469,
       "QuestTitle": {
         "DefaultText": "Skinning Tools",
         "Text": "剥皮工具",
@@ -11834,7 +11834,7 @@
         "en": "Skinning Tools",
         "ja": "Skinning Tools",
         "UniqueID": "614f96904a34cf7498589b67ca3b39b0",
-        "UniqueIDIndex": 4457,
+        "UniqueIDIndex": 4467,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -11854,7 +11854,7 @@
               "en": "Stretching Frame",
               "ja": "Stretching Frame",
               "UniqueID": "95b5bacee8f5e4c4693daeabb0d866df",
-              "UniqueIDIndex": 4460,
+              "UniqueIDIndex": 4470,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -11968,7 +11968,7 @@
               "en": "Tanning Pit",
               "ja": "Tanning Pit",
               "UniqueID": "ac54777edeb9daf49aa059b1371cb203",
-              "UniqueIDIndex": 4461,
+              "UniqueIDIndex": 4471,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12082,7 +12082,7 @@
               "en": "Fleshing Beam",
               "ja": "Fleshing Beam",
               "UniqueID": "d079d13bf081c0c469b113f9301d5f20",
-              "UniqueIDIndex": 4462,
+              "UniqueIDIndex": 4472,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12196,7 +12196,7 @@
               "en": "Skinning Knife",
               "ja": "Skinning Knife",
               "UniqueID": "af53b67768cf6384aa7a72ce13f2734b",
-              "UniqueIDIndex": 4463,
+              "UniqueIDIndex": 4473,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12433,13 +12433,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5678",
-      "___fn": "Trapper_SmallGameTraps_Main@5678.json",
+      "___key": "0_5680",
+      "___fn": "Trapper_SmallGameTraps_Main@5680.json",
       "zh": "小型捕猎动物",
       "en": "Small Game Traps",
       "ja": "Small Game Traps",
       "UniqueID": "20913ddc556225d4abdab0ab01c21dd4",
-      "UniqueIDIndex": 4470,
+      "UniqueIDIndex": 4480,
       "QuestTitle": {
         "DefaultText": "Small Game Traps",
         "Text": "小型捕猎动物",
@@ -12488,7 +12488,7 @@
         "en": "Small Game Traps",
         "ja": "Small Game Traps",
         "UniqueID": "8f2a721db59920d40bac084b51e1502c",
-        "UniqueIDIndex": 4468,
+        "UniqueIDIndex": 4478,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -12508,7 +12508,7 @@
               "en": "Mouse",
               "ja": "Mouse",
               "UniqueID": "119db550bcc5cde41860a0f40e87416f",
-              "UniqueIDIndex": 4471,
+              "UniqueIDIndex": 4481,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12622,7 +12622,7 @@
               "en": "Squirrel",
               "ja": "Squirrel",
               "UniqueID": "bac7766de92912149a1707a03ccdebe1",
-              "UniqueIDIndex": 4472,
+              "UniqueIDIndex": 4482,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12736,7 +12736,7 @@
               "en": "Badger",
               "ja": "Badger",
               "UniqueID": "730161cc26d9eea4fb41890841482b08",
-              "UniqueIDIndex": 4473,
+              "UniqueIDIndex": 4483,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12850,7 +12850,7 @@
               "en": "Hare",
               "ja": "Hare",
               "UniqueID": "d01fec3da76432e4f93982ed22948fcb",
-              "UniqueIDIndex": 4474,
+              "UniqueIDIndex": 4484,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -12964,7 +12964,7 @@
               "en": "Fox",
               "ja": "Fox",
               "UniqueID": "d31a1c97dc4ea1141950ceddfab9d774",
-              "UniqueIDIndex": 4475,
+              "UniqueIDIndex": 4485,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -13124,13 +13124,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5242",
-      "___fn": "TreatingWounds_Main@5242.json",
+      "___key": "0_5244",
+      "___fn": "TreatingWounds_Main@5244.json",
       "zh": "治疗伤口",
       "en": "Treating Wounds",
       "ja": "Treating Wounds",
       "UniqueID": "9352d20ea45d13f4588d3f56d53c71d1",
-      "UniqueIDIndex": 4489,
+      "UniqueIDIndex": 4499,
       "QuestTitle": {
         "DefaultText": "Treating Wounds",
         "Text": "治疗伤口",
@@ -13176,7 +13176,7 @@
         "en": "Prepare for Winter",
         "ja": "Prepare for Winter",
         "UniqueID": "8198c930b098f9a43bf8bfac3fc3ffbd",
-        "UniqueIDIndex": 4488,
+        "UniqueIDIndex": 4498,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -13299,7 +13299,7 @@
         "en": "Treating Wounds",
         "ja": "Treating Wounds",
         "UniqueID": "b937c89b16c0a2549a8a7f0391fd1021",
-        "UniqueIDIndex": 4487,
+        "UniqueIDIndex": 4497,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -13319,7 +13319,7 @@
               "en": "Wash your Wounds",
               "ja": "Wash your Wounds",
               "UniqueID": "661ac7fe3bacd254b85033b6e61711ef",
-              "UniqueIDIndex": 4490,
+              "UniqueIDIndex": 4500,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -13404,7 +13404,7 @@
               "en": "Equip Healers Moss or cut Fresh Bracket Fungus Strips on a Wound",
               "ja": "Equip Healers Moss or cut Fresh Bracket Fungus Strips on a Wound",
               "UniqueID": "cfb3394165d0a194894e6b15af17465e",
-              "UniqueIDIndex": 4491,
+              "UniqueIDIndex": 4501,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -13997,7 +13997,7 @@
               "en": "Research and Craft Pine Salves",
               "ja": "Research and Craft Pine Salves",
               "UniqueID": "3c6e11c7fccd47e4ea2b98b7b65cf751",
-              "UniqueIDIndex": 4492,
+              "UniqueIDIndex": 4502,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -14111,7 +14111,7 @@
               "en": "Apply Salves or Ointments to a Wound",
               "ja": "Apply Salves or Ointments to a Wound",
               "UniqueID": "87c20b915c3b3e147a91f694e5be41fb",
-              "UniqueIDIndex": 4493,
+              "UniqueIDIndex": 4503,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -14235,13 +14235,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5698",
-      "___fn": "Wildman_BigGameHunting_Main@5698.json",
+      "___key": "0_5700",
+      "___fn": "Wildman_BigGameHunting_Main@5700.json",
       "zh": "狩猎大型动物",
       "en": "Big Game Hunting",
       "ja": "Big Game Hunting",
       "UniqueID": "b2e59c993889c1d4e8f01876c5ae5717",
-      "UniqueIDIndex": 4544,
+      "UniqueIDIndex": 4554,
       "QuestTitle": {
         "DefaultText": "Big Game Hunting",
         "Text": "狩猎大型动物",
@@ -14290,7 +14290,7 @@
         "en": "Big Game Hunting",
         "ja": "Big Game Hunting",
         "UniqueID": "e18b76cfcc119e34c8910e49ecdb3b39",
-        "UniqueIDIndex": 4542,
+        "UniqueIDIndex": 4552,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -14310,7 +14310,7 @@
               "en": "Wolf",
               "ja": "Wolf",
               "UniqueID": "05e10f7958cc1d842aa683eedf3ec6d6",
-              "UniqueIDIndex": 4545,
+              "UniqueIDIndex": 4555,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -14424,7 +14424,7 @@
               "en": "Doe",
               "ja": "Doe",
               "UniqueID": "2f57297535ab4cb4988390f07dd5cfbc",
-              "UniqueIDIndex": 4546,
+              "UniqueIDIndex": 4556,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -14538,7 +14538,7 @@
               "en": "Stag",
               "ja": "Stag",
               "UniqueID": "6b52d652e9959d445ac996321a6fc833",
-              "UniqueIDIndex": 4547,
+              "UniqueIDIndex": 4557,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -14652,7 +14652,7 @@
               "en": "Boar",
               "ja": "Boar",
               "UniqueID": "b412a17ff5276d048b0efbe7660e10c3",
-              "UniqueIDIndex": 4548,
+              "UniqueIDIndex": 4558,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -14766,7 +14766,7 @@
               "en": "Bear",
               "ja": "Bear",
               "UniqueID": "6a3d52ae9084b2b43ab766a1e756de9d",
-              "UniqueIDIndex": 4549,
+              "UniqueIDIndex": 4559,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -14926,13 +14926,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5712",
-      "___fn": "Wildman_SmallGameHunting_Main@5712.json",
+      "___key": "0_5714",
+      "___fn": "Wildman_SmallGameHunting_Main@5714.json",
       "zh": "狩猎小型动物",
       "en": "Small Game Hunting",
       "ja": "Small Game Hunting",
       "UniqueID": "417b8d7e3b089e542bdde7ced20ed3de",
-      "UniqueIDIndex": 4557,
+      "UniqueIDIndex": 4567,
       "QuestTitle": {
         "DefaultText": "Small Game Hunting",
         "Text": "狩猎小型动物",
@@ -14981,7 +14981,7 @@
         "en": "Small Game Hunting",
         "ja": "Small Game Hunting",
         "UniqueID": "9da81e219be848446902f92f2a4b1dae",
-        "UniqueIDIndex": 4555,
+        "UniqueIDIndex": 4565,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -15001,7 +15001,7 @@
               "en": "Partridge",
               "ja": "Partridge",
               "UniqueID": "d100c31dc3e52224c80e85258dd48092",
-              "UniqueIDIndex": 4558,
+              "UniqueIDIndex": 4568,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -15115,7 +15115,7 @@
               "en": "Duck",
               "ja": "Duck",
               "UniqueID": "bd85227c00749ee4db3d07d644be16f3",
-              "UniqueIDIndex": 4559,
+              "UniqueIDIndex": 4569,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -15229,7 +15229,7 @@
               "en": "Badger",
               "ja": "Badger",
               "UniqueID": "1ce1ecb2a1bc48241a9401315b4b020b",
-              "UniqueIDIndex": 4560,
+              "UniqueIDIndex": 4570,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -15343,7 +15343,7 @@
               "en": "Hare",
               "ja": "Hare",
               "UniqueID": "bf8935a507c42bb4e87421135e1c7c64",
-              "UniqueIDIndex": 4561,
+              "UniqueIDIndex": 4571,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -15457,7 +15457,7 @@
               "en": "Fox",
               "ja": "Fox",
               "UniqueID": "e73aa6ef54bd5c647acb625bc3d91a78",
-              "UniqueIDIndex": 4562,
+              "UniqueIDIndex": 4572,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -15617,13 +15617,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5732",
-      "___fn": "Wildman_ToolsOfTheHunt_Main@5732.json",
+      "___key": "0_5734",
+      "___fn": "Wildman_ToolsOfTheHunt_Main@5734.json",
       "zh": "狩猎工具",
       "en": "Tools of The Hunt",
       "ja": "Tools of The Hunt",
       "UniqueID": "21cbc33a745ff6d4ba9e71008182f49c",
-      "UniqueIDIndex": 4575,
+      "UniqueIDIndex": 4585,
       "QuestTitle": {
         "DefaultText": "Tools of The Hunt",
         "Text": "狩猎工具",
@@ -15672,7 +15672,7 @@
         "en": "Tools of the Hunt",
         "ja": "Tools of the Hunt",
         "UniqueID": "77daea09f9b861245af98f6f58e8a498",
-        "UniqueIDIndex": 4573,
+        "UniqueIDIndex": 4583,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -15692,7 +15692,7 @@
               "en": "Craft a Hunting Spear",
               "ja": "Craft a Hunting Spear",
               "UniqueID": "9b7c66bc203b6984f9c5d949368d5f96",
-              "UniqueIDIndex": 4576,
+              "UniqueIDIndex": 4586,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -15898,7 +15898,7 @@
               "en": "Craft a Hunting Spear",
               "ja": "Craft a Hunting Spear",
               "UniqueID": "461396527db7d7d4ca5e7eace46e2e02",
-              "UniqueIDIndex": 4577,
+              "UniqueIDIndex": 4587,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -16012,7 +16012,7 @@
               "en": "Craft Broadhead Arrows",
               "ja": "Craft Broadhead Arrows",
               "UniqueID": "095361fdcf8fa254b89a4f7d4dc83e24",
-              "UniqueIDIndex": 4578,
+              "UniqueIDIndex": 4588,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -16218,7 +16218,7 @@
               "en": "Apply Wolfsbane to a Weapon",
               "ja": "Apply Wolfsbane to a Weapon",
               "UniqueID": "0c829362855ee184d83e1007de60aa2c",
-              "UniqueIDIndex": 4579,
+              "UniqueIDIndex": 4589,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -16346,13 +16346,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5316",
-      "___fn": "Farmer_TheEnd_Main@5316.json",
+      "___key": "0_5318",
+      "___fn": "Farmer_TheEnd_Main@5318.json",
       "zh": "能力领悟",
       "en": "WAY MASTERED",
       "ja": "WAY MASTERED",
       "UniqueID": "4fb6391b7a96d7d4f8520640f28120cf",
-      "UniqueIDIndex": 3294,
+      "UniqueIDIndex": 3304,
       "QuestTitle": {
         "DefaultText": "WAY MASTERED",
         "Text": "能力领悟",
@@ -16398,7 +16398,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "a49c066d76edb5247829141aafd3a6a7",
-        "UniqueIDIndex": 3293,
+        "UniqueIDIndex": 3303,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -16514,7 +16514,7 @@
         "en": "The End",
         "ja": "The End",
         "UniqueID": "2f495cbf14131e9429d4885f5ab4506b",
-        "UniqueIDIndex": 3292,
+        "UniqueIDIndex": 3302,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -16534,7 +16534,7 @@
               "en": "Complete Story (Will End the Game)",
               "ja": "Complete Story (Will End the Game)",
               "UniqueID": "1231a84d9491aed42a8573f47cc19cc8",
-              "UniqueIDIndex": 3295,
+              "UniqueIDIndex": 3305,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -16692,13 +16692,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5396",
-      "___fn": "Huntsman2_HoldingTheNightBack_Main@5396.json",
+      "___key": "0_5398",
+      "___fn": "Huntsman2_HoldingTheNightBack_Main@5398.json",
       "zh": "活过夜晚",
       "en": "Holding the Night Back",
       "ja": "Holding the Night Back",
       "UniqueID": "87ebd1a94a17b4e4b92610876f3c694e",
-      "UniqueIDIndex": 3474,
+      "UniqueIDIndex": 3484,
       "QuestTitle": {
         "DefaultText": "Holding the Night Back",
         "Text": "活过夜晚",
@@ -16744,7 +16744,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "ae79cec1c9e934b4c8fbd84f05c96fc0",
-        "UniqueIDIndex": 3473,
+        "UniqueIDIndex": 3483,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -16821,7 +16821,7 @@
         "en": "Holding the Night Back",
         "ja": "Holding the Night Back",
         "UniqueID": "bd36db2af05a6734093c481515929bb1",
-        "UniqueIDIndex": 3472,
+        "UniqueIDIndex": 3482,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -16841,7 +16841,7 @@
               "en": "Warm Up by the Campfire",
               "ja": "Warm Up by the Campfire",
               "UniqueID": "0937f67230943044d975a9f4c17eb60d",
-              "UniqueIDIndex": 3475,
+              "UniqueIDIndex": 3485,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -16949,7 +16949,7 @@
               "en": "Add Fuel to the Campfire",
               "ja": "Add Fuel to the Campfire",
               "UniqueID": "d2b4336e926a62743bba209b330c28dc",
-              "UniqueIDIndex": 3476,
+              "UniqueIDIndex": 3486,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -17135,7 +17135,7 @@
               "en": "Go To Sleep by Using the Clock",
               "ja": "Go To Sleep by Using the Clock",
               "UniqueID": "8057dd0db7a460a408255fa39a332b5f",
-              "UniqueIDIndex": 3477,
+              "UniqueIDIndex": 3487,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -17214,7 +17214,7 @@
               "en": "Reach the Morning Light",
               "ja": "Reach the Morning Light",
               "UniqueID": "12d92357891f84d4d82463974628b513",
-              "UniqueIDIndex": 3478,
+              "UniqueIDIndex": 3488,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -17348,13 +17348,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5174",
-      "___fn": "MoonMaiden_Main@5174.json",
+      "___key": "0_5176",
+      "___fn": "MoonMaiden_Main@5176.json",
       "zh": "月之少女",
       "en": "Moon Maiden",
       "ja": "Moon Maiden",
       "UniqueID": "d293c7701ba6542458488960fbbe3804",
-      "UniqueIDIndex": 3733,
+      "UniqueIDIndex": 3743,
       "QuestTitle": {
         "DefaultText": "Moon Maiden",
         "Text": "月之少女",
@@ -17400,7 +17400,7 @@
         "en": "Moon Maiden",
         "ja": "Moon Maiden",
         "UniqueID": "a408c6337af3eaa46b7239105aeb89bd",
-        "UniqueIDIndex": 3731,
+        "UniqueIDIndex": 3741,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -17477,7 +17477,7 @@
         "en": "Moonlit Dreams",
         "ja": "Moonlit Dreams",
         "UniqueID": "61b146c63540e254ca084e02d4bfaacf",
-        "UniqueIDIndex": 3729,
+        "UniqueIDIndex": 3739,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -17497,7 +17497,7 @@
               "en": "Find Her",
               "ja": "Find Her",
               "UniqueID": "b52bc4b1d9cbeb343a2a2123503e6378",
-              "UniqueIDIndex": 3734,
+              "UniqueIDIndex": 3744,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -17576,7 +17576,7 @@
               "en": "Defeat the Beast",
               "ja": "Defeat the Beast",
               "UniqueID": "51c445a20bea4eb42a4eec799d617fd4",
-              "UniqueIDIndex": 3430,
+              "UniqueIDIndex": 3440,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -17674,7 +17674,7 @@
               "en": "Call upon Her",
               "ja": "Call upon Her",
               "UniqueID": "560bd08653389f64abaf87c5943b0699",
-              "UniqueIDIndex": 3735,
+              "UniqueIDIndex": 3745,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -17788,7 +17788,7 @@
               "en": "Defeat the Beast",
               "ja": "Defeat the Beast",
               "UniqueID": "51c445a20bea4eb42a4eec799d617fd4",
-              "UniqueIDIndex": 3430,
+              "UniqueIDIndex": 3440,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -17886,7 +17886,7 @@
               "en": "Make Something to Remember Her",
               "ja": "Make Something to Remember Her",
               "UniqueID": "e0f89ebd002da59428b32d4295fe9e21",
-              "UniqueIDIndex": 3736,
+              "UniqueIDIndex": 3746,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -18000,7 +18000,7 @@
               "en": "Defeat the Beast",
               "ja": "Defeat the Beast",
               "UniqueID": "51c445a20bea4eb42a4eec799d617fd4",
-              "UniqueIDIndex": 3430,
+              "UniqueIDIndex": 3440,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -18098,7 +18098,7 @@
               "en": "Craft a Lure for the Beast",
               "ja": "Craft a Lure for the Beast",
               "UniqueID": "4fee730fa040c9e4e9273d1cade253eb",
-              "UniqueIDIndex": 3737,
+              "UniqueIDIndex": 3747,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -18212,7 +18212,7 @@
               "en": "Defeat the Beast",
               "ja": "Defeat the Beast",
               "UniqueID": "51c445a20bea4eb42a4eec799d617fd4",
-              "UniqueIDIndex": 3430,
+              "UniqueIDIndex": 3440,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -18365,13 +18365,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5638",
-      "___fn": "SpiritSpeaker_TheEnd_Main@5638.json",
+      "___key": "0_5640",
+      "___fn": "SpiritSpeaker_TheEnd_Main@5640.json",
       "zh": "能力领悟",
       "en": "WAY MASTERED",
       "ja": "WAY MASTERED",
       "UniqueID": "938ec0221eb880144887f8375afaeb9c",
-      "UniqueIDIndex": 4213,
+      "UniqueIDIndex": 4223,
       "QuestTitle": {
         "DefaultText": "WAY MASTERED",
         "Text": "能力领悟",
@@ -18417,7 +18417,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "8085ca0b07f1d894c9c7a85642a7f326",
-        "UniqueIDIndex": 4212,
+        "UniqueIDIndex": 4222,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -18533,7 +18533,7 @@
         "en": "The End",
         "ja": "The End",
         "UniqueID": "49c7f4d6d0ae6004da146fe7a5eeff84",
-        "UniqueIDIndex": 4211,
+        "UniqueIDIndex": 4221,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -18553,7 +18553,7 @@
               "en": "Complete Story (Will End the Game)",
               "ja": "Complete Story (Will End the Game)",
               "UniqueID": "7a7ebb6ba1ad1c94e9d6bf79bd578504",
-              "UniqueIDIndex": 4214,
+              "UniqueIDIndex": 4224,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -18711,13 +18711,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5692",
-      "___fn": "Trapper_TheEnd_Main@5692.json",
+      "___key": "0_5694",
+      "___fn": "Trapper_TheEnd_Main@5694.json",
       "zh": "能力领悟",
       "en": "WAY MASTERED",
       "ja": "WAY MASTERED",
       "UniqueID": "65bcdb64fd9611440a220d8e5ad97717",
-      "UniqueIDIndex": 4483,
+      "UniqueIDIndex": 4493,
       "QuestTitle": {
         "DefaultText": "WAY MASTERED",
         "Text": "能力领悟",
@@ -18763,7 +18763,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "76ae237bb4da17b4cb2113c9cf47f3e7",
-        "UniqueIDIndex": 4482,
+        "UniqueIDIndex": 4492,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -18879,7 +18879,7 @@
         "en": "The End",
         "ja": "The End",
         "UniqueID": "d19d3af5fe5380c418c9319e650ec24a",
-        "UniqueIDIndex": 4481,
+        "UniqueIDIndex": 4491,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -18899,7 +18899,7 @@
               "en": "Complete Story (Will End the Game)",
               "ja": "Complete Story (Will End the Game)",
               "UniqueID": "8d081beb76cf97544a1134646aa0e136",
-              "UniqueIDIndex": 4484,
+              "UniqueIDIndex": 4494,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -19057,13 +19057,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5726",
-      "___fn": "Wildman_TheEnd_Main@5726.json",
+      "___key": "0_5728",
+      "___fn": "Wildman_TheEnd_Main@5728.json",
       "zh": "能力领悟",
       "en": "WAY MASTERED",
       "ja": "WAY MASTERED",
       "UniqueID": "42412adfb118a3240b4494f6280c7445",
-      "UniqueIDIndex": 4570,
+      "UniqueIDIndex": 4580,
       "QuestTitle": {
         "DefaultText": "WAY MASTERED",
         "Text": "能力领悟",
@@ -19109,7 +19109,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "b0dab6e7db40730488462928c48e2b6e",
-        "UniqueIDIndex": 4569,
+        "UniqueIDIndex": 4579,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -19212,7 +19212,7 @@
         "en": "The End",
         "ja": "The End",
         "UniqueID": "42007db8242c69e44bb572e6e0acbe90",
-        "UniqueIDIndex": 4568,
+        "UniqueIDIndex": 4578,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -19232,7 +19232,7 @@
               "en": "Complete Story (Will End the Game)",
               "ja": "Complete Story (Will End the Game)",
               "UniqueID": "cca7822396bfb354b83090787828c947",
-              "UniqueIDIndex": 4571,
+              "UniqueIDIndex": 4581,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -19382,13 +19382,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5380",
-      "___fn": "Huntsman2_FindingSustenance_Main@5380.json",
+      "___key": "0_5382",
+      "___fn": "Huntsman2_FindingSustenance_Main@5382.json",
       "zh": "寻找食物",
       "en": "Finding Sustenance",
       "ja": "Finding Sustenance",
       "UniqueID": "fe41763b55fb52b4988c719503d42222",
-      "UniqueIDIndex": 3459,
+      "UniqueIDIndex": 3469,
       "QuestTitle": {
         "DefaultText": "Finding Sustenance",
         "Text": "寻找食物",
@@ -19434,7 +19434,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "21fe21ce24e82f541b843c0451a423ed",
-        "UniqueIDIndex": 3458,
+        "UniqueIDIndex": 3468,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -19511,7 +19511,7 @@
         "en": "Finding Sustenance",
         "ja": "Finding Sustenance",
         "UniqueID": "201403ec51559864ca001422fc398a19",
-        "UniqueIDIndex": 3457,
+        "UniqueIDIndex": 3467,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -19531,7 +19531,7 @@
               "en": "Refuel the Fire",
               "ja": "Refuel the Fire",
               "UniqueID": "2f85e5621c2973f4eb7c99788b0c5581",
-              "UniqueIDIndex": 3460,
+              "UniqueIDIndex": 3470,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -19717,7 +19717,7 @@
               "en": "Drink Water from the Lake",
               "ja": "Drink Water from the Lake",
               "UniqueID": "637147fe16884e449a1805cdba1a6d7a",
-              "UniqueIDIndex": 3461,
+              "UniqueIDIndex": 3471,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -19837,16 +19837,16 @@
                   },
                   "OnCardWithTags": [],
                   "WithActionTags": [],
-                  "ActionName": "饮用",
+                  "ActionName": "Drink",
                   "OnActionStarted": true,
                   "PerformMultipleTimes": 0,
                   "DebugMode": false,
                   "ActionNameText": {
                     "DefaultText": "Drink",
-                    "Text": "饮用",
-                    "zh": "饮用",
+                    "Text": "Drink",
+                    "zh": "Drink",
                     "en": "Drink",
-                    "ja": "飲む"
+                    "ja": "Drink"
                   }
                 }
               ],
@@ -19902,7 +19902,7 @@
               "en": "Dig some Cattail Roots",
               "ja": "Dig some Cattail Roots",
               "UniqueID": "a9c7b214894f8b74692edcf1a34c1124",
-              "UniqueIDIndex": 3462,
+              "UniqueIDIndex": 3472,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -19984,7 +19984,7 @@
               "en": "Peel & Cut the Cattail Roots",
               "ja": "Peel & Cut the Cattail Roots",
               "UniqueID": "d9ae37c57f3b54246af429a38714bf12",
-              "UniqueIDIndex": 3463,
+              "UniqueIDIndex": 3473,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -20098,7 +20098,7 @@
               "en": "Roast Cattail Roots on a Fire",
               "ja": "Roast Cattail Roots on a Fire",
               "UniqueID": "72edc7f1e5c0c864f9243c2c4245b071",
-              "UniqueIDIndex": 3464,
+              "UniqueIDIndex": 3474,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -20212,7 +20212,7 @@
               "en": "Eat some Roasted Cattail Roots",
               "ja": "Eat some Roasted Cattail Roots",
               "UniqueID": "75be11bbfb7ac2a47b75d84dfe645bf5",
-              "UniqueIDIndex": 3465,
+              "UniqueIDIndex": 3475,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -20368,13 +20368,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5564",
-      "___fn": "Huntsman2_WoodGathering_Main@5564.json",
+      "___key": "0_5566",
+      "___fn": "Huntsman2_WoodGathering_Main@5566.json",
       "zh": "收集木材",
       "en": "Wood Gathering",
       "ja": "Wood Gathering",
       "UniqueID": "f350e17cde149aa4c9981be8bc28aeb5",
-      "UniqueIDIndex": 3630,
+      "UniqueIDIndex": 3640,
       "QuestTitle": {
         "DefaultText": "Wood Gathering",
         "Text": "收集木材",
@@ -20420,7 +20420,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "0d65012b5cb849f40b2ecf0cb1d0697e",
-        "UniqueIDIndex": 3629,
+        "UniqueIDIndex": 3639,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -20497,7 +20497,7 @@
         "en": "Wood Gathering",
         "ja": "Wood Gathering",
         "UniqueID": "d6a3bf7879b9ead4892d3425b60c1925",
-        "UniqueIDIndex": 3628,
+        "UniqueIDIndex": 3638,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -20517,7 +20517,7 @@
               "en": "Clear the Area for Leaves & Wood",
               "ja": "Clear the Area for Leaves & Wood",
               "UniqueID": "d58ae5cd7b3e7594bb5a8c7404808e9f",
-              "UniqueIDIndex": 3631,
+              "UniqueIDIndex": 3641,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -20602,7 +20602,7 @@
               "en": "Research and Craft a Stone Axe",
               "ja": "Research and Craft a Stone Axe",
               "UniqueID": "0fc8c944e16679d4fbc74c4a0fa6cf6a",
-              "UniqueIDIndex": 3632,
+              "UniqueIDIndex": 3642,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -20716,7 +20716,7 @@
               "en": "Chop some Wood with the Axe",
               "ja": "Chop some Wood with the Axe",
               "UniqueID": "e1ca21f10f58fe343b6223de59a819b6",
-              "UniqueIDIndex": 3633,
+              "UniqueIDIndex": 3643,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -20801,7 +20801,7 @@
               "en": "Cut down a Small Tree",
               "ja": "Cut down a Small Tree",
               "UniqueID": "6eaa5fcf7476e174d87bb4e30f06785a",
-              "UniqueIDIndex": 3634,
+              "UniqueIDIndex": 3644,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -20941,13 +20941,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5368",
-      "___fn": "Huntsman2_FindingShelter_Main@5368.json",
+      "___key": "0_5370",
+      "___fn": "Huntsman2_FindingShelter_Main@5370.json",
       "zh": "找到庇护所",
       "en": "Finding Shelter",
       "ja": "Finding Shelter",
       "UniqueID": "6324e4d1f272ea140910d5eedbd0019a",
-      "UniqueIDIndex": 3448,
+      "UniqueIDIndex": 3458,
       "QuestTitle": {
         "DefaultText": "Finding Shelter",
         "Text": "找到庇护所",
@@ -20993,7 +20993,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "f5700043b00b6c84aaa7368884f134b9",
-        "UniqueIDIndex": 3447,
+        "UniqueIDIndex": 3457,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -21070,7 +21070,7 @@
         "en": "Finding Shelter",
         "ja": "Finding Shelter",
         "UniqueID": "ec19e3884a7e42e49856b420fa7d176c",
-        "UniqueIDIndex": 3446,
+        "UniqueIDIndex": 3456,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -21090,7 +21090,7 @@
               "en": "Research Improvised Shelter",
               "ja": "Research Improvised Shelter",
               "UniqueID": "1a9912f655639f741926c2309af7f152",
-              "UniqueIDIndex": 3449,
+              "UniqueIDIndex": 3459,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -21255,7 +21255,7 @@
               "en": "Dig up Pine Roots",
               "ja": "Dig up Pine Roots",
               "UniqueID": "155804b046986f541b01599593303b2b",
-              "UniqueIDIndex": 3450,
+              "UniqueIDIndex": 3460,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -21369,7 +21369,7 @@
               "en": "Make some Twine from Pine Roots",
               "ja": "Make some Twine from Pine Roots",
               "UniqueID": "910f3c3929602e545adab1c14ec81dbf",
-              "UniqueIDIndex": 3451,
+              "UniqueIDIndex": 3461,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -21515,7 +21515,7 @@
               "en": "Build an Improvised Shelter",
               "ja": "Build an Improvised Shelter",
               "UniqueID": "c87765ed348edb247bb0f5416eeaae9e",
-              "UniqueIDIndex": 3452,
+              "UniqueIDIndex": 3462,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -21684,13 +21684,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5350",
-      "___fn": "Huntsman2_DefeatTheBeast_Main@5350.json",
+      "___key": "0_5352",
+      "___fn": "Huntsman2_DefeatTheBeast_Main@5352.json",
       "zh": "击败猛兽",
       "en": "Defeat the Beast",
       "ja": "Defeat the Beast",
       "UniqueID": "51dcd8b6ea29320479e56056c3e5f4a5",
-      "UniqueIDIndex": 3432,
+      "UniqueIDIndex": 3442,
       "QuestTitle": {
         "DefaultText": "Defeat the Beast",
         "Text": "击败猛兽",
@@ -21736,7 +21736,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "dede00859e478cb448c2c43b8f5ba69c",
-        "UniqueIDIndex": 3431,
+        "UniqueIDIndex": 3441,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -21813,7 +21813,7 @@
         "en": "Defeat the Beast",
         "ja": "Defeat the Beast",
         "UniqueID": "51c445a20bea4eb42a4eec799d617fd4",
-        "UniqueIDIndex": 3430,
+        "UniqueIDIndex": 3440,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -21930,13 +21930,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5472",
-      "___fn": "Huntsman2_TheHuntBegins_Main@5472.json",
+      "___key": "0_5474",
+      "___fn": "Huntsman2_TheHuntBegins_Main@5474.json",
       "zh": "狩猎开始",
       "en": "The Hunt Begins",
       "ja": "The Hunt Begins",
       "UniqueID": "c368d01a5651ae34aacea6e267612ac5",
-      "UniqueIDIndex": 3544,
+      "UniqueIDIndex": 3554,
       "QuestTitle": {
         "DefaultText": "The Hunt Begins",
         "Text": "狩猎开始",
@@ -21982,7 +21982,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "fdfed66c40c2cfb4586012f92e1b0cbf",
-        "UniqueIDIndex": 3543,
+        "UniqueIDIndex": 3553,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -22059,7 +22059,7 @@
         "en": "The Hunt Begins",
         "ja": "The Hunt Begins",
         "UniqueID": "62aca57ad2e80264996b4feb8e839a94",
-        "UniqueIDIndex": 3542,
+        "UniqueIDIndex": 3552,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -22079,7 +22079,7 @@
               "en": "Make a Rustic Spear",
               "ja": "Make a Rustic Spear",
               "UniqueID": "b2001feed40fc21489b1fed0b8c44400",
-              "UniqueIDIndex": 3545,
+              "UniqueIDIndex": 3555,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -22193,7 +22193,7 @@
               "en": "Make a Rustic Spear",
               "ja": "Make a Rustic Spear",
               "UniqueID": "b2001feed40fc21489b1fed0b8c44400",
-              "UniqueIDIndex": 3545,
+              "UniqueIDIndex": 3555,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -22307,7 +22307,7 @@
               "en": "Build one or more Snare traps",
               "ja": "Build one or more Snare traps",
               "UniqueID": "962d643d6e4f9b9409e67da5e9e59e4f",
-              "UniqueIDIndex": 3547,
+              "UniqueIDIndex": 3557,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -22421,7 +22421,7 @@
               "en": "Catch a Badger, Fox or Hare",
               "ja": "Catch a Badger, Fox or Hare",
               "UniqueID": "40a492208f8dafa4d9c61cfb12d2a51b",
-              "UniqueIDIndex": 3548,
+              "UniqueIDIndex": 3558,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -22651,7 +22651,7 @@
               "en": "Butcher an Animal",
               "ja": "Butcher an Animal",
               "UniqueID": "487dbb53235d82444919e6c21ef278cd",
-              "UniqueIDIndex": 3549,
+              "UniqueIDIndex": 3559,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -22842,7 +22842,7 @@
               "en": "Roast some Meat",
               "ja": "Roast some Meat",
               "UniqueID": "ca48fb8bccbf38e4ca29b8fbfa09f22e",
-              "UniqueIDIndex": 3550,
+              "UniqueIDIndex": 3560,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -23088,13 +23088,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5516",
-      "___fn": "Huntsman2_TheSecretOfClay_Main@5516.json",
+      "___key": "0_5518",
+      "___fn": "Huntsman2_TheSecretOfClay_Main@5518.json",
       "zh": "粘土的秘密",
       "en": "The Secret of Clay",
       "ja": "The Secret of Clay",
       "UniqueID": "5085c4054c58d2749ab4b1cb7c84692c",
-      "UniqueIDIndex": 3585,
+      "UniqueIDIndex": 3595,
       "QuestTitle": {
         "DefaultText": "The Secret of Clay",
         "Text": "粘土的秘密",
@@ -23140,7 +23140,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "77349b5ad3e91654ea3692f93f62edce",
-        "UniqueIDIndex": 3584,
+        "UniqueIDIndex": 3594,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -23217,7 +23217,7 @@
         "en": "The Secret of Clay",
         "ja": "The Secret of Clay",
         "UniqueID": "5c58726589f7a95448dc3e9d544e0648",
-        "UniqueIDIndex": 3583,
+        "UniqueIDIndex": 3593,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -23237,7 +23237,7 @@
               "en": "Dig up Mud or Dirt from the lake",
               "ja": "Dig up Mud or Dirt from the lake",
               "UniqueID": "6b3aa2d844346de4593bce8d2d928d32",
-              "UniqueIDIndex": 3586,
+              "UniqueIDIndex": 3596,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -23409,7 +23409,7 @@
               "en": "Crush Mud into Clay",
               "ja": "Crush Mud into Clay",
               "UniqueID": "5b55873ca7985a7448ea6d940cb79bc0",
-              "UniqueIDIndex": 3587,
+              "UniqueIDIndex": 3597,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -23523,7 +23523,7 @@
               "en": "Craft a Clay Bowl",
               "ja": "Craft a Clay Bowl",
               "UniqueID": "1b8d68125d028014b92edfcaed2e27f1",
-              "UniqueIDIndex": 3588,
+              "UniqueIDIndex": 3598,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -23637,7 +23637,7 @@
               "en": "Fire a Clay Bowl",
               "ja": "Fire a Clay Bowl",
               "UniqueID": "b0049e08e46993f47953a0b575a20b74",
-              "UniqueIDIndex": 3589,
+              "UniqueIDIndex": 3599,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -23751,7 +23751,7 @@
               "en": "Eat from a Clay Bowl using a Eat All Action",
               "ja": "Eat from a Clay Bowl using a Eat All Action",
               "UniqueID": "e6f0150b26797b240b0a05e98b39e63d",
-              "UniqueIDIndex": 3590,
+              "UniqueIDIndex": 3600,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -23873,13 +23873,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5322",
-      "___fn": "Huntsman2_BasicSurvival_Main@5322.json",
+      "___key": "0_5324",
+      "___fn": "Huntsman2_BasicSurvival_Main@5324.json",
       "zh": "基础生存",
       "en": "Basic Survival",
       "ja": "Basic Survival",
       "UniqueID": "84af60789cb80394d98cf7290cc0ed32",
-      "UniqueIDIndex": 3406,
+      "UniqueIDIndex": 3416,
       "QuestTitle": {
         "DefaultText": "Basic Survival",
         "Text": "基础生存",
@@ -23925,7 +23925,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "7670cfc87e1d0af4ea13e171959d07e2",
-        "UniqueIDIndex": 3405,
+        "UniqueIDIndex": 3415,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -24015,7 +24015,7 @@
         "en": "Basic Survival",
         "ja": "Basic Survival",
         "UniqueID": "aefeace97524b37489655b6be81323f9",
-        "UniqueIDIndex": 3404,
+        "UniqueIDIndex": 3414,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -24035,7 +24035,7 @@
               "en": "Craft a Torch",
               "ja": "Craft a Torch",
               "UniqueID": "2e957cf07d1eb284fb4d7e314b7efe17",
-              "UniqueIDIndex": 3407,
+              "UniqueIDIndex": 3417,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -24149,7 +24149,7 @@
               "en": "Find a Flint Source near the Lake",
               "ja": "Find a Flint Source near the Lake",
               "UniqueID": "b2eec4ac87e6bd0448db11df611af4c8",
-              "UniqueIDIndex": 3408,
+              "UniqueIDIndex": 3418,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -24263,7 +24263,7 @@
               "en": "Craft a Flint Knife",
               "ja": "Craft a Flint Knife",
               "UniqueID": "d55652ba9708c0f4bbc9198c75ed4798",
-              "UniqueIDIndex": 3409,
+              "UniqueIDIndex": 3419,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -24377,7 +24377,7 @@
               "en": "Craft a Flint Axe",
               "ja": "Craft a Flint Axe",
               "UniqueID": "55a6a0b437b54da48af836d113af1468",
-              "UniqueIDIndex": 3410,
+              "UniqueIDIndex": 3420,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -24554,13 +24554,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5360",
-      "___fn": "Huntsman2_FaceYourReflection_Main@5360.json",
+      "___key": "0_5362",
+      "___fn": "Huntsman2_FaceYourReflection_Main@5362.json",
       "zh": "直面你的影子",
       "en": "Face your Reflection",
       "ja": "Face your Reflection",
       "UniqueID": "719066c1f5f286042b7f0b168f0aefed",
-      "UniqueIDIndex": 3441,
+      "UniqueIDIndex": 3451,
       "QuestTitle": {
         "DefaultText": "Face your Reflection",
         "Text": "直面你的影子",
@@ -24606,7 +24606,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "ab7e34b153c09794c81cc6293287bf03",
-        "UniqueIDIndex": 3440,
+        "UniqueIDIndex": 3450,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -24683,7 +24683,7 @@
         "en": "Face your Reflection",
         "ja": "Face your Reflection",
         "UniqueID": "31209c00b6057034d8a772d56af0adc4",
-        "UniqueIDIndex": 3439,
+        "UniqueIDIndex": 3449,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -24703,7 +24703,7 @@
               "en": "Wait for the Next Full Moon",
               "ja": "Wait for the Next Full Moon",
               "UniqueID": "2e82e1451f718f64db2564a22e7c5377",
-              "UniqueIDIndex": 3442,
+              "UniqueIDIndex": 3452,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -24782,7 +24782,7 @@
               "en": "Solve the Puzzle",
               "ja": "Solve the Puzzle",
               "UniqueID": "d482b2dc1ed05dd428564b3a55e9d4e2",
-              "UniqueIDIndex": 3443,
+              "UniqueIDIndex": 3453,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -24962,13 +24962,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5438",
-      "___fn": "Huntsman2_ReedWeaving_Main@5438.json",
+      "___key": "0_5440",
+      "___fn": "Huntsman2_ReedWeaving_Main@5440.json",
       "zh": "芦苇编织",
       "en": "Reed Weaving",
       "ja": "Reed Weaving",
       "UniqueID": "115c32516a77ade49a4d4f4a2747a100",
-      "UniqueIDIndex": 3513,
+      "UniqueIDIndex": 3523,
       "QuestTitle": {
         "DefaultText": "Reed Weaving",
         "Text": "芦苇编织",
@@ -25014,7 +25014,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "8fc7678784d114c41b5c0bc3185ee872",
-        "UniqueIDIndex": 3512,
+        "UniqueIDIndex": 3522,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -25104,7 +25104,7 @@
         "en": "Reed Weaving",
         "ja": "Reed Weaving",
         "UniqueID": "2f9c5e214aef8bb409b79b6c0ebd5448",
-        "UniqueIDIndex": 3511,
+        "UniqueIDIndex": 3521,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -25124,7 +25124,7 @@
               "en": "Harvest some Reed",
               "ja": "Harvest some Reed",
               "UniqueID": "8f1a56d1ea8514a409c0064a6e0e50bd",
-              "UniqueIDIndex": 3514,
+              "UniqueIDIndex": 3524,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -25238,7 +25238,7 @@
               "en": "Make a Reed Tunic and Equip it",
               "ja": "Make a Reed Tunic and Equip it",
               "UniqueID": "8049cd4f747cd5046ba8478d134f3f48",
-              "UniqueIDIndex": 3515,
+              "UniqueIDIndex": 3525,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -25352,7 +25352,7 @@
               "en": "Wait for some Reed to Dry",
               "ja": "Wait for some Reed to Dry",
               "UniqueID": "03b8c3c85a70b2a4cb5b7b61bdf65fdd",
-              "UniqueIDIndex": 3516,
+              "UniqueIDIndex": 3526,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -25466,7 +25466,7 @@
               "en": "Weave a Basket to Store your Food",
               "ja": "Weave a Basket to Store your Food",
               "UniqueID": "a5785deca61d2a244b7b0a4e07c02085",
-              "UniqueIDIndex": 3517,
+              "UniqueIDIndex": 3527,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -25638,7 +25638,7 @@
               "en": "Make a Reed Coat to protect yourself from the Weather",
               "ja": "Make a Reed Coat to protect yourself from the Weather",
               "UniqueID": "cecdb419ca5e19a43b6025a1c6163432",
-              "UniqueIDIndex": 3518,
+              "UniqueIDIndex": 3528,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -25815,13 +25815,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5452",
-      "___fn": "Huntsman2_Skin-Bearer_Main@5452.json",
+      "___key": "0_5454",
+      "___fn": "Huntsman2_Skin-Bearer_Main@5454.json",
       "zh": "熊皮剥制者",
       "en": "Skin-Bearer",
       "ja": "Skin-Bearer",
       "UniqueID": "9cc556d70dce8ab4192df1008321f9c8",
-      "UniqueIDIndex": 3526,
+      "UniqueIDIndex": 3536,
       "QuestTitle": {
         "DefaultText": "Skin-Bearer",
         "Text": "熊皮剥制者",
@@ -25867,7 +25867,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "ea650d39e579a824ab6820b40a715d84",
-        "UniqueIDIndex": 3525,
+        "UniqueIDIndex": 3535,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -25957,7 +25957,7 @@
         "en": "Skin-Bearer",
         "ja": "Skin-Bearer",
         "UniqueID": "bdf1d0b4f29fbb54fb25129671ac31fb",
-        "UniqueIDIndex": 3524,
+        "UniqueIDIndex": 3534,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -25977,7 +25977,7 @@
               "en": "Flesh a Skin",
               "ja": "Flesh a Skin",
               "UniqueID": "b5853d8b006b4774db23bb9878279723",
-              "UniqueIDIndex": 3527,
+              "UniqueIDIndex": 3537,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -26633,7 +26633,7 @@
               "en": "Cure or Tan a Fleshed Skin",
               "ja": "Cure or Tan a Fleshed Skin",
               "UniqueID": "a353d5bb3734db342bed951b3c626e1e",
-              "UniqueIDIndex": 3528,
+              "UniqueIDIndex": 3538,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -27556,7 +27556,7 @@
               "en": "Equip some Cured Skin or Leather in Your Bed for Warmth",
               "ja": "Equip some Cured Skin or Leather in Your Bed for Warmth",
               "UniqueID": "5b7084e4a81ffb74eb7b686d2d64039d",
-              "UniqueIDIndex": 3529,
+              "UniqueIDIndex": 3539,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -27708,7 +27708,7 @@
               "en": "Research & Craft a Needle from Bone Pieces",
               "ja": "Research & Craft a Needle from Bone Pieces",
               "UniqueID": "11d1a9bbde8830d4c935401e33572dc3",
-              "UniqueIDIndex": 3530,
+              "UniqueIDIndex": 3540,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -27822,7 +27822,7 @@
               "en": "Craft Leather Shoes & Equip Them",
               "ja": "Craft Leather Shoes & Equip Them",
               "UniqueID": "1f3b7056867f9c24cb08d44a1d5a6535",
-              "UniqueIDIndex": 3531,
+              "UniqueIDIndex": 3541,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -28046,13 +28046,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5502",
-      "___fn": "Huntsman2_TheLakesBounty_Main@5502.json",
+      "___key": "0_5504",
+      "___fn": "Huntsman2_TheLakesBounty_Main@5504.json",
       "zh": "湖之恩赐",
       "en": "The Lake's Bounty",
       "ja": "The Lake's Bounty",
       "UniqueID": "88151b9c2f28a5c4c8827fb9aa7a9a08",
-      "UniqueIDIndex": 3572,
+      "UniqueIDIndex": 3582,
       "QuestTitle": {
         "DefaultText": "The Lake's Bounty",
         "Text": "湖之恩赐",
@@ -28098,7 +28098,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "b59cd941316d7f3469415aa8f7176a96",
-        "UniqueIDIndex": 3571,
+        "UniqueIDIndex": 3581,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -28188,7 +28188,7 @@
         "en": "The Lake's Bounty",
         "ja": "The Lake's Bounty",
         "UniqueID": "57bbd4f7cb747e246a6c55ca9d138555",
-        "UniqueIDIndex": 3570,
+        "UniqueIDIndex": 3580,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -28208,7 +28208,7 @@
               "en": "Research & Craft a Hook from Bone Pieces",
               "ja": "Research & Craft a Hook from Bone Pieces",
               "UniqueID": "aea2c1ae77f777947b4840d087c5e486",
-              "UniqueIDIndex": 3573,
+              "UniqueIDIndex": 3583,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -28322,7 +28322,7 @@
               "en": "Research & Craft a Fishing Line",
               "ja": "Research & Craft a Fishing Line",
               "UniqueID": "9d9b13fe311efa648bcbe3c86313d596",
-              "UniqueIDIndex": 3574,
+              "UniqueIDIndex": 3584,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -28436,7 +28436,7 @@
               "en": "Catch a Fish",
               "ja": "Catch a Fish",
               "UniqueID": "56bb8c4a8cde72e4990d181684f7ebf4",
-              "UniqueIDIndex": 3575,
+              "UniqueIDIndex": 3585,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -28551,7 +28551,7 @@
               "en": "Gut a Fish",
               "ja": "Gut a Fish",
               "UniqueID": "761d490a1393aed4ab67f207fba6ecf8",
-              "UniqueIDIndex": 3576,
+              "UniqueIDIndex": 3586,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -28723,7 +28723,7 @@
               "en": "Roast some Fish",
               "ja": "Roast some Fish",
               "UniqueID": "2cba2876b8e669547a67f952f665d170",
-              "UniqueIDIndex": 3577,
+              "UniqueIDIndex": 3587,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -28958,13 +28958,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5334",
-      "___fn": "Huntsman2_BigGameHunting_Main@5334.json",
+      "___key": "0_5336",
+      "___fn": "Huntsman2_BigGameHunting_Main@5336.json",
       "zh": "狩猎大型动物",
       "en": "Big Game Hunting",
       "ja": "Big Game Hunting",
       "UniqueID": "17ddd93b8c3c8c24c9727e477fda5342",
-      "UniqueIDIndex": 3417,
+      "UniqueIDIndex": 3427,
       "QuestTitle": {
         "DefaultText": "Big Game Hunting",
         "Text": "狩猎大型动物",
@@ -29010,7 +29010,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "a559877c85e2569498e38c13907220dd",
-        "UniqueIDIndex": 3416,
+        "UniqueIDIndex": 3426,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -29100,7 +29100,7 @@
         "en": "Big Game Hunting",
         "ja": "Big Game Hunting",
         "UniqueID": "d5e76a53aeda10243907f4bc60e8cb91",
-        "UniqueIDIndex": 3415,
+        "UniqueIDIndex": 3425,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -29120,7 +29120,7 @@
               "en": "Make a Flint Spear",
               "ja": "Make a Flint Spear",
               "UniqueID": "819b153b53444f147805225193e38d67",
-              "UniqueIDIndex": 3418,
+              "UniqueIDIndex": 3428,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -29234,7 +29234,7 @@
               "en": "Research & Craft a Butchering Mat",
               "ja": "Research & Craft a Butchering Mat",
               "UniqueID": "dc53838880c60784eaac9f26eb4be678",
-              "UniqueIDIndex": 3419,
+              "UniqueIDIndex": 3429,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -29348,7 +29348,7 @@
               "en": "Build a Log Trap to catch Deer",
               "ja": "Build a Log Trap to catch Deer",
               "UniqueID": "a4c884bb2365a05438e6f88bd38bf9cf",
-              "UniqueIDIndex": 3420,
+              "UniqueIDIndex": 3430,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -29462,7 +29462,7 @@
               "en": "Hunt a Medium or Larger Animal",
               "ja": "Hunt a Medium or Larger Animal",
               "UniqueID": "96cd3a2e243b1c9429ceee7afd928f2b",
-              "UniqueIDIndex": 3421,
+              "UniqueIDIndex": 3431,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -29695,7 +29695,7 @@
               "en": "Harvest some Blood in a Container",
               "ja": "Harvest some Blood in a Container",
               "UniqueID": "f2ac681659a21604da70bdcb90f291d0",
-              "UniqueIDIndex": 3422,
+              "UniqueIDIndex": 3432,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -29809,7 +29809,7 @@
               "en": "Make some Sausages with clean Intestines",
               "ja": "Make some Sausages with clean Intestines",
               "UniqueID": "5380860e9abbefd4bbfad4e3065b8abe",
-              "UniqueIDIndex": 3423,
+              "UniqueIDIndex": 3433,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -30044,13 +30044,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5408",
-      "___fn": "Huntsman2_Magic_Main@5408.json",
+      "___key": "0_5410",
+      "___fn": "Huntsman2_Magic_Main@5410.json",
       "zh": "魔法",
       "en": "Magic",
       "ja": "Magic",
       "UniqueID": "bcac4734f35190f4081b21a7ae94759e",
-      "UniqueIDIndex": 3485,
+      "UniqueIDIndex": 3495,
       "QuestTitle": {
         "DefaultText": "Magic",
         "Text": "魔法",
@@ -30096,7 +30096,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "d0c5e2db92c758c4092f8c3b5491ccb9",
-        "UniqueIDIndex": 3484,
+        "UniqueIDIndex": 3494,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -30186,7 +30186,7 @@
         "en": "Magic",
         "ja": "Magic",
         "UniqueID": "ccf91801ac6aa6f4c82ec248371a3327",
-        "UniqueIDIndex": 3483,
+        "UniqueIDIndex": 3493,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -30206,7 +30206,7 @@
               "en": "Release an Animal Spirit",
               "ja": "Release an Animal Spirit",
               "UniqueID": "b17a6f2c4db1296488b217a7bd2cb854",
-              "UniqueIDIndex": 3486,
+              "UniqueIDIndex": 3496,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -30313,7 +30313,7 @@
               "en": "Research & Craft an Amulet",
               "ja": "Research & Craft an Amulet",
               "UniqueID": "0d326f63be2b273499da27d4bcaa1ced",
-              "UniqueIDIndex": 3490,
+              "UniqueIDIndex": 3500,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -30427,7 +30427,7 @@
               "en": "Boil & eat some Fly Agaric",
               "ja": "Boil & eat some Fly Agaric",
               "UniqueID": "7fdbf73b5b97bc34b9ee670eb4ae3bbc",
-              "UniqueIDIndex": 3488,
+              "UniqueIDIndex": 3498,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -30528,7 +30528,7 @@
               "en": "Reach an Altered Mind State",
               "ja": "Reach an Altered Mind State",
               "UniqueID": "d26110307e7935d4396a71b1fa2cb41e",
-              "UniqueIDIndex": 3489,
+              "UniqueIDIndex": 3499,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -30607,7 +30607,7 @@
               "en": "Gather enough Insight",
               "ja": "Gather enough Insight",
               "UniqueID": "a2d0b292ae85f884d89c33c10507277d",
-              "UniqueIDIndex": 3487,
+              "UniqueIDIndex": 3497,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -30686,7 +30686,7 @@
               "en": "Enchant a piece of Equipment",
               "ja": "Enchant a piece of Equipment",
               "UniqueID": "bd0e3953002439d45aa24ba922b6dcf0",
-              "UniqueIDIndex": 3491,
+              "UniqueIDIndex": 3501,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -30714,7 +30714,7 @@
                       "text": "“精魄附魔”",
                       "icon": "",
                       "type": "tag",
-                      "count": 81,
+                      "count": 82,
                       "zh": "可容纳精魄",
                       "en": "Enchantable by Spirit",
                       "ja": "精霊でエンチャントできる",
@@ -30983,13 +30983,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5466",
-      "___fn": "Huntsman2_TheEnd_Main@5466.json",
+      "___key": "0_5468",
+      "___fn": "Huntsman2_TheEnd_Main@5468.json",
       "zh": "命运已定",
       "en": "Fate Sealed",
       "ja": "Fate Sealed",
       "UniqueID": "40ae8e258ec59ec4682f22216c055741",
-      "UniqueIDIndex": 3539,
+      "UniqueIDIndex": 3549,
       "QuestTitle": {
         "DefaultText": "Fate Sealed",
         "Text": "命运已定",
@@ -31035,7 +31035,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "359b84f4bf7eaed498f31926f026262c",
-        "UniqueIDIndex": 3538,
+        "UniqueIDIndex": 3548,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -31112,7 +31112,7 @@
         "en": "The End",
         "ja": "The End",
         "UniqueID": "475b37da0329f5f44bc289016d8faded",
-        "UniqueIDIndex": 3537,
+        "UniqueIDIndex": 3547,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -31132,7 +31132,7 @@
               "en": "Complete Story (Will End the Game)",
               "ja": "Complete Story (Will End the Game)",
               "UniqueID": "07c0cb2e923c2d64598c0e0f0e70fb89",
-              "UniqueIDIndex": 3540,
+              "UniqueIDIndex": 3550,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -31266,13 +31266,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5576",
-      "___fn": "Huntsman2_Woodworking_Main@5576.json",
+      "___key": "0_5578",
+      "___fn": "Huntsman2_Woodworking_Main@5578.json",
       "zh": "木工",
       "en": "Woodworking",
       "ja": "Woodworking",
       "UniqueID": "c3458bd534e58084894a5b8bcd639fd2",
-      "UniqueIDIndex": 3641,
+      "UniqueIDIndex": 3651,
       "QuestTitle": {
         "DefaultText": "Woodworking",
         "Text": "木工",
@@ -31318,7 +31318,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "a951090af9c3a32458042c7ef07ff02b",
-        "UniqueIDIndex": 3640,
+        "UniqueIDIndex": 3650,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -31395,7 +31395,7 @@
         "en": "Woodworking",
         "ja": "Woodworking",
         "UniqueID": "da3ddb6f95d6b544595cd5eb879cf366",
-        "UniqueIDIndex": 3639,
+        "UniqueIDIndex": 3649,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -31415,7 +31415,7 @@
               "en": "Chop down a Tree",
               "ja": "Chop down a Tree",
               "UniqueID": "656257e5b0907184a8983fa33c57e6f4",
-              "UniqueIDIndex": 3642,
+              "UniqueIDIndex": 3652,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -31606,7 +31606,7 @@
               "en": "Craft some Planks",
               "ja": "Craft some Planks",
               "UniqueID": "fabe97b2d00e00643aa03d21cddad367",
-              "UniqueIDIndex": 3643,
+              "UniqueIDIndex": 3653,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -31797,7 +31797,7 @@
               "en": "Build a Brick Mold",
               "ja": "Build a Brick Mold",
               "UniqueID": "2acc706f3992daa4087ca8a10736fb4c",
-              "UniqueIDIndex": 3644,
+              "UniqueIDIndex": 3654,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -31911,7 +31911,7 @@
               "en": "Research & Craft a Wooden Figure",
               "ja": "Research & Craft a Wooden Figure",
               "UniqueID": "0f693b971da7b9f4381a617fb30282f2",
-              "UniqueIDIndex": 3645,
+              "UniqueIDIndex": 3655,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -32254,13 +32254,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5424",
-      "___fn": "Huntsman2_OvensAndKilns_Main@5424.json",
+      "___key": "0_5426",
+      "___fn": "Huntsman2_OvensAndKilns_Main@5426.json",
       "zh": "烤箱和窑炉",
       "en": "Oven & Kilns",
       "ja": "Oven & Kilns",
       "UniqueID": "ca461d3a5e5297340a708d8d5e190e6d",
-      "UniqueIDIndex": 3500,
+      "UniqueIDIndex": 3510,
       "QuestTitle": {
         "DefaultText": "Oven & Kilns",
         "Text": "烤箱和窑炉",
@@ -32306,7 +32306,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "711dba3463952084ca5e9b8f2ad73952",
-        "UniqueIDIndex": 3499,
+        "UniqueIDIndex": 3509,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -32396,7 +32396,7 @@
         "en": "Ovens & Kilns",
         "ja": "Ovens & Kilns",
         "UniqueID": "9bcb8721c1870c647ae9616ef96eb6ff",
-        "UniqueIDIndex": 3498,
+        "UniqueIDIndex": 3508,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -32416,7 +32416,7 @@
               "en": "Mix Mud with Reeds",
               "ja": "Mix Mud with Reeds",
               "UniqueID": "24dcaab6dcb37e74a98e7f4e515cef95",
-              "UniqueIDIndex": 3501,
+              "UniqueIDIndex": 3511,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -32530,7 +32530,7 @@
               "en": "Research & Build an Oven",
               "ja": "Research & Build an Oven",
               "UniqueID": "d414301eeffd7aa45bcb4969272391fc",
-              "UniqueIDIndex": 3502,
+              "UniqueIDIndex": 3512,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -32721,7 +32721,7 @@
               "en": "Craft a Cooking Pot",
               "ja": "Craft a Cooking Pot",
               "UniqueID": "2a9540b3f37a1fb42b5f32fbc5345880",
-              "UniqueIDIndex": 3503,
+              "UniqueIDIndex": 3513,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -32835,7 +32835,7 @@
               "en": "Build a Kiln",
               "ja": "Build a Kiln",
               "UniqueID": "594cf974acdc0df41b0563f69720cfd3",
-              "UniqueIDIndex": 3504,
+              "UniqueIDIndex": 3514,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -32949,7 +32949,7 @@
               "en": "Craft a Storage Pot",
               "ja": "Craft a Storage Pot",
               "UniqueID": "4404d38869bd75642b6dd1dc39100744",
-              "UniqueIDIndex": 3505,
+              "UniqueIDIndex": 3515,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -33126,13 +33126,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5544",
-      "___fn": "Huntsman2_TheSecretOfMetal_Main@5544.json",
+      "___key": "0_5546",
+      "___fn": "Huntsman2_TheSecretOfMetal_Main@5546.json",
       "zh": "金属的奥秘",
       "en": "The Secret of Metal",
       "ja": "The Secret of Metal",
       "UniqueID": "3ad3e775578c0144096137e3c6854177",
-      "UniqueIDIndex": 3611,
+      "UniqueIDIndex": 3621,
       "QuestTitle": {
         "DefaultText": "The Secret of Metal",
         "Text": "金属的奥秘",
@@ -33178,7 +33178,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "b62d9b842a816094f9bcacaa1715a21e",
-        "UniqueIDIndex": 3610,
+        "UniqueIDIndex": 3620,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -33255,7 +33255,7 @@
         "en": "The Secret of Metal",
         "ja": "The Secret of Metal",
         "UniqueID": "d3d9e0895f920de4ebded43e7d0697cb",
-        "UniqueIDIndex": 3609,
+        "UniqueIDIndex": 3619,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -33275,7 +33275,7 @@
               "en": "Find some Greenstone",
               "ja": "Find some Greenstone",
               "UniqueID": "096756c30dbe13d4a9fd51570c54bc32",
-              "UniqueIDIndex": 3612,
+              "UniqueIDIndex": 3622,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -33389,7 +33389,7 @@
               "en": "Research & Build a Furnace",
               "ja": "Research & Build a Furnace",
               "UniqueID": "a4a91fe01d4d4d94e9d63169ddb0118a",
-              "UniqueIDIndex": 3613,
+              "UniqueIDIndex": 3623,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -33503,7 +33503,7 @@
               "en": "Craft some Bellows",
               "ja": "Craft some Bellows",
               "UniqueID": "78433cf2f639f9744ad734cecd2ce46c",
-              "UniqueIDIndex": 3614,
+              "UniqueIDIndex": 3624,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -33617,7 +33617,7 @@
               "en": "Grind Greenstone into Powder",
               "ja": "Grind Greenstone into Powder",
               "UniqueID": "b26bccb8d09559241872d5e61b524c66",
-              "UniqueIDIndex": 3615,
+              "UniqueIDIndex": 3625,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -33731,7 +33731,7 @@
               "en": "Smelt Greenstone into Copper",
               "ja": "Smelt Greenstone into Copper",
               "UniqueID": "6fb1f2d39ba61c7439ddd901ccf031f0",
-              "UniqueIDIndex": 3616,
+              "UniqueIDIndex": 3626,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -34075,7 +34075,7 @@
               "en": "Make a Lump of Copper",
               "ja": "Make a Lump of Copper",
               "UniqueID": "6d057b2c961dbf24682cf0adb6e6449b",
-              "UniqueIDIndex": 3617,
+              "UniqueIDIndex": 3627,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -34419,7 +34419,7 @@
               "en": "Make a Metal Knife Blade",
               "ja": "Make a Metal Knife Blade",
               "UniqueID": "bb3c4af2174143548a37ff1859efabfa",
-              "UniqueIDIndex": 3618,
+              "UniqueIDIndex": 3628,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -34763,7 +34763,7 @@
               "en": "Make a Metal Knife",
               "ja": "Make a Metal Knife",
               "UniqueID": "a2392c08a608cfe49a6cc369ea4039ec",
-              "UniqueIDIndex": 3619,
+              "UniqueIDIndex": 3629,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -35024,13 +35024,13 @@
       "m_Script": {
         "FileName": "Warning"
       },
-      "___key": "0_5488",
-      "___fn": "Huntsman2_TheHuntsmansWill_Main@5488.json",
+      "___key": "0_5490",
+      "___fn": "Huntsman2_TheHuntsmansWill_Main@5490.json",
       "zh": "猎人的心愿",
       "en": "The Huntsman's Will",
       "ja": "The Huntsman's Will",
       "UniqueID": "a3788f42f865d9742a9cd05f8c933810",
-      "UniqueIDIndex": 3559,
+      "UniqueIDIndex": 3569,
       "QuestTitle": {
         "DefaultText": "The Huntsman's Will",
         "Text": "猎人的心愿",
@@ -35076,7 +35076,7 @@
         "en": "",
         "ja": "",
         "UniqueID": "39a0f1a896d437f4ab091fe18ae7b0fa",
-        "UniqueIDIndex": 3558,
+        "UniqueIDIndex": 3568,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -35166,7 +35166,7 @@
         "en": "The Huntsman's Will",
         "ja": "The Huntsman's Will",
         "UniqueID": "f9ee097ffa899824d9b2a9cc7d39e3cd",
-        "UniqueIDIndex": 3557,
+        "UniqueIDIndex": 3567,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -35186,7 +35186,7 @@
               "en": "Find Witchstone (& keep it hidden from Sunlight)",
               "ja": "Find Witchstone (& keep it hidden from Sunlight)",
               "UniqueID": "c7d35ca4971223244a2a22c67fe73593",
-              "UniqueIDIndex": 3560,
+              "UniqueIDIndex": 3570,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -35300,7 +35300,7 @@
               "en": "Research & Build a Large Crucible",
               "ja": "Research & Build a Large Crucible",
               "UniqueID": "a6b13518ad5530a4395d46b03329e694",
-              "UniqueIDIndex": 3561,
+              "UniqueIDIndex": 3571,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -35414,7 +35414,7 @@
               "en": "Craft a Ghost Bronze Hunting Spear",
               "ja": "Craft a Ghost Bronze Hunting Spear",
               "UniqueID": "87e25bfe3c0f982408004401214a202a",
-              "UniqueIDIndex": 3562,
+              "UniqueIDIndex": 3572,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -35620,7 +35620,7 @@
               "en": "Enchant your Spear with Moonlight",
               "ja": "Enchant your Spear with Moonlight",
               "UniqueID": "65abd306aca5ad246abd1ec629c666ab",
-              "UniqueIDIndex": 3563,
+              "UniqueIDIndex": 3573,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -36462,7 +36462,7 @@
               "en": "Apply Wolfsbane Coating",
               "ja": "Apply Wolfsbane Coating",
               "UniqueID": "c4eb0b57d10836043939c70320a2d9ee",
-              "UniqueIDIndex": 3564,
+              "UniqueIDIndex": 3574,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {

@@ -6,7 +6,7 @@
   "zh": "香蒲丛",
   "en": "Cattail Patch",
   "ja": "Cattail Patch",
-  "UniqueIDIndex": 785,
+  "UniqueIDIndex": 786,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -6775,7 +6775,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

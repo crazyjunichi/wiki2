@@ -6,7 +6,7 @@
   "zh": "穿刺伤",
   "en": "Puncture Wound",
   "ja": "刺し傷",
-  "UniqueIDIndex": 2639,
+  "UniqueIDIndex": 2647,
   "CardType": 0,
   "CardTags": [
     {
@@ -12377,8 +12377,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

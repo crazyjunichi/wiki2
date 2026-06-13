@@ -6,7 +6,7 @@
   "zh": "小灰山鹑尸体",
   "en": "Dead Chick",
   "ja": "Dead Chick",
-  "UniqueIDIndex": 834,
+  "UniqueIDIndex": 835,
   "CardType": 0,
   "CardTags": [
     {
@@ -6968,7 +6968,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "成熟的牧草田(成熟)",
   "en": "Mature Meadowgrass Field",
   "ja": "成長した牧草地",
-  "UniqueIDIndex": 1730,
+  "UniqueIDIndex": 1731,
   "CardType": 2,
   "CardTags": [
     {
@@ -6895,7 +6895,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -9163,7 +9163,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -11431,7 +11431,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -13600,7 +13600,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

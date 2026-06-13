@@ -6,7 +6,7 @@
   "zh": "堤坝",
   "en": "Levee",
   "ja": "Levee",
-  "UniqueIDIndex": 1599,
+  "UniqueIDIndex": 1600,
   "CardType": 2,
   "CardTags": [
     {
@@ -1110,7 +1110,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

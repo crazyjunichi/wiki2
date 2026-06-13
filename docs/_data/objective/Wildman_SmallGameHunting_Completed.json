@@ -6,7 +6,7 @@
   "zh": "狩猎小型动物",
   "en": "Small Game Hunting",
   "ja": "Small Game Hunting",
-  "UniqueIDIndex": 4555,
+  "UniqueIDIndex": 4565,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Partridge",
         "ja": "Partridge",
         "UniqueID": "d100c31dc3e52224c80e85258dd48092",
-        "UniqueIDIndex": 4558,
+        "UniqueIDIndex": 4568,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -244,7 +244,7 @@
         "en": "Duck",
         "ja": "Duck",
         "UniqueID": "bd85227c00749ee4db3d07d644be16f3",
-        "UniqueIDIndex": 4559,
+        "UniqueIDIndex": 4569,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -462,7 +462,7 @@
         "en": "Badger",
         "ja": "Badger",
         "UniqueID": "1ce1ecb2a1bc48241a9401315b4b020b",
-        "UniqueIDIndex": 4560,
+        "UniqueIDIndex": 4570,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -680,7 +680,7 @@
         "en": "Hare",
         "ja": "Hare",
         "UniqueID": "bf8935a507c42bb4e87421135e1c7c64",
-        "UniqueIDIndex": 4561,
+        "UniqueIDIndex": 4571,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -898,7 +898,7 @@
         "en": "Fox",
         "ja": "Fox",
         "UniqueID": "e73aa6ef54bd5c647acb625bc3d91a78",
-        "UniqueIDIndex": 4562,
+        "UniqueIDIndex": 4572,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

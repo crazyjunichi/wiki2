@@ -6,7 +6,7 @@
   "zh": "过冬准备",
   "en": "Prepare for Winter",
   "ja": "Prepare for Winter",
-  "UniqueIDIndex": 3998,
+  "UniqueIDIndex": 4008,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Gather Acorns from the Oak Forests in the South",
         "ja": "Gather Acorns from the Oak Forests in the South",
         "UniqueID": "79c60e13a6a97aa43b4db81ab754e376",
-        "UniqueIDIndex": 4001,
+        "UniqueIDIndex": 4011,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -246,7 +246,7 @@
         "en": "Leech Acorns and Grind them into Flour",
         "ja": "Leech Acorns and Grind them into Flour",
         "UniqueID": "0efd2ce3af88b1c4f8d2f6ddaa746673",
-        "UniqueIDIndex": 4002,
+        "UniqueIDIndex": 4012,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -466,7 +466,7 @@
         "en": "Dry some Meat in an Oven or Drying Rack",
         "ja": "Dry some Meat in an Oven or Drying Rack",
         "UniqueID": "f54b8660c2f9caf4ca67f61e042e2b52",
-        "UniqueIDIndex": 4003,
+        "UniqueIDIndex": 4013,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

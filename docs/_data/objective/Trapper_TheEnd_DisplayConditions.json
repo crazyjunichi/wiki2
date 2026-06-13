@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 4482,
+  "UniqueIDIndex": 4492,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Big Game Traps",
         "ja": "Big Game Traps",
         "UniqueID": "963ec0f151552be4a9cee8d306176148",
-        "UniqueIDIndex": 4437,
+        "UniqueIDIndex": 4447,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Wolf",
               "ja": "Wolf",
               "UniqueID": "f77939c48014fe84c9a54b37c5c8620e",
-              "UniqueIDIndex": 4440,
+              "UniqueIDIndex": 4450,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -264,7 +264,7 @@
               "en": "Doe",
               "ja": "Doe",
               "UniqueID": "f4adacbeb85579a41858e757759c8a31",
-              "UniqueIDIndex": 4441,
+              "UniqueIDIndex": 4451,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -482,7 +482,7 @@
               "en": "Stag",
               "ja": "Stag",
               "UniqueID": "6602fee9025d8e84c8ee56a326b25bf2",
-              "UniqueIDIndex": 4442,
+              "UniqueIDIndex": 4452,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -700,7 +700,7 @@
               "en": "Boar",
               "ja": "Boar",
               "UniqueID": "bfe6323e8b9c3d044bf1bf28cd50be6e",
-              "UniqueIDIndex": 4443,
+              "UniqueIDIndex": 4453,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1713,7 +1713,7 @@
         "en": "Butchering Tools",
         "ja": "Butchering Tools",
         "UniqueID": "8b76649118abcee4687e2897a794c826",
-        "UniqueIDIndex": 4448,
+        "UniqueIDIndex": 4458,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -1733,7 +1733,7 @@
               "en": "Butchering Mat",
               "ja": "Butchering Mat",
               "UniqueID": "844e8291e37a21241ad5c3bc736b80c1",
-              "UniqueIDIndex": 4451,
+              "UniqueIDIndex": 4461,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1949,7 +1949,7 @@
               "en": "Butchering Knife",
               "ja": "Butchering Knife",
               "UniqueID": "8ef670bcbd504e742b5951b456ce177d",
-              "UniqueIDIndex": 4452,
+              "UniqueIDIndex": 4462,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2259,7 +2259,7 @@
               "en": "Meat Hook",
               "ja": "Meat Hook",
               "UniqueID": "4951cee1a8f6ad1488b499b295f52680",
-              "UniqueIDIndex": 4453,
+              "UniqueIDIndex": 4463,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3362,7 +3362,7 @@
         "en": "Skinning Tools",
         "ja": "Skinning Tools",
         "UniqueID": "614f96904a34cf7498589b67ca3b39b0",
-        "UniqueIDIndex": 4457,
+        "UniqueIDIndex": 4467,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -3382,7 +3382,7 @@
               "en": "Stretching Frame",
               "ja": "Stretching Frame",
               "UniqueID": "95b5bacee8f5e4c4693daeabb0d866df",
-              "UniqueIDIndex": 4460,
+              "UniqueIDIndex": 4470,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3592,7 +3592,7 @@
               "en": "Tanning Pit",
               "ja": "Tanning Pit",
               "UniqueID": "ac54777edeb9daf49aa059b1371cb203",
-              "UniqueIDIndex": 4461,
+              "UniqueIDIndex": 4471,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3804,7 +3804,7 @@
               "en": "Fleshing Beam",
               "ja": "Fleshing Beam",
               "UniqueID": "d079d13bf081c0c469b113f9301d5f20",
-              "UniqueIDIndex": 4462,
+              "UniqueIDIndex": 4472,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4022,7 +4022,7 @@
               "en": "Skinning Knife",
               "ja": "Skinning Knife",
               "UniqueID": "af53b67768cf6384aa7a72ce13f2734b",
-              "UniqueIDIndex": 4463,
+              "UniqueIDIndex": 4473,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5110,7 +5110,7 @@
         "en": "Small Game Traps",
         "ja": "Small Game Traps",
         "UniqueID": "8f2a721db59920d40bac084b51e1502c",
-        "UniqueIDIndex": 4468,
+        "UniqueIDIndex": 4478,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5130,7 +5130,7 @@
               "en": "Mouse",
               "ja": "Mouse",
               "UniqueID": "119db550bcc5cde41860a0f40e87416f",
-              "UniqueIDIndex": 4471,
+              "UniqueIDIndex": 4481,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5352,7 +5352,7 @@
               "en": "Squirrel",
               "ja": "Squirrel",
               "UniqueID": "bac7766de92912149a1707a03ccdebe1",
-              "UniqueIDIndex": 4472,
+              "UniqueIDIndex": 4482,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5574,7 +5574,7 @@
               "en": "Badger",
               "ja": "Badger",
               "UniqueID": "730161cc26d9eea4fb41890841482b08",
-              "UniqueIDIndex": 4473,
+              "UniqueIDIndex": 4483,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5792,7 +5792,7 @@
               "en": "Hare",
               "ja": "Hare",
               "UniqueID": "d01fec3da76432e4f93982ed22948fcb",
-              "UniqueIDIndex": 4474,
+              "UniqueIDIndex": 4484,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -6010,7 +6010,7 @@
               "en": "Fox",
               "ja": "Fox",
               "UniqueID": "d31a1c97dc4ea1141950ceddfab9d774",
-              "UniqueIDIndex": 4475,
+              "UniqueIDIndex": 4485,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [

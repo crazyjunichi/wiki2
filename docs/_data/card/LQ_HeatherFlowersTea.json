@@ -6,7 +6,7 @@
   "zh": "帚石南茶",
   "en": "Heather Tea",
   "ja": "Heather Tea",
-  "UniqueIDIndex": 1644,
+  "UniqueIDIndex": 1645,
   "CardType": 9,
   "CardTags": [
     {
@@ -5728,7 +5728,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

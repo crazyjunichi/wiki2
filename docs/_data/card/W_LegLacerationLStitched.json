@@ -6,7 +6,7 @@
   "zh": "已缝合的左腿撕裂伤",
   "en": "Leg Laceration",
   "ja": "脚の切り傷",
-  "UniqueIDIndex": 2630,
+  "UniqueIDIndex": 2638,
   "CardType": 0,
   "CardTags": [
     {
@@ -13754,8 +13754,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

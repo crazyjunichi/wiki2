@@ -6,7 +6,7 @@
   "zh": "狗鱼",
   "en": "Pike",
   "ja": "パイク",
-  "UniqueIDIndex": 1272,
+  "UniqueIDIndex": 1273,
   "CardType": 0,
   "CardTags": [
     {
@@ -2699,6 +2699,28 @@
           "zh": "动作：赐福",
           "en": "Action: Blessing",
           "ja": "アクション：Blessing"
+        },
+        "value": {
+          "x": -1,
+          "y": -1
+        }
+      },
+      {
+        "link": {
+          "key": "Fish_Pike",
+          "icon": "Pike",
+          "type": "card",
+          "CardType": 0,
+          "zh": "狗鱼",
+          "en": "Pike",
+          "ja": "パイク"
+        },
+        "localization": {
+          "DefaultText": "Gut",
+          "Text": "掏空",
+          "zh": "掏空",
+          "en": "Gut",
+          "ja": "捌く"
         },
         "value": {
           "x": -1,
@@ -5754,8 +5776,8 @@
         },
         "GetFuelFromOtherCard": false,
         "ChargesChange": {
-          "x": 0,
-          "y": 0
+          "x": -1,
+          "y": -1
         },
         "GetProgressFromOtherCard": false,
         "LiquidQuantityChange": {
@@ -10015,7 +10037,7 @@
             "FloatValue": 0
           }
         },
-        "HideActionIfNotMet": false,
+        "HideActionIfNotMet": true,
         "FailMessage": {
           "DefaultText": "Carcass has no spirit.",
           "Text": "尸体没有精魄。",

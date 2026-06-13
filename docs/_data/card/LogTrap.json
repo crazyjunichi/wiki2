@@ -6,7 +6,7 @@
   "zh": "原木陷阱",
   "en": "Log Trap",
   "ja": "丸太の罠",
-  "UniqueIDIndex": 1606,
+  "UniqueIDIndex": 1607,
   "CardType": 2,
   "CardTags": [
     {
@@ -4194,7 +4194,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "cf4a2923e7142524f8aff07c95a916e5",
-            "UniqueIDIndex": 3080
+            "UniqueIDIndex": 3089
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -4782,7 +4782,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "879f824941ccad94daff21e4cde082fb",
-              "UniqueIDIndex": 3075
+              "UniqueIDIndex": 3084
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,
@@ -4837,7 +4837,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "fd3bbba2dee340449a4f550cc3c27df8",
-              "UniqueIDIndex": 3077
+              "UniqueIDIndex": 3086
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,

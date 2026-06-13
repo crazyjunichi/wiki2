@@ -6,7 +6,7 @@
   "zh": "Sugar",
   "en": "Sugar",
   "ja": "Sugar",
-  "UniqueIDIndex": 2393,
+  "UniqueIDIndex": 2394,
   "CardType": 0,
   "CardTags": [
     {
@@ -4823,7 +4823,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

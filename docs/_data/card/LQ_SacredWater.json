@@ -6,7 +6,7 @@
   "zh": "神圣之水",
   "en": "Sacred Water",
   "ja": "聖水",
-  "UniqueIDIndex": 1663,
+  "UniqueIDIndex": 1664,
   "CardType": 9,
   "CardTags": [
     {
@@ -4836,7 +4836,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -6202,7 +6202,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "压力",
   "en": "Stress",
   "ja": "ストレス",
-  "UniqueIDIndex": 4281,
+  "UniqueIDIndex": 4291,
   "GameName": {
     "DefaultText": "Stress",
     "Text": "压力",
@@ -905,7 +905,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -2192,7 +2192,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -4568,9 +4568,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -4682,9 +4682,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -16089,14 +16089,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：凝视水面",
         "en": "Action: Gaze at Water",
-        "ja": "アクション：水を眺める"
+        "ja": "アクション：Gaze at Water"
       },
       "value": {
         "x": -48,
@@ -16110,9 +16110,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -20641,14 +20641,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：凝视水面",
         "en": "Action: Gaze at Water",
-        "ja": "アクション：水を眺める"
+        "ja": "アクション：Gaze at Water"
       },
       "value": {
         "x": -48,
@@ -20662,9 +20662,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -23428,7 +23428,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -23449,7 +23449,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -23470,7 +23470,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -35215,7 +35215,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -35236,7 +35236,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",

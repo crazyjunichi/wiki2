@@ -6,7 +6,7 @@
   "zh": "休眠中的仙灵草",
   "en": "Dormant Fairyweed",
   "ja": "休眠してる精霊草",
-  "UniqueIDIndex": 1230,
+  "UniqueIDIndex": 1231,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

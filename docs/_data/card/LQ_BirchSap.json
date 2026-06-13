@@ -6,7 +6,7 @@
   "zh": "白桦树汁",
   "en": "Birch Sap",
   "ja": "シラカバの樹液",
-  "UniqueIDIndex": 1618,
+  "UniqueIDIndex": 1619,
   "CardType": 9,
   "CardTags": [
     {
@@ -6981,7 +6981,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

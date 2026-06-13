@@ -6,7 +6,7 @@
   "zh": "块炼炉(熄灭)",
   "en": "Bloomery",
   "ja": "Bloomery",
-  "UniqueIDIndex": 256,
+  "UniqueIDIndex": 257,
   "CardType": 2,
   "CardTags": [
     {
@@ -3583,8 +3583,8 @@
   "IsMiniInventory": false,
   "IsWeaponSheath": false,
   "OpenOnTab": 0,
-  "MaxWeightCapacity": 1000,
-  "ContentWeightReduction": -1000,
+  "MaxWeightCapacity": 1200,
+  "ContentWeightReduction": -1200,
   "InventorySlots": [],
   "InventoryFilter": {
     "AcceptedCards": [],
@@ -3836,7 +3836,7 @@
             "OverrideIcon": {
               "FileName": "Cooking"
             },
-            "MaxValue": 2
+            "MaxValue": 1
           },
           "SpecialDurability2": {
             "Active": true,

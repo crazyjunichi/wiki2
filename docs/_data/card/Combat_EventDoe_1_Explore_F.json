@@ -6,7 +6,7 @@
   "zh": "你看到了一只母鹿！",
   "en": "You see a Doe!",
   "ja": "雌鹿がいた！",
-  "UniqueIDIndex": 896,
+  "UniqueIDIndex": 897,
   "CardType": 3,
   "CardTags": [
     {
@@ -1724,7 +1724,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-            "UniqueIDIndex": 3054
+            "UniqueIDIndex": 3063
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,

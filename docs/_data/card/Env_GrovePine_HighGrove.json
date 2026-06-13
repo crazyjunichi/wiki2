@@ -2113,6 +2113,22 @@
         "en": "Action: South",
         "ja": "アクション：南"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods1",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：High Grove",
+        "en": "Action: High Grove",
+        "ja": "アクション：High Grove"
+      }
     }
   ],
   "_useFor": [

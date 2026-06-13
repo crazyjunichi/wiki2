@@ -6,7 +6,7 @@
   "zh": "肉食主义者",
   "en": "Carnivore",
   "ja": "肉食",
-  "UniqueIDIndex": 3839,
+  "UniqueIDIndex": 3849,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -261,7 +261,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

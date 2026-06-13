@@ -6,7 +6,7 @@
   "zh": "套索陷阱",
   "en": "Snare Trap",
   "ja": "くくり罠",
-  "UniqueIDIndex": 2290,
+  "UniqueIDIndex": 2291,
   "CardType": 2,
   "CardTags": [
     {
@@ -3171,6 +3171,21 @@
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
                     }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
+                    }
                   }
                 ],
                 "SpoilageTime": {
@@ -4308,7 +4323,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "cf4a2923e7142524f8aff07c95a916e5",
-            "UniqueIDIndex": 3080
+            "UniqueIDIndex": 3089
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -4896,7 +4911,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "879f824941ccad94daff21e4cde082fb",
-              "UniqueIDIndex": 3075
+              "UniqueIDIndex": 3084
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,
@@ -4951,7 +4966,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "c6a0e93d4795420408c595ee3dbad47c",
-              "UniqueIDIndex": 3079
+              "UniqueIDIndex": 3088
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,

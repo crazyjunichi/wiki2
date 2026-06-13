@@ -6,7 +6,7 @@
   "zh": "耐力",
   "en": "Stamina",
   "ja": "スタミナ",
-  "UniqueIDIndex": 4217,
+  "UniqueIDIndex": 4227,
   "GameName": {
     "DefaultText": "Stamina",
     "Text": "耐力",
@@ -3695,9 +3695,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -3809,9 +3809,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -32553,14 +32553,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": -12,
@@ -32574,9 +32574,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -32595,9 +32595,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -32616,16 +32616,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": -12,
@@ -32639,9 +32639,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -32662,16 +32662,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": -12,
@@ -32685,16 +32685,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": -12,
@@ -37846,14 +37846,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": -12,
@@ -37867,9 +37867,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -37888,9 +37888,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -37909,16 +37909,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": -12,
@@ -37932,9 +37932,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -37955,16 +37955,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": -12,
@@ -37978,16 +37978,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": -12,
@@ -45776,7 +45776,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45797,7 +45797,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45818,7 +45818,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45839,7 +45839,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45860,7 +45860,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45881,7 +45881,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45902,7 +45902,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45925,7 +45925,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45948,7 +45948,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -45971,7 +45971,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -73690,9 +73690,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -73804,9 +73804,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -89870,14 +89870,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": 11,
@@ -89890,9 +89890,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -89910,9 +89910,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -89930,16 +89930,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": 11,
@@ -89952,9 +89952,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -89974,16 +89974,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": 11,
@@ -89996,16 +89996,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": 11,
@@ -92649,14 +92649,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": 11,
@@ -92669,9 +92669,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -92689,9 +92689,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -92709,16 +92709,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": 11,
@@ -92731,9 +92731,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -92753,16 +92753,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": 11,
@@ -92775,16 +92775,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": 11,
@@ -98483,7 +98483,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98503,7 +98503,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98523,7 +98523,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98543,7 +98543,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98563,7 +98563,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98583,7 +98583,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98605,7 +98605,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98627,7 +98627,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -98649,7 +98649,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -114058,706 +114058,6 @@
       "value": {
         "x": 9,
         "y": 10000
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Badger Hill",
-        "en": "Action: Badger Hill",
-        "ja": "アクション：Badger Hill"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Bear Cave",
-        "en": "Action: Bear Cave",
-        "ja": "アクション：Bear Cave"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Green Grove",
-        "en": "Action: Green Grove",
-        "ja": "アクション：Green Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Green Glade",
-        "en": "Action: Green Glade",
-        "ja": "アクション：Green Glade"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Howling Woods",
-        "en": "Action: Howling Woods",
-        "ja": "アクション：Howling Woods"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Elevated Grove",
-        "en": "Action: Elevated Grove",
-        "ja": "アクション：Elevated Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Eatern Wild Woods",
-        "en": "Action: Eatern Wild Woods",
-        "ja": "アクション：Eatern Wild Woods"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Fangvale",
-        "en": "Action: Fangvale",
-        "ja": "アクション：Fangvale"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Flower Glade",
-        "en": "Action: Flower Glade",
-        "ja": "アクション：Flower Glade"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Elevated Grove",
-        "en": "Action: Elevated Grove",
-        "ja": "アクション：Elevated Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Fangvale",
-        "en": "Action: Fangvale",
-        "ja": "アクション：Fangvale"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Heather Glade",
-        "en": "Action: Heather Glade",
-        "ja": "アクション：Heather Glade"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Lake Grove",
-        "en": "Action: Lake Grove",
-        "ja": "アクション：Lake Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Moon Hills",
-        "en": "Action: Moon Hills",
-        "ja": "アクション：Moon Hills"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Moosy Clearing",
-        "en": "Action: Moosy Clearing",
-        "ja": "アクション：Moosy Clearing"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Moosy Grove",
-        "en": "Action: Moosy Grove",
-        "ja": "アクション：Moosy Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Needle Thicket",
-        "en": "Action: Needle Thicket",
-        "ja": "アクション：Needle Thicket"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Oaken Grove",
-        "en": "Action: Oaken Grove",
-        "ja": "アクション：Oaken Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Old Hollow",
-        "en": "Action: Old Hollow",
-        "ja": "アクション：Old Hollow"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Peacefull Grove",
-        "en": "Action: Peacefull Grove",
-        "ja": "アクション：Peacefull Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：PIne Slopes",
-        "en": "Action: PIne Slopes",
-        "ja": "アクション：PIne Slopes"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Wolf Cave",
-        "en": "Action: Wolf Cave",
-        "ja": "アクション：Wolf Cave"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Western Wild Woods",
-        "en": "Action: Western Wild Woods",
-        "ja": "アクション：Western Wild Woods"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Agent place",
-        "en": "Action: Agent place",
-        "ja": "アクション：Agent place"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：traps place",
-        "en": "Action: traps place",
-        "ja": "アクション：traps place"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Elevated Grove",
-        "en": "Action: Elevated Grove",
-        "ja": "アクション：Elevated Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Fangvale",
-        "en": "Action: Fangvale",
-        "ja": "アクション：Fangvale"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Heather Glade",
-        "en": "Action: Heather Glade",
-        "ja": "アクション：Heather Glade"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Lake Grove",
-        "en": "Action: Lake Grove",
-        "ja": "アクション：Lake Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Moon Hills",
-        "en": "Action: Moon Hills",
-        "ja": "アクション：Moon Hills"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Old Hollow",
-        "en": "Action: Old Hollow",
-        "ja": "アクション：Old Hollow"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Shady Grove",
-        "en": "Action: Shady Grove",
-        "ja": "アクション：Shady Grove"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Whispering Thicket",
-        "en": "Action: Whispering Thicket",
-        "ja": "アクション：Whispering Thicket"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Wild TAngle",
-        "en": "Action: Wild TAngle",
-        "ja": "アクション：Wild TAngle"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Wolf Cave",
-        "en": "Action: Wolf Cave",
-        "ja": "アクション：Wolf Cave"
-      },
-      "value": {
-        "x": 11,
-        "y": 32
       }
     },
     {

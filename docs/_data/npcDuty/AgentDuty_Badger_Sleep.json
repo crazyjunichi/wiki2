@@ -5,7 +5,7 @@
   "zh": "Badger Sleep",
   "en": "Badger Sleep",
   "ja": "Badger Sleep",
-  "UniqueIDIndex": 2817,
+  "UniqueIDIndex": 2825,
   "DutyName": {
     "DefaultText": "Badger Sleep",
     "Text": "Badger Sleep",
@@ -263,7 +263,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -308,7 +308,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "ConditionRange": {
           "x": 200,

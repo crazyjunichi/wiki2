@@ -6,7 +6,7 @@
   "zh": "干乌头",
   "en": "Dry Wolfsbane",
   "ja": "乾燥したトリカブト",
-  "UniqueIDIndex": 2721,
+  "UniqueIDIndex": 2729,
   "CardType": 0,
   "CardTags": [
     {
@@ -14990,7 +14990,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

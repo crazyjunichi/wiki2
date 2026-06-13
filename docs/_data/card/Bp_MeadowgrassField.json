@@ -6,7 +6,7 @@
   "zh": "牧草",
   "en": "Meadowgrass",
   "ja": "牧草",
-  "UniqueIDIndex": 487,
+  "UniqueIDIndex": 488,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1822,7 +1822,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {

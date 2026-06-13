@@ -5,7 +5,7 @@
   "zh": "Primeval Wolf go Home",
   "en": "Primeval Wolf go Home",
   "ja": "Primeval Wolf go Home",
-  "UniqueIDIndex": 2977,
+  "UniqueIDIndex": 2986,
   "DutyName": {
     "DefaultText": "Primeval Wolf go Home",
     "Text": "Primeval Wolf go Home",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "3e28624a2f19d464aaa8ee9087abbbe5",
-          "UniqueIDIndex": 3052
+          "UniqueIDIndex": 3061
         },
         "ConditionRange": {
           "x": 0,
@@ -284,7 +284,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -329,7 +329,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "86831636a02198e41a580a6f90e9d239",
-          "UniqueIDIndex": 3049
+          "UniqueIDIndex": 3058
         },
         "ConditionRange": {
           "x": 0,

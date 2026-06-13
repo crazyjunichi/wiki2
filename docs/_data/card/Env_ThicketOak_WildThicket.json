@@ -6,7 +6,7 @@
   "zh": "荒野丛林",
   "en": "Wild Thicket",
   "ja": "野生の茂み",
-  "UniqueIDIndex": 133,
+  "UniqueIDIndex": 134,
   "CardType": 4,
   "CardTags": [
     {
@@ -2093,6 +2093,22 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：北"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Wild Thicket",
+        "en": "Action: Wild Thicket",
+        "ja": "アクション：Wild Thicket"
       }
     }
   ],

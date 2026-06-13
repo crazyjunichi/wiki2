@@ -6,7 +6,7 @@
   "zh": "燧石刀(专有)",
   "en": "Flint Knife(Pk)",
   "ja": "Flint Knife",
-  "UniqueIDIndex": 2104,
+  "UniqueIDIndex": 2105,
   "CardType": 0,
   "CardTags": [
     {
@@ -12777,6 +12777,21 @@
               "zh": "长柳木棍",
               "en": "Willow Long Stick",
               "ja": "ヤナギの長い棒"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 5,
+                "y": 5
+              }
+            },
+            "Name": {
+              "DefaultText": "Alder Long Stick",
+              "Text": "Alder Long Stick",
+              "zh": "Alder Long Stick",
+              "en": "Alder Long Stick",
+              "ja": "Alder Long Stick"
             }
           }
         ]

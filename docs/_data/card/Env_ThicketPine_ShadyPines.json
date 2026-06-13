@@ -6,7 +6,7 @@
   "zh": "浓荫松林",
   "en": "Shady Pines",
   "ja": "Shady Pines",
-  "UniqueIDIndex": 141,
+  "UniqueIDIndex": 142,
   "CardType": 4,
   "CardTags": [
     {
@@ -2086,6 +2086,22 @@
         "zh": "动作：东方",
         "en": "Action: East",
         "ja": "アクション：East"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods1",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Shady Pines",
+        "en": "Action: Shady Pines",
+        "ja": "アクション：Shady Pines"
       }
     }
   ],

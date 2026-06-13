@@ -6,7 +6,7 @@
   "zh": "休眠的驴蹄草",
   "en": "Dormant Kingcup",
   "ja": "Dormant Kingcup",
-  "UniqueIDIndex": 1571,
+  "UniqueIDIndex": 1572,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -5393,11 +5393,11 @@
     "RLegHitProbabilityModifier": 0
   },
   "CardDescription": {
-    "DefaultText": "",
-    "Text": "",
-    "zh": "",
-    "en": "",
-    "ja": ""
+    "DefaultText": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration.",
+    "Text": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration.",
+    "zh": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration.",
+    "en": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration.",
+    "ja": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration."
   },
   "CanBeRenamed": false,
   "AlternateNames": [],

@@ -6,7 +6,7 @@
   "zh": "废弃的狐狸洞",
   "en": "Abandoned Fox Burrow",
   "ja": "Abandoned Fox Burrow",
-  "UniqueIDIndex": 707,
+  "UniqueIDIndex": 708,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -342,7 +342,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -1145,7 +1145,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "83b8a6020dd988c4ea1b93d0fe4bedb3",
-            "UniqueIDIndex": 2799
+            "UniqueIDIndex": 2807
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {

@@ -6,7 +6,7 @@
   "zh": "瀑布",
   "en": "Waterfall",
   "ja": "滝",
-  "UniqueIDIndex": 2064,
+  "UniqueIDIndex": 2065,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -2767,7 +2767,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",

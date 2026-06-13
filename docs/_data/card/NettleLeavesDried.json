@@ -6,7 +6,7 @@
   "zh": "干荨麻叶",
   "en": "Dried Nettle Leaves",
   "ja": "乾燥したイラクサ",
-  "UniqueIDIndex": 1870,
+  "UniqueIDIndex": 1871,
   "CardType": 0,
   "CardTags": [
     {
@@ -11424,7 +11424,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -13091,22 +13091,6 @@
     },
     {
       "link": {
-        "key": "Fat",
-        "icon": "Fat",
-        "type": "card",
-        "CardType": 0,
-        "zh": "脂肪",
-        "en": "Fat",
-        "ja": "脂"
-      },
-      "localization": {
-        "zh": "动作：添加",
-        "en": "Action: Add",
-        "ja": "アクション：入れる"
-      }
-    },
-    {
-      "link": {
         "key": "FirerootPowder",
         "icon": "Powder_Fireroot",
         "type": "card",
@@ -13116,9 +13100,9 @@
         "ja": "ファイヤールートの粉"
       },
       "localization": {
-        "zh": "动作：Add",
+        "zh": "动作：添加",
         "en": "Action: Add",
-        "ja": "アクション：Add"
+        "ja": "アクション：入れる"
       }
     },
     {

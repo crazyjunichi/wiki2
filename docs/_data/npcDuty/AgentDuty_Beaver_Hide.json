@@ -5,7 +5,7 @@
   "zh": "Beaver Hide",
   "en": "Beaver Hide",
   "ja": "Beaver Hide",
-  "UniqueIDIndex": 2860,
+  "UniqueIDIndex": 2868,
   "DutyName": {
     "DefaultText": "Beaver Hide",
     "Text": "Beaver Hide",
@@ -250,7 +250,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -295,7 +295,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "ConditionRange": {
           "x": 0,
@@ -503,7 +503,7 @@
   "DutyExecutionOptions": 0,
   "ActionSequence": [
     {
-      "key": "BadgerHide_0_2175",
+      "key": "BadgerHide_0_2174",
       "icon": "",
       "type": "ChangeNPCStatDutyAction",
       "zh": "",

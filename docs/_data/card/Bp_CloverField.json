@@ -6,7 +6,7 @@
   "zh": "三叶草",
   "en": "Clover",
   "ja": "クローバー",
-  "UniqueIDIndex": 362,
+  "UniqueIDIndex": 363,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1838,7 +1838,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {

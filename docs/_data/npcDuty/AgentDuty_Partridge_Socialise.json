@@ -5,7 +5,7 @@
   "zh": "Partridge Socialise",
   "en": "Partridge Socialise",
   "ja": "Partridge Socialise",
-  "UniqueIDIndex": 2971,
+  "UniqueIDIndex": 2980,
   "DutyName": {
     "DefaultText": "Partridge Socialise",
     "Text": "Partridge Socialise",
@@ -332,7 +332,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

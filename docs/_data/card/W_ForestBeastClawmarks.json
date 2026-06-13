@@ -6,7 +6,7 @@
   "zh": "森林猛兽爪痕",
   "en": "Forest Beast Clawmarks",
   "ja": "Forest Beast Clawmarks",
-  "UniqueIDIndex": 2623,
+  "UniqueIDIndex": 2631,
   "CardType": 0,
   "CardTags": [
     {
@@ -15085,8 +15085,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

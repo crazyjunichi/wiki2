@@ -6588,9 +6588,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池",
+        "ja": "Frozen Hag Pond",
         "SpoilageTime": {
           "Active": false,
           "CardStatName": {
@@ -6622,7 +6622,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000
@@ -6691,7 +6691,7 @@
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig Up Dirt",
-        "ja": "アクション：土をすくう"
+        "ja": "アクション：Dig Up Dirt"
       }
     },
     {
@@ -6700,9 +6700,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池",
+        "ja": "Frozen Hag Pond",
         "SpoilageTime": {
           "Active": false,
           "CardStatName": {
@@ -6734,7 +6734,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000
@@ -6924,9 +6924,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池",
+        "ja": "Frozen Mosquito Pond",
         "SpoilageTime": {
           "Active": false,
           "CardStatName": {
@@ -6958,7 +6958,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000
@@ -7027,7 +7027,7 @@
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig Up Dirt",
-        "ja": "アクション：土をすくう"
+        "ja": "アクション：Dig Up Dirt"
       }
     },
     {
@@ -7036,9 +7036,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池",
+        "ja": "Frozen Mosquito Pond",
         "SpoilageTime": {
           "Active": false,
           "CardStatName": {
@@ -7070,7 +7070,7 @@
             "Text": "青蛙种群",
             "zh": "青蛙种群",
             "en": "Frog Population",
-            "ja": "カエルの数"
+            "ja": "Frog Population"
           },
           "OverrideIcon": null,
           "MaxValue": 20000
@@ -10175,7 +10175,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool",
         "SpoilageTime": {

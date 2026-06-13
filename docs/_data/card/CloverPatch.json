@@ -6,7 +6,7 @@
   "zh": "野生三叶草",
   "en": "Clover Patch",
   "ja": "クローバーパッチ",
-  "UniqueIDIndex": 887,
+  "UniqueIDIndex": 888,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -6204,7 +6204,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

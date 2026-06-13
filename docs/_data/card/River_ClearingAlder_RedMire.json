@@ -6,7 +6,7 @@
   "zh": "红色泥沼",
   "en": "Red Mire",
   "ja": "Red Mire",
-  "UniqueIDIndex": 2159,
+  "UniqueIDIndex": 2160,
   "CardType": 8,
   "CardTags": [
     {
@@ -14334,16 +14334,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           },
           "OnlyInHand": false,
@@ -21531,7 +21531,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -27156,7 +27156,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -27277,7 +27277,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -30473,7 +30473,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -30594,7 +30594,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

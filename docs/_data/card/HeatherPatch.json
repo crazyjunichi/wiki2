@@ -6,7 +6,7 @@
   "zh": "帚石南丛",
   "en": "Heather Patch",
   "ja": "ヘザー畑",
-  "UniqueIDIndex": 1438,
+  "UniqueIDIndex": 1439,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -11254,7 +11254,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

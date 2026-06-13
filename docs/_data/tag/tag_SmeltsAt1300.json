@@ -436,7 +436,7 @@
         "OverrideIcon": {
           "FileName": "Cooking"
         },
-        "MaxValue": 2
+        "MaxValue": 1
       },
       "SpecialDurability2": {
         "Active": true,
@@ -551,7 +551,7 @@
         "OverrideIcon": {
           "FileName": "Cooking"
         },
-        "MaxValue": 2
+        "MaxValue": 1
       },
       "SpecialDurability2": {
         "Active": true,
@@ -873,7 +873,7 @@
     "OverrideIcon": {
       "FileName": "Cooking"
     },
-    "MaxValue": 2
+    "MaxValue": 1
   },
   "SpecialDurability2": {
     "Active": true,

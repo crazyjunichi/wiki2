@@ -6,7 +6,7 @@
   "zh": "雨水窖",
   "en": "Rain Cistern",
   "ja": "Rain Cistern",
-  "UniqueIDIndex": 2140,
+  "UniqueIDIndex": 2141,
   "CardType": 2,
   "CardTags": [
     {
@@ -3336,41 +3336,17 @@
         "RequiredCardsNOTOnBoard": [],
         "RequiredTagsNOTOnBoard": [],
         "RequiredLiquidContainers": [],
-        "RequiredCardsInInventory": [
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [
           {
-            "key": "LQ_TanningLiquor",
+            "key": "tag_TanningLiqour",
+            "text": "“Tanning Liqour”",
             "icon": "",
-            "type": "card",
-            "CardType": 9,
-            "zh": "鞣剂",
-            "en": "Tanning Liquor",
-            "ja": "タンニングリキュール",
-            "SpoilageTime": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "耐久",
-                "zh": "时间",
-                "en": "Spoilage",
-                "ja": ""
-              },
-              "OverrideIcon": {
-                "FileName": "Spoilage"
-              },
-              "MaxValue": 100
-            },
-            "UsageDurability": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "UsageDurability",
-                "zh": "耐久",
-                "en": "Usage",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
+            "type": "tag",
+            "count": 0,
+            "zh": "Tanning Liqour",
+            "en": "Tanning Liqour",
+            "ja": "Tanning Liqour",
             "FuelCapacity": {
               "Active": true,
               "CardStatName": {
@@ -3385,18 +3361,6 @@
               },
               "MaxValue": 200
             },
-            "Progress": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "Progress",
-                "zh": "进度",
-                "en": "Progress",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 0
-            },
             "SpecialDurability1": {
               "Active": true,
               "CardStatName": {
@@ -3410,46 +3374,9 @@
                 "FileName": "Urine"
               },
               "MaxValue": 100
-            },
-            "SpecialDurability2": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability2",
-                "zh": "特殊2",
-                "en": "Special2",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 100
-            },
-            "SpecialDurability3": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability3",
-                "zh": "特殊3",
-                "en": "Special3",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 3
-            },
-            "SpecialDurability4": {
-              "Active": false,
-              "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
-              },
-              "OverrideIcon": null,
-              "MaxValue": 2
             }
           }
         ],
-        "RequiredTagsInInventory": [],
         "CardWasBuiltWith": [],
         "CardWasNOTBuiltWith": [],
         "RequiredPlayerOwnedCards": [],

@@ -6,7 +6,7 @@
   "zh": "新鲜沼铁",
   "en": "Fresh Bog Iron",
   "ja": "Fresh Bog Iron",
-  "UniqueIDIndex": 269,
+  "UniqueIDIndex": 270,
   "CardType": 0,
   "CardTags": [
     {
@@ -308,7 +308,7 @@
         "OverrideIcon": {
           "FileName": "Cooking"
         },
-        "MaxValue": 2
+        "MaxValue": 1
       },
       "SpecialDurability2": {
         "Active": true,
@@ -1524,7 +1524,7 @@
             "OverrideIcon": {
               "FileName": "Cooking"
             },
-            "MaxValue": 2
+            "MaxValue": 1
           },
           "SpecialDurability2": {
             "Active": true,
@@ -1814,7 +1814,7 @@
             "OverrideIcon": {
               "FileName": "Cooking"
             },
-            "MaxValue": 2
+            "MaxValue": 1
           },
           "SpecialDurability2": {
             "Active": true,
@@ -3257,7 +3257,7 @@
       "ja": "Cook"
     },
     "RandomStartingOffset": 0,
-    "MaxValue": 2,
+    "MaxValue": 1,
     "RestrictToSpecificValues": false,
     "ValidValues": [],
     "RatePerDaytimePoint": 0,
@@ -4413,7 +4413,7 @@
             "OverrideIcon": {
               "FileName": "Cooking"
             },
-            "MaxValue": 2
+            "MaxValue": 1
           },
           "SpecialDurability2": {
             "Active": true,
@@ -9970,7 +9970,194 @@
       }
     }
   ],
-  "_useFor": [],
+  "_useFor": [
+    {
+      "link": {
+        "key": "Oven",
+        "icon": "Oven_On",
+        "type": "card",
+        "CardType": 2,
+        "zh": "烤箱",
+        "en": "Oven",
+        "ja": "オーブン",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 0,
+                "y": 1
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (cold)",
+              "Text": "烤箱（冷）",
+              "zh": "烤箱（冷）",
+              "en": "Oven (cold)",
+              "ja": "オーブン（冷たい）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 2,
+                "y": 49
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (warming)",
+              "Text": "烤箱（热）",
+              "zh": "烤箱（热）",
+              "en": "Oven (warming)",
+              "ja": "オーブン（温め中）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 50,
+                "y": 177
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (drying)",
+              "Text": "烤箱（干燥中）",
+              "zh": "烤箱（干燥中）",
+              "en": "Oven (drying)",
+              "ja": "オーブン（乾燥中）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 178,
+                "y": 315
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (cooking)",
+              "Text": "烤箱（烹饪中）",
+              "zh": "烤箱（烹饪中）",
+              "en": "Oven (cooking)",
+              "ja": "オーブン（クッキング中）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 316,
+                "y": 1000000
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (firing)",
+              "Text": "烤箱（点燃）",
+              "zh": "烤箱（点燃）",
+              "en": "Oven (firing)",
+              "ja": "オーブン（焼いている）"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "放置于容器",
+        "en": "Put in container",
+        "ja": "コンテナに入れる"
+      }
+    },
+    {
+      "link": {
+        "key": "OvenExtinguished",
+        "icon": "Oven_Off",
+        "type": "card",
+        "CardType": 2,
+        "zh": "烤箱(熄灭)",
+        "en": "Oven",
+        "ja": "オーブン",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 0,
+                "y": 1
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (cold)",
+              "Text": "烤箱（冷）",
+              "zh": "烤箱（冷）",
+              "en": "Oven (cold)",
+              "ja": "オーブン（冷たい）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 2,
+                "y": 49
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (cooling)",
+              "Text": "烤箱（降温中）",
+              "zh": "烤箱（降温中）",
+              "en": "Oven (cooling)",
+              "ja": "オーブン（冷まし中）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 50,
+                "y": 177
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (drying)",
+              "Text": "烤箱（干燥中）",
+              "zh": "烤箱（干燥中）",
+              "en": "Oven (drying)",
+              "ja": "オーブン（乾燥中）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 178,
+                "y": 315
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (cooking)",
+              "Text": "烤箱（烹饪中）",
+              "zh": "烤箱（烹饪中）",
+              "en": "Oven (cooking)",
+              "ja": "オーブン（クッキング中）"
+            }
+          },
+          {
+            "Conditions": {
+              "SpoilageRange": {
+                "x": 316,
+                "y": 1000000
+              }
+            },
+            "Name": {
+              "DefaultText": "Oven (firing)",
+              "Text": "烤箱（点燃）",
+              "zh": "烤箱（点燃）",
+              "en": "Oven (firing)",
+              "ja": "オーブン（焼いている）"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "放置于容器",
+        "en": "Put in container",
+        "ja": "コンテナに入れる"
+      }
+    }
+  ],
   "existEnvCards": [],
   "containers": [],
   "tradingValueRange": {

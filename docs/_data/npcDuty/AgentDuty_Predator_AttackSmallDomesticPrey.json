@@ -5,7 +5,7 @@
   "zh": "Predator Attack Small  Domestic Prey",
   "en": "Predator Attack Small  Domestic Prey",
   "ja": "Predator Attack Small  Domestic Prey",
-  "UniqueIDIndex": 2973,
+  "UniqueIDIndex": 2982,
   "DutyName": {
     "DefaultText": "Predator Attack Small  Domestic Prey",
     "Text": "Predator Attack Small  Domestic Prey",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "1e9b6d7cef4e1b04daa390812d6932ea",
-          "UniqueIDIndex": 3067
+          "UniqueIDIndex": 3076
         },
         "ConditionRange": {
           "x": 0,
@@ -284,7 +284,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

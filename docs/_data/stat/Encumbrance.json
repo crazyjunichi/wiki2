@@ -6,7 +6,7 @@
   "zh": "负重",
   "en": "Encumbrance",
   "ja": "体幹",
-  "UniqueIDIndex": 3220,
+  "UniqueIDIndex": 3230,
   "GameName": {
     "DefaultText": "Encumbrance",
     "Text": "负重",
@@ -347,7 +347,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -1119,7 +1119,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -1854,7 +1854,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -2552,7 +2552,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {

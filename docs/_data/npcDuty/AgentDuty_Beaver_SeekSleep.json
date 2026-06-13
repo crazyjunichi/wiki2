@@ -5,7 +5,7 @@
   "zh": "Beaver Seek Sleep",
   "en": "Beaver Seek Sleep",
   "ja": "Beaver Seek Sleep",
-  "UniqueIDIndex": 2866,
+  "UniqueIDIndex": 2874,
   "DutyName": {
     "DefaultText": "Beaver Seek Sleep",
     "Text": "Beaver Seek Sleep",
@@ -362,7 +362,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

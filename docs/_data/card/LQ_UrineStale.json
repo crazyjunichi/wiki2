@@ -6,7 +6,7 @@
   "zh": "变质尿液",
   "en": "Stale Urine",
   "ja": "Stale Urine",
-  "UniqueIDIndex": 1710,
+  "UniqueIDIndex": 1711,
   "CardType": 9,
   "CardTags": [
     {
@@ -4840,7 +4840,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "右屋",
   "en": "Right Room",
   "ja": "右の部屋",
-  "UniqueIDIndex": 1859,
+  "UniqueIDIndex": 1860,
   "CardType": 8,
   "CardTags": [
     {
@@ -19303,8 +19303,8 @@
         },
         "m_Name": "StormLocalCounter",
         "UniqueID": "fbfa8ad2d24b8c64f9c2fd763cc59183",
-        "UniqueIDIndex": 4279,
-        "___fn": "StormLocalCounter@7380.json"
+        "UniqueIDIndex": 4289,
+        "___fn": "StormLocalCounter@7384.json"
       },
       "SpoilageRateModifier": {
         "Active": false,

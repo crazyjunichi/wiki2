@@ -6,7 +6,7 @@
   "zh": "毛皮毯",
   "en": "Fur Blanket",
   "ja": "毛皮の毛布",
-  "UniqueIDIndex": 1941,
+  "UniqueIDIndex": 1942,
   "CardType": 0,
   "CardTags": [
     {
@@ -344,7 +344,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

@@ -6,7 +6,7 @@
   "zh": "翻根(成熟)",
   "en": "Turnroot",
   "ja": "ターンルート",
-  "UniqueIDIndex": 2581,
+  "UniqueIDIndex": 2582,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

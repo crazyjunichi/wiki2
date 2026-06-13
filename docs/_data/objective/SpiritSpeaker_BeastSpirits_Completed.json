@@ -6,7 +6,7 @@
   "zh": "野兽精魄",
   "en": "Beast Spirits",
   "ja": "Beast Spirits",
-  "UniqueIDIndex": 4167,
+  "UniqueIDIndex": 4177,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Summon a Frog Spirit",
         "ja": "Summon a Frog Spirit",
         "UniqueID": "42203c1157ba78d4cb0a93d27f618707",
-        "UniqueIDIndex": 4170,
+        "UniqueIDIndex": 4180,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -240,7 +240,7 @@
         "en": "Summon a Sturgeon Spirit",
         "ja": "Summon a Sturgeon Spirit",
         "UniqueID": "8dfa85b8af44f8b4c857fe002693709e",
-        "UniqueIDIndex": 4171,
+        "UniqueIDIndex": 4181,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -454,7 +454,7 @@
         "en": "Summon a Badger Spirit",
         "ja": "Summon a Badger Spirit",
         "UniqueID": "a3e84e5de00af7f4db4b37b7ffcd707b",
-        "UniqueIDIndex": 4172,
+        "UniqueIDIndex": 4182,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -668,7 +668,7 @@
         "en": "Summon a Wolf Spirit",
         "ja": "Summon a Wolf Spirit",
         "UniqueID": "5e9515c7f47916849bb47c0723c17f30",
-        "UniqueIDIndex": 4173,
+        "UniqueIDIndex": 4183,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

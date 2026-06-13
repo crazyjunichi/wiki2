@@ -6,7 +6,7 @@
   "zh": "鲟鱼附魔",
   "en": "Sturgeon Enchantment",
   "ja": "Sturgeon Enchantment",
-  "UniqueIDIndex": 623,
+  "UniqueIDIndex": 624,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

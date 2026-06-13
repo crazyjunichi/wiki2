@@ -6,7 +6,7 @@
   "zh": "鱼饵",
   "en": "Fishing Bait",
   "ja": "魚の餌",
-  "UniqueIDIndex": 1277,
+  "UniqueIDIndex": 1278,
   "CardType": 0,
   "CardTags": [
     {
@@ -2190,16 +2190,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {

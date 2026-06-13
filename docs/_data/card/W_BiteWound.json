@@ -6,7 +6,7 @@
   "zh": "咬伤",
   "en": "Bite Wound",
   "ja": "噛まれた跡",
-  "UniqueIDIndex": 2617,
+  "UniqueIDIndex": 2625,
   "CardType": 0,
   "CardTags": [
     {
@@ -12499,8 +12499,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

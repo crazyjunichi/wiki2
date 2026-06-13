@@ -6,7 +6,7 @@
   "zh": "熊咬伤",
   "en": "Bear Bite",
   "ja": "Bear Bite",
-  "UniqueIDIndex": 2615,
+  "UniqueIDIndex": 2623,
   "CardType": 0,
   "CardTags": [
     {
@@ -12979,8 +12979,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

@@ -6,7 +6,7 @@
   "zh": "鹿附魔",
   "en": "Deer Enchantment",
   "ja": "鹿のエンチャント",
-  "UniqueIDIndex": 378,
+  "UniqueIDIndex": 379,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

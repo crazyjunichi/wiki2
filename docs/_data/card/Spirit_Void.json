@@ -6,7 +6,7 @@
   "zh": "虚空之眼(召唤)",
   "en": "Void Eye",
   "ja": "Void Eye",
-  "UniqueIDIndex": 2333,
+  "UniqueIDIndex": 2334,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

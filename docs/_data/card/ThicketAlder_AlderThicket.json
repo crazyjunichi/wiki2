@@ -6,7 +6,7 @@
   "zh": "桤木丛林",
   "en": "Alder Thicket",
   "ja": "Alder Thicket",
-  "UniqueIDIndex": 2472,
+  "UniqueIDIndex": 2473,
   "CardType": 8,
   "CardTags": [
     {
@@ -15781,6 +15781,113 @@
     },
     {
       "Card": {
+        "key": "Imp_PathSouth",
+        "icon": "Path",
+        "type": "card",
+        "CardType": 10,
+        "zh": "南方道路",
+        "en": "Path South",
+        "ja": "Path South",
+        "SpoilageTime": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpoilageTime",
+            "zh": "时间",
+            "en": "Spoilage",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "UsageDurability": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "UsageDurability",
+            "zh": "耐久",
+            "en": "Usage",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "FuelCapacity": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "FuelCapacity",
+            "zh": "容量",
+            "en": "Fuel",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "Progress": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "Progress",
+            "zh": "进度",
+            "en": "Progress",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability1": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability1",
+            "zh": "特殊1",
+            "en": "Special1",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability2": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability2",
+            "zh": "特殊2",
+            "en": "Special2",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability3": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability3",
+            "zh": "特殊3",
+            "en": "Special3",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability4": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability4",
+            "zh": "特殊4",
+            "en": "Special4",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        }
+      }
+    },
+    {
+      "Card": {
         "key": "Imp_HuntingFencesNorth",
         "icon": "Path",
         "type": "card",
@@ -15895,6 +16002,113 @@
         "zh": "东边的狩猎围栏",
         "en": "Hunting Fences East",
         "ja": "Hunting Fences East",
+        "SpoilageTime": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpoilageTime",
+            "zh": "时间",
+            "en": "Spoilage",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "UsageDurability": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "UsageDurability",
+            "zh": "耐久",
+            "en": "Usage",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "FuelCapacity": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "FuelCapacity",
+            "zh": "容量",
+            "en": "Fuel",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "Progress": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "Progress",
+            "zh": "进度",
+            "en": "Progress",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability1": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability1",
+            "zh": "特殊1",
+            "en": "Special1",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability2": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability2",
+            "zh": "特殊2",
+            "en": "Special2",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability3": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability3",
+            "zh": "特殊3",
+            "en": "Special3",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        },
+        "SpecialDurability4": {
+          "Active": false,
+          "CardStatName": {
+            "DefaultText": "",
+            "Text": "SpecialDurability4",
+            "zh": "特殊4",
+            "en": "Special4",
+            "ja": ""
+          },
+          "OverrideIcon": null,
+          "MaxValue": 0
+        }
+      }
+    },
+    {
+      "Card": {
+        "key": "Imp_HuntingFencesSouth",
+        "icon": "Path",
+        "type": "card",
+        "CardType": 10,
+        "zh": "南边的狩猎围栏",
+        "en": "Hunting Fences South",
+        "ja": "Hunting Fences South",
         "SpoilageTime": {
           "Active": false,
           "CardStatName": {
@@ -16124,7 +16338,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -20832,7 +21046,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -20953,7 +21167,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -22163,7 +22377,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -22284,7 +22498,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -23494,7 +23708,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -23615,7 +23829,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -24827,7 +25041,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -24948,7 +25162,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -27526,7 +27740,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -27647,7 +27861,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -30225,7 +30439,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -30346,7 +30560,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

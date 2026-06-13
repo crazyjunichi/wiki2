@@ -6,7 +6,7 @@
   "zh": "水",
   "en": "Water",
   "ja": "Water",
-  "UniqueIDIndex": 1657,
+  "UniqueIDIndex": 1658,
   "CardType": 9,
   "CardTags": [
     {
@@ -4550,7 +4550,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -5363,7 +5363,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -6878,7 +6878,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

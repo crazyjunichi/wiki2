@@ -6,7 +6,7 @@
   "zh": "湖心岛",
   "en": "Lake Island",
   "ja": "Lake Island",
-  "UniqueIDIndex": 110,
+  "UniqueIDIndex": 111,
   "CardType": 4,
   "CardTags": [
     {
@@ -3037,6 +3037,22 @@
         "zh": "动作：东方",
         "en": "Action: East",
         "ja": "アクション：East"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Lake Island",
+        "en": "Action: Lake Island",
+        "ja": "アクション：Lake Island"
       }
     }
   ],

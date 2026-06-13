@@ -6,7 +6,7 @@
   "zh": "新房间（北）",
   "en": "New Room (North)",
   "ja": "新しい部屋（北）",
-  "UniqueIDIndex": 1534,
+  "UniqueIDIndex": 1535,
   "CardType": 10,
   "CardTags": [],
   "CardName": {
@@ -3042,6 +3042,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

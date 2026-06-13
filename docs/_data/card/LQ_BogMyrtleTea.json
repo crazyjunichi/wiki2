@@ -6,7 +6,7 @@
   "zh": "沼泽香木茶",
   "en": "Bog Myrtle Tea",
   "ja": "Bog Myrtle Tea",
-  "UniqueIDIndex": 1626,
+  "UniqueIDIndex": 1627,
   "CardType": 9,
   "CardTags": [
     {
@@ -5651,7 +5651,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -6048,7 +6048,7 @@
           "InputDurability": 8,
           "OutputStat": {
             "key": "BogMyrtleEffect",
-            "icon": "FlyAgaric",
+            "icon": "BogMyrtle_Fresh",
             "type": "stat",
             "zh": "沼泽香木效果",
             "en": "Bog Myrtle Effect",

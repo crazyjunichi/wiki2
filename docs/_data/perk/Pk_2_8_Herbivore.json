@@ -6,7 +6,7 @@
   "zh": "素食主义者",
   "en": "Herbivore",
   "ja": "草食動物",
-  "UniqueIDIndex": 3840,
+  "UniqueIDIndex": 3850,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -261,7 +261,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

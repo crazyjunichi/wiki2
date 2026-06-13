@@ -6,7 +6,7 @@
   "zh": "游泳援助",
   "en": "Swimming Aid",
   "ja": "Swimming Aid",
-  "UniqueIDIndex": 4309,
+  "UniqueIDIndex": 4319,
   "GameName": {
     "DefaultText": "Swimming Aid",
     "Text": "游泳援助",
@@ -403,7 +403,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000
@@ -1018,7 +1018,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000
@@ -1633,7 +1633,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000
@@ -2248,7 +2248,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000
@@ -2863,7 +2863,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000
@@ -3478,7 +3478,7 @@
                   "Text": "青蛙种群",
                   "zh": "青蛙种群",
                   "en": "Frog Population",
-                  "ja": "カエルの数"
+                  "ja": "Frog Population"
                 },
                 "OverrideIcon": null,
                 "MaxValue": 20000

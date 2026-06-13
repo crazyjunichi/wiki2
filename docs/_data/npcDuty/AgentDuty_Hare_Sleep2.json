@@ -5,7 +5,7 @@
   "zh": "Hare Sleep 2",
   "en": "Hare Sleep 2",
   "ja": "Hare Sleep 2",
-  "UniqueIDIndex": 2963,
+  "UniqueIDIndex": 2971,
   "DutyName": {
     "DefaultText": "Hare Sleep 2",
     "Text": "Hare Sleep 2",
@@ -263,7 +263,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

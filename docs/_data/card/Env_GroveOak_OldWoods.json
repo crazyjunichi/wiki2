@@ -2086,6 +2086,22 @@
         "en": "Action: West",
         "ja": "アクション：West"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Old Woods",
+        "en": "Action: Old Woods",
+        "ja": "アクション：Old Woods"
+      }
     }
   ],
   "_useFor": [

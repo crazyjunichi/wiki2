@@ -7,7 +7,7 @@
   "zh_fix": "北方道路辅助",
   "en": "Road Traveling Aid North",
   "ja": "Road Traveling Aid North",
-  "UniqueIDIndex": 4027,
+  "UniqueIDIndex": 4037,
   "GameName": {
     "DefaultText": "Road Traveling Aid North",
     "Text": "Road Traveling Aid North",
@@ -310,7 +310,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "大地附魔",
   "en": "Earth Enchantment",
   "ja": "地のエンチャント",
-  "UniqueIDIndex": 390,
+  "UniqueIDIndex": 391,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "肉食脑袋",
   "en": "Meat Lover",
   "ja": "肉大好き",
-  "UniqueIDIndex": 3884,
+  "UniqueIDIndex": 3894,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -299,7 +299,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

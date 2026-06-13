@@ -6,7 +6,7 @@
   "zh": "狩猎大型动物",
   "en": "Big Game Hunting",
   "ja": "Big Game Hunting",
-  "UniqueIDIndex": 3415,
+  "UniqueIDIndex": 3425,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Make a Flint Spear",
         "ja": "Make a Flint Spear",
         "UniqueID": "819b153b53444f147805225193e38d67",
-        "UniqueIDIndex": 3418,
+        "UniqueIDIndex": 3428,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -242,7 +242,7 @@
         "en": "Research & Craft a Butchering Mat",
         "ja": "Research & Craft a Butchering Mat",
         "UniqueID": "dc53838880c60784eaac9f26eb4be678",
-        "UniqueIDIndex": 3419,
+        "UniqueIDIndex": 3429,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -458,7 +458,7 @@
         "en": "Build a Log Trap to catch Deer",
         "ja": "Build a Log Trap to catch Deer",
         "UniqueID": "a4c884bb2365a05438e6f88bd38bf9cf",
-        "UniqueIDIndex": 3420,
+        "UniqueIDIndex": 3430,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -670,7 +670,7 @@
         "en": "Hunt a Medium or Larger Animal",
         "ja": "Hunt a Medium or Larger Animal",
         "UniqueID": "96cd3a2e243b1c9429ceee7afd928f2b",
-        "UniqueIDIndex": 3421,
+        "UniqueIDIndex": 3431,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -1177,7 +1177,7 @@
         "en": "Harvest some Blood in a Container",
         "ja": "Harvest some Blood in a Container",
         "UniqueID": "f2ac681659a21604da70bdcb90f291d0",
-        "UniqueIDIndex": 3422,
+        "UniqueIDIndex": 3432,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1403,7 +1403,7 @@
         "en": "Make some Sausages with clean Intestines",
         "ja": "Make some Sausages with clean Intestines",
         "UniqueID": "5380860e9abbefd4bbfad4e3065b8abe",
-        "UniqueIDIndex": 3423,
+        "UniqueIDIndex": 3433,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

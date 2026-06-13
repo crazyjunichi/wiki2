@@ -2765,6 +2765,22 @@
         "en": "Action: South",
         "ja": "アクション：South"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Boulder Grove",
+        "en": "Action: Boulder Grove",
+        "ja": "アクション：Boulder Grove"
+      }
     }
   ],
   "_useFor": [

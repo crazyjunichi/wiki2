@@ -5,7 +5,7 @@
   "zh": "Bear Seek Sleep",
   "en": "Bear Seek Sleep",
   "ja": "Bear Seek Sleep",
-  "UniqueIDIndex": 2844,
+  "UniqueIDIndex": 2852,
   "DutyName": {
     "DefaultText": "Bear Seek Sleep",
     "Text": "Bear Seek Sleep",
@@ -250,7 +250,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "47794f16e36bc51458d19487afd9528d",
-          "UniqueIDIndex": 3082
+          "UniqueIDIndex": 3091
         },
         "ConditionRange": {
           "x": 0,
@@ -295,7 +295,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

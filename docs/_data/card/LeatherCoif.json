@@ -6,7 +6,7 @@
   "zh": "皮革兜帽",
   "en": "Leather Coif",
   "ja": "Leather Coif",
-  "UniqueIDIndex": 1582,
+  "UniqueIDIndex": 1583,
   "CardType": 0,
   "CardTags": [
     {
@@ -120,7 +120,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

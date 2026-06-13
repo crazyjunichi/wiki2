@@ -6,7 +6,7 @@
   "zh": "鸭子",
   "en": "Duck",
   "ja": "Duck",
-  "UniqueIDIndex": 3172,
+  "UniqueIDIndex": 3182,
   "EncounterTitle": {
     "DefaultText": "Duck",
     "Text": "鸭子",
@@ -1183,7 +1183,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-      "UniqueIDIndex": 3056
+      "UniqueIDIndex": 3065
     },
     "TriggerLoadStat": 1,
     "MaxValue": 12,
@@ -4762,7 +4762,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -5303,7 +5303,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "e404a2f165f845845856ce872fd2fd56",
-          "UniqueIDIndex": 2802
+          "UniqueIDIndex": 2810
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -5348,7 +5348,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "0e991b807e7703949b02b48ca7828f59",
-          "UniqueIDIndex": 3066
+          "UniqueIDIndex": 3075
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -5393,7 +5393,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,

@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 3629,
+  "UniqueIDIndex": 3639,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Finding Sustenance",
         "ja": "Finding Sustenance",
         "UniqueID": "201403ec51559864ca001422fc398a19",
-        "UniqueIDIndex": 3457,
+        "UniqueIDIndex": 3467,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Refuel the Fire",
               "ja": "Refuel the Fire",
               "UniqueID": "2f85e5621c2973f4eb7c99788b0c5581",
-              "UniqueIDIndex": 3460,
+              "UniqueIDIndex": 3470,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -746,7 +746,7 @@
               "en": "Drink Water from the Lake",
               "ja": "Drink Water from the Lake",
               "UniqueID": "637147fe16884e449a1805cdba1a6d7a",
-              "UniqueIDIndex": 3461,
+              "UniqueIDIndex": 3471,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -1046,30 +1046,30 @@
                       "MaxValue": 1000
                     },
                     "SpecialDurability4": {
-                      "Active": false,
+                      "Active": true,
                       "CardStatName": {
-                        "DefaultText": "",
-                        "Text": "SpecialDurability4",
-                        "zh": "特殊4",
-                        "en": "Special4",
-                        "ja": ""
+                        "DefaultText": "River Type",
+                        "Text": "River Type",
+                        "zh": "River Type",
+                        "en": "River Type",
+                        "ja": "River Type"
                       },
                       "OverrideIcon": null,
-                      "MaxValue": 0
+                      "MaxValue": 1000
                     }
                   },
                   "OnCardWithTags": [],
                   "WithActionTags": [],
-                  "ActionName": "饮用",
+                  "ActionName": "Drink",
                   "OnActionStarted": true,
                   "PerformMultipleTimes": 0,
                   "DebugMode": false,
                   "ActionNameText": {
                     "DefaultText": "Drink",
-                    "Text": "饮用",
-                    "zh": "饮用",
+                    "Text": "Drink",
+                    "zh": "Drink",
                     "en": "Drink",
-                    "ja": "飲む"
+                    "ja": "Drink"
                   }
                 }
               ],
@@ -1125,7 +1125,7 @@
               "en": "Dig some Cattail Roots",
               "ja": "Dig some Cattail Roots",
               "UniqueID": "a9c7b214894f8b74692edcf1a34c1124",
-              "UniqueIDIndex": 3462,
+              "UniqueIDIndex": 3472,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -1307,7 +1307,7 @@
               "en": "Peel & Cut the Cattail Roots",
               "ja": "Peel & Cut the Cattail Roots",
               "UniqueID": "d9ae37c57f3b54246af429a38714bf12",
-              "UniqueIDIndex": 3463,
+              "UniqueIDIndex": 3473,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1529,7 +1529,7 @@
               "en": "Roast Cattail Roots on a Fire",
               "ja": "Roast Cattail Roots on a Fire",
               "UniqueID": "72edc7f1e5c0c864f9243c2c4245b071",
-              "UniqueIDIndex": 3464,
+              "UniqueIDIndex": 3474,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1751,7 +1751,7 @@
               "en": "Eat some Roasted Cattail Roots",
               "ja": "Eat some Roasted Cattail Roots",
               "UniqueID": "75be11bbfb7ac2a47b75d84dfe645bf5",
-              "UniqueIDIndex": 3465,
+              "UniqueIDIndex": 3475,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {

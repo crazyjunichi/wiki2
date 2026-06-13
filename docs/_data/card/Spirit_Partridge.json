@@ -6,7 +6,7 @@
   "zh": "灰山鹑精魄(召唤)",
   "en": "Partridge Spirit",
   "ja": "Partridge Spirit",
-  "UniqueIDIndex": 2326,
+  "UniqueIDIndex": 2327,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

@@ -6,7 +6,7 @@
   "zh": "湖之恩赐",
   "en": "The Lake's Bounty",
   "ja": "The Lake's Bounty",
-  "UniqueIDIndex": 3570,
+  "UniqueIDIndex": 3580,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Research & Craft a Hook from Bone Pieces",
         "ja": "Research & Craft a Hook from Bone Pieces",
         "UniqueID": "aea2c1ae77f777947b4840d087c5e486",
-        "UniqueIDIndex": 3573,
+        "UniqueIDIndex": 3583,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -238,7 +238,7 @@
         "en": "Research & Craft a Fishing Line",
         "ja": "Research & Craft a Fishing Line",
         "UniqueID": "9d9b13fe311efa648bcbe3c86313d596",
-        "UniqueIDIndex": 3574,
+        "UniqueIDIndex": 3584,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -452,7 +452,7 @@
         "en": "Catch a Fish",
         "ja": "Catch a Fish",
         "UniqueID": "56bb8c4a8cde72e4990d181684f7ebf4",
-        "UniqueIDIndex": 3575,
+        "UniqueIDIndex": 3585,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -665,7 +665,7 @@
         "en": "Gut a Fish",
         "ja": "Gut a Fish",
         "UniqueID": "761d490a1393aed4ab67f207fba6ecf8",
-        "UniqueIDIndex": 3576,
+        "UniqueIDIndex": 3586,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1053,7 +1053,7 @@
         "en": "Roast some Fish",
         "ja": "Roast some Fish",
         "UniqueID": "2cba2876b8e669547a67f952f665d170",
-        "UniqueIDIndex": 3577,
+        "UniqueIDIndex": 3587,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

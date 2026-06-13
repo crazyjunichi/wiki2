@@ -6,7 +6,7 @@
   "zh": "原初之狼附魔",
   "en": "Primeval Wolf Enchantment",
   "ja": "Primeval Wolf Enchantment",
-  "UniqueIDIndex": 550,
+  "UniqueIDIndex": 551,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1317,7 +1317,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

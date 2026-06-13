@@ -6,7 +6,7 @@
   "zh": "剥皮工具",
   "en": "Skinning Tools",
   "ja": "Skinning Tools",
-  "UniqueIDIndex": 4457,
+  "UniqueIDIndex": 4467,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Stretching Frame",
         "ja": "Stretching Frame",
         "UniqueID": "95b5bacee8f5e4c4693daeabb0d866df",
-        "UniqueIDIndex": 4460,
+        "UniqueIDIndex": 4470,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -236,7 +236,7 @@
         "en": "Tanning Pit",
         "ja": "Tanning Pit",
         "UniqueID": "ac54777edeb9daf49aa059b1371cb203",
-        "UniqueIDIndex": 4461,
+        "UniqueIDIndex": 4471,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -448,7 +448,7 @@
         "en": "Fleshing Beam",
         "ja": "Fleshing Beam",
         "UniqueID": "d079d13bf081c0c469b113f9301d5f20",
-        "UniqueIDIndex": 4462,
+        "UniqueIDIndex": 4472,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -666,7 +666,7 @@
         "en": "Skinning Knife",
         "ja": "Skinning Knife",
         "UniqueID": "af53b67768cf6384aa7a72ce13f2734b",
-        "UniqueIDIndex": 4463,
+        "UniqueIDIndex": 4473,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

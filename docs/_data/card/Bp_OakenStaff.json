@@ -6,7 +6,7 @@
   "zh": "橡木杖",
   "en": "Oaken Staff",
   "ja": "オークの杖",
-  "UniqueIDIndex": 507,
+  "UniqueIDIndex": 508,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1211,76 +1211,16 @@
       "CannotRevertToThisStage": false,
       "RequiredElements": [
         {
-          "RequiredCard": {
-            "key": "StickLong",
-            "icon": "LongStick",
-            "type": "card",
-            "CardType": 0,
-            "zh": "长木棍",
-            "en": "Long Stick",
-            "ja": "長い棒",
-            "AlternateNames": [
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 1,
-                    "y": 1
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Oak Long Stick",
-                  "Text": "长橡木棍",
-                  "zh": "长橡木棍",
-                  "en": "Oak Long Stick",
-                  "ja": "オークの長い棒"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 2,
-                    "y": 2
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Pine Long Stick",
-                  "Text": "长松木棍",
-                  "zh": "长松木棍",
-                  "en": "Pine Long Stick",
-                  "ja": "松の長い棒"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 3,
-                    "y": 3
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Birch Long Stick",
-                  "Text": "长白桦木棍",
-                  "zh": "长白桦木棍",
-                  "en": "Birch Long Stick",
-                  "ja": "シラカバの長い棒"
-                }
-              },
-              {
-                "Conditions": {
-                  "Special4Range": {
-                    "x": 4,
-                    "y": 4
-                  }
-                },
-                "Name": {
-                  "DefaultText": "Willow Long Stick",
-                  "Text": "长柳木棍",
-                  "zh": "长柳木棍",
-                  "en": "Willow Long Stick",
-                  "ja": "ヤナギの長い棒"
-                }
-              }
-            ],
+          "RequiredCard": null,
+          "RequiredTabGroup": {
+            "key": "GpTag_OakLongStick",
+            "text": "“碎料”",
+            "type": "tag",
+            "zh": "碎料",
+            "en": "Scraps",
+            "ja": "残り物",
+            "SubGroups": [],
+            "count": 1,
             "SpoilageTime": {
               "Active": false,
               "CardStatName": {
@@ -1386,7 +1326,6 @@
               "MaxValue": 10000
             }
           },
-          "RequiredTabGroup": null,
           "RequiredQuantity": 1,
           "Spoilage": {
             "Active": false,
@@ -1428,7 +1367,7 @@
             "FloatValue": 1,
             "MaxValue": 1
           },
-          "DurabilityFeedback": 256,
+          "DurabilityFeedback": 1,
           "FilterStackWithDurability": {
             "MaskValue": 0
           },

@@ -6,7 +6,7 @@
   "zh": "生长中的酢浆草",
   "en": "Growing Wood Sorrel",
   "ja": "Growing Wood Sorrel",
-  "UniqueIDIndex": 2743,
+  "UniqueIDIndex": 2751,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

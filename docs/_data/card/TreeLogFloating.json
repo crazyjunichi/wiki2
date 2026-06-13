@@ -6,7 +6,7 @@
   "zh": "漂流的原木",
   "en": "Floating Tree Log",
   "ja": "Floating Tree Log",
-  "UniqueIDIndex": 2566,
+  "UniqueIDIndex": 2567,
   "CardType": 2,
   "CardTags": [
     {
@@ -5989,7 +5989,7 @@
                 "Text": "青蛙种群",
                 "zh": "青蛙种群",
                 "en": "Frog Population",
-                "ja": "カエルの数"
+                "ja": "Frog Population"
               },
               "OverrideIcon": null,
               "MaxValue": 20000
@@ -6817,7 +6817,7 @@
                 "Text": "青蛙种群",
                 "zh": "青蛙种群",
                 "en": "Frog Population",
-                "ja": "カエルの数"
+                "ja": "Frog Population"
               },
               "OverrideIcon": null,
               "MaxValue": 20000
@@ -7633,7 +7633,7 @@
                 "Text": "青蛙种群",
                 "zh": "青蛙种群",
                 "en": "Frog Population",
-                "ja": "カエルの数"
+                "ja": "Frog Population"
               },
               "OverrideIcon": null,
               "MaxValue": 20000
@@ -8449,7 +8449,7 @@
                 "Text": "青蛙种群",
                 "zh": "青蛙种群",
                 "en": "Frog Population",
-                "ja": "カエルの数"
+                "ja": "Frog Population"
               },
               "OverrideIcon": null,
               "MaxValue": 20000

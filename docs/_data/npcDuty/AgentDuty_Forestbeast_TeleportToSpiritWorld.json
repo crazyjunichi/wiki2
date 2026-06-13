@@ -5,7 +5,7 @@
   "zh": "Forest Beast Teleport to Spirit World",
   "en": "Forest Beast Teleport to Spirit World",
   "ja": "Forest Beast Teleport to Spirit World",
-  "UniqueIDIndex": 2920,
+  "UniqueIDIndex": 2928,
   "DutyName": {
     "DefaultText": "Forest Beast Teleport to Spirit World",
     "Text": "Forest Beast Teleport to Spirit World",
@@ -252,7 +252,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

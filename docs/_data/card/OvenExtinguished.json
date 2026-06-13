@@ -6,7 +6,7 @@
   "zh": "烤箱(熄灭)",
   "en": "Oven",
   "ja": "オーブン",
-  "UniqueIDIndex": 2033,
+  "UniqueIDIndex": 2034,
   "CardType": 2,
   "CardTags": [
     {
@@ -11801,6 +11801,357 @@
             },
             "OverrideIcon": null,
             "MaxValue": 0
+          },
+          "SpecialDurability4": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability4",
+              "zh": "特殊4",
+              "en": "Special4",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          }
+        },
+        "NOT": true,
+        "OnlyWithLiquid": false
+      },
+      {
+        "Card": {
+          "key": "BogIronFresh",
+          "icon": "BogIron",
+          "type": "card",
+          "CardType": 0,
+          "zh": "新鲜沼铁",
+          "en": "Fresh Bog Iron",
+          "ja": "Fresh Bog Iron",
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Yield",
+              "Text": "饱满度",
+              "zh": "饱满度",
+              "en": "Yield",
+              "ja": "Yield"
+            },
+            "OverrideIcon": {
+              "FileName": "BogIron"
+            },
+            "MaxValue": 7392
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "FuelCapacity": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Wetness",
+              "Text": "湿度",
+              "zh": "湿度",
+              "en": "Wetness",
+              "ja": "Wetness"
+            },
+            "OverrideIcon": {
+              "FileName": "Water"
+            },
+            "MaxValue": 96
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Cook",
+              "Text": "烹饪",
+              "zh": "烹饪",
+              "en": "Cook",
+              "ja": "Cook"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 1
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Mill",
+              "Text": "研磨",
+              "zh": "研磨",
+              "en": "Mill",
+              "ja": "Mill"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "SpecialDurability4": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability4",
+              "zh": "特殊4",
+              "en": "Special4",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          }
+        },
+        "NOT": true,
+        "OnlyWithLiquid": false
+      },
+      {
+        "Card": {
+          "key": "BogIronDried",
+          "icon": "BogIron",
+          "type": "card",
+          "CardType": 0,
+          "zh": "干沼铁",
+          "en": "Dried Bog Iron",
+          "ja": "Dried Bog Iron",
+          "SpoilageTime": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "耐久",
+              "zh": "时间",
+              "en": "Spoilage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Spoilage"
+            },
+            "MaxValue": 180
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Cook",
+              "Text": "烹饪",
+              "zh": "烹饪",
+              "en": "Cook",
+              "ja": "Cook"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 1
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Mill",
+              "Text": "研磨",
+              "zh": "研磨",
+              "en": "Mill",
+              "ja": "Mill"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "SpecialDurability4": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability4",
+              "zh": "特殊4",
+              "en": "Special4",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          }
+        },
+        "NOT": true,
+        "OnlyWithLiquid": false
+      },
+      {
+        "Card": {
+          "key": "BogIronRoasted",
+          "icon": "BogIron",
+          "type": "card",
+          "CardType": 0,
+          "zh": "烘烤沼铁",
+          "en": "Roasted Bog Iron",
+          "ja": "Roasted Bog Iron",
+          "SpoilageTime": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "耐久",
+              "zh": "时间",
+              "en": "Spoilage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Spoilage"
+            },
+            "MaxValue": 180
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Mill",
+              "Text": "研磨",
+              "zh": "研磨",
+              "en": "Mill",
+              "ja": "Mill"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
           },
           "SpecialDurability4": {
             "Active": false,

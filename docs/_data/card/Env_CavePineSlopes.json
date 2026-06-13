@@ -1999,6 +1999,22 @@
         "en": "Action: Enter the Cave",
         "ja": "アクション：Enter the Cave"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Pine Slopes",
+        "en": "Action: Pine Slopes",
+        "ja": "アクション：Pine Slopes"
+      }
     }
   ],
   "_useFor": [],

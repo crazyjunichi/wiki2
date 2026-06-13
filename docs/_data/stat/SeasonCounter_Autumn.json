@@ -7,7 +7,7 @@
   "zh_fix": "秋季",
   "en": "Autumn Counter",
   "ja": "Autumn Counter",
-  "UniqueIDIndex": 4051,
+  "UniqueIDIndex": 4061,
   "GameName": {
     "DefaultText": "Autumn Counter",
     "Text": "Autumn Counter",
@@ -4789,7 +4789,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -4809,7 +4809,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

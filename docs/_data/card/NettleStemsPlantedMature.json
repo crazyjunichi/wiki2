@@ -6,7 +6,7 @@
   "zh": "荨麻茎(成熟)",
   "en": "Nettle Stems",
   "ja": "イラクサの茎",
-  "UniqueIDIndex": 1879,
+  "UniqueIDIndex": 1880,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -5710,7 +5710,7 @@
           },
           "OnlyInHand": false,
           "NotInHand": false,
-          "ExcludeInventories": false,
+          "ExcludeInventories": true,
           "Inverted": false,
           "OnlyEquipped": true
         }
@@ -13688,7 +13688,7 @@
           },
           "OnlyInHand": false,
           "NotInHand": false,
-          "ExcludeInventories": false,
+          "ExcludeInventories": true,
           "Inverted": false,
           "OnlyEquipped": true
         }

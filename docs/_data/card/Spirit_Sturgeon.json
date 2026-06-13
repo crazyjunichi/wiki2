@@ -6,7 +6,7 @@
   "zh": "鲟鱼精魄(召唤)",
   "en": "Sturgeon Spirit",
   "ja": "Sturgeon Spirit",
-  "UniqueIDIndex": 2331,
+  "UniqueIDIndex": 2332,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

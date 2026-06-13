@@ -6,7 +6,7 @@
   "zh": "火根",
   "en": "Fireroot",
   "ja": "ファイヤールート",
-  "UniqueIDIndex": 3308,
+  "UniqueIDIndex": 3318,
   "GameName": {
     "DefaultText": "Fireroot",
     "Text": "火根",
@@ -1068,9 +1068,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       },
       "value": {
         "x": 0,

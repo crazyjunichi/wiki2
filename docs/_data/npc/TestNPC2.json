@@ -5,7 +5,7 @@
   "zh": "Test 2",
   "en": "Test 2",
   "ja": "Test 2",
-  "UniqueIDIndex": 4328,
+  "UniqueIDIndex": 4338,
   "AgentName": {
     "DefaultText": "Test 2",
     "Text": "Test 2",
@@ -75,7 +75,7 @@
         "m_GameObject": null,
         "m_Enabled": 1,
         "UniqueID": "4f60d4497a50f3b4ea0eabae2e48457f",
-        "UniqueIDIndex": 4329
+        "UniqueIDIndex": 4339
       },
       "OverrideStartingValue": {
         "Active": false,
@@ -704,20 +704,20 @@
           },
           "m_Name": "TestHunting",
           "UniqueID": "d4c0e4a8da0cc1d459aefaf110bc5d93",
-          "UniqueIDIndex": 4325,
+          "UniqueIDIndex": 4335,
           "Cooldown": 5,
           "HideAgents": [
             {
               "m_FileID": 0,
-              "m_PathID": 7501
+              "m_PathID": 7512
             },
             {
               "m_FileID": 0,
-              "m_PathID": 7502
+              "m_PathID": 7513
             }
           ],
           "IgnoreSourceAgent": true,
-          "___fn": "TestHunting@7500.json"
+          "___fn": "TestHunting@7511.json"
         }
       ],
       "DropCardsEvenIfHiding": false

@@ -6,7 +6,7 @@
   "zh": "狩猎开始",
   "en": "The Hunt Begins",
   "ja": "The Hunt Begins",
-  "UniqueIDIndex": 3542,
+  "UniqueIDIndex": 3552,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Make a Rustic Spear",
         "ja": "Make a Rustic Spear",
         "UniqueID": "b2001feed40fc21489b1fed0b8c44400",
-        "UniqueIDIndex": 3545,
+        "UniqueIDIndex": 3555,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -238,7 +238,7 @@
         "en": "Make a Rustic Spear",
         "ja": "Make a Rustic Spear",
         "UniqueID": "b2001feed40fc21489b1fed0b8c44400",
-        "UniqueIDIndex": 3545,
+        "UniqueIDIndex": 3555,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -450,7 +450,7 @@
         "en": "Build one or more Snare traps",
         "ja": "Build one or more Snare traps",
         "UniqueID": "962d643d6e4f9b9409e67da5e9e59e4f",
-        "UniqueIDIndex": 3547,
+        "UniqueIDIndex": 3557,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -662,7 +662,7 @@
         "en": "Catch a Badger, Fox or Hare",
         "ja": "Catch a Badger, Fox or Hare",
         "UniqueID": "40a492208f8dafa4d9c61cfb12d2a51b",
-        "UniqueIDIndex": 3548,
+        "UniqueIDIndex": 3558,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1204,7 +1204,7 @@
         "en": "Butcher an Animal",
         "ja": "Butcher an Animal",
         "UniqueID": "487dbb53235d82444919e6c21ef278cd",
-        "UniqueIDIndex": 3549,
+        "UniqueIDIndex": 3559,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1503,7 +1503,7 @@
         "en": "Roast some Meat",
         "ja": "Roast some Meat",
         "UniqueID": "ca48fb8bccbf38e4ca29b8fbfa09f22e",
-        "UniqueIDIndex": 3550,
+        "UniqueIDIndex": 3560,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

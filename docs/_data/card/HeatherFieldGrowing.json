@@ -6,7 +6,7 @@
   "zh": "生长中的帚石南田",
   "en": "Growing Heather Field",
   "ja": "成長途中のヘザー畑",
-  "UniqueIDIndex": 1433,
+  "UniqueIDIndex": 1434,
   "CardType": 2,
   "CardTags": [
     {
@@ -7369,7 +7369,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

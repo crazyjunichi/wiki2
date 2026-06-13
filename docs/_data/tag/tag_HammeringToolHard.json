@@ -1553,9 +1553,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -1667,9 +1667,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }

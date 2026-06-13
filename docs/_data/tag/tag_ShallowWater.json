@@ -536,9 +536,9 @@
       "icon": "Pond_Winter",
       "type": "card",
       "CardType": 2,
-      "zh": "结冰的池塘",
+      "zh": "冰冻老妪池塘",
       "en": "Frozen Hag Pond",
-      "ja": "凍った池",
+      "ja": "Frozen Hag Pond",
       "SpoilageTime": {
         "Active": false,
         "CardStatName": {
@@ -570,7 +570,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000
@@ -838,16 +838,16 @@
         "MaxValue": 1000
       },
       "SpecialDurability4": {
-        "Active": false,
+        "Active": true,
         "CardStatName": {
-          "DefaultText": "",
-          "Text": "SpecialDurability4",
-          "zh": "特殊4",
-          "en": "Special4",
-          "ja": ""
+          "DefaultText": "River Type",
+          "Text": "River Type",
+          "zh": "River Type",
+          "en": "River Type",
+          "ja": "River Type"
         },
         "OverrideIcon": null,
-        "MaxValue": 0
+        "MaxValue": 1000
       }
     },
     {
@@ -960,9 +960,9 @@
       "icon": "Pond_Winter",
       "type": "card",
       "CardType": 2,
-      "zh": "结冰的池塘",
+      "zh": "冰冻蚊虫池塘",
       "en": "Frozen Mosquito Pond",
-      "ja": "凍った池",
+      "ja": "Frozen Mosquito Pond",
       "SpoilageTime": {
         "Active": false,
         "CardStatName": {
@@ -994,7 +994,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000

@@ -7,16 +7,16 @@
   "SceneBackground": null,
   "SceneLines": [
     {
-      "m_Name": "WolfIntro_0_2252",
+      "m_Name": "WolfIntro_0_2251",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2252",
-      "___fn": "WolfIntro@2252.json",
-      "key": "WolfIntro_0_2252",
-      "zh": "WolfIntro_0_2252",
-      "en": "WolfIntro_0_2252",
-      "ja": "WolfIntro_0_2252",
+      "___key": "0_2251",
+      "___fn": "WolfIntro@2251.json",
+      "key": "WolfIntro_0_2251",
+      "zh": "WolfIntro_0_2251",
+      "en": "WolfIntro_0_2251",
+      "ja": "WolfIntro_0_2251",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,

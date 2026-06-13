@@ -6,7 +6,7 @@
   "zh": "野生荨麻",
   "en": "Nettle Patch",
   "ja": "イラクサのパッチ",
-  "UniqueIDIndex": 1873,
+  "UniqueIDIndex": 1874,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -1785,7 +1785,7 @@
           },
           "OnlyInHand": false,
           "NotInHand": false,
-          "ExcludeInventories": false,
+          "ExcludeInventories": true,
           "Inverted": false,
           "OnlyEquipped": true
         }
@@ -7939,7 +7939,7 @@
           },
           "OnlyInHand": false,
           "NotInHand": false,
-          "ExcludeInventories": false,
+          "ExcludeInventories": true,
           "Inverted": false,
           "OnlyEquipped": true
         }

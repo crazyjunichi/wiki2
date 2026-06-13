@@ -6,7 +6,7 @@
   "zh": "夏季活动",
   "en": "Summer Activities",
   "ja": "Summer Activities",
-  "UniqueIDIndex": 4282,
+  "UniqueIDIndex": 4292,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Go for a Swim to have fun & relax",
         "ja": "Go for a Swim to have fun & relax",
         "UniqueID": "cf5c3f1dfa72b724e883bc30cb4d7581",
-        "UniqueIDIndex": 4285,
+        "UniqueIDIndex": 4295,
         "StartUnlocked": false,
         "ActionObjectives": [
           {
@@ -190,7 +190,7 @@
         "en": "Forage Pine Areas for Bilberries",
         "ja": "Forage Pine Areas for Bilberries",
         "UniqueID": "3ef8e8faccc4b9044827151826d45630",
-        "UniqueIDIndex": 4286,
+        "UniqueIDIndex": 4296,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -412,7 +412,7 @@
         "en": "Gather Juniper Needles from Pine Clearings",
         "ja": "Gather Juniper Needles from Pine Clearings",
         "UniqueID": "c3477dedc2ec85549879c47790652298",
-        "UniqueIDIndex": 4287,
+        "UniqueIDIndex": 4297,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -626,7 +626,7 @@
         "en": "Burn Juniper Needles for a Mosquito Repellent Effect",
         "ja": "Burn Juniper Needles for a Mosquito Repellent Effect",
         "UniqueID": "f8136a63538ce8449ae86279186019d3",
-        "UniqueIDIndex": 4288,
+        "UniqueIDIndex": 4298,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],

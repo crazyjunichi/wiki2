@@ -6,7 +6,7 @@
   "zh": "左屋扩建",
   "en": "Left Room Expansion",
   "ja": "左の泥小屋の拡張",
-  "UniqueIDIndex": 1950,
+  "UniqueIDIndex": 1951,
   "CardType": 10,
   "CardTags": [],
   "CardName": {
@@ -2882,6 +2882,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

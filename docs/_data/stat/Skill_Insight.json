@@ -6,7 +6,7 @@
   "zh": "灵视",
   "en": "Insight",
   "ja": "洞察力",
-  "UniqueIDIndex": 4077,
+  "UniqueIDIndex": 4087,
   "GameName": {
     "DefaultText": "Insight",
     "Text": "灵视",
@@ -2405,14 +2405,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：凝视水面",
         "en": "Action: Gaze at Water",
-        "ja": "アクション：水を眺める"
+        "ja": "アクション：Gaze at Water"
       },
       "value": {
         "x": 1,
@@ -2905,14 +2905,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：凝视水面",
         "en": "Action: Gaze at Water",
-        "ja": "アクション：水を眺める"
+        "ja": "アクション：Gaze at Water"
       },
       "value": {
         "x": 1,

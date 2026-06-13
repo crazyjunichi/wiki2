@@ -5,7 +5,7 @@
   "zh": "Partridge Sleep",
   "en": "Partridge Sleep",
   "ja": "Partridge Sleep",
-  "UniqueIDIndex": 2970,
+  "UniqueIDIndex": 2979,
   "DutyName": {
     "DefaultText": "Partridge Sleep",
     "Text": "Partridge Sleep",
@@ -263,7 +263,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

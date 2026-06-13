@@ -6,7 +6,7 @@
   "zh": "河道隘口",
   "en": "River Pass",
   "ja": "River Pass",
-  "UniqueIDIndex": 113,
+  "UniqueIDIndex": 114,
   "CardType": 4,
   "CardTags": [
     {
@@ -2606,6 +2606,22 @@
         "zh": "动作：东方",
         "en": "Action: East",
         "ja": "アクション：East"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：River Pass",
+        "en": "Action: River Pass",
+        "ja": "アクション：River Pass"
       }
     }
   ],

@@ -6,7 +6,7 @@
   "zh": "Fish Trap",
   "en": "Fish Trap",
   "ja": "Fish Trap",
-  "UniqueIDIndex": 1940,
+  "UniqueIDIndex": 1941,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -4532,7 +4532,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

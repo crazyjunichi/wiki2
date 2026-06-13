@@ -6,7 +6,7 @@
   "zh": "金属扭结戒指",
   "en": "Metal Twisted Ring",
   "ja": "Metal Twisted Ring",
-  "UniqueIDIndex": 2517,
+  "UniqueIDIndex": 2518,
   "CardType": 0,
   "CardTags": [
     {
@@ -130,7 +130,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",
@@ -422,7 +422,121 @@
     "OnFullNotification": 0,
     "CountsForTradingValue": false,
     "TradingValueCustomRanges": [],
-    "durabilityKey": "SpoilageTime"
+    "durabilityKey": "SpoilageTime",
+    "_valueModifications": [
+      {
+        "link": {
+          "key": "ToolOrWeapon_TwistedRing_Metal",
+          "icon": "RingTwisted_Copper",
+          "type": "card",
+          "CardType": 0,
+          "zh": "金属扭结戒指",
+          "en": "Metal Twisted Ring",
+          "ja": "Metal Twisted Ring",
+          "AlternateNames": [
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 100,
+                  "y": 100
+                }
+              },
+              "Name": {
+                "DefaultText": "Copper Twisted Ring",
+                "Text": "铜扭结戒指",
+                "zh": "铜扭结戒指",
+                "en": "Copper Twisted Ring",
+                "ja": "Copper Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 110,
+                  "y": 110
+                }
+              },
+              "Name": {
+                "DefaultText": "Ghost Bronze Twisted Ring",
+                "Text": "鬼铜扭结戒指",
+                "zh": "鬼铜扭结戒指",
+                "en": "Ghost Bronze Twisted Ring",
+                "ja": "Ghost Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 120,
+                  "y": 120
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Twisted Ring",
+                "Text": "锡扭结戒指",
+                "zh": "锡扭结戒指",
+                "en": "Tin Twisted Ring",
+                "ja": "Tin Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 130,
+                  "y": 130
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Bronze Twisted Ring",
+                "Text": "青铜扭结戒指",
+                "zh": "青铜扭结戒指",
+                "en": "Tin Bronze Twisted Ring",
+                "ja": "Tin Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 140,
+                  "y": 140
+                }
+              },
+              "Name": {
+                "DefaultText": "White Bronze Twisted Ring",
+                "Text": "白铜扭结戒指",
+                "zh": "白铜扭结戒指",
+                "en": "White Bronze Twisted Ring",
+                "ja": "White Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 200,
+                  "y": 200
+                }
+              },
+              "Name": {
+                "DefaultText": "Iron Twisted Ring",
+                "Text": "铁扭结戒指",
+                "zh": "铁扭结戒指",
+                "en": "Iron Twisted Ring",
+                "ja": "Iron Twisted Ring"
+              }
+            }
+          ]
+        },
+        "localization": {
+          "zh": "状态触发",
+          "en": "Stats Change",
+          "ja": "状態変化"
+        },
+        "value": {
+          "x": 10,
+          "y": 25
+        }
+      }
+    ]
   },
   "UsageDurability": {
     "Active": false,
@@ -955,6 +1069,657 @@
           "x": 200,
           "y": 200
         }
+      },
+      {
+        "link": {
+          "key": "ToolOrWeapon_TwistedRing_Metal",
+          "icon": "RingTwisted_Copper",
+          "type": "card",
+          "CardType": 0,
+          "zh": "金属扭结戒指",
+          "en": "Metal Twisted Ring",
+          "ja": "Metal Twisted Ring",
+          "AlternateNames": [
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 100,
+                  "y": 100
+                }
+              },
+              "Name": {
+                "DefaultText": "Copper Twisted Ring",
+                "Text": "铜扭结戒指",
+                "zh": "铜扭结戒指",
+                "en": "Copper Twisted Ring",
+                "ja": "Copper Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 110,
+                  "y": 110
+                }
+              },
+              "Name": {
+                "DefaultText": "Ghost Bronze Twisted Ring",
+                "Text": "鬼铜扭结戒指",
+                "zh": "鬼铜扭结戒指",
+                "en": "Ghost Bronze Twisted Ring",
+                "ja": "Ghost Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 120,
+                  "y": 120
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Twisted Ring",
+                "Text": "锡扭结戒指",
+                "zh": "锡扭结戒指",
+                "en": "Tin Twisted Ring",
+                "ja": "Tin Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 130,
+                  "y": 130
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Bronze Twisted Ring",
+                "Text": "青铜扭结戒指",
+                "zh": "青铜扭结戒指",
+                "en": "Tin Bronze Twisted Ring",
+                "ja": "Tin Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 140,
+                  "y": 140
+                }
+              },
+              "Name": {
+                "DefaultText": "White Bronze Twisted Ring",
+                "Text": "白铜扭结戒指",
+                "zh": "白铜扭结戒指",
+                "en": "White Bronze Twisted Ring",
+                "ja": "White Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 200,
+                  "y": 200
+                }
+              },
+              "Name": {
+                "DefaultText": "Iron Twisted Ring",
+                "Text": "铁扭结戒指",
+                "zh": "铁扭结戒指",
+                "en": "Iron Twisted Ring",
+                "ja": "Iron Twisted Ring"
+              }
+            }
+          ],
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Beauty",
+              "Text": "美观",
+              "zh": "美观",
+              "en": "Beauty",
+              "ja": "Beauty"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 10000
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Quality",
+              "Text": "总金属品质",
+              "zh": "总金属品质",
+              "en": "Metal Quality",
+              "ja": "Metal Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Type",
+              "Text": "金属类型",
+              "zh": "金属类型",
+              "en": "Metal Type",
+              "ja": "Metal Type"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          }
+        },
+        "localization": {
+          "zh": "被动效果：Cool Down Fast ( Iron, not in Container capable of 1000+ temp )",
+          "en": "Passive Effect：Cool Down Fast ( Iron, not in Container capable of 1000+ temp )",
+          "ja": "パッシブ効果：Cool Down Fast ( Iron, not in Container capable of 1000+ temp )"
+        },
+        "value": {
+          "x": -300,
+          "y": -300
+        },
+        "isMultiplier": false
+      },
+      {
+        "link": {
+          "key": "ToolOrWeapon_TwistedRing_Metal",
+          "icon": "RingTwisted_Copper",
+          "type": "card",
+          "CardType": 0,
+          "zh": "金属扭结戒指",
+          "en": "Metal Twisted Ring",
+          "ja": "Metal Twisted Ring",
+          "AlternateNames": [
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 100,
+                  "y": 100
+                }
+              },
+              "Name": {
+                "DefaultText": "Copper Twisted Ring",
+                "Text": "铜扭结戒指",
+                "zh": "铜扭结戒指",
+                "en": "Copper Twisted Ring",
+                "ja": "Copper Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 110,
+                  "y": 110
+                }
+              },
+              "Name": {
+                "DefaultText": "Ghost Bronze Twisted Ring",
+                "Text": "鬼铜扭结戒指",
+                "zh": "鬼铜扭结戒指",
+                "en": "Ghost Bronze Twisted Ring",
+                "ja": "Ghost Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 120,
+                  "y": 120
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Twisted Ring",
+                "Text": "锡扭结戒指",
+                "zh": "锡扭结戒指",
+                "en": "Tin Twisted Ring",
+                "ja": "Tin Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 130,
+                  "y": 130
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Bronze Twisted Ring",
+                "Text": "青铜扭结戒指",
+                "zh": "青铜扭结戒指",
+                "en": "Tin Bronze Twisted Ring",
+                "ja": "Tin Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 140,
+                  "y": 140
+                }
+              },
+              "Name": {
+                "DefaultText": "White Bronze Twisted Ring",
+                "Text": "白铜扭结戒指",
+                "zh": "白铜扭结戒指",
+                "en": "White Bronze Twisted Ring",
+                "ja": "White Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 200,
+                  "y": 200
+                }
+              },
+              "Name": {
+                "DefaultText": "Iron Twisted Ring",
+                "Text": "铁扭结戒指",
+                "zh": "铁扭结戒指",
+                "en": "Iron Twisted Ring",
+                "ja": "Iron Twisted Ring"
+              }
+            }
+          ],
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Beauty",
+              "Text": "美观",
+              "zh": "美观",
+              "en": "Beauty",
+              "ja": "Beauty"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 10000
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Quality",
+              "Text": "总金属品质",
+              "zh": "总金属品质",
+              "en": "Metal Quality",
+              "ja": "Metal Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Type",
+              "Text": "金属类型",
+              "zh": "金属类型",
+              "en": "Metal Type",
+              "ja": "Metal Type"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          }
+        },
+        "localization": {
+          "zh": "被动效果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+          "en": "Passive Effect：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+          "ja": "パッシブ効果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )"
+        },
+        "value": {
+          "x": -300,
+          "y": -300
+        },
+        "isMultiplier": false
+      },
+      {
+        "link": {
+          "key": "ToolOrWeapon_TwistedRing_Metal",
+          "icon": "RingTwisted_Copper",
+          "type": "card",
+          "CardType": 0,
+          "zh": "金属扭结戒指",
+          "en": "Metal Twisted Ring",
+          "ja": "Metal Twisted Ring",
+          "AlternateNames": [
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 100,
+                  "y": 100
+                }
+              },
+              "Name": {
+                "DefaultText": "Copper Twisted Ring",
+                "Text": "铜扭结戒指",
+                "zh": "铜扭结戒指",
+                "en": "Copper Twisted Ring",
+                "ja": "Copper Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 110,
+                  "y": 110
+                }
+              },
+              "Name": {
+                "DefaultText": "Ghost Bronze Twisted Ring",
+                "Text": "鬼铜扭结戒指",
+                "zh": "鬼铜扭结戒指",
+                "en": "Ghost Bronze Twisted Ring",
+                "ja": "Ghost Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 120,
+                  "y": 120
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Twisted Ring",
+                "Text": "锡扭结戒指",
+                "zh": "锡扭结戒指",
+                "en": "Tin Twisted Ring",
+                "ja": "Tin Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 130,
+                  "y": 130
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Bronze Twisted Ring",
+                "Text": "青铜扭结戒指",
+                "zh": "青铜扭结戒指",
+                "en": "Tin Bronze Twisted Ring",
+                "ja": "Tin Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 140,
+                  "y": 140
+                }
+              },
+              "Name": {
+                "DefaultText": "White Bronze Twisted Ring",
+                "Text": "白铜扭结戒指",
+                "zh": "白铜扭结戒指",
+                "en": "White Bronze Twisted Ring",
+                "ja": "White Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 200,
+                  "y": 200
+                }
+              },
+              "Name": {
+                "DefaultText": "Iron Twisted Ring",
+                "Text": "铁扭结戒指",
+                "zh": "铁扭结戒指",
+                "en": "Iron Twisted Ring",
+                "ja": "Iron Twisted Ring"
+              }
+            }
+          ],
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Beauty",
+              "Text": "美观",
+              "zh": "美观",
+              "en": "Beauty",
+              "ja": "Beauty"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 10000
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Quality",
+              "Text": "总金属品质",
+              "zh": "总金属品质",
+              "en": "Metal Quality",
+              "ja": "Metal Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Type",
+              "Text": "金属类型",
+              "zh": "金属类型",
+              "en": "Metal Type",
+              "ja": "Metal Type"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          }
+        },
+        "localization": {
+          "zh": "被动效果：Cool Down Slow ( Always )",
+          "en": "Passive Effect：Cool Down Slow ( Always )",
+          "ja": "パッシブ効果：Cool Down Slow ( Always )"
+        },
+        "value": {
+          "x": -100,
+          "y": -100
+        },
+        "isMultiplier": false
       }
     ]
   },
@@ -2383,9 +3148,7 @@
           "x": 1,
           "y": 1
         }
-      }
-    ],
-    "_valueModifications": [
+      },
       {
         "link": {
           "key": "ToolOrWeapon_TwistedRing_Metal",
@@ -2486,17 +3249,556 @@
                 "ja": "Iron Twisted Ring"
               }
             }
-          ]
+          ],
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Beauty",
+              "Text": "美观",
+              "zh": "美观",
+              "en": "Beauty",
+              "ja": "Beauty"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 10000
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Quality",
+              "Text": "总金属品质",
+              "zh": "总金属品质",
+              "en": "Metal Quality",
+              "ja": "Metal Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Type",
+              "Text": "金属类型",
+              "zh": "金属类型",
+              "en": "Metal Type",
+              "ja": "Metal Type"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          }
         },
         "localization": {
-          "zh": "状态触发",
-          "en": "Stats Change",
-          "ja": "状態変化"
+          "zh": "被动效果：Lose Smelting ( Iron )",
+          "en": "Passive Effect：Lose Smelting ( Iron )",
+          "ja": "パッシブ効果：Lose Smelting ( Iron )"
         },
         "value": {
-          "x": 10,
-          "y": 25
-        }
+          "x": -10,
+          "y": -10
+        },
+        "isMultiplier": false
+      },
+      {
+        "link": {
+          "key": "ToolOrWeapon_TwistedRing_Metal",
+          "icon": "RingTwisted_Copper",
+          "type": "card",
+          "CardType": 0,
+          "zh": "金属扭结戒指",
+          "en": "Metal Twisted Ring",
+          "ja": "Metal Twisted Ring",
+          "AlternateNames": [
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 100,
+                  "y": 100
+                }
+              },
+              "Name": {
+                "DefaultText": "Copper Twisted Ring",
+                "Text": "铜扭结戒指",
+                "zh": "铜扭结戒指",
+                "en": "Copper Twisted Ring",
+                "ja": "Copper Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 110,
+                  "y": 110
+                }
+              },
+              "Name": {
+                "DefaultText": "Ghost Bronze Twisted Ring",
+                "Text": "鬼铜扭结戒指",
+                "zh": "鬼铜扭结戒指",
+                "en": "Ghost Bronze Twisted Ring",
+                "ja": "Ghost Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 120,
+                  "y": 120
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Twisted Ring",
+                "Text": "锡扭结戒指",
+                "zh": "锡扭结戒指",
+                "en": "Tin Twisted Ring",
+                "ja": "Tin Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 130,
+                  "y": 130
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Bronze Twisted Ring",
+                "Text": "青铜扭结戒指",
+                "zh": "青铜扭结戒指",
+                "en": "Tin Bronze Twisted Ring",
+                "ja": "Tin Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 140,
+                  "y": 140
+                }
+              },
+              "Name": {
+                "DefaultText": "White Bronze Twisted Ring",
+                "Text": "白铜扭结戒指",
+                "zh": "白铜扭结戒指",
+                "en": "White Bronze Twisted Ring",
+                "ja": "White Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 200,
+                  "y": 200
+                }
+              },
+              "Name": {
+                "DefaultText": "Iron Twisted Ring",
+                "Text": "铁扭结戒指",
+                "zh": "铁扭结戒指",
+                "en": "Iron Twisted Ring",
+                "ja": "Iron Twisted Ring"
+              }
+            }
+          ],
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Beauty",
+              "Text": "美观",
+              "zh": "美观",
+              "en": "Beauty",
+              "ja": "Beauty"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 10000
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Quality",
+              "Text": "总金属品质",
+              "zh": "总金属品质",
+              "en": "Metal Quality",
+              "ja": "Metal Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Type",
+              "Text": "金属类型",
+              "zh": "金属类型",
+              "en": "Metal Type",
+              "ja": "Metal Type"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          }
+        },
+        "localization": {
+          "zh": "被动效果：Lose Smelting if not in smelting container ( Always )",
+          "en": "Passive Effect：Lose Smelting if not in smelting container ( Always )",
+          "ja": "パッシブ効果：Lose Smelting if not in smelting container ( Always )"
+        },
+        "value": {
+          "x": -1,
+          "y": -1
+        },
+        "isMultiplier": false
+      },
+      {
+        "link": {
+          "key": "ToolOrWeapon_TwistedRing_Metal",
+          "icon": "RingTwisted_Copper",
+          "type": "card",
+          "CardType": 0,
+          "zh": "金属扭结戒指",
+          "en": "Metal Twisted Ring",
+          "ja": "Metal Twisted Ring",
+          "AlternateNames": [
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 100,
+                  "y": 100
+                }
+              },
+              "Name": {
+                "DefaultText": "Copper Twisted Ring",
+                "Text": "铜扭结戒指",
+                "zh": "铜扭结戒指",
+                "en": "Copper Twisted Ring",
+                "ja": "Copper Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 110,
+                  "y": 110
+                }
+              },
+              "Name": {
+                "DefaultText": "Ghost Bronze Twisted Ring",
+                "Text": "鬼铜扭结戒指",
+                "zh": "鬼铜扭结戒指",
+                "en": "Ghost Bronze Twisted Ring",
+                "ja": "Ghost Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 120,
+                  "y": 120
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Twisted Ring",
+                "Text": "锡扭结戒指",
+                "zh": "锡扭结戒指",
+                "en": "Tin Twisted Ring",
+                "ja": "Tin Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 130,
+                  "y": 130
+                }
+              },
+              "Name": {
+                "DefaultText": "Tin Bronze Twisted Ring",
+                "Text": "青铜扭结戒指",
+                "zh": "青铜扭结戒指",
+                "en": "Tin Bronze Twisted Ring",
+                "ja": "Tin Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 140,
+                  "y": 140
+                }
+              },
+              "Name": {
+                "DefaultText": "White Bronze Twisted Ring",
+                "Text": "白铜扭结戒指",
+                "zh": "白铜扭结戒指",
+                "en": "White Bronze Twisted Ring",
+                "ja": "White Bronze Twisted Ring"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 200,
+                  "y": 200
+                }
+              },
+              "Name": {
+                "DefaultText": "Iron Twisted Ring",
+                "Text": "铁扭结戒指",
+                "zh": "铁扭结戒指",
+                "en": "Iron Twisted Ring",
+                "ja": "Iron Twisted Ring"
+              }
+            }
+          ],
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Beauty",
+              "Text": "美观",
+              "zh": "美观",
+              "en": "Beauty",
+              "ja": "Beauty"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          },
+          "UsageDurability": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 10000
+          },
+          "FuelCapacity": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "FuelCapacity",
+              "zh": "容量",
+              "en": "Fuel",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Smelted",
+              "Text": "熔炼",
+              "zh": "熔炼",
+              "en": "Smelted",
+              "ja": "Smelted"
+            },
+            "OverrideIcon": {
+              "FileName": "Cooking"
+            },
+            "MaxValue": 8
+          },
+          "SpecialDurability1": {
+            "Active": false,
+            "CardStatName": {
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
+            },
+            "OverrideIcon": null,
+            "MaxValue": 0
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Quality",
+              "Text": "总金属品质",
+              "zh": "总金属品质",
+              "en": "Metal Quality",
+              "ja": "Metal Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "Quality"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Metal Type",
+              "Text": "金属类型",
+              "zh": "金属类型",
+              "en": "Metal Type",
+              "ja": "Metal Type"
+            },
+            "OverrideIcon": null,
+            "MaxValue": 1000
+          }
+        },
+        "localization": {
+          "zh": "被动效果：Lose Smelting if smelting container bellow 1100 ( Always )",
+          "en": "Passive Effect：Lose Smelting if smelting container bellow 1100 ( Always )",
+          "ja": "パッシブ効果：Lose Smelting if smelting container bellow 1100 ( Always )"
+        },
+        "value": {
+          "x": -1,
+          "y": -1
+        },
+        "isMultiplier": false
       }
     ]
   },
@@ -6705,7 +8007,7 @@
               "max": 100,
               "min": 0
             },
-            "OutputDurability": 8,
+            "OutputDurability": 1,
             "Value": {
               "Active": true,
               "InputValueRange": {
@@ -8706,6 +10008,1974 @@
         "en": "Sanctuary",
         "zh": "Sanctuary",
         "ja": "Sanctuary"
+      }
+    },
+    {
+      "EffectName": "Cool Down Fast ( Iron, not in Container capable of 1000+ temp )",
+      "OnlyWhenEquipped": false,
+      "EquippedOnBodyOnly": false,
+      "OnlyWhenNOTEquipped": false,
+      "OnlyWhenInHand": false,
+      "OnlyOnBaseActions": false,
+      "OnlyOnNOTBaseActions": false,
+      "OnlyWhenNOTInBG": false,
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredNOTContainerTags": [
+          {
+            "key": "tag_TemperatureOver1000Container",
+            "text": "“Smelting Container”",
+            "icon": "",
+            "type": "tag",
+            "count": 3,
+            "zh": "温度超过1000容器",
+            "en": "Smelting Container",
+            "ja": "Smelting Container",
+            "SpoilageTime": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Temperature",
+                "Text": "温度",
+                "zh": "温度",
+                "en": "Temperature",
+                "ja": "Temperature"
+              },
+              "OverrideIcon": {
+                "FileName": "Hot"
+              },
+              "MaxValue": 1300
+            },
+            "FuelCapacity": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "燃烧度",
+                "zh": "容量",
+                "en": "Fuel",
+                "ja": ""
+              },
+              "OverrideIcon": {
+                "FileName": "Flame"
+              },
+              "MaxValue": 96
+            },
+            "SpecialDurability1": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Windflow",
+                "Text": "风力",
+                "zh": "风力",
+                "en": "Windflow",
+                "ja": "Windflow"
+              },
+              "OverrideIcon": null,
+              "MaxValue": 8
+            }
+          }
+        ],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 200,
+            "y": 200
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "StatModifiers": [],
+      "EffectStacksWithRequiredCards": false,
+      "OnBoardEffectCap": 0,
+      "EffectScalesWithDurabilities": {
+        "Active": false,
+        "Inputs": [],
+        "EffectScalingOutput": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpoilageRate": false,
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyUsageRate": false,
+      "FuelRateModifier": {
+        "Active": true,
+        "FloatValue": -300
+      },
+      "MultiplyFuelRate": false,
+      "ConsumableChargesModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplyConsumableChargesRate": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial1Rate": false,
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial2Rate": false,
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial3Rate": false,
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial4Rate": false,
+      "LiquidRateModifier": 0,
+      "UpdateDurabilityConcentrations": {
+        "MaskValue": 0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": null,
+        "Quantity": {
+          "x": 0,
+          "y": 0
+        },
+        "Durabilities": {
+          "Spoilage": 0,
+          "Usage": 0,
+          "Fuel": 0,
+          "Progress": 0,
+          "Special1": 0,
+          "Special2": 0,
+          "Special3": 0,
+          "Special4": 0,
+          "SpoilageValue": 0,
+          "UsageValue": 0,
+          "FuelValue": 0,
+          "ProgressValue": 0,
+          "Special1Value": 0,
+          "Special2Value": 0,
+          "Special3Value": 0,
+          "Special4Value": 0,
+          "SpoilageFrom": 0,
+          "UsageFrom": 0,
+          "FuelFrom": 0,
+          "ProgressFrom": 0,
+          "Special1From": 0,
+          "Special2From": 0,
+          "Special3From": 0,
+          "Special4From": 0
+        }
+      },
+      "WeightCapacityModifier": 0,
+      "DroppedCards": [],
+      "name": {
+        "en": "Cool Down Fast ( Iron, not in Container capable of 1000+ temp )",
+        "zh": "Cool Down Fast ( Iron, not in Container capable of 1000+ temp )",
+        "ja": "Cool Down Fast ( Iron, not in Container capable of 1000+ temp )"
+      }
+    },
+    {
+      "EffectName": "Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+      "OnlyWhenEquipped": false,
+      "EquippedOnBodyOnly": false,
+      "OnlyWhenNOTEquipped": false,
+      "OnlyWhenInHand": false,
+      "OnlyOnBaseActions": false,
+      "OnlyOnNOTBaseActions": false,
+      "OnlyWhenNOTInBG": false,
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [
+          {
+            "key": "tag_TemperatureOver1000Container",
+            "text": "“Smelting Container”",
+            "icon": "",
+            "type": "tag",
+            "count": 3,
+            "zh": "温度超过1000容器",
+            "en": "Smelting Container",
+            "ja": "Smelting Container",
+            "SpoilageTime": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Temperature",
+                "Text": "温度",
+                "zh": "温度",
+                "en": "Temperature",
+                "ja": "Temperature"
+              },
+              "OverrideIcon": {
+                "FileName": "Hot"
+              },
+              "MaxValue": 1300
+            },
+            "FuelCapacity": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "燃烧度",
+                "zh": "容量",
+                "en": "Fuel",
+                "ja": ""
+              },
+              "OverrideIcon": {
+                "FileName": "Flame"
+              },
+              "MaxValue": 96
+            },
+            "SpecialDurability1": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Windflow",
+                "Text": "风力",
+                "zh": "风力",
+                "en": "Windflow",
+                "ja": "Windflow"
+              },
+              "OverrideIcon": null,
+              "MaxValue": 8
+            }
+          }
+        ],
+        "RequiredNOTContainerTags": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 200,
+            "y": 200
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 999
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "StatModifiers": [],
+      "EffectStacksWithRequiredCards": false,
+      "OnBoardEffectCap": 0,
+      "EffectScalesWithDurabilities": {
+        "Active": false,
+        "Inputs": [],
+        "EffectScalingOutput": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpoilageRate": false,
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyUsageRate": false,
+      "FuelRateModifier": {
+        "Active": true,
+        "FloatValue": -300
+      },
+      "MultiplyFuelRate": false,
+      "ConsumableChargesModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplyConsumableChargesRate": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial1Rate": false,
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial2Rate": false,
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial3Rate": false,
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial4Rate": false,
+      "LiquidRateModifier": 0,
+      "UpdateDurabilityConcentrations": {
+        "MaskValue": 0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": null,
+        "Quantity": {
+          "x": 0,
+          "y": 0
+        },
+        "Durabilities": {
+          "Spoilage": 0,
+          "Usage": 0,
+          "Fuel": 0,
+          "Progress": 0,
+          "Special1": 0,
+          "Special2": 0,
+          "Special3": 0,
+          "Special4": 0,
+          "SpoilageValue": 0,
+          "UsageValue": 0,
+          "FuelValue": 0,
+          "ProgressValue": 0,
+          "Special1Value": 0,
+          "Special2Value": 0,
+          "Special3Value": 0,
+          "Special4Value": 0,
+          "SpoilageFrom": 0,
+          "UsageFrom": 0,
+          "FuelFrom": 0,
+          "ProgressFrom": 0,
+          "Special1From": 0,
+          "Special2From": 0,
+          "Special3From": 0,
+          "Special4From": 0
+        }
+      },
+      "WeightCapacityModifier": 0,
+      "DroppedCards": [],
+      "name": {
+        "en": "Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "zh": "Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "ja": "Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )"
+      }
+    },
+    {
+      "EffectName": "Cool Down Slow ( Always )",
+      "OnlyWhenEquipped": false,
+      "EquippedOnBodyOnly": false,
+      "OnlyWhenNOTEquipped": false,
+      "OnlyWhenInHand": false,
+      "OnlyOnBaseActions": false,
+      "OnlyOnNOTBaseActions": false,
+      "OnlyWhenNOTInBG": false,
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredNOTContainerTags": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "StatModifiers": [],
+      "EffectStacksWithRequiredCards": false,
+      "OnBoardEffectCap": 0,
+      "EffectScalesWithDurabilities": {
+        "Active": false,
+        "Inputs": [],
+        "EffectScalingOutput": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpoilageRate": false,
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyUsageRate": false,
+      "FuelRateModifier": {
+        "Active": true,
+        "FloatValue": -100
+      },
+      "MultiplyFuelRate": false,
+      "ConsumableChargesModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyConsumableChargesRate": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial1Rate": false,
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial2Rate": false,
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial3Rate": false,
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial4Rate": false,
+      "LiquidRateModifier": 0,
+      "UpdateDurabilityConcentrations": {
+        "MaskValue": 0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": null,
+        "Quantity": {
+          "x": 0,
+          "y": 0
+        },
+        "Durabilities": {
+          "Spoilage": 0,
+          "Usage": 0,
+          "Fuel": 0,
+          "Progress": 0,
+          "Special1": 0,
+          "Special2": 0,
+          "Special3": 0,
+          "Special4": 0,
+          "SpoilageValue": 0,
+          "UsageValue": 0,
+          "FuelValue": 0,
+          "ProgressValue": 0,
+          "Special1Value": 0,
+          "Special2Value": 0,
+          "Special3Value": 0,
+          "Special4Value": 0,
+          "SpoilageFrom": 0,
+          "UsageFrom": 0,
+          "FuelFrom": 0,
+          "ProgressFrom": 0,
+          "Special1From": 0,
+          "Special2From": 0,
+          "Special3From": 0,
+          "Special4From": 0
+        }
+      },
+      "WeightCapacityModifier": 0,
+      "DroppedCards": [],
+      "name": {
+        "en": "Cool Down Slow ( Always )",
+        "zh": "Cool Down Slow ( Always )",
+        "ja": "Cool Down Slow ( Always )"
+      }
+    },
+    {
+      "EffectName": "Lose Smelting ( Iron )",
+      "OnlyWhenEquipped": false,
+      "EquippedOnBodyOnly": false,
+      "OnlyWhenNOTEquipped": false,
+      "OnlyWhenInHand": false,
+      "OnlyOnBaseActions": false,
+      "OnlyOnNOTBaseActions": false,
+      "OnlyWhenNOTInBG": false,
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredNOTContainerTags": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 200,
+            "y": 200
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "StatModifiers": [],
+      "EffectStacksWithRequiredCards": false,
+      "OnBoardEffectCap": 0,
+      "EffectScalesWithDurabilities": {
+        "Active": false,
+        "Inputs": [],
+        "EffectScalingOutput": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpoilageRate": false,
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyUsageRate": false,
+      "FuelRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyFuelRate": false,
+      "ConsumableChargesModifier": {
+        "Active": true,
+        "FloatValue": -10
+      },
+      "MultiplyConsumableChargesRate": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial1Rate": false,
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial2Rate": false,
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial3Rate": false,
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial4Rate": false,
+      "LiquidRateModifier": 0,
+      "UpdateDurabilityConcentrations": {
+        "MaskValue": 0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": null,
+        "Quantity": {
+          "x": 0,
+          "y": 0
+        },
+        "Durabilities": {
+          "Spoilage": 0,
+          "Usage": 0,
+          "Fuel": 0,
+          "Progress": 0,
+          "Special1": 0,
+          "Special2": 0,
+          "Special3": 0,
+          "Special4": 0,
+          "SpoilageValue": 0,
+          "UsageValue": 0,
+          "FuelValue": 0,
+          "ProgressValue": 0,
+          "Special1Value": 0,
+          "Special2Value": 0,
+          "Special3Value": 0,
+          "Special4Value": 0,
+          "SpoilageFrom": 0,
+          "UsageFrom": 0,
+          "FuelFrom": 0,
+          "ProgressFrom": 0,
+          "Special1From": 0,
+          "Special2From": 0,
+          "Special3From": 0,
+          "Special4From": 0
+        }
+      },
+      "WeightCapacityModifier": 0,
+      "DroppedCards": [],
+      "name": {
+        "en": "Lose Smelting ( Iron )",
+        "zh": "Lose Smelting ( Iron )",
+        "ja": "Lose Smelting ( Iron )"
+      }
+    },
+    {
+      "EffectName": "Lose Smelting if not in smelting container ( Always )",
+      "OnlyWhenEquipped": false,
+      "EquippedOnBodyOnly": false,
+      "OnlyWhenNOTEquipped": false,
+      "OnlyWhenInHand": false,
+      "OnlyOnBaseActions": false,
+      "OnlyOnNOTBaseActions": false,
+      "OnlyWhenNOTInBG": false,
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredNOTContainerTags": [
+          {
+            "key": "tag_SmeltingContainer",
+            "text": "“Smelting Container”",
+            "icon": "",
+            "type": "tag",
+            "count": 2,
+            "zh": "熔炼容器",
+            "en": "Smelting Container",
+            "ja": "Smelting Container",
+            "SpoilageTime": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Temperature",
+                "Text": "温度",
+                "zh": "温度",
+                "en": "Temperature",
+                "ja": "Temperature"
+              },
+              "OverrideIcon": {
+                "FileName": "Hot"
+              },
+              "MaxValue": 1300
+            },
+            "FuelCapacity": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "燃烧度",
+                "zh": "容量",
+                "en": "Fuel",
+                "ja": ""
+              },
+              "OverrideIcon": {
+                "FileName": "Flame"
+              },
+              "MaxValue": 96
+            },
+            "SpecialDurability1": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Windflow",
+                "Text": "风力",
+                "zh": "风力",
+                "en": "Windflow",
+                "ja": "Windflow"
+              },
+              "OverrideIcon": null,
+              "MaxValue": 8
+            }
+          }
+        ],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "StatModifiers": [],
+      "EffectStacksWithRequiredCards": false,
+      "OnBoardEffectCap": 0,
+      "EffectScalesWithDurabilities": {
+        "Active": false,
+        "Inputs": [],
+        "EffectScalingOutput": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpoilageRate": false,
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyUsageRate": false,
+      "FuelRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyFuelRate": false,
+      "ConsumableChargesModifier": {
+        "Active": true,
+        "FloatValue": -1
+      },
+      "MultiplyConsumableChargesRate": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial1Rate": false,
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial2Rate": false,
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial3Rate": false,
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial4Rate": false,
+      "LiquidRateModifier": 0,
+      "UpdateDurabilityConcentrations": {
+        "MaskValue": 0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": null,
+        "Quantity": {
+          "x": 0,
+          "y": 0
+        },
+        "Durabilities": {
+          "Spoilage": 0,
+          "Usage": 0,
+          "Fuel": 0,
+          "Progress": 0,
+          "Special1": 0,
+          "Special2": 0,
+          "Special3": 0,
+          "Special4": 0,
+          "SpoilageValue": 0,
+          "UsageValue": 0,
+          "FuelValue": 0,
+          "ProgressValue": 0,
+          "Special1Value": 0,
+          "Special2Value": 0,
+          "Special3Value": 0,
+          "Special4Value": 0,
+          "SpoilageFrom": 0,
+          "UsageFrom": 0,
+          "FuelFrom": 0,
+          "ProgressFrom": 0,
+          "Special1From": 0,
+          "Special2From": 0,
+          "Special3From": 0,
+          "Special4From": 0
+        }
+      },
+      "WeightCapacityModifier": 0,
+      "DroppedCards": [],
+      "name": {
+        "en": "Lose Smelting if not in smelting container ( Always )",
+        "zh": "Lose Smelting if not in smelting container ( Always )",
+        "ja": "Lose Smelting if not in smelting container ( Always )"
+      }
+    },
+    {
+      "EffectName": "Lose Smelting if smelting container bellow 1100 ( Always )",
+      "OnlyWhenEquipped": false,
+      "EquippedOnBodyOnly": false,
+      "OnlyWhenNOTEquipped": false,
+      "OnlyWhenInHand": false,
+      "OnlyOnBaseActions": false,
+      "OnlyOnNOTBaseActions": false,
+      "OnlyWhenNOTInBG": false,
+      "Conditions": {
+        "NotInBackground": false,
+        "InBackground": false,
+        "PlayerUsesCard": 0,
+        "RequiredEnvironment": null,
+        "InvertEnvironmentRequirement": false,
+        "RequiredEnvironmentTags": [],
+        "RequiredNOTEnvironmentTags": [],
+        "RequiredContainer": [],
+        "RequiredNOTContainer": [],
+        "RequiredContainerTags": [
+          {
+            "key": "tag_SmeltingContainer",
+            "text": "“Smelting Container”",
+            "icon": "",
+            "type": "tag",
+            "count": 2,
+            "zh": "熔炼容器",
+            "en": "Smelting Container",
+            "ja": "Smelting Container",
+            "SpoilageTime": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Temperature",
+                "Text": "温度",
+                "zh": "温度",
+                "en": "Temperature",
+                "ja": "Temperature"
+              },
+              "OverrideIcon": {
+                "FileName": "Hot"
+              },
+              "MaxValue": 1300
+            },
+            "FuelCapacity": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "",
+                "Text": "燃烧度",
+                "zh": "容量",
+                "en": "Fuel",
+                "ja": ""
+              },
+              "OverrideIcon": {
+                "FileName": "Flame"
+              },
+              "MaxValue": 96
+            },
+            "SpecialDurability1": {
+              "Active": true,
+              "CardStatName": {
+                "DefaultText": "Windflow",
+                "Text": "风力",
+                "zh": "风力",
+                "en": "Windflow",
+                "ja": "Windflow"
+              },
+              "OverrideIcon": null,
+              "MaxValue": 8
+            }
+          }
+        ],
+        "RequiredNOTContainerTags": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredTagsOnBoard": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredLiquidContainers": [],
+        "RequiredCardsInInventory": [],
+        "RequiredTagsInInventory": [],
+        "CardWasBuiltWith": [],
+        "CardWasNOTBuiltWith": [],
+        "RequiredPlayerOwnedCards": [],
+        "RequiredPlayerNOTOwnedCards": [],
+        "ReceivingRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 1099
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "GivenContainerRequiredDurabilityRanges": {
+          "SpoilageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "UsageRange": {
+            "x": 0,
+            "y": 0
+          },
+          "FuelRange": {
+            "x": 0,
+            "y": 0
+          },
+          "ProgressRange": {
+            "x": 0,
+            "y": 0
+          },
+          "Special1Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special2Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special3Range": {
+            "x": 0,
+            "y": 0
+          },
+          "Special4Range": {
+            "x": 0,
+            "y": 0
+          },
+          "LiquidQuantityRange": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "ReceivingCardTags": [],
+        "GivenCardTags": [],
+        "ReceivingCardSpices": [],
+        "GivenCardSpices": [],
+        "RequiredEnvironmentWeight": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0
+        },
+        "RequiredStatValues": [],
+        "RequiredNPCStatValues": [],
+        "RequiredInGameTimes": [],
+        "RequiredAlreadyVisitedEnvironments": []
+      },
+      "StatModifiers": [],
+      "EffectStacksWithRequiredCards": false,
+      "OnBoardEffectCap": 0,
+      "EffectScalesWithDurabilities": {
+        "Active": false,
+        "Inputs": [],
+        "EffectScalingOutput": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "SpoilageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpoilageRate": false,
+      "UsageRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyUsageRate": false,
+      "FuelRateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplyFuelRate": false,
+      "ConsumableChargesModifier": {
+        "Active": true,
+        "FloatValue": -1
+      },
+      "MultiplyConsumableChargesRate": false,
+      "Special1RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial1Rate": false,
+      "Special2RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial2Rate": false,
+      "Special3RateModifier": {
+        "Active": false,
+        "FloatValue": 0
+      },
+      "MultiplySpecial3Rate": false,
+      "Special4RateModifier": {
+        "Active": false,
+        "FloatValue": -1
+      },
+      "MultiplySpecial4Rate": false,
+      "LiquidRateModifier": 0,
+      "UpdateDurabilityConcentrations": {
+        "MaskValue": 0
+      },
+      "GeneratedLiquid": {
+        "LiquidCard": null,
+        "Quantity": {
+          "x": 0,
+          "y": 0
+        },
+        "Durabilities": {
+          "Spoilage": 0,
+          "Usage": 0,
+          "Fuel": 0,
+          "Progress": 0,
+          "Special1": 0,
+          "Special2": 0,
+          "Special3": 0,
+          "Special4": 0,
+          "SpoilageValue": 0,
+          "UsageValue": 0,
+          "FuelValue": 0,
+          "ProgressValue": 0,
+          "Special1Value": 0,
+          "Special2Value": 0,
+          "Special3Value": 0,
+          "Special4Value": 0,
+          "SpoilageFrom": 0,
+          "UsageFrom": 0,
+          "FuelFrom": 0,
+          "ProgressFrom": 0,
+          "Special1From": 0,
+          "Special2From": 0,
+          "Special3From": 0,
+          "Special4From": 0
+        }
+      },
+      "WeightCapacityModifier": 0,
+      "DroppedCards": [],
+      "name": {
+        "en": "Lose Smelting if smelting container bellow 1100 ( Always )",
+        "zh": "Lose Smelting if smelting container bellow 1100 ( Always )",
+        "ja": "Lose Smelting if smelting container bellow 1100 ( Always )"
       }
     }
   ],

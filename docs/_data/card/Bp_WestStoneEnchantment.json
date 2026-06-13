@@ -6,7 +6,7 @@
   "zh": "韦石附魔",
   "en": "West Stone Enchantment",
   "ja": "West Stone Enchantment",
-  "UniqueIDIndex": 668,
+  "UniqueIDIndex": 669,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1202,7 +1202,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

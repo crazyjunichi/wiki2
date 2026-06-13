@@ -6,7 +6,7 @@
   "zh": "新鲜荨麻茎",
   "en": "Fresh Nettle Stems",
   "ja": "Fresh Nettle Stems",
-  "UniqueIDIndex": 1875,
+  "UniqueIDIndex": 1876,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -1162,7 +1162,7 @@
     "HasActionOnFull": true,
     "RepeatActionOnFull": false,
     "ShowPopupOnFull": false,
-    "OnFullNotification": 0,
+    "OnFullNotification": 1,
     "OnFull": {
       "ActionName": {
         "DefaultText": "",
@@ -1172,11 +1172,11 @@
         "ja": ""
       },
       "ActionDescription": {
-        "DefaultText": "",
-        "Text": "",
-        "zh": "",
-        "en": "",
-        "ja": ""
+        "DefaultText": "Nettle has taken.",
+        "Text": "Nettle has taken.",
+        "zh": "Nettle has taken.",
+        "en": "Nettle has taken.",
+        "ja": "Nettle has taken."
       },
       "NoveltyShared": false,
       "VictorySettings": {

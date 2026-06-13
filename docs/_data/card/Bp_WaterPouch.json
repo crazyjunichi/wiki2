@@ -6,7 +6,7 @@
   "zh": "胃水袋",
   "en": "Water Pouch",
   "ja": "Water Pouch",
-  "UniqueIDIndex": 662,
+  "UniqueIDIndex": 663,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1434,10 +1434,10 @@
           "RequiredCard": null,
           "RequiredTabGroup": {
             "key": "GpTag_DriedStomach",
-            "text": "“巫石粉末”",
+            "text": "“胃干”",
             "type": "tag",
-            "zh": "巫石粉末",
-            "en": "Witchstone Dust",
+            "zh": "胃干",
+            "en": "Dried Stomach",
             "ja": "Dried Stomach",
             "SubGroups": [],
             "count": 2,

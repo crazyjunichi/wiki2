@@ -6,7 +6,7 @@
   "zh": "大型动物陷阱",
   "en": "Big Game Traps",
   "ja": "Big Game Traps",
-  "UniqueIDIndex": 4437,
+  "UniqueIDIndex": 4447,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Wolf",
         "ja": "Wolf",
         "UniqueID": "f77939c48014fe84c9a54b37c5c8620e",
-        "UniqueIDIndex": 4440,
+        "UniqueIDIndex": 4450,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -244,7 +244,7 @@
         "en": "Doe",
         "ja": "Doe",
         "UniqueID": "f4adacbeb85579a41858e757759c8a31",
-        "UniqueIDIndex": 4441,
+        "UniqueIDIndex": 4451,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -462,7 +462,7 @@
         "en": "Stag",
         "ja": "Stag",
         "UniqueID": "6602fee9025d8e84c8ee56a326b25bf2",
-        "UniqueIDIndex": 4442,
+        "UniqueIDIndex": 4452,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -680,7 +680,7 @@
         "en": "Boar",
         "ja": "Boar",
         "UniqueID": "bfe6323e8b9c3d044bf1bf28cd50be6e",
-        "UniqueIDIndex": 4443,
+        "UniqueIDIndex": 4453,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

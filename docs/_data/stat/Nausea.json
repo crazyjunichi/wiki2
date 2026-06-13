@@ -6,7 +6,7 @@
   "zh": "恶心",
   "en": "Nausea",
   "ja": "吐き気",
-  "UniqueIDIndex": 3761,
+  "UniqueIDIndex": 3771,
   "GameName": {
     "DefaultText": "Nausea",
     "Text": "恶心",
@@ -988,7 +988,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -1009,7 +1009,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",

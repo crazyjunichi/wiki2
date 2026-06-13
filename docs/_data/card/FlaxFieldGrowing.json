@@ -6,7 +6,7 @@
   "zh": "生长中的亚麻田",
   "en": "Growing Flax Field",
   "ja": "Growing Flax Field",
-  "UniqueIDIndex": 1296,
+  "UniqueIDIndex": 1297,
   "CardType": 2,
   "CardTags": [
     {
@@ -8131,7 +8131,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

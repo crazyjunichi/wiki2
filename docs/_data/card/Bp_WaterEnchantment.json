@@ -6,7 +6,7 @@
   "zh": "水附魔",
   "en": "Water Enchantment",
   "ja": "水のエンチャント",
-  "UniqueIDIndex": 659,
+  "UniqueIDIndex": 660,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

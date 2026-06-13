@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 4569,
+  "UniqueIDIndex": 4579,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Big Game Hunting",
         "ja": "Big Game Hunting",
         "UniqueID": "e18b76cfcc119e34c8910e49ecdb3b39",
-        "UniqueIDIndex": 4542,
+        "UniqueIDIndex": 4552,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Wolf",
               "ja": "Wolf",
               "UniqueID": "05e10f7958cc1d842aa683eedf3ec6d6",
-              "UniqueIDIndex": 4545,
+              "UniqueIDIndex": 4555,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -264,7 +264,7 @@
               "en": "Doe",
               "ja": "Doe",
               "UniqueID": "2f57297535ab4cb4988390f07dd5cfbc",
-              "UniqueIDIndex": 4546,
+              "UniqueIDIndex": 4556,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -482,7 +482,7 @@
               "en": "Stag",
               "ja": "Stag",
               "UniqueID": "6b52d652e9959d445ac996321a6fc833",
-              "UniqueIDIndex": 4547,
+              "UniqueIDIndex": 4557,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -700,7 +700,7 @@
               "en": "Boar",
               "ja": "Boar",
               "UniqueID": "b412a17ff5276d048b0efbe7660e10c3",
-              "UniqueIDIndex": 4548,
+              "UniqueIDIndex": 4558,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -920,7 +920,7 @@
               "en": "Bear",
               "ja": "Bear",
               "UniqueID": "6a3d52ae9084b2b43ab766a1e756de9d",
-              "UniqueIDIndex": 4549,
+              "UniqueIDIndex": 4559,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1933,7 +1933,7 @@
         "en": "Small Game Hunting",
         "ja": "Small Game Hunting",
         "UniqueID": "9da81e219be848446902f92f2a4b1dae",
-        "UniqueIDIndex": 4555,
+        "UniqueIDIndex": 4565,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -1953,7 +1953,7 @@
               "en": "Partridge",
               "ja": "Partridge",
               "UniqueID": "d100c31dc3e52224c80e85258dd48092",
-              "UniqueIDIndex": 4558,
+              "UniqueIDIndex": 4568,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2171,7 +2171,7 @@
               "en": "Duck",
               "ja": "Duck",
               "UniqueID": "bd85227c00749ee4db3d07d644be16f3",
-              "UniqueIDIndex": 4559,
+              "UniqueIDIndex": 4569,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2389,7 +2389,7 @@
               "en": "Badger",
               "ja": "Badger",
               "UniqueID": "1ce1ecb2a1bc48241a9401315b4b020b",
-              "UniqueIDIndex": 4560,
+              "UniqueIDIndex": 4570,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2607,7 +2607,7 @@
               "en": "Hare",
               "ja": "Hare",
               "UniqueID": "bf8935a507c42bb4e87421135e1c7c64",
-              "UniqueIDIndex": 4561,
+              "UniqueIDIndex": 4571,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2825,7 +2825,7 @@
               "en": "Fox",
               "ja": "Fox",
               "UniqueID": "e73aa6ef54bd5c647acb625bc3d91a78",
-              "UniqueIDIndex": 4562,
+              "UniqueIDIndex": 4572,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3836,7 +3836,7 @@
         "en": "Tools of the Hunt",
         "ja": "Tools of the Hunt",
         "UniqueID": "77daea09f9b861245af98f6f58e8a498",
-        "UniqueIDIndex": 4573,
+        "UniqueIDIndex": 4583,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -3856,7 +3856,7 @@
               "en": "Craft a Hunting Spear",
               "ja": "Craft a Hunting Spear",
               "UniqueID": "9b7c66bc203b6984f9c5d949368d5f96",
-              "UniqueIDIndex": 4576,
+              "UniqueIDIndex": 4586,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4166,7 +4166,7 @@
               "en": "Craft a Hunting Spear",
               "ja": "Craft a Hunting Spear",
               "UniqueID": "461396527db7d7d4ca5e7eace46e2e02",
-              "UniqueIDIndex": 4577,
+              "UniqueIDIndex": 4587,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4382,7 +4382,7 @@
               "en": "Craft Broadhead Arrows",
               "ja": "Craft Broadhead Arrows",
               "UniqueID": "095361fdcf8fa254b89a4f7d4dc83e24",
-              "UniqueIDIndex": 4578,
+              "UniqueIDIndex": 4588,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4692,7 +4692,7 @@
               "en": "Apply Wolfsbane to a Weapon",
               "ja": "Apply Wolfsbane to a Weapon",
               "UniqueID": "0c829362855ee184d83e1007de60aa2c",
-              "UniqueIDIndex": 4579,
+              "UniqueIDIndex": 4589,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {

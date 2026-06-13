@@ -3,7 +3,7 @@
   "key": "Tgr_BoarSpiritEncounteredInsightBonus",
   "icon": "",
   "type": "trigger",
-  "UniqueIDIndex": 4345,
+  "UniqueIDIndex": 4355,
   "Actions": [
     {
       "ActionName": {

@@ -195,11 +195,11 @@
     "RequiredAlreadyVisitedEnvironments": []
   },
   "Line": {
-    "DefaultText": "The man smiles at you.",
-    "Text": "那个男人向你微笑。",
-    "zh": "那个男人向你微笑。",
-    "en": "The man smiles at you.",
-    "ja": "The man smiles at you."
+    "DefaultText": "He greets you with a steady gaze.",
+    "Text": "他以沉稳的目光向你致意。",
+    "zh": "他以沉稳的目光向你致意。",
+    "en": "He greets you with a steady gaze.",
+    "ja": "He greets you with a steady gaze."
   },
   "OverrideSpeakerName": {
     "Active": false,
@@ -571,12 +571,12 @@
       "NewNextLine": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Happy_to_Trade_0_2081",
+          "key": "Happy_to_Trade_0_2082",
           "icon": "",
           "type": "dialog",
-          "zh": "Happy_to_Trade_0_2081",
-          "en": "Happy_to_Trade_0_2081",
-          "ja": "Happy_to_Trade_0_2081"
+          "zh": "Happy_to_Trade_0_2082",
+          "en": "Happy_to_Trade_0_2082",
+          "ja": "Happy_to_Trade_0_2082"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -1086,12 +1086,12 @@
       "NewNextLine": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Questions_Hub_0_7846",
+          "key": "Questions_Hub_0_7857",
           "icon": "",
           "type": "dialog",
-          "zh": "Questions_Hub_0_7846",
-          "en": "Questions_Hub_0_7846",
-          "ja": "Questions_Hub_0_7846"
+          "zh": "Questions_Hub_0_7857",
+          "en": "Questions_Hub_0_7857",
+          "ja": "Questions_Hub_0_7857"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -1302,12 +1302,12 @@
           {
             "UseAssociatedAgent": false,
             "TargetAgent": {
-              "key": "Agent_TraderGeneral",
-              "icon": "Trader",
+              "key": "Agent_TraderMetal",
+              "icon": "Trader_Metal",
               "type": "npc",
-              "zh": "商人",
-              "en": "Trader",
-              "ja": "商人"
+              "zh": "金属商人",
+              "en": "Metal Trader",
+              "ja": "Metal Trader"
             },
             "TargetStat": {
               "m_Name": "AgentTrust",
@@ -1401,11 +1401,11 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "eeccbe55704197944a02a36405404c46",
-              "UniqueIDIndex": 3081
+              "UniqueIDIndex": 3090
             },
             "ConditionRange": {
               "x": 25,
-              "y": 1000000000
+              "y": 20000
             }
           }
         ],
@@ -1457,12 +1457,12 @@
       "NewNextLine": {
         "NextStep": 0,
         "NextLine": {
-          "key": "Request_Hub_0_7628",
+          "key": "Request_Hub_0_7640",
           "icon": "",
           "type": "dialog",
-          "zh": "Request_Hub_0_7628",
-          "en": "Request_Hub_0_7628",
-          "ja": "Request_Hub_0_7628"
+          "zh": "Request_Hub_0_7640",
+          "en": "Request_Hub_0_7640",
+          "ja": "Request_Hub_0_7640"
         },
         "NextScene": null,
         "DontClearHistory": false
@@ -1485,10 +1485,10 @@
     }
   ],
   "ownerDialogScene": {
-    "key": "TraderTalkGeneral",
-    "zh": "TraderTalkGeneral",
-    "en": "TraderTalkGeneral",
-    "ja": "TraderTalkGeneral",
+    "key": "TraderTalkMetal",
+    "zh": "TraderTalkMetal",
+    "en": "TraderTalkMetal",
+    "ja": "TraderTalkMetal",
     "icon": "",
     "type": "dialog"
   },

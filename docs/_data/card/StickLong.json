@@ -6,7 +6,7 @@
   "zh": "长木棍",
   "en": "Long Stick",
   "ja": "長い棒",
-  "UniqueIDIndex": 2375,
+  "UniqueIDIndex": 2376,
   "CardType": 0,
   "CardTags": [
     {
@@ -2380,6 +2380,21 @@
                 "en": "Willow Long Stick",
                 "ja": "ヤナギの長い棒"
               }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 5,
+                  "y": 5
+                }
+              },
+              "Name": {
+                "DefaultText": "Alder Long Stick",
+                "Text": "Alder Long Stick",
+                "zh": "Alder Long Stick",
+                "en": "Alder Long Stick",
+                "ja": "Alder Long Stick"
+              }
             }
           ],
           "SpoilageTime": {
@@ -2614,6 +2629,21 @@
                 "zh": "长柳木棍",
                 "en": "Willow Long Stick",
                 "ja": "ヤナギの長い棒"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 5,
+                  "y": 5
+                }
+              },
+              "Name": {
+                "DefaultText": "Alder Long Stick",
+                "Text": "Alder Long Stick",
+                "zh": "Alder Long Stick",
+                "en": "Alder Long Stick",
+                "ja": "Alder Long Stick"
               }
             }
           ],
@@ -2941,6 +2971,21 @@
                 "en": "Willow Long Stick",
                 "ja": "ヤナギの長い棒"
               }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 5,
+                  "y": 5
+                }
+              },
+              "Name": {
+                "DefaultText": "Alder Long Stick",
+                "Text": "Alder Long Stick",
+                "zh": "Alder Long Stick",
+                "en": "Alder Long Stick",
+                "ja": "Alder Long Stick"
+              }
             }
           ],
           "SpoilageTime": {
@@ -3219,6 +3264,21 @@
                 "zh": "长柳木棍",
                 "en": "Willow Long Stick",
                 "ja": "ヤナギの長い棒"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 5,
+                  "y": 5
+                }
+              },
+              "Name": {
+                "DefaultText": "Alder Long Stick",
+                "Text": "Alder Long Stick",
+                "zh": "Alder Long Stick",
+                "en": "Alder Long Stick",
+                "ja": "Alder Long Stick"
               }
             }
           ],
@@ -5156,6 +5216,59 @@
         "zh": "长柳木棍",
         "en": "Willow Long Stick",
         "ja": "ヤナギの長い棒"
+      },
+      "Art": {
+        "SeasonID": "",
+        "CardImage": null,
+        "CardBackground": null,
+        "ShowImageAboveTitle": false
+      }
+    },
+    {
+      "Conditions": {
+        "SpoilageRange": {
+          "x": 0,
+          "y": 0
+        },
+        "UsageRange": {
+          "x": 0,
+          "y": 0
+        },
+        "FuelRange": {
+          "x": 0,
+          "y": 0
+        },
+        "ProgressRange": {
+          "x": 0,
+          "y": 0
+        },
+        "Special1Range": {
+          "x": 0,
+          "y": 0
+        },
+        "Special2Range": {
+          "x": 0,
+          "y": 0
+        },
+        "Special3Range": {
+          "x": 0,
+          "y": 0
+        },
+        "Special4Range": {
+          "x": 5,
+          "y": 5
+        },
+        "LiquidQuantityRange": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "Name": {
+        "DefaultText": "Alder Long Stick",
+        "Text": "Alder Long Stick",
+        "zh": "Alder Long Stick",
+        "en": "Alder Long Stick",
+        "ja": "Alder Long Stick"
       },
       "Art": {
         "SeasonID": "",

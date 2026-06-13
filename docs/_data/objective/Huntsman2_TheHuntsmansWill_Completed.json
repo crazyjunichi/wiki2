@@ -6,7 +6,7 @@
   "zh": "猎人的心愿",
   "en": "The Huntsman's Will",
   "ja": "The Huntsman's Will",
-  "UniqueIDIndex": 3557,
+  "UniqueIDIndex": 3567,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Find Witchstone (& keep it hidden from Sunlight)",
         "ja": "Find Witchstone (& keep it hidden from Sunlight)",
         "UniqueID": "c7d35ca4971223244a2a22c67fe73593",
-        "UniqueIDIndex": 3560,
+        "UniqueIDIndex": 3570,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -244,7 +244,7 @@
         "en": "Research & Build a Large Crucible",
         "ja": "Research & Build a Large Crucible",
         "UniqueID": "a6b13518ad5530a4395d46b03329e694",
-        "UniqueIDIndex": 3561,
+        "UniqueIDIndex": 3571,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -458,7 +458,7 @@
         "en": "Craft a Ghost Bronze Hunting Spear",
         "ja": "Craft a Ghost Bronze Hunting Spear",
         "UniqueID": "87e25bfe3c0f982408004401214a202a",
-        "UniqueIDIndex": 3562,
+        "UniqueIDIndex": 3572,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -768,7 +768,7 @@
         "en": "Enchant your Spear with Moonlight",
         "ja": "Enchant your Spear with Moonlight",
         "UniqueID": "65abd306aca5ad246abd1ec629c666ab",
-        "UniqueIDIndex": 3563,
+        "UniqueIDIndex": 3573,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1904,7 +1904,7 @@
         "en": "Apply Wolfsbane Coating",
         "ja": "Apply Wolfsbane Coating",
         "UniqueID": "c4eb0b57d10836043939c70320a2d9ee",
-        "UniqueIDIndex": 3564,
+        "UniqueIDIndex": 3574,
         "StartUnlocked": false,
         "ActionObjectives": [
           {

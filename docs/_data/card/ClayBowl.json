@@ -6,7 +6,7 @@
   "zh": "陶碗",
   "en": "Clay Bowl",
   "ja": "粘土のボウル",
-  "UniqueIDIndex": 842,
+  "UniqueIDIndex": 843,
   "CardType": 0,
   "CardTags": [
     {
@@ -4972,7 +4972,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -12514,7 +12514,7 @@
         "ja": "妖精茶"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
         "ja": "アクション：Drink"
       }
@@ -12724,9 +12724,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       }
     },
     {

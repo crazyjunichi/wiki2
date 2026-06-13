@@ -6,7 +6,7 @@
   "zh": "冰鞋",
   "en": "Ice Skates",
   "ja": "Ice Skates",
-  "UniqueIDIndex": 1476,
+  "UniqueIDIndex": 1477,
   "CardType": 0,
   "CardTags": [
     {
@@ -226,7 +226,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",
@@ -4221,7 +4221,7 @@
                 "Text": "青蛙种群",
                 "zh": "青蛙种群",
                 "en": "Frog Population",
-                "ja": "カエルの数"
+                "ja": "Frog Population"
               },
               "OverrideIcon": null,
               "MaxValue": 20000
@@ -4670,7 +4670,7 @@
                 "Text": "青蛙种群",
                 "zh": "青蛙种群",
                 "en": "Frog Population",
-                "ja": "カエルの数"
+                "ja": "Frog Population"
               },
               "OverrideIcon": null,
               "MaxValue": 20000
@@ -5568,9 +5568,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：溜冰",
@@ -7296,9 +7296,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：溜冰",

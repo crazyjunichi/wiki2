@@ -6,7 +6,7 @@
   "zh": "熔炉",
   "en": "Furnace",
   "ja": "Furnace",
-  "UniqueIDIndex": 1351,
+  "UniqueIDIndex": 1352,
   "CardType": 2,
   "CardTags": [
     {
@@ -20885,9 +20885,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -20999,9 +20999,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -21131,9 +21131,9 @@
             },
             "Name": {
               "DefaultText": "Iron Chisel Blade Blank",
-              "Text": "铁凿刃坯",
-              "zh": "铁凿刃坯",
-              "en": "White Bronze Chisel Blade Blank",
+              "Text": "Iron Chisel Blade Blank",
+              "zh": "Iron Chisel Blade Blank",
+              "en": "Iron Chisel Blade Blank",
               "ja": "Iron Chisel Blade Blank"
             }
           },
@@ -21245,9 +21245,9 @@
             },
             "Name": {
               "DefaultText": "Heated Iron Chisel Blade Blank",
-              "Text": "加热的铁凿刃坯",
-              "zh": "加热的铁凿刃坯",
-              "en": "Heated White Bronze Chisel Blade Blank",
+              "Text": "Heated Iron Chisel Blade Blank",
+              "zh": "Heated Iron Chisel Blade Blank",
+              "en": "Heated Iron Chisel Blade Blank",
               "ja": "Heated Iron Chisel Blade Blank"
             }
           }
@@ -39407,6 +39407,438 @@
         "zh": "被动效果：Lose Usage if smelting container is hot",
         "en": "Passive Effect：Lose Usage if smelting container is hot",
         "ja": "パッシブ効果：Lose Usage if smelting container is hot"
+      }
+    },
+    {
+      "link": {
+        "key": "ToolOrWeapon_Torc_Metal",
+        "icon": "Torc_Copper",
+        "type": "card",
+        "CardType": 0,
+        "zh": "金属颈环",
+        "en": "Metal Torc",
+        "ja": "Metal Torc",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 100,
+                "y": 100
+              }
+            },
+            "Name": {
+              "DefaultText": "Copper Torc",
+              "Text": "铜颈环",
+              "zh": "铜颈环",
+              "en": "Copper Torc",
+              "ja": "Copper Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 110,
+                "y": 110
+              }
+            },
+            "Name": {
+              "DefaultText": "Ghost Bronze Torc",
+              "Text": "鬼铜颈环",
+              "zh": "鬼铜颈环",
+              "en": "Ghost Bronze Torc",
+              "ja": "Ghost Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 120,
+                "y": 120
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Torc",
+              "Text": "锡颈环",
+              "zh": "锡颈环",
+              "en": "Tin Torc",
+              "ja": "Tin Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 130,
+                "y": 130
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Bronze Torc",
+              "Text": "青铜颈环",
+              "zh": "青铜颈环",
+              "en": "Tin Bronze Torc",
+              "ja": "Tin Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 140,
+                "y": 140
+              }
+            },
+            "Name": {
+              "DefaultText": "White Bronze Torc",
+              "Text": "白铜颈环",
+              "zh": "白铜颈环",
+              "en": "White Bronze Torc",
+              "ja": "White Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 200,
+                "y": 200
+              }
+            },
+            "Name": {
+              "DefaultText": "Iron Torc",
+              "Text": "铁项圈",
+              "zh": "铁项圈",
+              "en": "Iron Torc",
+              "ja": "Iron Torc"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "被动效果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "en": "Passive Effect：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "ja": "パッシブ効果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )"
+      }
+    },
+    {
+      "link": {
+        "key": "ToolOrWeapon_Torc_Metal",
+        "icon": "Torc_Copper",
+        "type": "card",
+        "CardType": 0,
+        "zh": "金属颈环",
+        "en": "Metal Torc",
+        "ja": "Metal Torc",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 100,
+                "y": 100
+              }
+            },
+            "Name": {
+              "DefaultText": "Copper Torc",
+              "Text": "铜颈环",
+              "zh": "铜颈环",
+              "en": "Copper Torc",
+              "ja": "Copper Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 110,
+                "y": 110
+              }
+            },
+            "Name": {
+              "DefaultText": "Ghost Bronze Torc",
+              "Text": "鬼铜颈环",
+              "zh": "鬼铜颈环",
+              "en": "Ghost Bronze Torc",
+              "ja": "Ghost Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 120,
+                "y": 120
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Torc",
+              "Text": "锡颈环",
+              "zh": "锡颈环",
+              "en": "Tin Torc",
+              "ja": "Tin Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 130,
+                "y": 130
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Bronze Torc",
+              "Text": "青铜颈环",
+              "zh": "青铜颈环",
+              "en": "Tin Bronze Torc",
+              "ja": "Tin Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 140,
+                "y": 140
+              }
+            },
+            "Name": {
+              "DefaultText": "White Bronze Torc",
+              "Text": "白铜颈环",
+              "zh": "白铜颈环",
+              "en": "White Bronze Torc",
+              "ja": "White Bronze Torc"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 200,
+                "y": 200
+              }
+            },
+            "Name": {
+              "DefaultText": "Iron Torc",
+              "Text": "铁项圈",
+              "zh": "铁项圈",
+              "en": "Iron Torc",
+              "ja": "Iron Torc"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "被动效果：Lose Smelting if smelting container bellow 1100 ( Always )",
+        "en": "Passive Effect：Lose Smelting if smelting container bellow 1100 ( Always )",
+        "ja": "パッシブ効果：Lose Smelting if smelting container bellow 1100 ( Always )"
+      }
+    },
+    {
+      "link": {
+        "key": "ToolOrWeapon_TwistedRing_Metal",
+        "icon": "RingTwisted_Copper",
+        "type": "card",
+        "CardType": 0,
+        "zh": "金属扭结戒指",
+        "en": "Metal Twisted Ring",
+        "ja": "Metal Twisted Ring",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 100,
+                "y": 100
+              }
+            },
+            "Name": {
+              "DefaultText": "Copper Twisted Ring",
+              "Text": "铜扭结戒指",
+              "zh": "铜扭结戒指",
+              "en": "Copper Twisted Ring",
+              "ja": "Copper Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 110,
+                "y": 110
+              }
+            },
+            "Name": {
+              "DefaultText": "Ghost Bronze Twisted Ring",
+              "Text": "鬼铜扭结戒指",
+              "zh": "鬼铜扭结戒指",
+              "en": "Ghost Bronze Twisted Ring",
+              "ja": "Ghost Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 120,
+                "y": 120
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Twisted Ring",
+              "Text": "锡扭结戒指",
+              "zh": "锡扭结戒指",
+              "en": "Tin Twisted Ring",
+              "ja": "Tin Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 130,
+                "y": 130
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Bronze Twisted Ring",
+              "Text": "青铜扭结戒指",
+              "zh": "青铜扭结戒指",
+              "en": "Tin Bronze Twisted Ring",
+              "ja": "Tin Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 140,
+                "y": 140
+              }
+            },
+            "Name": {
+              "DefaultText": "White Bronze Twisted Ring",
+              "Text": "白铜扭结戒指",
+              "zh": "白铜扭结戒指",
+              "en": "White Bronze Twisted Ring",
+              "ja": "White Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 200,
+                "y": 200
+              }
+            },
+            "Name": {
+              "DefaultText": "Iron Twisted Ring",
+              "Text": "铁扭结戒指",
+              "zh": "铁扭结戒指",
+              "en": "Iron Twisted Ring",
+              "ja": "Iron Twisted Ring"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "被动效果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "en": "Passive Effect：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )",
+        "ja": "パッシブ効果：Cool Down Fast ( Iron, 1000+ Temp Container bellow 1000 )"
+      }
+    },
+    {
+      "link": {
+        "key": "ToolOrWeapon_TwistedRing_Metal",
+        "icon": "RingTwisted_Copper",
+        "type": "card",
+        "CardType": 0,
+        "zh": "金属扭结戒指",
+        "en": "Metal Twisted Ring",
+        "ja": "Metal Twisted Ring",
+        "AlternateNames": [
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 100,
+                "y": 100
+              }
+            },
+            "Name": {
+              "DefaultText": "Copper Twisted Ring",
+              "Text": "铜扭结戒指",
+              "zh": "铜扭结戒指",
+              "en": "Copper Twisted Ring",
+              "ja": "Copper Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 110,
+                "y": 110
+              }
+            },
+            "Name": {
+              "DefaultText": "Ghost Bronze Twisted Ring",
+              "Text": "鬼铜扭结戒指",
+              "zh": "鬼铜扭结戒指",
+              "en": "Ghost Bronze Twisted Ring",
+              "ja": "Ghost Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 120,
+                "y": 120
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Twisted Ring",
+              "Text": "锡扭结戒指",
+              "zh": "锡扭结戒指",
+              "en": "Tin Twisted Ring",
+              "ja": "Tin Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 130,
+                "y": 130
+              }
+            },
+            "Name": {
+              "DefaultText": "Tin Bronze Twisted Ring",
+              "Text": "青铜扭结戒指",
+              "zh": "青铜扭结戒指",
+              "en": "Tin Bronze Twisted Ring",
+              "ja": "Tin Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 140,
+                "y": 140
+              }
+            },
+            "Name": {
+              "DefaultText": "White Bronze Twisted Ring",
+              "Text": "白铜扭结戒指",
+              "zh": "白铜扭结戒指",
+              "en": "White Bronze Twisted Ring",
+              "ja": "White Bronze Twisted Ring"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 200,
+                "y": 200
+              }
+            },
+            "Name": {
+              "DefaultText": "Iron Twisted Ring",
+              "Text": "铁扭结戒指",
+              "zh": "铁扭结戒指",
+              "en": "Iron Twisted Ring",
+              "ja": "Iron Twisted Ring"
+            }
+          }
+        ]
+      },
+      "localization": {
+        "zh": "被动效果：Lose Smelting if smelting container bellow 1100 ( Always )",
+        "en": "Passive Effect：Lose Smelting if smelting container bellow 1100 ( Always )",
+        "ja": "パッシブ効果：Lose Smelting if smelting container bellow 1100 ( Always )"
       }
     },
     {

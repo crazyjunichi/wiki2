@@ -6,7 +6,7 @@
   "zh": "亚麻种子(专有)",
   "en": "Flax Seeds(Pk)",
   "ja": "Flax Seeds",
-  "UniqueIDIndex": 2093,
+  "UniqueIDIndex": 2094,
   "CardType": 0,
   "CardTags": [
     {
@@ -486,7 +486,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -6678,7 +6678,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

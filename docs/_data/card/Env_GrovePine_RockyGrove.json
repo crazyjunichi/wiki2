@@ -2749,6 +2749,22 @@
         "en": "Action: East",
         "ja": "アクション：東"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Rocky Grove",
+        "en": "Action: Rocky Grove",
+        "ja": "アクション：Rocky Grove"
+      }
     }
   ],
   "_useFor": [

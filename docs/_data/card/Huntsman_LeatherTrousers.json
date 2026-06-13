@@ -6,7 +6,7 @@
   "zh": "皮革裤",
   "en": "Leather Trousers",
   "ja": "Leather Trousers",
-  "UniqueIDIndex": 1450,
+  "UniqueIDIndex": 1451,
   "CardType": 0,
   "CardTags": [
     {
@@ -332,7 +332,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

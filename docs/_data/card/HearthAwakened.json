@@ -6,7 +6,7 @@
   "zh": "燃烧的火炉",
   "en": "Awakened Hearth",
   "ja": "再燃した暖炉",
-  "UniqueIDIndex": 1430,
+  "UniqueIDIndex": 1431,
   "CardType": 2,
   "CardTags": [
     {
@@ -13761,6 +13761,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

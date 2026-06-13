@@ -5,7 +5,7 @@
   "zh": "Boar1 Wondering",
   "en": "Boar1 Wondering",
   "ja": "Boar1 Wondering",
-  "UniqueIDIndex": 2896,
+  "UniqueIDIndex": 2904,
   "DutyName": {
     "DefaultText": "Boar1 Wondering",
     "Text": "Boar1 Wondering",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -455,7 +455,7 @@
       "ja": ""
     },
     {
-      "key": "New WaitDutyAction_0_7640",
+      "key": "New WaitDutyAction_0_7651",
       "icon": "",
       "type": "WaitDutyAction",
       "zh": "",

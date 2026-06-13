@@ -6,7 +6,7 @@
   "zh": "Honeycomb",
   "en": "Honeycomb",
   "ja": "Honeycomb",
-  "UniqueIDIndex": 196,
+  "UniqueIDIndex": 197,
   "CardType": 0,
   "CardTags": [
     {
@@ -6341,7 +6341,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

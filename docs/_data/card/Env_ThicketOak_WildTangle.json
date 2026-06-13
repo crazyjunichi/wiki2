@@ -6,7 +6,7 @@
   "zh": "蛮荒杂林",
   "en": "Wild Tangle",
   "ja": "Wild Tangle",
-  "UniqueIDIndex": 132,
+  "UniqueIDIndex": 133,
   "CardType": 4,
   "CardTags": [
     {
@@ -2101,7 +2101,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportQY",
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2110,9 +2110,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Wild TAngle",
-        "en": "Action: Wild TAngle",
-        "ja": "アクション：Wild TAngle"
+        "zh": "动作：Wild Tangle",
+        "en": "Action: Wild Tangle",
+        "ja": "アクション：Wild Tangle"
       }
     }
   ],

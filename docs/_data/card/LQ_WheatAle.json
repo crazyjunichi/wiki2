@@ -6,7 +6,7 @@
   "zh": "小麦艾尔啤酒",
   "en": "Wheat Ale",
   "ja": "Wheat Ale",
-  "UniqueIDIndex": 1714,
+  "UniqueIDIndex": 1715,
   "CardType": 9,
   "CardTags": [
     {
@@ -7529,7 +7529,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

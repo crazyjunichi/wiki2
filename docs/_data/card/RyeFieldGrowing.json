@@ -6,7 +6,7 @@
   "zh": "生长中的黑麦",
   "en": "Growing Rye Field",
   "ja": "成長中のライ麦畑",
-  "UniqueIDIndex": 2208,
+  "UniqueIDIndex": 2209,
   "CardType": 2,
   "CardTags": [
     {
@@ -7721,7 +7721,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

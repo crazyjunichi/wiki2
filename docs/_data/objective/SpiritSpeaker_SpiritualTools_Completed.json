@@ -6,7 +6,7 @@
   "zh": "精神用具",
   "en": "Spiritual Tools",
   "ja": "Spiritual Tools",
-  "UniqueIDIndex": 4200,
+  "UniqueIDIndex": 4210,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Drink Spirit Tea",
         "ja": "Drink Spirit Tea",
         "UniqueID": "cb106522be83dd84c8d9757195631fe4",
-        "UniqueIDIndex": 4203,
+        "UniqueIDIndex": 4213,
         "StartUnlocked": false,
         "ActionObjectives": [
           {
@@ -212,7 +212,7 @@
         "en": "Drink Fire Water",
         "ja": "Drink Fire Water",
         "UniqueID": "076f7e0b441560c4682142f6f5022a76",
-        "UniqueIDIndex": 4204,
+        "UniqueIDIndex": 4214,
         "StartUnlocked": false,
         "ActionObjectives": [
           {
@@ -270,8 +270,8 @@
                 "Active": true,
                 "CardStatName": {
                   "DefaultText": "Thickness",
-                  "Text": "Thickness",
-                  "zh": "Thickness",
+                  "Text": "浓稠度",
+                  "zh": "浓稠度",
                   "en": "Thickness",
                   "ja": "Thickness"
                 },
@@ -333,16 +333,16 @@
             },
             "OnCardWithTags": [],
             "WithActionTags": [],
-            "ActionName": "Drink",
+            "ActionName": "饮用",
             "OnActionStarted": true,
             "PerformMultipleTimes": 0,
             "DebugMode": false,
             "ActionNameText": {
               "DefaultText": "Drink",
-              "Text": "Drink",
-              "zh": "Drink",
+              "Text": "饮用",
+              "zh": "饮用",
               "en": "Drink",
-              "ja": "Drink"
+              "ja": "飲む"
             }
           }
         ],
@@ -398,7 +398,7 @@
         "en": "Mud Hut",
         "ja": "Mud Hut",
         "UniqueID": "7bbe192d3f1faca41ad5ded96ba1c3f7",
-        "UniqueIDIndex": 4205,
+        "UniqueIDIndex": 4215,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -774,7 +774,7 @@
         "en": "Cauldron",
         "ja": "Cauldron",
         "UniqueID": "08cb3012422126e48a8a1e59bc7a7ef0",
-        "UniqueIDIndex": 4206,
+        "UniqueIDIndex": 4216,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

@@ -3,7 +3,7 @@
   "key": "Tgr_BadgerSpiritEncounteredInsightBonus",
   "icon": "",
   "type": "trigger",
-  "UniqueIDIndex": 4342,
+  "UniqueIDIndex": 4352,
   "Actions": [
     {
       "ActionName": {

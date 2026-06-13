@@ -6,7 +6,7 @@
   "zh": "柰草茶",
   "en": "Appleweed Tea",
   "ja": "アップルウィード茶",
-  "UniqueIDIndex": 1612,
+  "UniqueIDIndex": 1613,
   "CardType": 9,
   "CardTags": [
     {
@@ -5424,7 +5424,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

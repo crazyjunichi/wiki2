@@ -264,9 +264,9 @@
         "icon": "CopperNugget",
         "type": "card",
         "CardType": 7,
-        "zh": "布衬衫",
+        "zh": "5 块铜块",
         "en": "5 Copper Nuggets",
-        "ja": "シャツ（布）",
+        "ja": "5 Copper Nuggets",
         "SpoilageTime": {
           "Active": false,
           "CardStatName": {

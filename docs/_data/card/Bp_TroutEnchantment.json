@@ -6,7 +6,7 @@
   "zh": "鳟鱼附魔",
   "en": "Trout Enchantment",
   "ja": "Trout Enchantment",
-  "UniqueIDIndex": 652,
+  "UniqueIDIndex": 653,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

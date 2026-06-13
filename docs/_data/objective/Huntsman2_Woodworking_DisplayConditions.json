@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 3640,
+  "UniqueIDIndex": 3650,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Basic Survival",
         "ja": "Basic Survival",
         "UniqueID": "aefeace97524b37489655b6be81323f9",
-        "UniqueIDIndex": 3404,
+        "UniqueIDIndex": 3414,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Craft a Torch",
               "ja": "Craft a Torch",
               "UniqueID": "2e957cf07d1eb284fb4d7e314b7efe17",
-              "UniqueIDIndex": 3407,
+              "UniqueIDIndex": 3417,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -260,7 +260,7 @@
               "en": "Find a Flint Source near the Lake",
               "ja": "Find a Flint Source near the Lake",
               "UniqueID": "b2eec4ac87e6bd0448db11df611af4c8",
-              "UniqueIDIndex": 3408,
+              "UniqueIDIndex": 3418,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -472,7 +472,7 @@
               "en": "Craft a Flint Knife",
               "ja": "Craft a Flint Knife",
               "UniqueID": "d55652ba9708c0f4bbc9198c75ed4798",
-              "UniqueIDIndex": 3409,
+              "UniqueIDIndex": 3419,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -688,7 +688,7 @@
               "en": "Craft a Flint Axe",
               "ja": "Craft a Flint Axe",
               "UniqueID": "55a6a0b437b54da48af836d113af1468",
-              "UniqueIDIndex": 3410,
+              "UniqueIDIndex": 3420,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [

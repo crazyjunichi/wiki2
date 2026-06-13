@@ -6,7 +6,7 @@
   "zh": "半成型河狸窝",
   "en": "Half Built Beaver Lodge",
   "ja": "Half Built Beaver Lodge",
-  "UniqueIDIndex": 1601,
+  "UniqueIDIndex": 1602,
   "CardType": 2,
   "CardTags": [
     {
@@ -367,7 +367,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "83b8a6020dd988c4ea1b93d0fe4bedb3",
-            "UniqueIDIndex": 2799
+            "UniqueIDIndex": 2807
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -1504,7 +1504,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "ConditionRange": {
             "x": 0,
@@ -1747,7 +1747,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -2950,7 +2950,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

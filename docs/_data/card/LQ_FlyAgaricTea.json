@@ -6,7 +6,7 @@
   "zh": "毒蝇伞茶",
   "en": "Fly Agaric Tea",
   "ja": "Fly Agaric Tea",
-  "UniqueIDIndex": 1637,
+  "UniqueIDIndex": 1638,
   "CardType": 9,
   "CardTags": [
     {
@@ -5740,7 +5740,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

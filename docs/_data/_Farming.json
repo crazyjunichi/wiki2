@@ -6338,13 +6338,13 @@
         },
         {
           "seed": {
-            "key": "HeatherStemsDry",
+            "key": "HeatherStemsFresh",
             "icon": "Meadowgrass_Item",
             "type": "card",
             "CardType": 0,
-            "zh": "干帚石南茎",
-            "en": "Dry Heather Stems",
-            "ja": "Dry Heather Stems",
+            "zh": "新鲜帚石南茎",
+            "en": "Fresh Heather Stems",
+            "ja": "Fresh Heather Stems",
             "SpoilageTime": {
               "Active": false,
               "CardStatName": {
@@ -6370,30 +6370,30 @@
               "MaxValue": 0
             },
             "FuelCapacity": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "FuelCapacity",
-                "zh": "容量",
-                "en": "Fuel",
-                "ja": ""
+                "DefaultText": "Wetness",
+                "Text": "湿度",
+                "zh": "湿度",
+                "en": "Wetness",
+                "ja": "Wetness"
               },
-              "OverrideIcon": null,
-              "MaxValue": 0
+              "OverrideIcon": {
+                "FileName": "Water"
+              },
+              "MaxValue": 30
             },
             "Progress": {
               "Active": true,
               "CardStatName": {
-                "DefaultText": "Nutrition",
-                "Text": "营养",
-                "zh": "营养",
-                "en": "Nutrition",
-                "ja": "Nutrition"
+                "DefaultText": "Growth",
+                "Text": "成长度",
+                "zh": "成长度",
+                "en": "Growth",
+                "ja": "成長"
               },
-              "OverrideIcon": {
-                "FileName": "Quality"
-              },
-              "MaxValue": 100
+              "OverrideIcon": null,
+              "MaxValue": 1
             },
             "SpecialDurability1": {
               "Active": false,

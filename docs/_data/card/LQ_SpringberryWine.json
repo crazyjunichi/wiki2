@@ -6,7 +6,7 @@
   "zh": "春莓酒",
   "en": "Springberry Wine",
   "ja": "スプリングベリーワイン",
-  "UniqueIDIndex": 1704,
+  "UniqueIDIndex": 1705,
   "CardType": 9,
   "CardTags": [
     {
@@ -7517,7 +7517,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

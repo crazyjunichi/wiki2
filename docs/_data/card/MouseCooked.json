@@ -6,7 +6,7 @@
   "zh": "烤老鼠",
   "en": "Roasted Mouse",
   "ja": "焼いたネズミ",
-  "UniqueIDIndex": 1826,
+  "UniqueIDIndex": 1827,
   "CardType": 0,
   "CardTags": [
     {
@@ -9893,7 +9893,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -11458,22 +11458,6 @@
     },
     {
       "link": {
-        "key": "Fat",
-        "icon": "Fat",
-        "type": "card",
-        "CardType": 0,
-        "zh": "脂肪",
-        "en": "Fat",
-        "ja": "脂"
-      },
-      "localization": {
-        "zh": "动作：添加",
-        "en": "Action: Add",
-        "ja": "アクション：入れる"
-      }
-    },
-    {
-      "link": {
         "key": "FirerootPowder",
         "icon": "Powder_Fireroot",
         "type": "card",
@@ -11483,9 +11467,9 @@
         "ja": "ファイヤールートの粉"
       },
       "localization": {
-        "zh": "动作：Add",
+        "zh": "动作：添加",
         "en": "Action: Add",
-        "ja": "アクション：Add"
+        "ja": "アクション：入れる"
       }
     },
     {

@@ -2432,7 +2432,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportKP",
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2441,9 +2441,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Moosy Grove",
-        "en": "Action: Moosy Grove",
-        "ja": "アクション：Moosy Grove"
+        "zh": "动作：Mossy Grove",
+        "en": "Action: Mossy Grove",
+        "ja": "アクション：Mossy Grove"
       }
     }
   ],

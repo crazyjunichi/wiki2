@@ -6,7 +6,7 @@
   "zh": "泥泞小径",
   "en": "MuddyWay",
   "ja": "MuddyWay",
-  "UniqueIDIndex": 128,
+  "UniqueIDIndex": 129,
   "CardType": 4,
   "CardTags": [
     {
@@ -2241,6 +2241,22 @@
         "zh": "动作：西方",
         "en": "Action: West",
         "ja": "アクション：西"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Muddy Way",
+        "en": "Action: Muddy Way",
+        "ja": "アクション：Muddy Way"
       }
     }
   ],

@@ -7,7 +7,7 @@
   "zh_fix": "月形态",
   "en": "Moon Shape",
   "ja": "Moon Shape",
-  "UniqueIDIndex": 3744,
+  "UniqueIDIndex": 3754,
   "GameName": {
     "DefaultText": "Moon Shape",
     "Text": "Moon Shape",
@@ -557,25 +557,6 @@
       "value": {
         "x": 6,
         "y": 6
-      }
-    },
-    {
-      "link": {
-        "key": "Agent_Moontouched",
-        "icon": "Moontouched",
-        "type": "npc",
-        "zh": "月之野兽",
-        "en": "Moontouched",
-        "ja": "Moontouched"
-      },
-      "localization": {
-        "zh": "Spawn into the World_1",
-        "en": "Spawn into the World_1",
-        "ja": "Spawn into the World_1"
-      },
-      "value": {
-        "x": 4,
-        "y": 4
       }
     },
     {

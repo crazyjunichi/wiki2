@@ -6,7 +6,7 @@
   "zh": "月女附魔",
   "en": "Moon Maiden Enchantment",
   "ja": "Moon Maiden Enchantment",
-  "UniqueIDIndex": 490,
+  "UniqueIDIndex": 491,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1215,7 +1215,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

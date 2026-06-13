@@ -6,7 +6,7 @@
   "zh": "野鸭岬角",
   "en": "Duck Point",
   "ja": "Duck Point",
-  "UniqueIDIndex": 104,
+  "UniqueIDIndex": 105,
   "CardType": 4,
   "CardTags": [
     {
@@ -2844,7 +2844,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

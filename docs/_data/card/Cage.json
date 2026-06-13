@@ -6,7 +6,7 @@
   "zh": "笼子",
   "en": "Cage",
   "ja": "檻",
-  "UniqueIDIndex": 721,
+  "UniqueIDIndex": 722,
   "CardType": 0,
   "CardTags": [
     {
@@ -3726,7 +3726,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -4959,6 +4959,21 @@
                       "zh": "长柳木棍",
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
+                    }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
                     }
                   }
                 ],

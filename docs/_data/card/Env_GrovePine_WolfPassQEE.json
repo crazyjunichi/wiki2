@@ -2267,6 +2267,22 @@
         "en": "Action: North",
         "ja": "アクション：North"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods1",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Wolf Pass",
+        "en": "Action: Wolf Pass",
+        "ja": "アクション：Wolf Pass"
+      }
     }
   ],
   "_useFor": [

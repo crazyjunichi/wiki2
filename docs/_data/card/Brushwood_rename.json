@@ -6,7 +6,7 @@
   "zh": "灌木丛",
   "en": "BrushWood",
   "ja": "細い枝",
-  "UniqueIDIndex": 696,
+  "UniqueIDIndex": 697,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -3475,6 +3475,21 @@
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
                     }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
+                    }
                   }
                 ],
                 "SpoilageTime": {
@@ -5224,6 +5239,21 @@
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
                     }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
+                    }
                   }
                 ],
                 "SpoilageTime": {
@@ -6972,6 +7002,21 @@
                       "zh": "长柳木棍",
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
+                    }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
                     }
                   }
                 ],

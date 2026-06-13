@@ -6,7 +6,7 @@
   "zh": "已缝合的轻微撕裂伤",
   "en": "Minor Laceration",
   "ja": "軽い切り傷",
-  "UniqueIDIndex": 2637,
+  "UniqueIDIndex": 2645,
   "CardType": 0,
   "CardTags": [
     {
@@ -12377,8 +12377,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

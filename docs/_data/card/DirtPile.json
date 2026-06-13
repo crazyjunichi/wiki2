@@ -6,7 +6,7 @@
   "zh": "干土堆",
   "en": "Dirt Pile",
   "ja": "土の山",
-  "UniqueIDIndex": 954,
+  "UniqueIDIndex": 955,
   "CardType": 0,
   "CardTags": [
     {
@@ -9445,14 +9445,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       }
     },
     {
@@ -9461,16 +9461,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       }
     },
     {
@@ -9575,14 +9575,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       }
     },
     {
@@ -9591,16 +9591,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       }
     },
     {

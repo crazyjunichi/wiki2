@@ -6,7 +6,7 @@
   "zh": "燧石",
   "en": "Flint",
   "ja": "火打石",
-  "UniqueIDIndex": 1307,
+  "UniqueIDIndex": 1308,
   "CardType": 0,
   "CardTags": [
     {
@@ -3101,7 +3101,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

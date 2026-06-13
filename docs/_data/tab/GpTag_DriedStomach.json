@@ -1,14 +1,14 @@
 {
   "m_Name": "GpTag_DriedStomach",
   "key": "GpTag_DriedStomach",
-  "zh": "巫石粉末",
-  "en": "Witchstone Dust",
+  "zh": "胃干",
+  "en": "Dried Stomach",
   "ja": "Dried Stomach",
   "TabName": {
     "DefaultText": "Dried Stomach",
-    "Text": "巫石粉末",
-    "zh": "巫石粉末",
-    "en": "Witchstone Dust",
+    "Text": "胃干",
+    "zh": "胃干",
+    "en": "Dried Stomach",
     "ja": "Dried Stomach"
   },
   "TabIcon": null,

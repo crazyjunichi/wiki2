@@ -6,7 +6,7 @@
   "zh": "白桦糖浆",
   "en": "Birch Syrup",
   "ja": "シラカバのシロップ",
-  "UniqueIDIndex": 1619,
+  "UniqueIDIndex": 1620,
   "CardType": 9,
   "CardTags": [
     {
@@ -6018,7 +6018,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

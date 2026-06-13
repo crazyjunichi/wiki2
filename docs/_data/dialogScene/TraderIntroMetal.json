@@ -7,16 +7,16 @@
   "SceneBackground": null,
   "SceneLines": [
     {
-      "m_Name": "TraderIntroIntro_0_2261",
+      "m_Name": "TraderIntroIntro_0_2260",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2261",
-      "___fn": "TraderIntroIntro@2261.json",
-      "key": "TraderIntroIntro_0_2261",
-      "zh": "TraderIntroIntro_0_2261",
-      "en": "TraderIntroIntro_0_2261",
-      "ja": "TraderIntroIntro_0_2261",
+      "___key": "0_2260",
+      "___fn": "TraderIntroIntro@2260.json",
+      "key": "TraderIntroIntro_0_2260",
+      "zh": "TraderIntroIntro_0_2260",
+      "en": "TraderIntroIntro_0_2260",
+      "ja": "TraderIntroIntro_0_2260",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -596,7 +596,7 @@
                   "m_GameObject": null,
                   "m_Enabled": 1,
                   "UniqueID": "42ceede610e6053498ba43292e3d0684",
-                  "UniqueIDIndex": 4055
+                  "UniqueIDIndex": 4065
                 },
                 "UseAssociatedAgent": true,
                 "TargetAgent": null,

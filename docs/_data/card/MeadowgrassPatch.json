@@ -6,7 +6,7 @@
   "zh": "野生牧草",
   "en": "Meadowgrass Patch",
   "ja": "牧草のパッチ",
-  "UniqueIDIndex": 1733,
+  "UniqueIDIndex": 1734,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -5832,7 +5832,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

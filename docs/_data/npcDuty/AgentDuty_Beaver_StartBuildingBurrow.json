@@ -5,7 +5,7 @@
   "zh": "Beaver Start Building Burrow",
   "en": "Beaver Start Building Burrow",
   "ja": "Beaver Start Building Burrow",
-  "UniqueIDIndex": 2869,
+  "UniqueIDIndex": 2877,
   "DutyName": {
     "DefaultText": "Beaver Start Building Burrow",
     "Text": "Beaver Start Building Burrow",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -284,7 +284,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-          "UniqueIDIndex": 3051
+          "UniqueIDIndex": 3060
         },
         "ConditionRange": {
           "x": 0,
@@ -508,7 +508,7 @@
       "ja": ""
     },
     {
-      "key": "SetBeaverHome_0_7827",
+      "key": "SetBeaverHome_0_7838",
       "icon": "",
       "type": "SetHomeDutyAction",
       "zh": "",
@@ -516,7 +516,7 @@
       "ja": ""
     },
     {
-      "key": "SetBeaverhasHome_0_2308",
+      "key": "SetBeaverhasHome_0_2307",
       "icon": "",
       "type": "ChangeNPCStatDutyAction",
       "zh": "",

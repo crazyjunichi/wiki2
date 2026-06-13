@@ -2439,23 +2439,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Heather Glade",
-        "en": "Action: Heather Glade",
-        "ja": "アクション：Heather Glade"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
+        "key": "VDEBUG_Path_TeleportNorthWoods2",
         "icon": "",
         "type": "card",
         "CardType": 2,

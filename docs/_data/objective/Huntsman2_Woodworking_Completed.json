@@ -6,7 +6,7 @@
   "zh": "木工",
   "en": "Woodworking",
   "ja": "Woodworking",
-  "UniqueIDIndex": 3639,
+  "UniqueIDIndex": 3649,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Chop down a Tree",
         "ja": "Chop down a Tree",
         "UniqueID": "656257e5b0907184a8983fa33c57e6f4",
-        "UniqueIDIndex": 3642,
+        "UniqueIDIndex": 3652,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -317,7 +317,7 @@
         "en": "Craft some Planks",
         "ja": "Craft some Planks",
         "UniqueID": "fabe97b2d00e00643aa03d21cddad367",
-        "UniqueIDIndex": 3643,
+        "UniqueIDIndex": 3653,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -606,7 +606,7 @@
         "en": "Build a Brick Mold",
         "ja": "Build a Brick Mold",
         "UniqueID": "2acc706f3992daa4087ca8a10736fb4c",
-        "UniqueIDIndex": 3644,
+        "UniqueIDIndex": 3654,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -816,7 +816,7 @@
         "en": "Research & Craft a Wooden Figure",
         "ja": "Research & Craft a Wooden Figure",
         "UniqueID": "0f693b971da7b9f4381a617fb30282f2",
-        "UniqueIDIndex": 3645,
+        "UniqueIDIndex": 3655,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

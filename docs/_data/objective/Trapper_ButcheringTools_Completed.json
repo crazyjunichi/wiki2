@@ -6,7 +6,7 @@
   "zh": "屠宰工具",
   "en": "Butchering Tools",
   "ja": "Butchering Tools",
-  "UniqueIDIndex": 4448,
+  "UniqueIDIndex": 4458,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Butchering Mat",
         "ja": "Butchering Mat",
         "UniqueID": "844e8291e37a21241ad5c3bc736b80c1",
-        "UniqueIDIndex": 4451,
+        "UniqueIDIndex": 4461,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -242,7 +242,7 @@
         "en": "Butchering Knife",
         "ja": "Butchering Knife",
         "UniqueID": "8ef670bcbd504e742b5951b456ce177d",
-        "UniqueIDIndex": 4452,
+        "UniqueIDIndex": 4462,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -552,7 +552,7 @@
         "en": "Meat Hook",
         "ja": "Meat Hook",
         "UniqueID": "4951cee1a8f6ad1488b499b295f52680",
-        "UniqueIDIndex": 4453,
+        "UniqueIDIndex": 4463,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

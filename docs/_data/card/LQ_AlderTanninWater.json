@@ -6,7 +6,7 @@
   "zh": "桤木鞣质水",
   "en": "Alder Tannin Water",
   "ja": "Alder Tannin Water",
-  "UniqueIDIndex": 1610,
+  "UniqueIDIndex": 1611,
   "CardType": 9,
   "CardTags": [
     {
@@ -5511,7 +5511,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

@@ -5,7 +5,7 @@
   "zh": "WolfPack Get Angry",
   "en": "WolfPack Get Angry",
   "ja": "WolfPack Get Angry",
-  "UniqueIDIndex": 3036,
+  "UniqueIDIndex": 3045,
   "DutyName": {
     "DefaultText": "WolfPack Get Angry",
     "Text": "WolfPack Get Angry",
@@ -353,7 +353,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "1e9b6d7cef4e1b04daa390812d6932ea",
-          "UniqueIDIndex": 3067
+          "UniqueIDIndex": 3076
         },
         "ConditionRange": {
           "x": 0,

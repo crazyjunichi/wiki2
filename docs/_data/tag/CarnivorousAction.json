@@ -1888,6 +1888,19 @@
     },
     {
       "link": {
+        "key": "RyeBloodPasty",
+        "icon": "Pasty_Rye",
+        "type": "card",
+        "CardType": 0,
+        "zh": "黑麦血馅饼",
+        "en": "Rye Blood Pasty",
+        "ja": "Rye Blood Pasty"
+      },
+      "text": "吃掉",
+      "time": 1
+    },
+    {
+      "link": {
         "key": "RyeFishMeatPasty",
         "icon": "Pasty_Rye",
         "type": "card",
@@ -1895,6 +1908,19 @@
         "zh": "黑麦鱼馅饼",
         "en": "Rye Fish Pasty",
         "ja": "Rye Fish Pasty"
+      },
+      "text": "吃掉",
+      "time": 1
+    },
+    {
+      "link": {
+        "key": "RyeMeatPasty",
+        "icon": "Pasty_Rye",
+        "type": "card",
+        "CardType": 0,
+        "zh": "黑麦肉馅饼",
+        "en": "Rye Meat Pasty",
+        "ja": "Rye Meat Pasty"
       },
       "text": "吃掉",
       "time": 1
@@ -1927,6 +1953,19 @@
     },
     {
       "link": {
+        "key": "WheatBloodPasty",
+        "icon": "Pasty_Wheat",
+        "type": "card",
+        "CardType": 0,
+        "zh": "小麦血馅饼",
+        "en": "Wheat Blood Pasty",
+        "ja": "Wheat Blood Pasty"
+      },
+      "text": "吃掉",
+      "time": 1
+    },
+    {
+      "link": {
         "key": "WheatFishMeatPasty",
         "icon": "Pasty_Wheat",
         "type": "card",
@@ -1934,6 +1973,19 @@
         "zh": "小麦鱼馅饼",
         "en": "Wheat Fish Pasty",
         "ja": "Wheat Fish Pasty"
+      },
+      "text": "吃掉",
+      "time": 1
+    },
+    {
+      "link": {
+        "key": "WheatMeatPasty",
+        "icon": "Pasty_Wheat",
+        "type": "card",
+        "CardType": 0,
+        "zh": "小麦肉馅饼",
+        "en": "Wheat Meat Pasty",
+        "ja": "Wheat Meat Pasty"
       },
       "text": "吃掉",
       "time": 1

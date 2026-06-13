@@ -6,7 +6,7 @@
   "zh": "灰山鹑附魔",
   "en": "Partridge Enchantment",
   "ja": "Partridge Enchantment",
-  "UniqueIDIndex": 512,
+  "UniqueIDIndex": 513,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "断崖丛林",
   "en": "Cliff Thicket",
   "ja": "崖の密林",
-  "UniqueIDIndex": 134,
+  "UniqueIDIndex": 135,
   "CardType": 4,
   "CardTags": [
     {
@@ -2102,6 +2102,22 @@
         "zh": "动作：西方",
         "en": "Action: West",
         "ja": "アクション：西"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods3",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Cliff Thicket",
+        "en": "Action: Cliff Thicket",
+        "ja": "アクション：Cliff Thicket"
       }
     }
   ],

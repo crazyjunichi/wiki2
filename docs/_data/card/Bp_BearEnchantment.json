@@ -6,7 +6,7 @@
   "zh": "熊附魔",
   "en": "Bear Enchantment",
   "ja": "Bear Enchantment",
-  "UniqueIDIndex": 300,
+  "UniqueIDIndex": 301,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "针叶茶",
   "en": "Needle Tea",
   "ja": "Needle Tea",
-  "UniqueIDIndex": 1653,
+  "UniqueIDIndex": 1654,
   "CardType": 9,
   "CardTags": [
     {
@@ -5024,7 +5024,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

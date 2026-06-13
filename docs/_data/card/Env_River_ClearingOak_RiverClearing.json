@@ -6,7 +6,7 @@
   "zh": "河畔林隙",
   "en": "River Clearing",
   "ja": "川沿いの平地",
-  "UniqueIDIndex": 102,
+  "UniqueIDIndex": 103,
   "CardType": 4,
   "CardTags": [
     {
@@ -3939,6 +3939,22 @@
         "zh": "动作：东方",
         "en": "Action: East",
         "ja": "アクション：東"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：River Clearing",
+        "en": "Action: River Clearing",
+        "ja": "アクション：River Clearing"
       }
     }
   ],

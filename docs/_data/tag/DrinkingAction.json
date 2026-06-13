@@ -41,7 +41,7 @@
         "en": "Fairy Tea",
         "ja": "妖精茶"
       },
-      "text": "Drink",
+      "text": "饮用",
       "time": 0
     },
     {
@@ -68,6 +68,19 @@
         "ja": "アイスホール"
       },
       "text": "饮用",
+      "time": 0
+    },
+    {
+      "link": {
+        "key": "IceHoleRiver",
+        "icon": "FishingHole",
+        "type": "card",
+        "CardType": 2,
+        "zh": "冰洞",
+        "en": "Ice Hole",
+        "ja": "アイスホール"
+      },
+      "text": "Drink",
       "time": 0
     },
     {
@@ -257,7 +270,7 @@
         "en": "Firewater",
         "ja": "ファイヤーウォーター"
       },
-      "text": "Drink",
+      "text": "饮用",
       "time": 0
     },
     {

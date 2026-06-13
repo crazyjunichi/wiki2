@@ -5,7 +5,7 @@
   "zh": "Fox2 Enter Burrow to Hide",
   "en": "Fox2 Enter Burrow to Hide",
   "ja": "Fox2 Enter Burrow to Hide",
-  "UniqueIDIndex": 2945,
+  "UniqueIDIndex": 2953,
   "DutyName": {
     "DefaultText": "Fox2 Enter Burrow to Hide",
     "Text": "Fox2 Enter Burrow to Hide",
@@ -349,7 +349,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -394,7 +394,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "ConditionRange": {
           "x": 0,

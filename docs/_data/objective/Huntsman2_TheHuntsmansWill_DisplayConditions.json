@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 3558,
+  "UniqueIDIndex": 3568,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Big Game Hunting",
         "ja": "Big Game Hunting",
         "UniqueID": "d5e76a53aeda10243907f4bc60e8cb91",
-        "UniqueIDIndex": 3415,
+        "UniqueIDIndex": 3425,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Make a Flint Spear",
               "ja": "Make a Flint Spear",
               "UniqueID": "819b153b53444f147805225193e38d67",
-              "UniqueIDIndex": 3418,
+              "UniqueIDIndex": 3428,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -262,7 +262,7 @@
               "en": "Research & Craft a Butchering Mat",
               "ja": "Research & Craft a Butchering Mat",
               "UniqueID": "dc53838880c60784eaac9f26eb4be678",
-              "UniqueIDIndex": 3419,
+              "UniqueIDIndex": 3429,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -478,7 +478,7 @@
               "en": "Build a Log Trap to catch Deer",
               "ja": "Build a Log Trap to catch Deer",
               "UniqueID": "a4c884bb2365a05438e6f88bd38bf9cf",
-              "UniqueIDIndex": 3420,
+              "UniqueIDIndex": 3430,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -690,7 +690,7 @@
               "en": "Hunt a Medium or Larger Animal",
               "ja": "Hunt a Medium or Larger Animal",
               "UniqueID": "96cd3a2e243b1c9429ceee7afd928f2b",
-              "UniqueIDIndex": 3421,
+              "UniqueIDIndex": 3431,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [],
@@ -1197,7 +1197,7 @@
               "en": "Harvest some Blood in a Container",
               "ja": "Harvest some Blood in a Container",
               "UniqueID": "f2ac681659a21604da70bdcb90f291d0",
-              "UniqueIDIndex": 3422,
+              "UniqueIDIndex": 3432,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1423,7 +1423,7 @@
               "en": "Make some Sausages with clean Intestines",
               "ja": "Make some Sausages with clean Intestines",
               "UniqueID": "5380860e9abbefd4bbfad4e3065b8abe",
-              "UniqueIDIndex": 3423,
+              "UniqueIDIndex": 3433,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2604,7 +2604,7 @@
         "en": "The Secret of Metal",
         "ja": "The Secret of Metal",
         "UniqueID": "d3d9e0895f920de4ebded43e7d0697cb",
-        "UniqueIDIndex": 3609,
+        "UniqueIDIndex": 3619,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -2624,7 +2624,7 @@
               "en": "Find some Greenstone",
               "ja": "Find some Greenstone",
               "UniqueID": "096756c30dbe13d4a9fd51570c54bc32",
-              "UniqueIDIndex": 3612,
+              "UniqueIDIndex": 3622,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2844,7 +2844,7 @@
               "en": "Research & Build a Furnace",
               "ja": "Research & Build a Furnace",
               "UniqueID": "a4a91fe01d4d4d94e9d63169ddb0118a",
-              "UniqueIDIndex": 3613,
+              "UniqueIDIndex": 3623,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3058,7 +3058,7 @@
               "en": "Craft some Bellows",
               "ja": "Craft some Bellows",
               "UniqueID": "78433cf2f639f9744ad734cecd2ce46c",
-              "UniqueIDIndex": 3614,
+              "UniqueIDIndex": 3624,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3268,7 +3268,7 @@
               "en": "Grind Greenstone into Powder",
               "ja": "Grind Greenstone into Powder",
               "UniqueID": "b26bccb8d09559241872d5e61b524c66",
-              "UniqueIDIndex": 3615,
+              "UniqueIDIndex": 3625,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3488,7 +3488,7 @@
               "en": "Smelt Greenstone into Copper",
               "ja": "Smelt Greenstone into Copper",
               "UniqueID": "6fb1f2d39ba61c7439ddd901ccf031f0",
-              "UniqueIDIndex": 3616,
+              "UniqueIDIndex": 3626,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3938,7 +3938,7 @@
               "en": "Make a Lump of Copper",
               "ja": "Make a Lump of Copper",
               "UniqueID": "6d057b2c961dbf24682cf0adb6e6449b",
-              "UniqueIDIndex": 3617,
+              "UniqueIDIndex": 3627,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4390,7 +4390,7 @@
               "en": "Make a Metal Knife Blade",
               "ja": "Make a Metal Knife Blade",
               "UniqueID": "bb3c4af2174143548a37ff1859efabfa",
-              "UniqueIDIndex": 3618,
+              "UniqueIDIndex": 3628,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4842,7 +4842,7 @@
               "en": "Make a Metal Knife",
               "ja": "Make a Metal Knife",
               "UniqueID": "a2392c08a608cfe49a6cc369ea4039ec",
-              "UniqueIDIndex": 3619,
+              "UniqueIDIndex": 3629,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [

@@ -6,7 +6,7 @@
   "zh": "仙灵茶",
   "en": "Fairy Tea",
   "ja": "妖精茶",
-  "UniqueIDIndex": 1234,
+  "UniqueIDIndex": 1235,
   "CardType": 9,
   "CardTags": [
     {
@@ -829,7 +829,7 @@
           "ja": "妖精茶"
         },
         "localization": {
-          "zh": "动作：Drink",
+          "zh": "动作：饮用",
           "en": "Action: Drink",
           "ja": "アクション：Drink"
         },
@@ -893,8 +893,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1018,8 +1018,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1143,8 +1143,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1380,8 +1380,8 @@
             "Active": true,
             "CardStatName": {
               "DefaultText": "Thickness",
-              "Text": "Thickness",
-              "zh": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
               "en": "Thickness",
               "ja": "Thickness"
             },
@@ -1733,8 +1733,8 @@
     "FloatValue": 0,
     "CardStatName": {
       "DefaultText": "Thickness",
-      "Text": "Thickness",
-      "zh": "Thickness",
+      "Text": "浓稠度",
+      "zh": "浓稠度",
       "en": "Thickness",
       "ja": "Thickness"
     },
@@ -4348,8 +4348,8 @@
     {
       "ActionName": {
         "DefaultText": "Drink",
-        "Text": "Drink",
-        "zh": "Drink",
+        "Text": "饮用",
+        "zh": "饮用",
         "en": "Drink",
         "ja": "Drink"
       },
@@ -4397,7 +4397,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -5301,38 +5301,6 @@
   "_gotFrom": [
     {
       "link": {
-        "key": "FairyweedDried",
-        "icon": "Fairyweed_Item",
-        "type": "card",
-        "CardType": 0,
-        "zh": "干仙灵草",
-        "en": "Dry Fairyweed",
-        "ja": "乾燥した精霊草"
-      },
-      "localization": {
-        "zh": "动作：浸泡",
-        "en": "Action: Soak",
-        "ja": "アクション：浸す"
-      }
-    },
-    {
-      "link": {
-        "key": "FairyweedFresh",
-        "icon": "Fairyweed_Item",
-        "type": "card",
-        "CardType": 0,
-        "zh": "新鲜仙灵草",
-        "en": "Fresh Fairyweed",
-        "ja": "新しい精霊草"
-      },
-      "localization": {
-        "zh": "动作：浸泡",
-        "en": "Action: Soak",
-        "ja": "アクション：浸す"
-      }
-    },
-    {
-      "link": {
         "key": "FairyweedPowder",
         "icon": "Powder_Fairyweed",
         "type": "card",
@@ -5342,9 +5310,9 @@
         "ja": "精霊草の粉"
       },
       "localization": {
-        "zh": "动作：Soak",
+        "zh": "动作：浸泡",
         "en": "Action: Soak",
-        "ja": "アクション：Soak"
+        "ja": "アクション：浸す"
       }
     },
     {
@@ -5376,7 +5344,7 @@
         "ja": "精霊草の粉"
       },
       "localization": {
-        "zh": "动作：Soak",
+        "zh": "动作：浸泡",
         "en": "Action: Soak",
         "ja": "アクション：Soak"
       }

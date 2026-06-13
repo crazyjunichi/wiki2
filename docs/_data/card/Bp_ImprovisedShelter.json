@@ -6,7 +6,7 @@
   "zh": "临时庇护所",
   "en": "Improvised Shelter",
   "ja": "手作りシェルター",
-  "UniqueIDIndex": 462,
+  "UniqueIDIndex": 463,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -727,6 +727,21 @@
               "zh": "长柳木棍",
               "en": "Willow Long Stick",
               "ja": "ヤナギの長い棒"
+            }
+          },
+          {
+            "Conditions": {
+              "Special4Range": {
+                "x": 5,
+                "y": 5
+              }
+            },
+            "Name": {
+              "DefaultText": "Alder Long Stick",
+              "Text": "Alder Long Stick",
+              "zh": "Alder Long Stick",
+              "en": "Alder Long Stick",
+              "ja": "Alder Long Stick"
             }
           }
         ],
@@ -1536,6 +1551,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

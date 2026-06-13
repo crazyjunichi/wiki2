@@ -6,7 +6,7 @@
   "zh": "水",
   "en": "Water",
   "ja": "水",
-  "UniqueIDIndex": 1711,
+  "UniqueIDIndex": 1712,
   "CardType": 9,
   "CardTags": [
     {
@@ -91709,7 +91709,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -93175,7 +93175,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -94690,7 +94690,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {
@@ -96446,38 +96446,6 @@
     },
     {
       "link": {
-        "key": "HagPond",
-        "icon": "Pond",
-        "type": "card",
-        "CardType": 2,
-        "zh": "老妪池塘",
-        "en": "Hag Pond",
-        "ja": "Hag Pond"
-      },
-      "localization": {
-        "zh": "动作：取水",
-        "en": "Action: Fill",
-        "ja": "アクション：Fill"
-      }
-    },
-    {
-      "link": {
-        "key": "IceHolePond",
-        "icon": "FishingHole",
-        "type": "card",
-        "CardType": 2,
-        "zh": "冰洞",
-        "en": "Ice Hole",
-        "ja": "アイスホール"
-      },
-      "localization": {
-        "zh": "动作：取水",
-        "en": "Action: Fill",
-        "ja": "アクション：塞ぐ"
-      }
-    },
-    {
-      "link": {
         "key": "IceHoleRiver",
         "icon": "FishingHole",
         "type": "card",
@@ -96642,22 +96610,6 @@
     },
     {
       "link": {
-        "key": "MosquitoPond",
-        "icon": "Pond",
-        "type": "card",
-        "CardType": 2,
-        "zh": "蚊虫池塘",
-        "en": "Mosquito Pond",
-        "ja": "Mosquito Pond"
-      },
-      "localization": {
-        "zh": "动作：取水",
-        "en": "Action: Fill",
-        "ja": "アクション：Fill"
-      }
-    },
-    {
-      "link": {
         "key": "OLD_LQ_StewWater",
         "icon": "",
         "type": "card",
@@ -96748,22 +96700,6 @@
         "zh": "默认液体",
         "en": "Default Liquid",
         "ja": "デフォルト液体"
-      }
-    },
-    {
-      "link": {
-        "key": "Pond",
-        "icon": "Pond",
-        "type": "card",
-        "CardType": 2,
-        "zh": "池塘",
-        "en": "Pond",
-        "ja": "池"
-      },
-      "localization": {
-        "zh": "动作：取水",
-        "en": "Action: Fill",
-        "ja": "アクション：塞ぐ"
       }
     },
     {
@@ -97359,38 +97295,6 @@
     },
     {
       "link": {
-        "key": "FairyweedDried",
-        "icon": "Fairyweed_Item",
-        "type": "card",
-        "CardType": 0,
-        "zh": "干仙灵草",
-        "en": "Dry Fairyweed",
-        "ja": "乾燥した精霊草"
-      },
-      "localization": {
-        "zh": "动作：浸泡",
-        "en": "Action: Soak",
-        "ja": "アクション：浸す"
-      }
-    },
-    {
-      "link": {
-        "key": "FairyweedFresh",
-        "icon": "Fairyweed_Item",
-        "type": "card",
-        "CardType": 0,
-        "zh": "新鲜仙灵草",
-        "en": "Fresh Fairyweed",
-        "ja": "新しい精霊草"
-      },
-      "localization": {
-        "zh": "动作：浸泡",
-        "en": "Action: Soak",
-        "ja": "アクション：浸す"
-      }
-    },
-    {
-      "link": {
         "key": "FairyweedPowder",
         "icon": "Powder_Fairyweed",
         "type": "card",
@@ -97400,9 +97304,9 @@
         "ja": "精霊草の粉"
       },
       "localization": {
-        "zh": "动作：Soak",
+        "zh": "动作：浸泡",
         "en": "Action: Soak",
-        "ja": "アクション：Soak"
+        "ja": "アクション：浸す"
       }
     },
     {
@@ -97432,9 +97336,9 @@
         "ja": "ファイヤールートの粉"
       },
       "localization": {
-        "zh": "动作：Soak",
+        "zh": "动作：浸泡",
         "en": "Action: Soak",
-        "ja": "アクション：Soak"
+        "ja": "アクション：浸す"
       }
     },
     {

@@ -5,7 +5,7 @@
   "zh": "Bear Wondering Oak Groves Spring",
   "en": "Bear Wondering Oak Groves Spring",
   "ja": "Bear Wondering Oak Groves Spring",
-  "UniqueIDIndex": 2848,
+  "UniqueIDIndex": 2856,
   "DutyName": {
     "DefaultText": "Bear Wondering Oak Groves Spring",
     "Text": "Bear Wondering Oak Groves Spring",
@@ -271,7 +271,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

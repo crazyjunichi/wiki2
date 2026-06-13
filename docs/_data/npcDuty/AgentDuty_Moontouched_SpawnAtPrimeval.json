@@ -5,7 +5,7 @@
   "zh": "Moontouched spawn at Primeval",
   "en": "Moontouched spawn at Primeval",
   "ja": "Moontouched spawn at Primeval",
-  "UniqueIDIndex": 2968,
+  "UniqueIDIndex": 2976,
   "DutyName": {
     "DefaultText": "Moontouched spawn at Primeval",
     "Text": "Moontouched spawn at Primeval",
@@ -20,13 +20,13 @@
     "InBackground": false,
     "PlayerUsesCard": 0,
     "RequiredEnvironment": {
-      "key": "Env_SpiritWorld",
+      "key": "Env_MoontouchedWorld",
       "icon": "",
       "type": "card",
       "CardType": 4,
-      "zh": "SpiritWorld",
-      "en": "SpiritWorld",
-      "ja": "SpiritWorld",
+      "zh": "MoontouchedWorld",
+      "en": "MoontouchedWorld",
+      "ja": "MoontouchedWorld",
       "SpoilageTime": {
         "Active": false,
         "CardStatName": {
@@ -540,14 +540,6 @@
       "key": "SpawnAtPrimeval",
       "icon": "",
       "type": "MoveDutyAction",
-      "zh": "",
-      "en": "",
-      "ja": ""
-    },
-    {
-      "key": "ChangeExistsTo1",
-      "icon": "",
-      "type": "ChangeNPCStatDutyAction",
       "zh": "",
       "en": "",
       "ja": ""

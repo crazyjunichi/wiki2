@@ -6,7 +6,7 @@
   "zh": "Bow Drill",
   "en": "Bow Drill",
   "ja": "Bow Drill",
-  "UniqueIDIndex": 1894,
+  "UniqueIDIndex": 1895,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1828,6 +1828,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

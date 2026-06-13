@@ -6,7 +6,7 @@
   "zh": "农具",
   "en": "Farming Tools",
   "ja": "Farming Tools",
-  "UniqueIDIndex": 3234,
+  "UniqueIDIndex": 3244,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Garden",
         "ja": "Garden",
         "UniqueID": "eb5038a5ead27ca4a9f13b01834fa62a",
-        "UniqueIDIndex": 3237,
+        "UniqueIDIndex": 3247,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -250,7 +250,7 @@
         "en": "Compost Bin",
         "ja": "Compost Bin",
         "UniqueID": "e972c7fbb54e6314785b4e9886ff5970",
-        "UniqueIDIndex": 3238,
+        "UniqueIDIndex": 3248,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -464,7 +464,7 @@
         "en": "Field",
         "ja": "Field",
         "UniqueID": "b8efbfc921f4a4940af29163fa96c4b0",
-        "UniqueIDIndex": 3239,
+        "UniqueIDIndex": 3249,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -684,7 +684,7 @@
         "en": "Sickle",
         "ja": "Sickle",
         "UniqueID": "178d78c96a933df4b9d1fc9f1f39dd0c",
-        "UniqueIDIndex": 3240,
+        "UniqueIDIndex": 3250,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -994,7 +994,7 @@
         "en": "Scythe",
         "ja": "Scythe",
         "UniqueID": "750bf1d0cc6d6c84da70af512b508498",
-        "UniqueIDIndex": 3241,
+        "UniqueIDIndex": 3251,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1304,7 +1304,7 @@
         "en": "Metal Hoe",
         "ja": "Metal Hoe",
         "UniqueID": "f453a89fdc2598645a373dd6e1670a23",
-        "UniqueIDIndex": 3242,
+        "UniqueIDIndex": 3252,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

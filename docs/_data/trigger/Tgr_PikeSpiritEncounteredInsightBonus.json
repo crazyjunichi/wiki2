@@ -3,7 +3,7 @@
   "key": "Tgr_PikeSpiritEncounteredInsightBonus",
   "icon": "",
   "type": "trigger",
-  "UniqueIDIndex": 4400,
+  "UniqueIDIndex": 4410,
   "Actions": [
     {
       "ActionName": {

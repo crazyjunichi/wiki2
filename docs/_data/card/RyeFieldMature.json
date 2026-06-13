@@ -6,7 +6,7 @@
   "zh": "成熟的黑麦田(成熟)",
   "en": "Mature Rye Field",
   "ja": "成長したライ麦畑",
-  "UniqueIDIndex": 2209,
+  "UniqueIDIndex": 2210,
   "CardType": 2,
   "CardTags": [
     {
@@ -6999,7 +6999,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -9378,7 +9378,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -11761,7 +11761,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -24217,7 +24217,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

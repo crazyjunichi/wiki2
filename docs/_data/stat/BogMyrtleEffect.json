@@ -1,12 +1,12 @@
 {
   "m_Name": "BogMyrtleEffect",
   "key": "BogMyrtleEffect",
-  "icon": "FlyAgaric",
+  "icon": "BogMyrtle_Fresh",
   "type": "stat",
   "zh": "沼泽香木效果",
   "en": "Bog Myrtle Effect",
   "ja": "Bog Myrtle Effect",
-  "UniqueIDIndex": 3132,
+  "UniqueIDIndex": 3142,
   "GameName": {
     "DefaultText": "Bog Myrtle Effect",
     "Text": "沼泽香木效果",
@@ -75,7 +75,7 @@
     "ja": ""
   },
   "DefaultStatusIcon": {
-    "FileName": "FlyAgaric"
+    "FileName": "BogMyrtle_Fresh"
   },
   "Statuses": [
     {
@@ -190,7 +190,7 @@
         {
           "Stat": {
             "key": "BogMyrtleEffect",
-            "icon": "FlyAgaric",
+            "icon": "BogMyrtle_Fresh",
             "type": "stat",
             "zh": "沼泽香木效果",
             "en": "Bog Myrtle Effect",
@@ -393,7 +393,7 @@
         {
           "Stat": {
             "key": "BogMyrtleEffect",
-            "icon": "FlyAgaric",
+            "icon": "BogMyrtle_Fresh",
             "type": "stat",
             "zh": "沼泽香木效果",
             "en": "Bog Myrtle Effect",
@@ -633,7 +633,7 @@
         {
           "Stat": {
             "key": "BogMyrtleEffect",
-            "icon": "FlyAgaric",
+            "icon": "BogMyrtle_Fresh",
             "type": "stat",
             "zh": "沼泽香木效果",
             "en": "Bog Myrtle Effect",
@@ -778,7 +778,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -799,7 +799,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -820,7 +820,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",

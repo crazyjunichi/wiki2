@@ -6,7 +6,7 @@
   "zh": "狼穴",
   "en": "Wolf Cave",
   "ja": "Wolf Cave",
-  "UniqueIDIndex": 145,
+  "UniqueIDIndex": 146,
   "CardType": 4,
   "CardTags": [
     {
@@ -2360,38 +2360,6 @@
         "zh": "动作：进入洞穴",
         "en": "Action: Enter the Cave",
         "ja": "アクション：Enter the Cave"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Wolf Cave",
-        "en": "Action: Wolf Cave",
-        "ja": "アクション：Wolf Cave"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Wolf Cave",
-        "en": "Action: Wolf Cave",
-        "ja": "アクション：Wolf Cave"
       }
     }
   ],

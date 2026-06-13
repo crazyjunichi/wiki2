@@ -2759,7 +2759,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportKP",
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2768,9 +2768,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Moosy Clearing",
-        "en": "Action: Moosy Clearing",
-        "ja": "アクション：Moosy Clearing"
+        "zh": "动作：Mossy Clearing",
+        "en": "Action: Mossy Clearing",
+        "ja": "アクション：Mossy Clearing"
       }
     }
   ],

@@ -6,7 +6,7 @@
   "zh": "休眠的沼泽香木丛",
   "en": "Dormant Bog Myrtle Bush",
   "ja": "Dormant Bog Myrtle Bush",
-  "UniqueIDIndex": 275,
+  "UniqueIDIndex": 276,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

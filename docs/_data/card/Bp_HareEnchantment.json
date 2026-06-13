@@ -6,7 +6,7 @@
   "zh": "野兔附魔",
   "en": "Hare Enchantment",
   "ja": "Hare Enchantment",
-  "UniqueIDIndex": 449,
+  "UniqueIDIndex": 450,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

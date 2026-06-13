@@ -6,7 +6,7 @@
   "zh": "狗鱼附魔",
   "en": "Pike Enchantment",
   "ja": "Pike Enchantment",
-  "UniqueIDIndex": 522,
+  "UniqueIDIndex": 523,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

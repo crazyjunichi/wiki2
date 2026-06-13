@@ -6,7 +6,7 @@
   "zh": "泥泞丛林",
   "en": "Muddy Thicket",
   "ja": "泥だらけの密林",
-  "UniqueIDIndex": 127,
+  "UniqueIDIndex": 128,
   "CardType": 4,
   "CardTags": [
     {
@@ -2267,6 +2267,22 @@
         "zh": "动作：东方",
         "en": "Action: East",
         "ja": "アクション：East"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Muddy Thicket",
+        "en": "Action: Muddy Thicket",
+        "ja": "アクション：Muddy Thicket"
       }
     }
   ],

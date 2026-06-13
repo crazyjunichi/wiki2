@@ -6,7 +6,7 @@
   "zh": "鳟鱼",
   "en": "Trout",
   "ja": "トラウト",
-  "UniqueIDIndex": 1274,
+  "UniqueIDIndex": 1275,
   "CardType": 0,
   "CardTags": [
     {
@@ -9889,7 +9889,7 @@
             "FloatValue": 0
           }
         },
-        "HideActionIfNotMet": false,
+        "HideActionIfNotMet": true,
         "FailMessage": {
           "DefaultText": "Carcass has no spirit.",
           "Text": "尸体没有精魄。",

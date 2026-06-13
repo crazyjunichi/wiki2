@@ -5,7 +5,7 @@
   "zh": "Badger Build Burrow",
   "en": "Badger Build Burrow",
   "ja": "Badger Build Burrow",
-  "UniqueIDIndex": 2820,
+  "UniqueIDIndex": 2828,
   "DutyName": {
     "DefaultText": "Badger Build Burrow",
     "Text": "Badger Build Burrow",
@@ -360,7 +360,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -405,7 +405,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-          "UniqueIDIndex": 3051
+          "UniqueIDIndex": 3060
         },
         "ConditionRange": {
           "x": 0,

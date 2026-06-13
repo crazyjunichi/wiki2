@@ -6,7 +6,7 @@
   "zh": "麦芽汁",
   "en": "Wheat Wort",
   "ja": "Wheat Wort",
-  "UniqueIDIndex": 1717,
+  "UniqueIDIndex": 1718,
   "CardType": 9,
   "CardTags": [
     {
@@ -6477,7 +6477,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

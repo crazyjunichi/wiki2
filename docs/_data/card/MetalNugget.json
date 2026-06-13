@@ -6,7 +6,7 @@
   "zh": "加热的金属块",
   "en": "Metal Nugget",
   "ja": "Metal Nugget",
-  "UniqueIDIndex": 1791,
+  "UniqueIDIndex": 1792,
   "CardType": 0,
   "CardTags": [
     {
@@ -6804,11 +6804,11 @@
     },
     {
       "ActionName": {
-        "DefaultText": "Add Metal Quality to Quality( Only if Quality is 0 )",
-        "Text": "Add Metal Quality to Quality( Only if Quality is 0 )",
-        "zh": "Add Metal Quality to Quality( Only if Quality is 0 )",
-        "en": "Add Metal Quality to Quality( Only if Quality is 0 )",
-        "ja": "Add Metal Quality to Quality( Only if Quality is 0 )"
+        "DefaultText": "Add Metal Quality to Quality( Only if Quality is less than 1 )",
+        "Text": "Add Metal Quality to Quality( Only if Quality is less than 1 )",
+        "zh": "Add Metal Quality to Quality( Only if Quality is less than 1 )",
+        "en": "Add Metal Quality to Quality( Only if Quality is less than 1 )",
+        "ja": "Add Metal Quality to Quality( Only if Quality is less than 1 )"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -6997,7 +6997,7 @@
         "RequiredSpecial3Percent": {
           "Active": true,
           "FloatValue": 0,
-          "MaxValue": 0,
+          "MaxValue": 0.01,
           "ScaleRequirementPerPortionOfLiquid": {
             "Active": false,
             "FloatValue": 0
@@ -13300,9 +13300,9 @@
         "icon": "CopperNugget",
         "type": "card",
         "CardType": 7,
-        "zh": "布衬衫",
+        "zh": "5 块铜块",
         "en": "5 Copper Nuggets",
-        "ja": "シャツ（布）"
+        "ja": "5 Copper Nuggets"
       },
       "localization": {
         "zh": "蓝图制作",

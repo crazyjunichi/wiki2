@@ -2088,7 +2088,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportQY",
+        "key": "VDEBUG_Path_TeleportMiddleWoods1",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2097,9 +2097,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Shady Grove",
-        "en": "Action: Shady Grove",
-        "ja": "アクション：Shady Grove"
+        "zh": "动作：Shady Grove\r",
+        "en": "Action: Shady Grove\r",
+        "ja": "アクション：Shady Grove\r"
       }
     }
   ],

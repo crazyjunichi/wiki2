@@ -5,7 +5,7 @@
   "zh": "Forest Beast Stare at Moon",
   "en": "Forest Beast Stare at Moon",
   "ja": "Forest Beast Stare at Moon",
-  "UniqueIDIndex": 2918,
+  "UniqueIDIndex": 2926,
   "DutyName": {
     "DefaultText": "Forest Beast Stare at Moon",
     "Text": "Forest Beast Stare at Moon",
@@ -252,7 +252,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "a870d06f65ccbd94c8429560bf732270",
-          "UniqueIDIndex": 2804
+          "UniqueIDIndex": 2812
         },
         "ConditionRange": {
           "x": 100,
@@ -297,7 +297,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

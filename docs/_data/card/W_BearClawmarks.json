@@ -6,7 +6,7 @@
   "zh": "熊爪痕",
   "en": "Bear Clawmarks",
   "ja": "Bear Clawmarks",
-  "UniqueIDIndex": 2616,
+  "UniqueIDIndex": 2624,
   "CardType": 0,
   "CardTags": [
     {
@@ -12979,8 +12979,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

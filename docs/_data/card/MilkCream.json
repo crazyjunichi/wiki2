@@ -6,7 +6,7 @@
   "zh": "奶油",
   "en": "Cream",
   "ja": "Cream",
-  "UniqueIDIndex": 1796,
+  "UniqueIDIndex": 1797,
   "CardType": 0,
   "CardTags": [
     {
@@ -7353,7 +7353,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

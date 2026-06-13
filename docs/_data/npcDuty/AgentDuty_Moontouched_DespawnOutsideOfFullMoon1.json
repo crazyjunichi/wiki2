@@ -5,7 +5,7 @@
   "zh": "Moontouched go primewalwoods to despawn1",
   "en": "Moontouched go primewalwoods to despawn1",
   "ja": "Moontouched go primewalwoods to despawn1",
-  "UniqueIDIndex": 2965,
+  "UniqueIDIndex": 2973,
   "DutyName": {
     "DefaultText": "Moontouched go primewalwoods to despawn1",
     "Text": "Moontouched go primewalwoods to despawn1",
@@ -258,7 +258,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -479,7 +479,7 @@
   "DutyExecutionOptions": 0,
   "ActionSequence": [
     {
-      "key": "ChangeExistsToZero_0_7801",
+      "key": "MoveToPrimevalWoods",
       "icon": "",
       "type": "MoveDutyAction",
       "zh": "",
@@ -487,15 +487,7 @@
       "ja": ""
     },
     {
-      "key": "ChangeExistsToZero",
-      "icon": "",
-      "type": "ChangeNPCStatDutyAction",
-      "zh": "",
-      "en": "",
-      "ja": ""
-    },
-    {
-      "key": "Despawn",
+      "key": "MoveToMoonTouchedWorld",
       "icon": "",
       "type": "MoveDutyAction",
       "zh": "",

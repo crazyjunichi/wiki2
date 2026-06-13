@@ -6,7 +6,7 @@
   "zh": "杜松茶",
   "en": "Juniper Tea",
   "ja": "Juniper Tea",
-  "UniqueIDIndex": 1646,
+  "UniqueIDIndex": 1647,
   "CardType": 9,
   "CardTags": [
     {
@@ -5024,7 +5024,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

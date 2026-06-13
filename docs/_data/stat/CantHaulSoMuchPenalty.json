@@ -6,7 +6,7 @@
   "zh": "运不了那么重",
   "en": "Can't haul so much",
   "ja": "Can't haul so much",
-  "UniqueIDIndex": 3153,
+  "UniqueIDIndex": 3163,
   "GameName": {
     "DefaultText": "Can't haul so much",
     "Text": "运不了那么重",
@@ -307,7 +307,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {

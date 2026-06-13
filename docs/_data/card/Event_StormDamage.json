@@ -6,7 +6,7 @@
   "zh": "Storm Damage",
   "en": "Storm Damage",
   "ja": "Storm Damage",
-  "UniqueIDIndex": 1172,
+  "UniqueIDIndex": 1173,
   "CardType": 3,
   "CardTags": [],
   "CardName": {
@@ -2404,7 +2404,7 @@
               "text": "“适合园艺的”",
               "icon": "",
               "type": "tag",
-              "count": 83,
+              "count": 82,
               "zh": "适合园艺的",
               "en": "Gardenable",
               "ja": "園芸できる",

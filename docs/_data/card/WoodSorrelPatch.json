@@ -6,7 +6,7 @@
   "zh": "野生酢浆草",
   "en": "Wood Sorrel Patch",
   "ja": "Wood Sorrel Patch",
-  "UniqueIDIndex": 2741,
+  "UniqueIDIndex": 2749,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -6344,7 +6344,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

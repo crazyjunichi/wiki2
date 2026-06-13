@@ -6,7 +6,7 @@
   "zh": "菌床",
   "en": "Mushroom Bed",
   "ja": "菌床",
-  "UniqueIDIndex": 1864,
+  "UniqueIDIndex": 1865,
   "CardType": 2,
   "CardTags": [
     {
@@ -3597,7 +3597,7 @@
               "text": "“适合园艺的”",
               "icon": "",
               "type": "tag",
-              "count": 83,
+              "count": 82,
               "zh": "适合园艺的",
               "en": "Gardenable",
               "ja": "園芸できる",
@@ -4975,7 +4975,7 @@
               "text": "“适合园艺的”",
               "icon": "",
               "type": "tag",
-              "count": 83,
+              "count": 82,
               "zh": "适合园艺的",
               "en": "Gardenable",
               "ja": "園芸できる",
@@ -8404,8 +8404,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "Thickness",
-                "Text": "Thickness",
-                "zh": "Thickness",
+                "Text": "浓稠度",
+                "zh": "浓稠度",
                 "en": "Thickness",
                 "ja": "Thickness"
               },

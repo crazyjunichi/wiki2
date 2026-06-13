@@ -826,19 +826,6 @@
     },
     {
       "link": {
-        "key": "RyeBloodPasty",
-        "icon": "Pasty_Rye",
-        "type": "card",
-        "CardType": 0,
-        "zh": "黑麦血馅饼",
-        "en": "Rye Blood Pasty",
-        "ja": "Rye Blood Pasty"
-      },
-      "text": "吃掉",
-      "time": 1
-    },
-    {
-      "link": {
         "key": "RyeBreadSlice_",
         "icon": "BreadSlice_Rye",
         "type": "card",
@@ -874,19 +861,6 @@
         "ja": "Rye Hardtack"
       },
       "text": "食用",
-      "time": 1
-    },
-    {
-      "link": {
-        "key": "RyeMeatPasty",
-        "icon": "Pasty_Rye",
-        "type": "card",
-        "CardType": 0,
-        "zh": "黑麦肉馅饼",
-        "en": "Rye Meat Pasty",
-        "ja": "Rye Meat Pasty"
-      },
-      "text": "吃掉",
       "time": 1
     },
     {
@@ -1164,19 +1138,6 @@
     },
     {
       "link": {
-        "key": "WheatBloodPasty",
-        "icon": "Pasty_Wheat",
-        "type": "card",
-        "CardType": 0,
-        "zh": "小麦血馅饼",
-        "en": "Wheat Blood Pasty",
-        "ja": "Wheat Blood Pasty"
-      },
-      "text": "吃掉",
-      "time": 1
-    },
-    {
-      "link": {
         "key": "WheatBreadSlice_",
         "icon": "BreadSlice_Wheat",
         "type": "card",
@@ -1212,19 +1173,6 @@
         "ja": "Wheat Hardtack"
       },
       "text": "食用",
-      "time": 1
-    },
-    {
-      "link": {
-        "key": "WheatMeatPasty",
-        "icon": "Pasty_Wheat",
-        "type": "card",
-        "CardType": 0,
-        "zh": "小麦肉馅饼",
-        "en": "Wheat Meat Pasty",
-        "ja": "Wheat Meat Pasty"
-      },
-      "text": "吃掉",
       "time": 1
     },
     {

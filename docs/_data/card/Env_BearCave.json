@@ -1999,22 +1999,6 @@
         "en": "Action: Enter the Cave",
         "ja": "アクション：洞窟に入る"
       }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Bear Cave",
-        "en": "Action: Bear Cave",
-        "ja": "アクション：Bear Cave"
-      }
     }
   ],
   "_useFor": [],

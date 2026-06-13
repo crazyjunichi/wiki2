@@ -6,7 +6,7 @@
   "zh": "Jasmine Oil Mix",
   "en": "Jasmine Oil Mix",
   "ja": "Jasmine Oil Mix",
-  "UniqueIDIndex": 1975,
+  "UniqueIDIndex": 1976,
   "CardType": 9,
   "CardTags": [],
   "CardName": {
@@ -3212,7 +3212,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

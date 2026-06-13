@@ -6,7 +6,7 @@
   "zh": "狼",
   "en": "Wolf",
   "ja": "狼",
-  "UniqueIDIndex": 3185,
+  "UniqueIDIndex": 3195,
   "EncounterTitle": {
     "DefaultText": "Wolf",
     "Text": "狼",
@@ -5678,7 +5678,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-      "UniqueIDIndex": 2798
+      "UniqueIDIndex": 2806
     },
     "TriggerLoadStat": 1,
     "MaxValue": 100,
@@ -5725,7 +5725,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "6bf1c5e5fd581784180547c3850218a0",
-      "UniqueIDIndex": 3072
+      "UniqueIDIndex": 3081
     },
     "TriggerLoadStat": 1,
     "MaxValue": 100,
@@ -5772,7 +5772,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-      "UniqueIDIndex": 3054
+      "UniqueIDIndex": 3063
     },
     "TriggerLoadStat": 1,
     "MaxValue": 0,
@@ -5852,7 +5852,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-      "UniqueIDIndex": 3056
+      "UniqueIDIndex": 3065
     },
     "TriggerLoadStat": 1,
     "MaxValue": 40,
@@ -26873,7 +26873,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 2
       },
@@ -26915,7 +26915,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "6bf1c5e5fd581784180547c3850218a0",
-          "UniqueIDIndex": 3072
+          "UniqueIDIndex": 3081
         },
         "TransferType": 2
       },
@@ -26957,7 +26957,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "TransferType": 2
       },
@@ -26999,7 +26999,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 2
       }
@@ -27534,7 +27534,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "86831636a02198e41a580a6f90e9d239",
-          "UniqueIDIndex": 3049
+          "UniqueIDIndex": 3058
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -27583,7 +27583,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 2
       },
@@ -27625,7 +27625,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "6bf1c5e5fd581784180547c3850218a0",
-          "UniqueIDIndex": 3072
+          "UniqueIDIndex": 3081
         },
         "TransferType": 2
       },
@@ -27667,7 +27667,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "TransferType": 2
       },
@@ -27709,7 +27709,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 2
       }
@@ -28213,7 +28213,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "86831636a02198e41a580a6f90e9d239",
-          "UniqueIDIndex": 3049
+          "UniqueIDIndex": 3058
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -28262,7 +28262,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 2
       },
@@ -28304,7 +28304,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "6bf1c5e5fd581784180547c3850218a0",
-          "UniqueIDIndex": 3072
+          "UniqueIDIndex": 3081
         },
         "TransferType": 2
       },
@@ -28346,7 +28346,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "TransferType": 2
       },
@@ -28388,7 +28388,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 2
       }
@@ -28885,7 +28885,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "86831636a02198e41a580a6f90e9d239",
-          "UniqueIDIndex": 3049
+          "UniqueIDIndex": 3058
         },
         "UseAssociatedAgent": true,
         "TargetAgent": null,
@@ -28934,7 +28934,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f2c3d787896b6874c9974806acbe757a",
-          "UniqueIDIndex": 2798
+          "UniqueIDIndex": 2806
         },
         "TransferType": 2
       },
@@ -28976,7 +28976,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "6bf1c5e5fd581784180547c3850218a0",
-          "UniqueIDIndex": 3072
+          "UniqueIDIndex": 3081
         },
         "TransferType": 2
       },
@@ -29018,7 +29018,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "02ddd4de2bc32564daa80cdcdaa87cc2",
-          "UniqueIDIndex": 3054
+          "UniqueIDIndex": 3063
         },
         "TransferType": 2
       },
@@ -29060,7 +29060,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "ef9eb06fd9bff0545906eb75d99a2937",
-          "UniqueIDIndex": 3056
+          "UniqueIDIndex": 3065
         },
         "TransferType": 2
       }

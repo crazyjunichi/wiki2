@@ -6,7 +6,7 @@
   "zh": "皮革毯",
   "en": "Leather Blanket",
   "ja": "革の毛布",
-  "UniqueIDIndex": 1955,
+  "UniqueIDIndex": 1956,
   "CardType": 0,
   "CardTags": [
     {
@@ -344,7 +344,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

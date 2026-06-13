@@ -5,7 +5,7 @@
   "zh": "Beaver Enter Burrow to Sleep",
   "en": "Beaver Enter Burrow to Sleep",
   "ja": "Beaver Enter Burrow to Sleep",
-  "UniqueIDIndex": 2855,
+  "UniqueIDIndex": 2863,
   "DutyName": {
     "DefaultText": "Beaver Enter Burrow to Sleep",
     "Text": "Beaver Enter Burrow to Sleep",
@@ -362,7 +362,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -570,7 +570,7 @@
   "DutyExecutionOptions": 0,
   "ActionSequence": [
     {
-      "key": "SetBeaverHome_0_7826",
+      "key": "SetBeaverHome_0_7837",
       "icon": "",
       "type": "SetHomeDutyAction",
       "zh": "",

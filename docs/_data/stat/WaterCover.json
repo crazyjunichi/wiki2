@@ -6,7 +6,7 @@
   "zh": "覆水",
   "en": "WaterCover",
   "ja": "N/A",
-  "UniqueIDIndex": 4525,
+  "UniqueIDIndex": 4535,
   "GameName": {
     "DefaultText": "WaterCover",
     "Text": "覆水",
@@ -225,7 +225,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

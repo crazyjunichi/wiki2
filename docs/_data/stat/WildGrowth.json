@@ -6,7 +6,7 @@
   "zh": "野性成长",
   "en": "Wild Growth",
   "ja": "野生の成長",
-  "UniqueIDIndex": 4540,
+  "UniqueIDIndex": 4550,
   "GameName": {
     "DefaultText": "Wild Growth",
     "Text": "野性成长",
@@ -1347,7 +1347,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

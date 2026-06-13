@@ -6,7 +6,7 @@
   "zh": "岩脊河岸",
   "en": "Rocky Bank",
   "ja": "岩だらけの川岸",
-  "UniqueIDIndex": 114,
+  "UniqueIDIndex": 115,
   "CardType": 4,
   "CardTags": [
     {
@@ -2462,6 +2462,22 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：北"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Rocky Bank",
+        "en": "Action: Rocky Bank",
+        "ja": "アクション：Rocky Bank"
       }
     }
   ],

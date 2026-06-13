@@ -6,7 +6,7 @@
   "zh": "越橘丛(成熟)",
   "en": "Billberry Bush",
   "ja": "ビルベリーブッシュ",
-  "UniqueIDIndex": 214,
+  "UniqueIDIndex": 215,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

@@ -6,7 +6,7 @@
   "zh": "成熟的翻根田(成熟)",
   "en": "Mature Turnroot Field",
   "ja": "成長したターンルート畑",
-  "UniqueIDIndex": 2576,
+  "UniqueIDIndex": 2577,
   "CardType": 2,
   "CardTags": [
     {
@@ -7243,7 +7243,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -9658,7 +9658,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -22446,7 +22446,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

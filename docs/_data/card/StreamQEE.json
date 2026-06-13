@@ -6,7 +6,7 @@
   "zh": "溪流",
   "en": "Stream",
   "ja": "Stream",
-  "UniqueIDIndex": 2391,
+  "UniqueIDIndex": 2392,
   "CardType": 2,
   "CardTags": [
     {
@@ -192,8 +192,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "River Type",
-          "Text": "河流类型",
-          "zh": "河流类型",
+          "Text": "River Type",
+          "zh": "River Type",
           "en": "River Type",
           "ja": "River Type"
         },
@@ -3530,7 +3530,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",

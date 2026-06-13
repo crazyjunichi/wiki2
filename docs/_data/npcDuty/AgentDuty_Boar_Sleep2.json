@@ -5,7 +5,7 @@
   "zh": "Boar2 Sleep",
   "en": "Boar2 Sleep",
   "ja": "Boar2 Sleep",
-  "UniqueIDIndex": 2895,
+  "UniqueIDIndex": 2903,
   "DutyName": {
     "DefaultText": "Boar2 Sleep",
     "Text": "Boar2 Sleep",
@@ -263,7 +263,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

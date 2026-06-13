@@ -6,7 +6,7 @@
   "zh": "陈年尿液",
   "en": "Aged Urine",
   "ja": "Aged Urine",
-  "UniqueIDIndex": 1708,
+  "UniqueIDIndex": 1709,
   "CardType": 9,
   "CardTags": [
     {
@@ -4277,7 +4277,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

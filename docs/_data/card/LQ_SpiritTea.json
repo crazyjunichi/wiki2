@@ -6,7 +6,7 @@
   "zh": "神奇茶",
   "en": "Spirit Tea",
   "ja": "精霊茶",
-  "UniqueIDIndex": 1695,
+  "UniqueIDIndex": 1696,
   "CardType": 9,
   "CardTags": [
     {
@@ -2950,7 +2950,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",
@@ -6197,7 +6197,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

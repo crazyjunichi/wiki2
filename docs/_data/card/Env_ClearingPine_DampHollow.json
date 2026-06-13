@@ -2757,7 +2757,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportKP",
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2766,25 +2766,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Old Hollow",
-        "en": "Action: Old Hollow",
-        "ja": "アクション：Old Hollow"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Old Hollow",
-        "en": "Action: Old Hollow",
-        "ja": "アクション：Old Hollow"
+        "zh": "动作：Damp Hollow",
+        "en": "Action: Damp Hollow",
+        "ja": "アクション：Damp Hollow"
       }
     }
   ],

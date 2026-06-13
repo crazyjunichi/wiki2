@@ -6,7 +6,7 @@
   "zh": "河狸窝",
   "en": "Beaver Lodge",
   "ja": "Beaver Lodge",
-  "UniqueIDIndex": 1602,
+  "UniqueIDIndex": 1603,
   "CardType": 2,
   "CardTags": [
     {
@@ -1043,7 +1043,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "ConditionRange": {
             "x": 0,
@@ -1286,7 +1286,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-            "UniqueIDIndex": 3051
+            "UniqueIDIndex": 3060
           },
           "UseAssociatedAgent": false,
           "TargetAgent": {
@@ -2489,7 +2489,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

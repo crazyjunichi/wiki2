@@ -5,7 +5,7 @@
   "zh": "Fox2 Seek Sleep",
   "en": "Fox2 Seek Sleep",
   "ja": "Fox2 Seek Sleep",
-  "UniqueIDIndex": 2950,
+  "UniqueIDIndex": 2958,
   "DutyName": {
     "DefaultText": "Fox2 Seek Sleep",
     "Text": "Fox2 Seek Sleep",
@@ -362,7 +362,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

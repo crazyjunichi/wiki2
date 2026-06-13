@@ -6,7 +6,7 @@
   "zh": "黑暗精魄",
   "en": "Darkness Spirit",
   "ja": "闇の精霊",
-  "UniqueIDIndex": 1673,
+  "UniqueIDIndex": 1674,
   "CardType": 9,
   "CardTags": [
     {
@@ -1010,7 +1010,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",
@@ -2092,7 +2092,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",

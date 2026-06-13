@@ -6,7 +6,7 @@
   "zh": "新鲜尿液",
   "en": "Fresh Urine",
   "ja": "Fresh Urine",
-  "UniqueIDIndex": 1709,
+  "UniqueIDIndex": 1710,
   "CardType": 9,
   "CardTags": [
     {
@@ -4770,7 +4770,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

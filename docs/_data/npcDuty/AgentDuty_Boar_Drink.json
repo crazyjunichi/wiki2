@@ -5,7 +5,7 @@
   "zh": "Boar Drink",
   "en": "Boar Drink",
   "ja": "Boar Drink",
-  "UniqueIDIndex": 2874,
+  "UniqueIDIndex": 2882,
   "DutyName": {
     "DefaultText": "Boar Drink",
     "Text": "Boar Drink",
@@ -250,7 +250,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "7d6d83b0fdd5f8c4b891b2ec33c84809",
-          "UniqueIDIndex": 3053
+          "UniqueIDIndex": 3062
         },
         "ConditionRange": {
           "x": 0,
@@ -295,7 +295,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

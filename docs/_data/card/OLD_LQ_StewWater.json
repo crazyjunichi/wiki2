@@ -6,7 +6,7 @@
   "zh": "水",
   "en": "Water",
   "ja": "水",
-  "UniqueIDIndex": 2022,
+  "UniqueIDIndex": 2023,
   "CardType": 9,
   "CardTags": [
     {
@@ -82524,7 +82524,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

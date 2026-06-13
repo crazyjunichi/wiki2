@@ -6,7 +6,7 @@
   "zh": "半成品河狸坝",
   "en": "Half Built Beaver Dam",
   "ja": "Half Built Beaver Dam",
-  "UniqueIDIndex": 934,
+  "UniqueIDIndex": 935,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -2318,7 +2318,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

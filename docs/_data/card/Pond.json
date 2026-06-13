@@ -6,7 +6,7 @@
   "zh": "池塘",
   "en": "Pond",
   "ja": "池",
-  "UniqueIDIndex": 2123,
+  "UniqueIDIndex": 2124,
   "CardType": 2,
   "CardTags": [
     {
@@ -192,8 +192,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "River Type",
-          "Text": "河流类型",
-          "zh": "河流类型",
+          "Text": "River Type",
+          "zh": "River Type",
           "en": "River Type",
           "ja": "River Type"
         },
@@ -8633,10 +8633,10 @@
     {
       "ActionName": {
         "DefaultText": "Fill",
-        "Text": "取水",
-        "zh": "取水",
+        "Text": "Fill",
+        "zh": "Fill",
         "en": "Fill",
-        "ja": "塞ぐ"
+        "ja": "Fill"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -8833,8 +8833,8 @@
         },
         "RequiredSpecial4Percent": {
           "Active": false,
-          "FloatValue": 0,
-          "MaxValue": 0,
+          "FloatValue": 0.01,
+          "MaxValue": 0.013,
           "ScaleRequirementPerPortionOfLiquid": {
             "Active": false,
             "FloatValue": 0
@@ -9265,7 +9265,7 @@
           "FloatValue": 0
         },
         "ModifyDurability": false,
-        "ModifyLiquid": true,
+        "ModifyLiquid": false,
         "DropOnDestroyList": false,
         "LiquidEffectScaling": 0,
         "AddFlavoursFromTargetCard": false,
@@ -9328,102 +9328,36 @@
       },
       "CreatedLiquidInGivenCard": {
         "LiquidCard": {
-          "key": "LQ_Water",
+          "key": "LQ_WaterUnsafe",
           "icon": "Thirst_Old",
           "type": "card",
           "CardType": 9,
-          "zh": "水",
-          "en": "Water",
-          "ja": "水",
-          "AlternateNames": [
-            {
-              "Conditions": {
-                "ProgressRange": {
-                  "x": 75,
-                  "y": 0
-                }
-              },
-              "Name": {
-                "DefaultText": "Potage",
-                "Text": "浓汤",
-                "zh": "浓汤",
-                "en": "Potage",
-                "ja": "Potage"
-              }
-            },
-            {
-              "Conditions": {
-                "ProgressRange": {
-                  "x": 50,
-                  "y": 0
-                }
-              },
-              "Name": {
-                "DefaultText": "Stew",
-                "Text": "炖菜",
-                "zh": "炖菜",
-                "en": "Stew",
-                "ja": "Stew"
-              }
-            },
-            {
-              "Conditions": {
-                "ProgressRange": {
-                  "x": 25,
-                  "y": 0
-                }
-              },
-              "Name": {
-                "DefaultText": "Soup",
-                "Text": "汤",
-                "zh": "汤",
-                "en": "Soup",
-                "ja": "Soup"
-              }
-            },
-            {
-              "Conditions": {
-                "ProgressRange": {
-                  "x": 1,
-                  "y": 0
-                }
-              },
-              "Name": {
-                "DefaultText": "Broth",
-                "Text": "汤",
-                "zh": "汤",
-                "en": "Broth",
-                "ja": "Broth"
-              }
-            }
-          ],
+          "zh": "不安全的水",
+          "en": "Unsafe Water",
+          "ja": "危険な水",
           "SpoilageTime": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Bacteria",
-              "Text": "细菌",
-              "zh": "细菌",
-              "en": "Bacteria",
-              "ja": "Bacteria"
+              "DefaultText": "",
+              "Text": "SpoilageTime",
+              "zh": "时间",
+              "en": "Spoilage",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "Bacteria"
-            },
-            "MaxValue": 480
+            "OverrideIcon": null,
+            "MaxValue": 0
           },
           "UsageDurability": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Vitamins",
-              "Text": "维生素",
-              "zh": "维生素",
-              "en": "Vitamins",
-              "ja": "ビタミン"
+              "DefaultText": "",
+              "Text": "UsageDurability",
+              "zh": "耐久",
+              "en": "Usage",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "SaturationVegetables"
-            },
-            "MaxValue": 1000
+            "OverrideIcon": null,
+            "MaxValue": 0
           },
           "FuelCapacity": {
             "Active": true,
@@ -9440,82 +9374,72 @@
             "MaxValue": 200
           },
           "Progress": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Thickness",
-              "Text": "浓稠度",
-              "zh": "浓稠度",
-              "en": "Thickness",
-              "ja": "濃厚さ"
+              "DefaultText": "",
+              "Text": "Progress",
+              "zh": "进度",
+              "en": "Progress",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "SaturationCauldron"
-            },
-            "MaxValue": 100
+            "OverrideIcon": null,
+            "MaxValue": 0
           },
           "SpecialDurability1": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Calories",
-              "Text": "卡路里",
-              "zh": "卡路里",
-              "en": "Calories",
-              "ja": "カロリー"
+              "DefaultText": "",
+              "Text": "SpecialDurability1",
+              "zh": "特殊1",
+              "en": "Special1",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "Weight3"
-            },
-            "MaxValue": 1000
+            "OverrideIcon": null,
+            "MaxValue": 0
           },
           "SpecialDurability2": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Quality",
-              "Text": "品质",
-              "zh": "品质",
-              "en": "Quality",
-              "ja": "クオリティ"
+              "DefaultText": "",
+              "Text": "SpecialDurability2",
+              "zh": "特殊2",
+              "en": "Special2",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "Quality"
-            },
-            "MaxValue": 100
+            "OverrideIcon": null,
+            "MaxValue": 0
           },
           "SpecialDurability3": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Proteins",
-              "Text": "蛋白质",
-              "zh": "蛋白质",
-              "en": "Proteins",
-              "ja": "タンパク質"
+              "DefaultText": "",
+              "Text": "SpecialDurability3",
+              "zh": "特殊3",
+              "en": "Special3",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "SaturationMeat"
-            },
-            "MaxValue": 1000
+            "OverrideIcon": null,
+            "MaxValue": 0
           },
           "SpecialDurability4": {
-            "Active": true,
+            "Active": false,
             "CardStatName": {
-              "DefaultText": "Iron",
-              "Text": "铁元素",
-              "zh": "铁元素",
-              "en": "Waste",
-              "ja": "ゴミ"
+              "DefaultText": "",
+              "Text": "SpecialDurability4",
+              "zh": "特殊4",
+              "en": "Special4",
+              "ja": ""
             },
-            "OverrideIcon": {
-              "FileName": "Filth"
-            },
-            "MaxValue": 1000
+            "OverrideIcon": null,
+            "MaxValue": 0
           }
         },
         "Quantity": {
-          "x": 10000,
-          "y": 10000
+          "x": 100000,
+          "y": 100000
         },
         "Durabilities": {
-          "Spoilage": 3,
+          "Spoilage": 0,
           "Usage": 0,
           "Fuel": 0,
           "Progress": 0,
@@ -9523,7 +9447,7 @@
           "Special2": 0,
           "Special3": 0,
           "Special4": 0,
-          "SpoilageValue": 384,
+          "SpoilageValue": 4,
           "UsageValue": 0,
           "FuelValue": 0,
           "ProgressValue": 0,
@@ -9531,14 +9455,14 @@
           "Special2Value": 0,
           "Special3Value": 0,
           "Special4Value": 0,
-          "SpoilageFrom": 0,
-          "UsageFrom": 0,
-          "FuelFrom": 0,
-          "ProgressFrom": 0,
-          "Special1From": 0,
-          "Special2From": 0,
-          "Special3From": 0,
-          "Special4From": 0
+          "SpoilageFrom": 1,
+          "UsageFrom": 1,
+          "FuelFrom": 1,
+          "ProgressFrom": 1,
+          "Special1From": 1,
+          "Special2From": 1,
+          "Special3From": 1,
+          "Special4From": 1
         }
       },
       "CarryOverGivenCard": false,
@@ -9672,7 +9596,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",
@@ -21257,7 +21181,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

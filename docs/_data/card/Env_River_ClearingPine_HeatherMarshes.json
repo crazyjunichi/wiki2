@@ -6,7 +6,7 @@
   "zh": "石南沼泽",
   "en": "Heather Marshes",
   "ja": "Heather Marshes",
-  "UniqueIDIndex": 103,
+  "UniqueIDIndex": 104,
   "CardType": 4,
   "CardTags": [
     {
@@ -2945,6 +2945,22 @@
         "zh": "动作：南方",
         "en": "Action: South",
         "ja": "アクション：South"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Heather Marshes",
+        "en": "Action: Heather Marshes",
+        "ja": "アクション：Heather Marshes"
       }
     }
   ],

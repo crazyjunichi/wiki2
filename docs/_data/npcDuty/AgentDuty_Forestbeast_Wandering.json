@@ -5,7 +5,7 @@
   "zh": "Forest Beast Wondering",
   "en": "Forest Beast Wondering",
   "ja": "Forest Beast Wondering",
-  "UniqueIDIndex": 2921,
+  "UniqueIDIndex": 2929,
   "DutyName": {
     "DefaultText": "Forest Beast Wondering",
     "Text": "Forest Beast Wondering",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -447,7 +447,7 @@
   "DutyExecutionOptions": 0,
   "ActionSequence": [
     {
-      "key": "ForestBeastMoveWander_0_7672",
+      "key": "ForestBeastMoveWander_0_7683",
       "icon": "",
       "type": "MoveDutyAction",
       "zh": "",

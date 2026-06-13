@@ -6,7 +6,7 @@
   "zh": "金属铲",
   "en": "Metal Shovel",
   "ja": "Metal Shovel",
-  "UniqueIDIndex": 640,
+  "UniqueIDIndex": 641,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -2381,6 +2381,21 @@
                   "zh": "长柳木棍",
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
+                }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
                 }
               }
             ],

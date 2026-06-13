@@ -6,7 +6,7 @@
   "zh": "干豌豆",
   "en": "Dried Peas",
   "ja": "乾燥したピース",
-  "UniqueIDIndex": 2072,
+  "UniqueIDIndex": 2073,
   "CardType": 0,
   "CardTags": [
     {
@@ -1312,7 +1312,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -14131,22 +14131,6 @@
     },
     {
       "link": {
-        "key": "Fat",
-        "icon": "Fat",
-        "type": "card",
-        "CardType": 0,
-        "zh": "脂肪",
-        "en": "Fat",
-        "ja": "脂"
-      },
-      "localization": {
-        "zh": "动作：添加",
-        "en": "Action: Add",
-        "ja": "アクション：入れる"
-      }
-    },
-    {
-      "link": {
         "key": "FirerootPowder",
         "icon": "Powder_Fireroot",
         "type": "card",
@@ -14156,9 +14140,9 @@
         "ja": "ファイヤールートの粉"
       },
       "localization": {
-        "zh": "动作：Add",
+        "zh": "动作：添加",
         "en": "Action: Add",
-        "ja": "アクション：Add"
+        "ja": "アクション：入れる"
       }
     },
     {

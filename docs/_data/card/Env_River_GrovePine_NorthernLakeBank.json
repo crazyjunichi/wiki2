@@ -6,7 +6,7 @@
   "zh": "北部湖岸",
   "en": "Northern Lake Bank",
   "ja": "Northern Lake Bank",
-  "UniqueIDIndex": 111,
+  "UniqueIDIndex": 112,
   "CardType": 4,
   "CardTags": [
     {
@@ -3069,6 +3069,22 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：North"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Northern Lake Bank",
+        "en": "Action: Northern Lake Bank",
+        "ja": "アクション：Northern Lake Bank"
       }
     }
   ],

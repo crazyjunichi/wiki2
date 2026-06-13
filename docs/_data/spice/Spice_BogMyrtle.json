@@ -6,7 +6,7 @@
   "zh": "沼泽香木",
   "en": "Bog Myrtle",
   "ja": "Bog Myrtle",
-  "UniqueIDIndex": 4128,
+  "UniqueIDIndex": 4138,
   "SpiceName": {
     "DefaultText": "Bog Myrtle",
     "Text": "沼泽香木",
@@ -65,7 +65,7 @@
     {
       "Stat": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",

@@ -6,7 +6,7 @@
   "zh": "黑麦汁",
   "en": "Rye Wort",
   "ja": "Rye Wort",
-  "UniqueIDIndex": 1662,
+  "UniqueIDIndex": 1663,
   "CardType": 9,
   "CardTags": [
     {
@@ -6489,7 +6489,7 @@
           "key": "DrinkingAction",
           "text": "DrinkingAction",
           "type": "tag",
-          "count": 57,
+          "count": 58,
           "UsageDurability": {
             "Active": true,
             "CardStatName": {

@@ -2446,6 +2446,22 @@
         "en": "Action: East",
         "ja": "アクション：East"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Pine Clearing",
+        "en": "Action: Pine Clearing",
+        "ja": "アクション：Pine Clearing"
+      }
     }
   ],
   "_useFor": [

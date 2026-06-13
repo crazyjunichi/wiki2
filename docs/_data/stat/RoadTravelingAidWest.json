@@ -7,7 +7,7 @@
   "zh_fix": "西方道路辅助",
   "en": "Road Traveling Aid West",
   "ja": "Road Traveling Aid West",
-  "UniqueIDIndex": 4029,
+  "UniqueIDIndex": 4039,
   "GameName": {
     "DefaultText": "Road Traveling Aid West",
     "Text": "Road Traveling Aid West",
@@ -310,7 +310,7 @@
               "key": "TravelAction",
               "text": "TravelAction",
               "type": "tag",
-              "count": 385,
+              "count": 350,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {

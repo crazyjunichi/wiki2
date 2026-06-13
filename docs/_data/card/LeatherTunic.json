@@ -6,7 +6,7 @@
   "zh": "皮革长袍",
   "en": "Leather Tunic",
   "ja": "Leather Tunic",
-  "UniqueIDIndex": 1593,
+  "UniqueIDIndex": 1594,
   "CardType": 0,
   "CardTags": [
     {
@@ -330,7 +330,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

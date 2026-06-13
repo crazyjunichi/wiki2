@@ -6,7 +6,7 @@
   "zh": "",
   "en": "",
   "ja": "",
-  "UniqueIDIndex": 4212,
+  "UniqueIDIndex": 4222,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Beast Spirits",
         "ja": "Beast Spirits",
         "UniqueID": "2e967f635b2cfe7418eca0ef700f712c",
-        "UniqueIDIndex": 4167,
+        "UniqueIDIndex": 4177,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -46,7 +46,7 @@
               "en": "Summon a Frog Spirit",
               "ja": "Summon a Frog Spirit",
               "UniqueID": "42203c1157ba78d4cb0a93d27f618707",
-              "UniqueIDIndex": 4170,
+              "UniqueIDIndex": 4180,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -260,7 +260,7 @@
               "en": "Summon a Sturgeon Spirit",
               "ja": "Summon a Sturgeon Spirit",
               "UniqueID": "8dfa85b8af44f8b4c857fe002693709e",
-              "UniqueIDIndex": 4171,
+              "UniqueIDIndex": 4181,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -474,7 +474,7 @@
               "en": "Summon a Badger Spirit",
               "ja": "Summon a Badger Spirit",
               "UniqueID": "a3e84e5de00af7f4db4b37b7ffcd707b",
-              "UniqueIDIndex": 4172,
+              "UniqueIDIndex": 4182,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -688,7 +688,7 @@
               "en": "Summon a Wolf Spirit",
               "ja": "Summon a Wolf Spirit",
               "UniqueID": "5e9515c7f47916849bb47c0723c17f30",
-              "UniqueIDIndex": 4173,
+              "UniqueIDIndex": 4183,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1695,7 +1695,7 @@
         "en": "Elemental Spirits",
         "ja": "Elemental Spirits",
         "UniqueID": "6fa457ba665667747a3b78373bfd6eba",
-        "UniqueIDIndex": 4178,
+        "UniqueIDIndex": 4188,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -1715,7 +1715,7 @@
               "en": "Summon a Water Spirit",
               "ja": "Summon a Water Spirit",
               "UniqueID": "82bb388f5f211e540886b28fd44efd8f",
-              "UniqueIDIndex": 4181,
+              "UniqueIDIndex": 4191,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -1929,7 +1929,7 @@
               "en": "Summon a Wind Spirit",
               "ja": "Summon a Wind Spirit",
               "UniqueID": "95b9c0b01daedc74e9a554eaad6356a4",
-              "UniqueIDIndex": 4182,
+              "UniqueIDIndex": 4192,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2143,7 +2143,7 @@
               "en": "Summon a Fire Spirit",
               "ja": "Summon a Fire Spirit",
               "UniqueID": "c321ac29be4f81e4f8ad7f2472380c91",
-              "UniqueIDIndex": 4183,
+              "UniqueIDIndex": 4193,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -2357,7 +2357,7 @@
               "en": "Summon an Earth Spirit",
               "ja": "Summon an Earth Spirit",
               "UniqueID": "8207a289fe8c8ae4cb775e31ee466d88",
-              "UniqueIDIndex": 4184,
+              "UniqueIDIndex": 4194,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3364,7 +3364,7 @@
         "en": "Elemental Spirits",
         "ja": "Elemental Spirits",
         "UniqueID": "6e24a1c38674c0546b5ebc2bf6a5ce5a",
-        "UniqueIDIndex": 4189,
+        "UniqueIDIndex": 4199,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -3384,7 +3384,7 @@
               "en": "Summon a Moon Spirit",
               "ja": "Summon a Moon Spirit",
               "UniqueID": "7c50f2f4eb493c74b87c231864137eaf",
-              "UniqueIDIndex": 4192,
+              "UniqueIDIndex": 4202,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3598,7 +3598,7 @@
               "en": "Summon a Frost Spirit",
               "ja": "Summon a Frost Spirit",
               "UniqueID": "8c8c4a2f24321ba4691759fa6f729bad",
-              "UniqueIDIndex": 4193,
+              "UniqueIDIndex": 4203,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -3812,7 +3812,7 @@
               "en": "Summon a Darkness Spirit",
               "ja": "Summon a Darkness Spirit",
               "UniqueID": "2a85cd7e2d7360e48b82df29b35b7e63",
-              "UniqueIDIndex": 4194,
+              "UniqueIDIndex": 4204,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -4026,7 +4026,7 @@
               "en": "Summon a Fear Spirit",
               "ja": "Summon a Fear Spirit",
               "UniqueID": "a20f908252e0b4d45be6ce7901cdebdb",
-              "UniqueIDIndex": 4195,
+              "UniqueIDIndex": 4205,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5033,7 +5033,7 @@
         "en": "Spiritual Tools",
         "ja": "Spiritual Tools",
         "UniqueID": "bd7e0727308785c45a78bb51099f2c95",
-        "UniqueIDIndex": 4200,
+        "UniqueIDIndex": 4210,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -5053,7 +5053,7 @@
               "en": "Drink Spirit Tea",
               "ja": "Drink Spirit Tea",
               "UniqueID": "cb106522be83dd84c8d9757195631fe4",
-              "UniqueIDIndex": 4203,
+              "UniqueIDIndex": 4213,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -5239,7 +5239,7 @@
               "en": "Drink Fire Water",
               "ja": "Drink Fire Water",
               "UniqueID": "076f7e0b441560c4682142f6f5022a76",
-              "UniqueIDIndex": 4204,
+              "UniqueIDIndex": 4214,
               "StartUnlocked": false,
               "ActionObjectives": [
                 {
@@ -5297,8 +5297,8 @@
                       "Active": true,
                       "CardStatName": {
                         "DefaultText": "Thickness",
-                        "Text": "Thickness",
-                        "zh": "Thickness",
+                        "Text": "浓稠度",
+                        "zh": "浓稠度",
                         "en": "Thickness",
                         "ja": "Thickness"
                       },
@@ -5360,16 +5360,16 @@
                   },
                   "OnCardWithTags": [],
                   "WithActionTags": [],
-                  "ActionName": "Drink",
+                  "ActionName": "饮用",
                   "OnActionStarted": true,
                   "PerformMultipleTimes": 0,
                   "DebugMode": false,
                   "ActionNameText": {
                     "DefaultText": "Drink",
-                    "Text": "Drink",
-                    "zh": "Drink",
+                    "Text": "饮用",
+                    "zh": "饮用",
                     "en": "Drink",
-                    "ja": "Drink"
+                    "ja": "飲む"
                   }
                 }
               ],
@@ -5425,7 +5425,7 @@
               "en": "Mud Hut",
               "ja": "Mud Hut",
               "UniqueID": "7bbe192d3f1faca41ad5ded96ba1c3f7",
-              "UniqueIDIndex": 4205,
+              "UniqueIDIndex": 4215,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [
@@ -5801,7 +5801,7 @@
               "en": "Cauldron",
               "ja": "Cauldron",
               "UniqueID": "08cb3012422126e48a8a1e59bc7a7ef0",
-              "UniqueIDIndex": 4206,
+              "UniqueIDIndex": 4216,
               "StartUnlocked": false,
               "ActionObjectives": [],
               "CardsOnBoardObjectives": [

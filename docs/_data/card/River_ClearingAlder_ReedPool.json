@@ -3,10 +3,10 @@
   "key": "River_ClearingAlder_ReedPool",
   "icon": "Reeds_Plant",
   "type": "card",
-  "zh": "芦苇池塘",
+  "zh": "芦苇水池",
   "en": "Reed Pool",
   "ja": "Reed Pool",
-  "UniqueIDIndex": 2160,
+  "UniqueIDIndex": 2161,
   "CardType": 8,
   "CardTags": [
     {
@@ -802,8 +802,8 @@
   ],
   "CardName": {
     "DefaultText": "Reed Pool",
-    "Text": "芦苇池塘",
-    "zh": "芦苇池塘",
+    "Text": "芦苇水池",
+    "zh": "芦苇水池",
     "en": "Reed Pool",
     "ja": "Reed Pool"
   },
@@ -1287,7 +1287,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -1414,7 +1414,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -1434,7 +1434,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -1864,7 +1864,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -1991,7 +1991,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -2011,7 +2011,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -2033,7 +2033,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -2055,7 +2055,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -2077,7 +2077,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -2099,7 +2099,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -3833,7 +3833,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -3958,7 +3958,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -4083,7 +4083,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -4210,7 +4210,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool"
         },
@@ -15452,16 +15452,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           },
           "OnlyInHand": false,
@@ -22874,16 +22874,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           }
         },
@@ -23758,16 +23758,16 @@
               "MaxValue": 1000
             },
             "SpecialDurability4": {
-              "Active": false,
+              "Active": true,
               "CardStatName": {
-                "DefaultText": "",
-                "Text": "SpecialDurability4",
-                "zh": "特殊4",
-                "en": "Special4",
-                "ja": ""
+                "DefaultText": "River Type",
+                "Text": "River Type",
+                "zh": "River Type",
+                "en": "River Type",
+                "ja": "River Type"
               },
               "OverrideIcon": null,
-              "MaxValue": 0
+              "MaxValue": 1000
             }
           }
         },
@@ -24553,7 +24553,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -29933,7 +29933,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -30054,7 +30054,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -33248,7 +33248,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -33369,7 +33369,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -36563,7 +36563,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -36684,7 +36684,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -39880,7 +39880,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -40001,7 +40001,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -41839,7 +41839,7 @@
                 "icon": "Reeds_Plant",
                 "type": "card",
                 "CardType": 4,
-                "zh": "芦苇池塘",
+                "zh": "芦苇水池",
                 "en": "Reed Pool",
                 "ja": "Reed Pool",
                 "SpoilageTime": {
@@ -41943,7 +41943,7 @@
                   "icon": "Reeds_Plant",
                   "type": "card",
                   "CardType": 8,
-                  "zh": "芦苇池塘",
+                  "zh": "芦苇水池",
                   "en": "Reed Pool",
                   "ja": "Reed Pool",
                   "SpoilageTime": {
@@ -42571,7 +42571,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -42692,7 +42692,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -44530,7 +44530,7 @@
                 "icon": "Reeds_Plant",
                 "type": "card",
                 "CardType": 4,
-                "zh": "芦苇池塘",
+                "zh": "芦苇水池",
                 "en": "Reed Pool",
                 "ja": "Reed Pool",
                 "SpoilageTime": {
@@ -44634,7 +44634,7 @@
                   "icon": "Reeds_Plant",
                   "type": "card",
                   "CardType": 8,
-                  "zh": "芦苇池塘",
+                  "zh": "芦苇水池",
                   "en": "Reed Pool",
                   "ja": "Reed Pool",
                   "SpoilageTime": {
@@ -45262,7 +45262,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -45383,7 +45383,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {
@@ -47221,7 +47221,7 @@
                 "icon": "Reeds_Plant",
                 "type": "card",
                 "CardType": 4,
-                "zh": "芦苇池塘",
+                "zh": "芦苇水池",
                 "en": "Reed Pool",
                 "ja": "Reed Pool",
                 "SpoilageTime": {
@@ -47325,7 +47325,7 @@
                   "icon": "Reeds_Plant",
                   "type": "card",
                   "CardType": 8,
-                  "zh": "芦苇池塘",
+                  "zh": "芦苇水池",
                   "en": "Reed Pool",
                   "ja": "Reed Pool",
                   "SpoilageTime": {
@@ -49754,7 +49754,7 @@
     "icon": "Reeds_Plant",
     "type": "card",
     "CardType": 4,
-    "zh": "芦苇池塘",
+    "zh": "芦苇水池",
     "en": "Reed Pool",
     "ja": "Reed Pool",
     "SpoilageTime": {
@@ -49858,7 +49858,7 @@
       "icon": "Reeds_Plant",
       "type": "card",
       "CardType": 8,
-      "zh": "芦苇池塘",
+      "zh": "芦苇水池",
       "en": "Reed Pool",
       "ja": "Reed Pool",
       "SpoilageTime": {
@@ -49973,7 +49973,7 @@
       "icon": "Reeds_Plant",
       "type": "card",
       "CardType": 4,
-      "zh": "芦苇池塘",
+      "zh": "芦苇水池",
       "en": "Reed Pool",
       "ja": "Reed Pool",
       "SpoilageTime": {
@@ -50077,7 +50077,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool",
         "SpoilageTime": {

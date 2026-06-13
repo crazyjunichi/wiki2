@@ -6,7 +6,7 @@
   "zh": "简易弓",
   "en": "Simple Bow",
   "ja": "簡単な弓",
-  "UniqueIDIndex": 2270,
+  "UniqueIDIndex": 2271,
   "CardType": 0,
   "CardTags": [
     {
@@ -3924,6 +3924,21 @@
                 "zh": "长柳木棍",
                 "en": "Willow Long Stick",
                 "ja": "ヤナギの長い棒"
+              }
+            },
+            {
+              "Conditions": {
+                "Special4Range": {
+                  "x": 5,
+                  "y": 5
+                }
+              },
+              "Name": {
+                "DefaultText": "Alder Long Stick",
+                "Text": "Alder Long Stick",
+                "zh": "Alder Long Stick",
+                "en": "Alder Long Stick",
+                "ja": "Alder Long Stick"
               }
             }
           ],

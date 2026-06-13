@@ -6,7 +6,7 @@
   "zh": "睡在窝里",
   "en": "Sheltered Sleep",
   "ja": "安心して寝る",
-  "UniqueIDIndex": 4060,
+  "UniqueIDIndex": 4070,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Sleep in The Improvised Shelter During the Night",
         "ja": "手作りシェルターの中で夜を過ごす",
         "UniqueID": "852a22a75de276f42ab199e49e444211",
-        "UniqueIDIndex": 4063,
+        "UniqueIDIndex": 4073,
         "StartUnlocked": false,
         "ActionObjectives": [
           {

@@ -6,7 +6,7 @@
   "zh": "风精魄(召唤)",
   "en": "Wind Spirit",
   "ja": "風の精霊",
-  "UniqueIDIndex": 2335,
+  "UniqueIDIndex": 2336,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

@@ -220,12 +220,12 @@
   "NextStep": {
     "NextStep": 0,
     "NextLine": {
-      "key": "Trader_Talk_Intro_0_2263",
+      "key": "Trader_Talk_Intro_0_2262",
       "icon": "",
       "type": "dialog",
-      "zh": "Trader_Talk_Intro_0_2263",
-      "en": "Trader_Talk_Intro_0_2263",
-      "ja": "Trader_Talk_Intro_0_2263"
+      "zh": "Trader_Talk_Intro_0_2262",
+      "en": "Trader_Talk_Intro_0_2262",
+      "ja": "Trader_Talk_Intro_0_2262"
     },
     "NextScene": null,
     "DontClearHistory": false

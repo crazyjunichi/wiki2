@@ -6,7 +6,7 @@
   "zh": "熊皮剥制者",
   "en": "Skin-Bearer",
   "ja": "Skin-Bearer",
-  "UniqueIDIndex": 3524,
+  "UniqueIDIndex": 3534,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Flesh a Skin",
         "ja": "Flesh a Skin",
         "UniqueID": "b5853d8b006b4774db23bb9878279723",
-        "UniqueIDIndex": 3527,
+        "UniqueIDIndex": 3537,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -1232,7 +1232,7 @@
         "en": "Cure or Tan a Fleshed Skin",
         "ja": "Cure or Tan a Fleshed Skin",
         "UniqueID": "a353d5bb3734db342bed951b3c626e1e",
-        "UniqueIDIndex": 3528,
+        "UniqueIDIndex": 3538,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -2705,7 +2705,7 @@
         "en": "Equip some Cured Skin or Leather in Your Bed for Warmth",
         "ja": "Equip some Cured Skin or Leather in Your Bed for Warmth",
         "UniqueID": "5b7084e4a81ffb74eb7b686d2d64039d",
-        "UniqueIDIndex": 3529,
+        "UniqueIDIndex": 3539,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [],
@@ -2959,7 +2959,7 @@
         "en": "Research & Craft a Needle from Bone Pieces",
         "ja": "Research & Craft a Needle from Bone Pieces",
         "UniqueID": "11d1a9bbde8830d4c935401e33572dc3",
-        "UniqueIDIndex": 3530,
+        "UniqueIDIndex": 3540,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -3171,7 +3171,7 @@
         "en": "Craft Leather Shoes & Equip Them",
         "ja": "Craft Leather Shoes & Equip Them",
         "UniqueID": "1f3b7056867f9c24cb08d44a1d5a6535",
-        "UniqueIDIndex": 3531,
+        "UniqueIDIndex": 3541,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

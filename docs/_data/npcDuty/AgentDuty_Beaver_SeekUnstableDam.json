@@ -5,7 +5,7 @@
   "zh": "Beaver Seek Unstable Dam",
   "en": "Beaver Seek Unstable Dam",
   "ja": "Beaver Seek Unstable Dam",
-  "UniqueIDIndex": 2867,
+  "UniqueIDIndex": 2875,
   "DutyName": {
     "DefaultText": "Beaver Seek Unstable Dam",
     "Text": "Beaver Seek Unstable Dam",
@@ -349,7 +349,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

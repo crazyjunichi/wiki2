@@ -6,7 +6,7 @@
   "zh": "鲈鱼附魔",
   "en": "Perch Enchantment",
   "ja": "Perch Enchantment",
-  "UniqueIDIndex": 520,
+  "UniqueIDIndex": 521,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1197,7 +1197,7 @@
             "en": "Enchantable",
             "ja": "エンチャント可能",
             "SubGroups": [],
-            "count": 60,
+            "count": 61,
             "SpoilageTime": {
               "Active": true,
               "CardStatName": {

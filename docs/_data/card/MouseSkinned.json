@@ -6,7 +6,7 @@
   "zh": "Skinned Mouse",
   "en": "Skinned Mouse",
   "ja": "Skinned Mouse",
-  "UniqueIDIndex": 1828,
+  "UniqueIDIndex": 1829,
   "CardType": 0,
   "CardTags": [
     {
@@ -4368,7 +4368,7 @@
           "key": "CarnivorousAction",
           "text": "CarnivorousAction",
           "type": "tag",
-          "count": 125,
+          "count": 129,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

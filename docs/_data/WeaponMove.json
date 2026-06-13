@@ -6,8 +6,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3181",
-      "___fn": "BowShoot@3181.json",
+      "___key": "0_3182",
+      "___fn": "BowShoot@3182.json",
       "key": "BowShoot",
       "icon": "",
       "type": "weaponMove",
@@ -838,8 +838,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3182",
-      "___fn": "BurningTouch@3182.json",
+      "___key": "0_3183",
+      "___fn": "BurningTouch@3183.json",
       "key": "BurningTouch",
       "icon": "",
       "type": "weaponMove",
@@ -1563,8 +1563,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3183",
-      "___fn": "DarknessSpirit_WeaponMove_Blindness@3183.json",
+      "___key": "0_3184",
+      "___fn": "DarknessSpirit_WeaponMove_Blindness@3184.json",
       "key": "DarknessSpirit_WeaponMove_Blindness",
       "icon": "",
       "type": "weaponMove",
@@ -2288,8 +2288,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3184",
-      "___fn": "Ferocity@3184.json",
+      "___key": "0_3185",
+      "___fn": "Ferocity@3185.json",
       "key": "Ferocity",
       "icon": "",
       "type": "weaponMove",
@@ -4686,8 +4686,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3185",
-      "___fn": "KnifeFeint@3185.json",
+      "___key": "0_3186",
+      "___fn": "KnifeFeint@3186.json",
       "key": "KnifeFeint",
       "icon": "",
       "type": "weaponMove",
@@ -6335,8 +6335,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3186",
-      "___fn": "KnifeJab@3186.json",
+      "___key": "0_3187",
+      "___fn": "KnifeJab@3187.json",
       "key": "KnifeJab",
       "icon": "",
       "type": "weaponMove",
@@ -8015,8 +8015,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3187",
-      "___fn": "KnifeSlash@3187.json",
+      "___key": "0_3188",
+      "___fn": "KnifeSlash@3188.json",
       "key": "KnifeSlash",
       "icon": "",
       "type": "weaponMove",
@@ -9692,8 +9692,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3188",
-      "___fn": "KnifeStab@3188.json",
+      "___key": "0_3189",
+      "___fn": "KnifeStab@3189.json",
       "key": "KnifeStab",
       "icon": "",
       "type": "weaponMove",
@@ -11353,8 +11353,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3189",
-      "___fn": "KnifeThrow@3189.json",
+      "___key": "0_3190",
+      "___fn": "KnifeThrow@3190.json",
       "key": "KnifeThrow",
       "icon": "",
       "type": "weaponMove",
@@ -13002,8 +13002,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3190",
-      "___fn": "Roar@3190.json",
+      "___key": "0_3191",
+      "___fn": "Roar@3191.json",
       "key": "Roar",
       "icon": "",
       "type": "weaponMove",
@@ -13765,8 +13765,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3191",
-      "___fn": "SpearBlock@3191.json",
+      "___key": "0_3192",
+      "___fn": "SpearBlock@3192.json",
       "key": "SpearBlock",
       "icon": "",
       "type": "weaponMove",
@@ -15509,8 +15509,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3192",
-      "___fn": "SpearBrace@3192.json",
+      "___key": "0_3193",
+      "___fn": "SpearBrace@3193.json",
       "key": "SpearBrace",
       "icon": "",
       "type": "weaponMove",
@@ -17316,8 +17316,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3193",
-      "___fn": "SpearFeint@3193.json",
+      "___key": "0_3194",
+      "___fn": "SpearFeint@3194.json",
       "key": "SpearFeint",
       "icon": "",
       "type": "weaponMove",
@@ -19060,8 +19060,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3194",
-      "___fn": "SpearPoke@3194.json",
+      "___key": "0_3195",
+      "___fn": "SpearPoke@3195.json",
       "key": "SpearPoke",
       "icon": "",
       "type": "weaponMove",
@@ -20867,8 +20867,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3195",
-      "___fn": "SpearShove@3195.json",
+      "___key": "0_3196",
+      "___fn": "SpearShove@3196.json",
       "key": "SpearShove",
       "icon": "",
       "type": "weaponMove",
@@ -22690,8 +22690,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3196",
-      "___fn": "SpearThrow@3196.json",
+      "___key": "0_3197",
+      "___fn": "SpearThrow@3197.json",
       "key": "SpearThrow",
       "icon": "",
       "type": "weaponMove",
@@ -24466,8 +24466,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3197",
-      "___fn": "SpearThrust@3197.json",
+      "___key": "0_3198",
+      "___fn": "SpearThrust@3198.json",
       "key": "SpearThrust",
       "icon": "",
       "type": "weaponMove",
@@ -26361,8 +26361,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3198",
-      "___fn": "SpearTrip@3198.json",
+      "___key": "0_3199",
+      "___fn": "SpearTrip@3199.json",
       "key": "SpearTrip",
       "icon": "",
       "type": "weaponMove",
@@ -28184,8 +28184,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3199",
-      "___fn": "StoneFriendThrow@3199.json",
+      "___key": "0_3200",
+      "___fn": "StoneFriendThrow@3200.json",
       "key": "StoneFriendThrow",
       "icon": "",
       "type": "weaponMove",
@@ -28873,8 +28873,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3200",
-      "___fn": "StoneThrow@3200.json",
+      "___key": "0_3201",
+      "___fn": "StoneThrow@3201.json",
       "key": "StoneThrow",
       "icon": "",
       "type": "weaponMove",
@@ -29562,8 +29562,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3201",
-      "___fn": "TorchOff_Bash@3201.json",
+      "___key": "0_3202",
+      "___fn": "TorchOff_Bash@3202.json",
       "key": "TorchOff_Bash",
       "icon": "",
       "type": "weaponMove",
@@ -30285,8 +30285,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3202",
-      "___fn": "TorchOn_Bash@3202.json",
+      "___key": "0_3203",
+      "___fn": "TorchOn_Bash@3203.json",
       "key": "TorchOn_Bash",
       "icon": "",
       "type": "weaponMove",
@@ -31024,8 +31024,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3203",
-      "___fn": "TorchOn_Brandish@3203.json",
+      "___key": "0_3204",
+      "___fn": "TorchOn_Brandish@3204.json",
       "key": "TorchOn_Brandish",
       "icon": "",
       "type": "weaponMove",
@@ -31731,8 +31731,8 @@
       "m_Script": {
         "FileName": "WoodAppear"
       },
-      "___key": "0_3204",
-      "___fn": "WindStep@3204.json",
+      "___key": "0_3205",
+      "___fn": "WindStep@3205.json",
       "key": "WindStep",
       "icon": "",
       "type": "weaponMove",

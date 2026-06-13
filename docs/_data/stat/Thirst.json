@@ -6,7 +6,7 @@
   "zh": "口渴度",
   "en": "Thirst",
   "ja": "喉の渇き",
-  "UniqueIDIndex": 4430,
+  "UniqueIDIndex": 4440,
   "GameName": {
     "DefaultText": "Thirst",
     "Text": "口渴度",
@@ -2050,7 +2050,7 @@
         "ja": "妖精茶"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
         "ja": "アクション：Drink"
       },
@@ -2848,13 +2848,34 @@
         "ja": "アイスホール"
       },
       "localization": {
-        "zh": "动作：饮用",
+        "zh": "动作：Drink",
         "en": "Action: Drink",
-        "ja": "アクション：飲む"
+        "ja": "アクション：Drink"
       },
       "value": {
         "x": 288,
         "y": 288
+      },
+      "key": "IceHoleRiver_Drink"
+    },
+    {
+      "link": {
+        "key": "IceHoleRiver",
+        "icon": "FishingHole",
+        "type": "card",
+        "CardType": 2,
+        "zh": "冰洞",
+        "en": "Ice Hole",
+        "ja": "アイスホール"
+      },
+      "localization": {
+        "zh": "动作：Drink",
+        "en": "Action: Drink",
+        "ja": "アクション：Drink"
+      },
+      "value": {
+        "x": 40,
+        "y": 40
       },
       "key": "IceHoleRiver_Drink"
     },
@@ -3386,9 +3407,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       },
       "value": {
         "x": 80,

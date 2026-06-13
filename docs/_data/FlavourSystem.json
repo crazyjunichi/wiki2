@@ -15818,15 +15818,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5828",
-      "___fn": "CombatSpice_Bleeding@5828.json",
+      "___key": "0_5830",
+      "___fn": "CombatSpice_Bleeding@5830.json",
       "key": "CombatSpice_Bleeding",
       "type": "spice",
       "zh": "正在流血",
       "en": "Bleeding",
       "ja": "Bleeding",
       "UniqueID": "a1db2ad747718fa48ba14b1505c009a8",
-      "UniqueIDIndex": 3188,
+      "UniqueIDIndex": 3198,
       "SpiceName": {
         "DefaultText": "Bleeding",
         "Text": "正在流血",
@@ -16554,8 +16554,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5829",
-      "___fn": "CombatSpice_LQ_SpiritFear@5829.json",
+      "___key": "0_5831",
+      "___fn": "CombatSpice_LQ_SpiritFear@5831.json",
       "key": "CombatSpice_LQ_SpiritFear",
       "icon": "Salve_Soothing",
       "type": "spice",
@@ -16564,7 +16564,7 @@
       "en": "CombatSpice_LQ_SpiritFear",
       "ja": "CombatSpice_LQ_SpiritFear",
       "UniqueID": "fb8704ce711838f40b6d795d788f27dc",
-      "UniqueIDIndex": 3189,
+      "UniqueIDIndex": 3199,
       "SpiceName": {
         "DefaultText": "CombatSpice_LQ_SpiritFear",
         "Text": "CombatSpice_LQ_SpiritFear",
@@ -16991,8 +16991,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5830",
-      "___fn": "CombatSpice_LQ_SpiritFire@5830.json",
+      "___key": "0_5832",
+      "___fn": "CombatSpice_LQ_SpiritFire@5832.json",
       "key": "CombatSpice_LQ_SpiritFire",
       "icon": "Salve_Soothing",
       "type": "spice",
@@ -17001,7 +17001,7 @@
       "en": "CombatSpice_LQ_SpiritFire",
       "ja": "CombatSpice_LQ_SpiritFire",
       "UniqueID": "0612e31d52819b5458d1c322d336dcdb",
-      "UniqueIDIndex": 3190,
+      "UniqueIDIndex": 3200,
       "SpiceName": {
         "DefaultText": "CombatSpice_LQ_SpiritFire",
         "Text": "CombatSpice_LQ_SpiritFire",
@@ -17428,8 +17428,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5831",
-      "___fn": "CombatSpice_TranquilizerCoatingExtreme@5831.json",
+      "___key": "0_5833",
+      "___fn": "CombatSpice_TranquilizerCoatingExtreme@5833.json",
       "key": "CombatSpice_TranquilizerCoatingExtreme",
       "icon": "Salve_Healing",
       "type": "spice",
@@ -17438,7 +17438,7 @@
       "en": "Tranquilizer Coating",
       "ja": "鎮静コーティング",
       "UniqueID": "d94b5e32c39c958479868bcff8431213",
-      "UniqueIDIndex": 3191,
+      "UniqueIDIndex": 3201,
       "SpiceName": {
         "DefaultText": "Tranquilizer Coating",
         "Text": "麻醉涂层",
@@ -18029,8 +18029,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5832",
-      "___fn": "CombatSpice_TranquilizerCoatingModerate@5832.json",
+      "___key": "0_5834",
+      "___fn": "CombatSpice_TranquilizerCoatingModerate@5834.json",
       "key": "CombatSpice_TranquilizerCoatingModerate",
       "icon": "Salve_Healing",
       "type": "spice",
@@ -18039,7 +18039,7 @@
       "en": "Tranquilizer Coating",
       "ja": "鎮静コーティング",
       "UniqueID": "1686feb04d8e27a44921128e0ee23764",
-      "UniqueIDIndex": 3192,
+      "UniqueIDIndex": 3202,
       "SpiceName": {
         "DefaultText": "Tranquilizer Coating",
         "Text": "麻醉涂层",
@@ -18630,8 +18630,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5833",
-      "___fn": "CombatSpice_TranquilizerCoatingStrong@5833.json",
+      "___key": "0_5835",
+      "___fn": "CombatSpice_TranquilizerCoatingStrong@5835.json",
       "key": "CombatSpice_TranquilizerCoatingStrong",
       "icon": "Salve_Healing",
       "type": "spice",
@@ -18640,7 +18640,7 @@
       "en": "Tranquilizer Coating",
       "ja": "鎮静コーティング",
       "UniqueID": "2d072555fde146b4c80208c6536ff0dd",
-      "UniqueIDIndex": 3193,
+      "UniqueIDIndex": 3203,
       "SpiceName": {
         "DefaultText": "Tranquilizer Coating",
         "Text": "麻醉涂层",
@@ -19231,8 +19231,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5834",
-      "___fn": "CombatSpice_TranquilizerCoatingWeak@5834.json",
+      "___key": "0_5836",
+      "___fn": "CombatSpice_TranquilizerCoatingWeak@5836.json",
       "key": "CombatSpice_TranquilizerCoatingWeak",
       "icon": "Salve_Healing",
       "type": "spice",
@@ -19241,7 +19241,7 @@
       "en": "Tranquilizer Coating",
       "ja": "鎮静コーティング",
       "UniqueID": "4ed825f6efd22b24a99ecf4d6c0e60ce",
-      "UniqueIDIndex": 3194,
+      "UniqueIDIndex": 3204,
       "SpiceName": {
         "DefaultText": "Tranquilizer Coating",
         "Text": "麻醉涂层",
@@ -19832,8 +19832,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5835",
-      "___fn": "CombatSpice_WolfsbaneCoatingExtreme@5835.json",
+      "___key": "0_5837",
+      "___fn": "CombatSpice_WolfsbaneCoatingExtreme@5837.json",
       "key": "CombatSpice_WolfsbaneCoatingExtreme",
       "icon": "Salve_Soothing",
       "type": "spice",
@@ -19842,7 +19842,7 @@
       "en": "Wolfsbane Coating",
       "ja": "トリカブトのコーティング",
       "UniqueID": "a4afff927e72f454eac6213ecdf3c11d",
-      "UniqueIDIndex": 3195,
+      "UniqueIDIndex": 3205,
       "SpiceName": {
         "DefaultText": "Wolfsbane Coating",
         "Text": "乌头涂层",
@@ -20433,8 +20433,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5836",
-      "___fn": "CombatSpice_WolfsbaneCoatingModerate@5836.json",
+      "___key": "0_5838",
+      "___fn": "CombatSpice_WolfsbaneCoatingModerate@5838.json",
       "key": "CombatSpice_WolfsbaneCoatingModerate",
       "icon": "Salve_Soothing",
       "type": "spice",
@@ -20443,7 +20443,7 @@
       "en": "Wolfsbane Coating",
       "ja": "トリカブトのコーティング",
       "UniqueID": "446a5b7ea7b7fe548aa2701974a4d8dc",
-      "UniqueIDIndex": 3196,
+      "UniqueIDIndex": 3206,
       "SpiceName": {
         "DefaultText": "Wolfsbane Coating",
         "Text": "乌头涂层",
@@ -21034,8 +21034,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5837",
-      "___fn": "CombatSpice_WolfsbaneCoatingStrong@5837.json",
+      "___key": "0_5839",
+      "___fn": "CombatSpice_WolfsbaneCoatingStrong@5839.json",
       "key": "CombatSpice_WolfsbaneCoatingStrong",
       "icon": "Salve_Soothing",
       "type": "spice",
@@ -21044,7 +21044,7 @@
       "en": "Wolfsbane Coating",
       "ja": "トリカブトのコーティング",
       "UniqueID": "914bf7737bb18c84791313e509d42b45",
-      "UniqueIDIndex": 3197,
+      "UniqueIDIndex": 3207,
       "SpiceName": {
         "DefaultText": "Wolfsbane Coating",
         "Text": "乌头涂层",
@@ -21635,8 +21635,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5838",
-      "___fn": "CombatSpice_WolfsbaneCoatingWeak@5838.json",
+      "___key": "0_5840",
+      "___fn": "CombatSpice_WolfsbaneCoatingWeak@5840.json",
       "key": "CombatSpice_WolfsbaneCoatingWeak",
       "icon": "Salve_Soothing",
       "type": "spice",
@@ -21645,7 +21645,7 @@
       "en": "Wolfsbane Coating",
       "ja": "トリカブトのコーティング",
       "UniqueID": "21d6d41f8cc3b8a4d99cc00bdd410329",
-      "UniqueIDIndex": 3198,
+      "UniqueIDIndex": 3208,
       "SpiceName": {
         "DefaultText": "Wolfsbane Coating",
         "Text": "乌头涂层",
@@ -22236,15 +22236,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_7508",
-      "___fn": "PoisonCoating@7508.json",
+      "___key": "0_7519",
+      "___fn": "PoisonCoating@7519.json",
       "key": "PoisonCoating",
       "type": "spice",
       "zh": "Poison",
       "en": "Poison",
       "ja": "Poison",
       "UniqueID": "54d3d123e2db9944b8bdce788fa3b840",
-      "UniqueIDIndex": 3972,
+      "UniqueIDIndex": 3982,
       "SpiceName": {
         "DefaultText": "Poison",
         "Text": "Poison",
@@ -22934,15 +22934,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5839",
-      "___fn": "Spice_BillberryMust@5839.json",
+      "___key": "0_5841",
+      "___fn": "Spice_BillberryMust@5841.json",
       "key": "Spice_BillberryMust",
       "type": "spice",
       "zh": "越橘汁",
       "en": "Billberry Must",
       "ja": "ビルベリーマスト",
       "UniqueID": "99bb3a0ac02f8664bb976cdcbd22f190",
-      "UniqueIDIndex": 4122,
+      "UniqueIDIndex": 4132,
       "SpiceName": {
         "DefaultText": "Billberry Must",
         "Text": "越橘汁",
@@ -23493,15 +23493,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5840",
-      "___fn": "Spice_BillberrySyrup@5840.json",
+      "___key": "0_5842",
+      "___fn": "Spice_BillberrySyrup@5842.json",
       "key": "Spice_BillberrySyrup",
       "type": "spice",
       "zh": "越橘糖浆",
       "en": "Billberry Syrup",
       "ja": "ビルベリーのシロップ",
       "UniqueID": "416dbb71df5e94448b1f7aa6f83ef433",
-      "UniqueIDIndex": 4123,
+      "UniqueIDIndex": 4133,
       "SpiceName": {
         "DefaultText": "Billberry Syrup",
         "Text": "越橘糖浆",
@@ -24040,15 +24040,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5841",
-      "___fn": "Spice_BillberryWine@5841.json",
+      "___key": "0_5843",
+      "___fn": "Spice_BillberryWine@5843.json",
       "key": "Spice_BillberryWine",
       "type": "spice",
       "zh": "越橘酒",
       "en": "Billberry Wine",
       "ja": "ビルベリーのワイン",
       "UniqueID": "51bcb89bdb8af8a44b2c4d1bb012abbc",
-      "UniqueIDIndex": 4124,
+      "UniqueIDIndex": 4134,
       "SpiceName": {
         "DefaultText": "Billberry Wine",
         "Text": "越橘酒",
@@ -24604,15 +24604,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5842",
-      "___fn": "Spice_BirchSap@5842.json",
+      "___key": "0_5844",
+      "___fn": "Spice_BirchSap@5844.json",
       "key": "Spice_BirchSap",
       "type": "spice",
       "zh": "白桦树汁",
       "en": "Birch Sap",
       "ja": "シラカバの樹液",
       "UniqueID": "031e5c2437eff0f4994e36369c2b134a",
-      "UniqueIDIndex": 4125,
+      "UniqueIDIndex": 4135,
       "SpiceName": {
         "DefaultText": "Birch Sap",
         "Text": "白桦树汁",
@@ -25151,15 +25151,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5843",
-      "___fn": "Spice_BirchSyrup@5843.json",
+      "___key": "0_5845",
+      "___fn": "Spice_BirchSyrup@5845.json",
       "key": "Spice_BirchSyrup",
       "type": "spice",
       "zh": "白桦糖浆",
       "en": "Birch Syrup",
       "ja": "シラカバのシロップ",
       "UniqueID": "4a429542ce5019e479cebdb9115a55a3",
-      "UniqueIDIndex": 4126,
+      "UniqueIDIndex": 4136,
       "SpiceName": {
         "DefaultText": "Birch Syrup",
         "Text": "白桦糖浆",
@@ -26327,15 +26327,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5844",
-      "___fn": "Spice_BirchWine@5844.json",
+      "___key": "0_5846",
+      "___fn": "Spice_BirchWine@5846.json",
       "key": "Spice_BirchWine",
       "type": "spice",
       "zh": "白桦酒",
       "en": "Birch Wine",
       "ja": "シラカバのワイン",
       "UniqueID": "916872cde33fe2e468e43438360d1db8",
-      "UniqueIDIndex": 4127,
+      "UniqueIDIndex": 4137,
       "SpiceName": {
         "DefaultText": "Birch Wine",
         "Text": "白桦酒",
@@ -26915,8 +26915,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5845",
-      "___fn": "Spice_BogMyrtle@5845.json",
+      "___key": "0_5847",
+      "___fn": "Spice_BogMyrtle@5847.json",
       "key": "Spice_BogMyrtle",
       "icon": "Powder_BogMyrtle",
       "type": "spice",
@@ -26924,7 +26924,7 @@
       "en": "Bog Myrtle",
       "ja": "Bog Myrtle",
       "UniqueID": "129d1ebe4527d894ba52e1101f523608",
-      "UniqueIDIndex": 4128,
+      "UniqueIDIndex": 4138,
       "SpiceName": {
         "DefaultText": "Bog Myrtle",
         "Text": "沼泽香木",
@@ -26983,7 +26983,7 @@
         {
           "Stat": {
             "key": "BogMyrtleEffect",
-            "icon": "FlyAgaric",
+            "icon": "BogMyrtle_Fresh",
             "type": "stat",
             "zh": "沼泽香木效果",
             "en": "Bog Myrtle Effect",
@@ -28102,8 +28102,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5846",
-      "___fn": "Spice_Butter@5846.json",
+      "___key": "0_5848",
+      "___fn": "Spice_Butter@5848.json",
       "key": "Spice_Butter",
       "icon": "Butter",
       "type": "spice",
@@ -28111,7 +28111,7 @@
       "en": "Butter",
       "ja": "Butter",
       "UniqueID": "381650209417e524585ee3dc8d73412e",
-      "UniqueIDIndex": 4129,
+      "UniqueIDIndex": 4139,
       "SpiceName": {
         "DefaultText": "Butter",
         "Text": "黄油",
@@ -28987,8 +28987,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5847",
-      "___fn": "Spice_Cream@5847.json",
+      "___key": "0_5849",
+      "___fn": "Spice_Cream@5849.json",
       "key": "Spice_Cream",
       "icon": "Cream",
       "type": "spice",
@@ -28996,7 +28996,7 @@
       "en": "Cream",
       "ja": "Cream",
       "UniqueID": "8b91b5140337e9449ac436b2d1ac86f4",
-      "UniqueIDIndex": 4130,
+      "UniqueIDIndex": 4140,
       "SpiceName": {
         "DefaultText": "Cream",
         "Text": "奶油",
@@ -29884,8 +29884,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5848",
-      "___fn": "Spice_Fat@5848.json",
+      "___key": "0_5850",
+      "___fn": "Spice_Fat@5850.json",
       "key": "Spice_Fat",
       "icon": "Fat",
       "type": "spice",
@@ -29893,7 +29893,7 @@
       "en": "Fat",
       "ja": "脂",
       "UniqueID": "a35683e6d413ce24ba8826b162683e1e",
-      "UniqueIDIndex": 4131,
+      "UniqueIDIndex": 4141,
       "SpiceName": {
         "DefaultText": "Fat",
         "Text": "脂肪",
@@ -30681,123 +30681,6 @@
           }
         },
         {
-          "key": "Fat",
-          "icon": "Fat",
-          "type": "card",
-          "CardType": 0,
-          "zh": "脂肪",
-          "en": "Fat",
-          "ja": "脂",
-          "SpoilageTime": {
-            "Active": true,
-            "CardStatName": {
-              "DefaultText": "Spoilage",
-              "Text": "变质",
-              "zh": "变质",
-              "en": "Spoilage",
-              "ja": "腐敗"
-            },
-            "OverrideIcon": {
-              "FileName": "Bacteria"
-            },
-            "MaxValue": 1800
-          },
-          "UsageDurability": {
-            "Active": false,
-            "CardStatName": {
-              "DefaultText": "",
-              "Text": "UsageDurability",
-              "zh": "耐久",
-              "en": "Usage",
-              "ja": ""
-            },
-            "OverrideIcon": null,
-            "MaxValue": 3
-          },
-          "FuelCapacity": {
-            "Active": true,
-            "CardStatName": {
-              "DefaultText": "Temperature",
-              "Text": "温度",
-              "zh": "温度",
-              "en": "Temperature",
-              "ja": "温度"
-            },
-            "OverrideIcon": {
-              "FileName": "Hot"
-            },
-            "MaxValue": 200
-          },
-          "Progress": {
-            "Active": false,
-            "CardStatName": {
-              "DefaultText": "",
-              "Text": "温度",
-              "zh": "进度",
-              "en": "Progress",
-              "ja": ""
-            },
-            "OverrideIcon": {
-              "FileName": "Hot"
-            },
-            "MaxValue": 1
-          },
-          "SpecialDurability1": {
-            "Active": true,
-            "CardStatName": {
-              "DefaultText": "Liquidity",
-              "Text": "流动性",
-              "zh": "流动性",
-              "en": "Liquidity",
-              "ja": "Liquidity"
-            },
-            "OverrideIcon": {
-              "FileName": "Hot"
-            },
-            "MaxValue": 1
-          },
-          "SpecialDurability2": {
-            "Active": true,
-            "CardStatName": {
-              "DefaultText": "Quality",
-              "Text": "品质",
-              "zh": "品质",
-              "en": "Quality",
-              "ja": "クオリティ"
-            },
-            "OverrideIcon": {
-              "FileName": "Quality"
-            },
-            "MaxValue": 96
-          },
-          "SpecialDurability3": {
-            "Active": false,
-            "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability3",
-              "zh": "特殊3",
-              "en": "Special3",
-              "ja": ""
-            },
-            "OverrideIcon": null,
-            "MaxValue": 0
-          },
-          "SpecialDurability4": {
-            "Active": true,
-            "CardStatName": {
-              "DefaultText": "Boil",
-              "Text": "烹煮",
-              "zh": "烹煮",
-              "en": "Boil",
-              "ja": "Boil"
-            },
-            "OverrideIcon": {
-              "FileName": "Cooking"
-            },
-            "MaxValue": 4
-          }
-        },
-        {
           "key": "LQ_Butter",
           "icon": "Urine",
           "type": "card",
@@ -31048,8 +30931,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5849",
-      "___fn": "Spice_Fireroot@5849.json",
+      "___key": "0_5851",
+      "___fn": "Spice_Fireroot@5851.json",
       "key": "Spice_Fireroot",
       "icon": "Powder_Fireroot",
       "type": "spice",
@@ -31057,7 +30940,7 @@
       "en": "Fireroot",
       "ja": "ファイヤールート",
       "UniqueID": "a552a4bf978ed1f4e914bff0fd1d4e57",
-      "UniqueIDIndex": 4132,
+      "UniqueIDIndex": 4142,
       "SpiceName": {
         "DefaultText": "Fireroot",
         "Text": "火根",
@@ -32083,8 +31966,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5850",
-      "___fn": "Spice_FlaxSeeds@5850.json",
+      "___key": "0_5852",
+      "___fn": "Spice_FlaxSeeds@5852.json",
       "key": "Spice_FlaxSeeds",
       "icon": "Rye_Grain",
       "type": "spice",
@@ -32092,7 +31975,7 @@
       "en": "Flax Seeds",
       "ja": "Flax Seeds",
       "UniqueID": "08ed548953ceb81418a8366f9dd041b0",
-      "UniqueIDIndex": 4133,
+      "UniqueIDIndex": 4143,
       "SpiceName": {
         "DefaultText": "Flax Seeds",
         "Text": "亚麻种子",
@@ -33400,8 +33283,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5851",
-      "___fn": "Spice_Frostleaf@5851.json",
+      "___key": "0_5853",
+      "___fn": "Spice_Frostleaf@5853.json",
       "key": "Spice_Frostleaf",
       "icon": "Powder_Frostleaf",
       "type": "spice",
@@ -33409,7 +33292,7 @@
       "en": "Frostleaf",
       "ja": "フロストリーフ",
       "UniqueID": "71ef81066ad1d3a47a52d0b354bd0296",
-      "UniqueIDIndex": 4134,
+      "UniqueIDIndex": 4144,
       "SpiceName": {
         "DefaultText": "Frostleaf",
         "Text": "霜叶",
@@ -34275,8 +34158,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5852",
-      "___fn": "Spice_GarlicDry@5852.json",
+      "___key": "0_5854",
+      "___fn": "Spice_GarlicDry@5854.json",
       "key": "Spice_GarlicDry",
       "icon": "Powder_Garlic",
       "type": "spice",
@@ -34284,7 +34167,7 @@
       "en": "Garlic",
       "ja": "ニンニク",
       "UniqueID": "9f1bbca57a37558438af98c6e0e48b10",
-      "UniqueIDIndex": 4135,
+      "UniqueIDIndex": 4145,
       "SpiceName": {
         "DefaultText": "Garlic",
         "Text": "蒜",
@@ -35134,8 +35017,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5853",
-      "___fn": "Spice_JuniperBerries@5853.json",
+      "___key": "0_5855",
+      "___fn": "Spice_JuniperBerries@5855.json",
       "key": "Spice_JuniperBerries",
       "icon": "JuniperBerries_Crushed",
       "type": "spice",
@@ -35144,7 +35027,7 @@
       "en": "Juniper Berries",
       "ja": "Juniper Berries",
       "UniqueID": "4ba562e6aaf3b054a89af9ae7d84573e",
-      "UniqueIDIndex": 4136,
+      "UniqueIDIndex": 4146,
       "SpiceName": {
         "DefaultText": "Juniper Berries",
         "Text": "Juniper Berries",
@@ -36063,8 +35946,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5854",
-      "___fn": "Spice_PineNutsRaw@5854.json",
+      "___key": "0_5856",
+      "___fn": "Spice_PineNutsRaw@5856.json",
       "key": "Spice_PineNutsRaw",
       "icon": "PineNuts",
       "type": "spice",
@@ -36072,7 +35955,7 @@
       "en": "Raw Pine Nuts",
       "ja": "生の松の実",
       "UniqueID": "472c0eedf277a944db7fe039e9668244",
-      "UniqueIDIndex": 4137,
+      "UniqueIDIndex": 4147,
       "SpiceName": {
         "DefaultText": "Raw Pine Nuts",
         "Text": "生松子",
@@ -37162,8 +37045,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5855",
-      "___fn": "Spice_PineNutsRoasted@5855.json",
+      "___key": "0_5857",
+      "___fn": "Spice_PineNutsRoasted@5857.json",
       "key": "Spice_PineNutsRoasted",
       "icon": "PineNuts",
       "type": "spice",
@@ -37171,7 +37054,7 @@
       "en": "Roasted Pine Nuts",
       "ja": "ローストした松の実",
       "UniqueID": "8a6da53ef2674b24fa52b3adcf593b9f",
-      "UniqueIDIndex": 4138,
+      "UniqueIDIndex": 4148,
       "SpiceName": {
         "DefaultText": "Roasted Pine Nuts",
         "Text": "烤松子",
@@ -38154,8 +38037,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5856",
-      "___fn": "Spice_RoastedJuniperBerries@5856.json",
+      "___key": "0_5858",
+      "___fn": "Spice_RoastedJuniperBerries@5858.json",
       "key": "Spice_RoastedJuniperBerries",
       "icon": "JuniperBerries_Crushed",
       "type": "spice",
@@ -38164,7 +38047,7 @@
       "en": "Roasted Juniper Berries",
       "ja": "Roasted Juniper Berries",
       "UniqueID": "787885c00d078b44eaff4c51c2ee4b52",
-      "UniqueIDIndex": 4139,
+      "UniqueIDIndex": 4149,
       "SpiceName": {
         "DefaultText": "Roasted Juniper Berries",
         "Text": "Roasted Juniper Berries",
@@ -39071,15 +38954,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5857",
-      "___fn": "Spice_RyeAle@5857.json",
+      "___key": "0_5859",
+      "___fn": "Spice_RyeAle@5859.json",
       "key": "Spice_RyeAle",
       "type": "spice",
       "zh": "黑麦艾尔啤酒",
       "en": "Rye Ale",
       "ja": "ライ麦のエール",
       "UniqueID": "8f6c5ad90e61ad544992fc22ab673389",
-      "UniqueIDIndex": 4140,
+      "UniqueIDIndex": 4150,
       "SpiceName": {
         "DefaultText": "Rye Ale",
         "Text": "黑麦艾尔啤酒",
@@ -39659,15 +39542,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5858",
-      "___fn": "Spice_RyeSyrup@5858.json",
+      "___key": "0_5860",
+      "___fn": "Spice_RyeSyrup@5860.json",
       "key": "Spice_RyeSyrup",
       "type": "spice",
       "zh": "黑麦糖浆",
       "en": "Rye Syrup",
       "ja": "ライ麦シロップ",
       "UniqueID": "e9306a92e4b4da84a8cb9e219062e8b7",
-      "UniqueIDIndex": 4141,
+      "UniqueIDIndex": 4151,
       "SpiceName": {
         "DefaultText": "Rye Syrup",
         "Text": "黑麦糖浆",
@@ -40255,15 +40138,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5859",
-      "___fn": "Spice_RyeWort@5859.json",
+      "___key": "0_5861",
+      "___fn": "Spice_RyeWort@5861.json",
       "key": "Spice_RyeWort",
       "type": "spice",
       "zh": "黑麦汁",
       "en": "Rye Wort",
       "ja": "Rye Wort",
       "UniqueID": "e1f0a2eff9b8b6448b1d953bc9702b34",
-      "UniqueIDIndex": 4142,
+      "UniqueIDIndex": 4152,
       "SpiceName": {
         "DefaultText": "Rye Wort",
         "Text": "黑麦汁",
@@ -40822,8 +40705,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5860",
-      "___fn": "Spice_Salt@5860.json",
+      "___key": "0_5862",
+      "___fn": "Spice_Salt@5862.json",
       "key": "Spice_Salt",
       "icon": "Powder_Fairyweed",
       "type": "spice",
@@ -40831,7 +40714,7 @@
       "en": "Salt",
       "ja": "塩",
       "UniqueID": "6dc5a4f564e72b0458cf0352e84f318d",
-      "UniqueIDIndex": 4143,
+      "UniqueIDIndex": 4153,
       "SpiceName": {
         "DefaultText": "Salt",
         "Text": "盐",
@@ -41382,15 +41265,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5861",
-      "___fn": "Spice_SpringberryMust@5861.json",
+      "___key": "0_5863",
+      "___fn": "Spice_SpringberryMust@5863.json",
       "key": "Spice_SpringberryMust",
       "type": "spice",
       "zh": "春莓汁",
       "en": "Springberry Must",
       "ja": "スプリングベリーマスト",
       "UniqueID": "831421de11f0dab4c9de535de5091145",
-      "UniqueIDIndex": 4144,
+      "UniqueIDIndex": 4154,
       "SpiceName": {
         "DefaultText": "Springberry Must",
         "Text": "春莓汁",
@@ -41941,15 +41824,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5862",
-      "___fn": "Spice_SpringberrySyrup@5862.json",
+      "___key": "0_5864",
+      "___fn": "Spice_SpringberrySyrup@5864.json",
       "key": "Spice_SpringberrySyrup",
       "type": "spice",
       "zh": "春莓糖浆",
       "en": "Springberry Syrup",
       "ja": "スプリングベリーシロップ",
       "UniqueID": "5fa6c9c90d1a89e44a282a04044a825a",
-      "UniqueIDIndex": 4145,
+      "UniqueIDIndex": 4155,
       "SpiceName": {
         "DefaultText": "Springberry Syrup",
         "Text": "春莓糖浆",
@@ -42488,15 +42371,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5863",
-      "___fn": "Spice_SpringberryWine@5863.json",
+      "___key": "0_5865",
+      "___fn": "Spice_SpringberryWine@5865.json",
       "key": "Spice_SpringberryWine",
       "type": "spice",
       "zh": "春莓酒",
       "en": "Springberry Wine",
       "ja": "スプリングベリーワイン",
       "UniqueID": "373b2f34cc84c3e498049b4720010add",
-      "UniqueIDIndex": 4146,
+      "UniqueIDIndex": 4156,
       "SpiceName": {
         "DefaultText": "Springberry Wine",
         "Text": "春莓酒",
@@ -43052,15 +42935,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5864",
-      "___fn": "Spice_WheatAle@5864.json",
+      "___key": "0_5866",
+      "___fn": "Spice_WheatAle@5866.json",
       "key": "Spice_WheatAle",
       "type": "spice",
       "zh": "小麦艾尔啤酒",
       "en": "Wheat Ale",
       "ja": "Wheat Ale",
       "UniqueID": "ca1de72cfc4f13846a46cb04a621b128",
-      "UniqueIDIndex": 4147,
+      "UniqueIDIndex": 4157,
       "SpiceName": {
         "DefaultText": "Wheat Ale",
         "Text": "小麦艾尔啤酒",
@@ -43628,15 +43511,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5865",
-      "___fn": "Spice_WheatSyrup@5865.json",
+      "___key": "0_5867",
+      "___fn": "Spice_WheatSyrup@5867.json",
       "key": "Spice_WheatSyrup",
       "type": "spice",
       "zh": "小麦糖浆",
       "en": "Wheat Syrup",
       "ja": "Wheat Syrup",
       "UniqueID": "1c39e8e91f0ef874d8c514e2390fe5be",
-      "UniqueIDIndex": 4148,
+      "UniqueIDIndex": 4158,
       "SpiceName": {
         "DefaultText": "Wheat Syrup",
         "Text": "小麦糖浆",
@@ -44224,15 +44107,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5866",
-      "___fn": "Spice_WheatWort@5866.json",
+      "___key": "0_5868",
+      "___fn": "Spice_WheatWort@5868.json",
       "key": "Spice_WheatWort",
       "type": "spice",
       "zh": "麦芽汁",
       "en": "Wheat Wort",
       "ja": "Wheat Wort",
       "UniqueID": "9894ba8e39ff2f04780067a2f6dcbaf5",
-      "UniqueIDIndex": 4149,
+      "UniqueIDIndex": 4159,
       "SpiceName": {
         "DefaultText": "Wheat Wort",
         "Text": "麦芽汁",
@@ -44779,8 +44662,8 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5867",
-      "___fn": "Spice_WolfsbanePowder@5867.json",
+      "___key": "0_5869",
+      "___fn": "Spice_WolfsbanePowder@5869.json",
       "key": "Spice_WolfsbanePowder",
       "icon": "Wolfsbane_Item",
       "type": "spice",
@@ -44788,7 +44671,7 @@
       "en": "Wolfsbane",
       "ja": "トリカブト",
       "UniqueID": "09d25337a97fd6a4c9667d4a291472cd",
-      "UniqueIDIndex": 4150,
+      "UniqueIDIndex": 4160,
       "SpiceName": {
         "DefaultText": "Wolfsbane",
         "Text": "乌头",
@@ -45648,15 +45531,15 @@
       "m_Script": {
         "FileName": "Cabin_Room"
       },
-      "___key": "0_5868",
-      "___fn": "TestSpiceTag@5868.json",
+      "___key": "0_5870",
+      "___fn": "TestSpiceTag@5870.json",
       "key": "TestSpiceTag",
       "type": "spice",
       "zh": "Test Spice",
       "en": "Test Spice",
       "ja": "Test Spice",
       "UniqueID": "d54d60e579788cd4cb223ab56bd51868",
-      "UniqueIDIndex": 4333,
+      "UniqueIDIndex": 4343,
       "SpiceName": {
         "DefaultText": "Test Spice",
         "Text": "Test Spice",

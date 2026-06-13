@@ -6,7 +6,7 @@
   "zh": "沼泽香木粉",
   "en": "Bog Myrtle Powder",
   "ja": "Bog Myrtle Powder",
-  "UniqueIDIndex": 1625,
+  "UniqueIDIndex": 1626,
   "CardType": 9,
   "CardTags": [
     {
@@ -5901,11 +5901,11 @@
     "RLegHitProbabilityModifier": 0
   },
   "CardDescription": {
-    "DefaultText": "",
-    "Text": "",
-    "zh": "",
-    "en": "",
-    "ja": ""
+    "DefaultText": "Mildly psychoactive plant with very strong insect repellent properties.",
+    "Text": "Mildly psychoactive plant with very strong insect repellent properties.",
+    "zh": "Mildly psychoactive plant with very strong insect repellent properties.",
+    "en": "Mildly psychoactive plant with very strong insect repellent properties.",
+    "ja": "Mildly psychoactive plant with very strong insect repellent properties."
   },
   "CanBeRenamed": false,
   "AlternateNames": [],

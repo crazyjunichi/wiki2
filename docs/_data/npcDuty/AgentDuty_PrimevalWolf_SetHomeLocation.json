@@ -5,7 +5,7 @@
   "zh": "Primeval Wolf Set Home Location",
   "en": "Primeval Wolf Set Home Location",
   "ja": "Primeval Wolf Set Home Location",
-  "UniqueIDIndex": 2981,
+  "UniqueIDIndex": 2990,
   "DutyName": {
     "DefaultText": "Primeval Wolf Set Home Location",
     "Text": "Primeval Wolf Set Home Location",
@@ -250,7 +250,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -295,7 +295,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "f4fefc266bb654544bbab4f2be38f692",
-          "UniqueIDIndex": 3051
+          "UniqueIDIndex": 3060
         },
         "ConditionRange": {
           "x": 0,
@@ -503,7 +503,7 @@
   "DutyExecutionOptions": 0,
   "ActionSequence": [
     {
-      "key": "SetPrimevalWolfHomeFlag_0_7621",
+      "key": "SetPrimevalWolfHomeFlag_0_7632",
       "icon": "",
       "type": "SetHomeDutyAction",
       "zh": "",

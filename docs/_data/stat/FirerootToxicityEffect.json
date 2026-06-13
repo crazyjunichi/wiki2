@@ -6,7 +6,7 @@
   "zh": "火根中毒",
   "en": "Fireroot Toxicity",
   "ja": "ファイヤールート有害性",
-  "UniqueIDIndex": 3309,
+  "UniqueIDIndex": 3319,
   "GameName": {
     "DefaultText": "Fireroot Toxicity",
     "Text": "火根中毒",
@@ -693,9 +693,9 @@
         "ja": "ファイヤーウォーター"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
-        "ja": "アクション：Drink"
+        "ja": "アクション：飲む"
       },
       "value": {
         "x": 0,

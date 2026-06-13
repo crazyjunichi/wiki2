@@ -2313,6 +2313,22 @@
         "en": "Action: West",
         "ja": "アクション：西"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods3",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Muddy Grove",
+        "en": "Action: Muddy Grove",
+        "ja": "アクション：Muddy Grove"
+      }
     }
   ],
   "_useFor": [

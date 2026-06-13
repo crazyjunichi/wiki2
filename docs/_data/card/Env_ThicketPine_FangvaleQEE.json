@@ -6,7 +6,7 @@
   "zh": "狼牙谷",
   "en": "Fangvale",
   "ja": "Fangvale",
-  "UniqueIDIndex": 135,
+  "UniqueIDIndex": 136,
   "CardType": 4,
   "CardTags": [
     {
@@ -2392,39 +2392,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Fangvale",
-        "en": "Action: Fangvale",
-        "ja": "アクション：Fangvale"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportKP",
-        "icon": "",
-        "type": "card",
-        "CardType": 2,
-        "zh": "East",
-        "en": "East",
-        "ja": "East"
-      },
-      "localization": {
-        "zh": "动作：Fangvale",
-        "en": "Action: Fangvale",
-        "ja": "アクション：Fangvale"
-      }
-    },
-    {
-      "link": {
-        "key": "VDEBUG_Path_TeleportQY",
+        "key": "VDEBUG_Path_TeleportNorthWoods1",
         "icon": "",
         "type": "card",
         "CardType": 2,

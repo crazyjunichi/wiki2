@@ -170,7 +170,7 @@
         {
           "id": "MaxWeightCapacity",
           "title": "容量",
-          "value": 1000,
+          "value": 1200,
           "sortable": true
         },
         {
@@ -182,7 +182,7 @@
         {
           "id": "ContentWeightReduction",
           "title": "减重",
-          "value": -1000,
+          "value": -1200,
           "sortable": true
         }
       ]
@@ -3851,7 +3851,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 4,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

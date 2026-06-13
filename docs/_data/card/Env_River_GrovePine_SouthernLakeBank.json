@@ -6,7 +6,7 @@
   "zh": "南部湖岸",
   "en": "Southern Lake Bank",
   "ja": "Southern Lake Bank",
-  "UniqueIDIndex": 115,
+  "UniqueIDIndex": 116,
   "CardType": 4,
   "CardTags": [
     {
@@ -4069,6 +4069,22 @@
         "zh": "动作：西方",
         "en": "Action: West",
         "ja": "アクション：West"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Southern Lake Bank",
+        "en": "Action: Southern Lake Bank",
+        "ja": "アクション：Southern Lake Bank"
       }
     }
   ],

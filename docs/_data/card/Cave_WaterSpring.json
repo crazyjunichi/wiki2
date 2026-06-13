@@ -6,7 +6,7 @@
   "zh": "泉水",
   "en": "Spring",
   "ja": "Spring",
-  "UniqueIDIndex": 791,
+  "UniqueIDIndex": 792,
   "CardType": 2,
   "CardTags": [
     {
@@ -96,8 +96,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "River Type",
-          "Text": "河流类型",
-          "zh": "河流类型",
+          "Text": "River Type",
+          "zh": "River Type",
           "en": "River Type",
           "ja": "River Type"
         },

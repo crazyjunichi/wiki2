@@ -6,7 +6,7 @@
   "zh": "鹿精魄(召唤)",
   "en": "Deer Spirit",
   "ja": "鹿の精霊",
-  "UniqueIDIndex": 2312,
+  "UniqueIDIndex": 2313,
   "CardType": 0,
   "CardTags": [
     {
@@ -76,7 +76,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

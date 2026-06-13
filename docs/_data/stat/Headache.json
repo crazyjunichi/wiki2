@@ -6,7 +6,7 @@
   "zh": "头疼",
   "en": "Headache",
   "ja": "頭痛",
-  "UniqueIDIndex": 3386,
+  "UniqueIDIndex": 3396,
   "GameName": {
     "DefaultText": "Headache",
     "Text": "头疼",
@@ -488,7 +488,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",

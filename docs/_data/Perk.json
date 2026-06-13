@@ -6,8 +6,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5037",
-      "___fn": "Pk_1_1_FemaleOrgans@5037.json",
+      "___key": "0_5039",
+      "___fn": "Pk_1_1_FemaleOrgans@5039.json",
       "key": "Pk_1_1_FemaleOrgans",
       "icon": "Female",
       "type": "perk",
@@ -15,7 +15,7 @@
       "en": "Female Organs",
       "ja": "女性",
       "UniqueID": "ab4572c495f24fb43a1c9089d0d63632",
-      "UniqueIDIndex": 3815,
+      "UniqueIDIndex": 3825,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -123,8 +123,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5038",
-      "___fn": "Pk_1_1_MaleOrgans@5038.json",
+      "___key": "0_5040",
+      "___fn": "Pk_1_1_MaleOrgans@5040.json",
       "key": "Pk_1_1_MaleOrgans",
       "icon": "Male",
       "type": "perk",
@@ -132,7 +132,7 @@
       "en": "Male Organs",
       "ja": "男性",
       "UniqueID": "aead48462ceb15949a699f68dbd3f4a4",
-      "UniqueIDIndex": 3816,
+      "UniqueIDIndex": 3826,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -240,8 +240,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5039",
-      "___fn": "Pk_1_2_HighEstrogen@5039.json",
+      "___key": "0_5041",
+      "___fn": "Pk_1_2_HighEstrogen@5041.json",
       "key": "Pk_1_2_HighEstrogen",
       "icon": "Female",
       "type": "perk",
@@ -249,7 +249,7 @@
       "en": "High Estrogen",
       "ja": "女性ホルモン（高）",
       "UniqueID": "e1257b20a0b5a3145aabcfab2ccef2fe",
-      "UniqueIDIndex": 3817,
+      "UniqueIDIndex": 3827,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -357,8 +357,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5040",
-      "___fn": "Pk_1_2_LowEstrogen@5040.json",
+      "___key": "0_5042",
+      "___fn": "Pk_1_2_LowEstrogen@5042.json",
       "key": "Pk_1_2_LowEstrogen",
       "icon": "Female",
       "type": "perk",
@@ -366,7 +366,7 @@
       "en": "Low Estrogen",
       "ja": "女性ホルモン（低）",
       "UniqueID": "411538bc0e3d907438e5c915eaac2628",
-      "UniqueIDIndex": 3818,
+      "UniqueIDIndex": 3828,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -474,8 +474,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5041",
-      "___fn": "Pk_1_3_HighTestosterone@5041.json",
+      "___key": "0_5043",
+      "___fn": "Pk_1_3_HighTestosterone@5043.json",
       "key": "Pk_1_3_HighTestosterone",
       "icon": "Male",
       "type": "perk",
@@ -483,7 +483,7 @@
       "en": "High Testosterone",
       "ja": "男性ホルモン（高）",
       "UniqueID": "4f29fa0f530cd6b4b8cb8a892ac5fb28",
-      "UniqueIDIndex": 3819,
+      "UniqueIDIndex": 3829,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -591,8 +591,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5042",
-      "___fn": "Pk_1_3_LowTestosterone@5042.json",
+      "___key": "0_5044",
+      "___fn": "Pk_1_3_LowTestosterone@5044.json",
       "key": "Pk_1_3_LowTestosterone",
       "icon": "Male",
       "type": "perk",
@@ -600,7 +600,7 @@
       "en": "Low Testosterone",
       "ja": "男性ホルモン（低）",
       "UniqueID": "16b09a521e804af4985c48258ad7cb42",
-      "UniqueIDIndex": 3820,
+      "UniqueIDIndex": 3830,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -708,8 +708,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5043",
-      "___fn": "Pk_2_10_ColdSensitive@5043.json",
+      "___key": "0_5045",
+      "___fn": "Pk_2_10_ColdSensitive@5045.json",
       "key": "Pk_2_10_ColdSensitive",
       "icon": "Snowflake_Old",
       "type": "perk",
@@ -717,7 +717,7 @@
       "en": "Cold Sensitive",
       "ja": "Cold Sensitive",
       "UniqueID": "9c7c17100aef71e43bc2dfcf879f88f9",
-      "UniqueIDIndex": 3823,
+      "UniqueIDIndex": 3833,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -825,8 +825,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5044",
-      "___fn": "Pk_2_11_BugResistant@5044.json",
+      "___key": "0_5046",
+      "___fn": "Pk_2_11_BugResistant@5046.json",
       "key": "Pk_2_11_BugResistant",
       "icon": "BugsNot_Old",
       "type": "perk",
@@ -834,7 +834,7 @@
       "en": "Bug Resistant",
       "ja": "Bug Resistant",
       "UniqueID": "16d81a4b79b6e1b46897e16a173b721f",
-      "UniqueIDIndex": 3824,
+      "UniqueIDIndex": 3834,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -942,8 +942,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5045",
-      "___fn": "Pk_2_1_ImmuneSystemStrong@5045.json",
+      "___key": "0_5047",
+      "___fn": "Pk_2_1_ImmuneSystemStrong@5047.json",
       "key": "Pk_2_1_ImmuneSystemStrong",
       "icon": "Bacteria",
       "type": "perk",
@@ -951,7 +951,7 @@
       "en": "Strong Immune System",
       "ja": "高い免疫力",
       "UniqueID": "555a8c34787e6474499d289046fe0efd",
-      "UniqueIDIndex": 3821,
+      "UniqueIDIndex": 3831,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -1096,8 +1096,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5046",
-      "___fn": "Pk_2_1_ImmuneSystemWeak@5046.json",
+      "___key": "0_5048",
+      "___fn": "Pk_2_1_ImmuneSystemWeak@5048.json",
       "key": "Pk_2_1_ImmuneSystemWeak",
       "icon": "Bacteria",
       "type": "perk",
@@ -1105,7 +1105,7 @@
       "en": "Weak Immune System",
       "ja": "低い免疫力",
       "UniqueID": "9143deb9ea6761442ba4264de451f0db",
-      "UniqueIDIndex": 3822,
+      "UniqueIDIndex": 3832,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -1250,8 +1250,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5047",
-      "___fn": "Pk_2_2_PainSensitivity@5047.json",
+      "___key": "0_5049",
+      "___fn": "Pk_2_2_PainSensitivity@5049.json",
       "key": "Pk_2_2_PainSensitivity",
       "icon": "Pain",
       "type": "perk",
@@ -1259,7 +1259,7 @@
       "en": "Pain Sensitivity",
       "ja": "痛みの感受性",
       "UniqueID": "6c13aadb52da582459494906a24152b2",
-      "UniqueIDIndex": 3825,
+      "UniqueIDIndex": 3835,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -1367,8 +1367,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5048",
-      "___fn": "Pk_2_2_PainTolerance@5048.json",
+      "___key": "0_5050",
+      "___fn": "Pk_2_2_PainTolerance@5050.json",
       "key": "Pk_2_2_PainTolerance",
       "icon": "Pain",
       "type": "perk",
@@ -1376,7 +1376,7 @@
       "en": "Pain Tolerance",
       "ja": "痛み耐性",
       "UniqueID": "d29f8209798c04449bd2dcbcc4745715",
-      "UniqueIDIndex": 3826,
+      "UniqueIDIndex": 3836,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -1484,8 +1484,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5049",
-      "___fn": "Pk_2_3_FastMetabolism@5049.json",
+      "___key": "0_5051",
+      "___fn": "Pk_2_3_FastMetabolism@5051.json",
       "key": "Pk_2_3_FastMetabolism",
       "icon": "Weight1",
       "type": "perk",
@@ -1493,7 +1493,7 @@
       "en": "Fast Metabolism",
       "ja": "代謝がいい",
       "UniqueID": "6d6cfb17891c4bb48b563adad34644af",
-      "UniqueIDIndex": 3827,
+      "UniqueIDIndex": 3837,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -1638,8 +1638,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5050",
-      "___fn": "Pk_2_3_SlowMetabolism@5050.json",
+      "___key": "0_5052",
+      "___fn": "Pk_2_3_SlowMetabolism@5052.json",
       "key": "Pk_2_3_SlowMetabolism",
       "icon": "Weight3",
       "type": "perk",
@@ -1647,7 +1647,7 @@
       "en": "Slow Metabolism",
       "ja": "代謝が悪い",
       "UniqueID": "10b251206358f384a9753e89990abd63",
-      "UniqueIDIndex": 3828,
+      "UniqueIDIndex": 3838,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -1792,8 +1792,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5051",
-      "___fn": "Pk_2_4_HighAppetite@5051.json",
+      "___key": "0_5053",
+      "___fn": "Pk_2_4_HighAppetite@5053.json",
       "key": "Pk_2_4_HighAppetite",
       "icon": "Appetite",
       "type": "perk",
@@ -1801,7 +1801,7 @@
       "en": "High Appetite",
       "ja": "大食い",
       "UniqueID": "d3b9d0cc7e5f7ce42b5b5d9bf6f94fcd",
-      "UniqueIDIndex": 3829,
+      "UniqueIDIndex": 3839,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -2316,8 +2316,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5052",
-      "___fn": "Pk_2_4_LowAppetite@5052.json",
+      "___key": "0_5054",
+      "___fn": "Pk_2_4_LowAppetite@5054.json",
       "key": "Pk_2_4_LowAppetite",
       "icon": "Appetite",
       "type": "perk",
@@ -2325,7 +2325,7 @@
       "en": "Low Appetite",
       "ja": "小食",
       "UniqueID": "7ff1c87e42bef434eab62c000f3b1169",
-      "UniqueIDIndex": 3830,
+      "UniqueIDIndex": 3840,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -2803,8 +2803,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5053",
-      "___fn": "Pk_2_5_ActiveBowels@5053.json",
+      "___key": "0_5055",
+      "___fn": "Pk_2_5_ActiveBowels@5055.json",
       "key": "Pk_2_5_ActiveBowels",
       "icon": "Poop",
       "type": "perk",
@@ -2812,7 +2812,7 @@
       "en": "Active Bowels",
       "ja": "活発な腸",
       "UniqueID": "3179ea0fba59cd4479a60adcf95b8d9d",
-      "UniqueIDIndex": 3831,
+      "UniqueIDIndex": 3841,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -2920,8 +2920,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5054",
-      "___fn": "Pk_2_5_InfiniteBowels@5054.json",
+      "___key": "0_5056",
+      "___fn": "Pk_2_5_InfiniteBowels@5056.json",
       "key": "Pk_2_5_InfiniteBowels",
       "icon": "Poop",
       "type": "perk",
@@ -2929,7 +2929,7 @@
       "en": "Infinite Bowels",
       "ja": "無限の腸",
       "UniqueID": "fc6f7367f03742646aff668cb91dbed7",
-      "UniqueIDIndex": 3832,
+      "UniqueIDIndex": 3842,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3037,8 +3037,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5055",
-      "___fn": "Pk_2_5_SlowBowels@5055.json",
+      "___key": "0_5057",
+      "___fn": "Pk_2_5_SlowBowels@5057.json",
       "key": "Pk_2_5_SlowBowels",
       "icon": "Poop",
       "type": "perk",
@@ -3046,7 +3046,7 @@
       "en": "Slow Bowels",
       "ja": "遅い腸",
       "UniqueID": "e61a2295581d0b94bb50fd34c1938dce",
-      "UniqueIDIndex": 3833,
+      "UniqueIDIndex": 3843,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3154,8 +3154,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5056",
-      "___fn": "Pk_2_6_HighThirst@5056.json",
+      "___key": "0_5058",
+      "___fn": "Pk_2_6_HighThirst@5058.json",
       "key": "Pk_2_6_HighThirst",
       "icon": "Hydration",
       "type": "perk",
@@ -3163,7 +3163,7 @@
       "en": "High Thirst",
       "ja": "乾きやすい",
       "UniqueID": "ef2e2cfbffafef34dbbf816dc852adb8",
-      "UniqueIDIndex": 3834,
+      "UniqueIDIndex": 3844,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3271,8 +3271,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5057",
-      "___fn": "Pk_2_6_LowThirst@5057.json",
+      "___key": "0_5059",
+      "___fn": "Pk_2_6_LowThirst@5059.json",
       "key": "Pk_2_6_LowThirst",
       "icon": "Hydration",
       "type": "perk",
@@ -3280,7 +3280,7 @@
       "en": "Low Thirst",
       "ja": "乾きにくい",
       "UniqueID": "c9b0f31c5b09dbd44b16d55ac364df81",
-      "UniqueIDIndex": 3835,
+      "UniqueIDIndex": 3845,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3388,8 +3388,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5058",
-      "___fn": "Pk_2_7_InfiniteBladder@5058.json",
+      "___key": "0_5060",
+      "___fn": "Pk_2_7_InfiniteBladder@5060.json",
       "key": "Pk_2_7_InfiniteBladder",
       "icon": "Urine",
       "type": "perk",
@@ -3397,7 +3397,7 @@
       "en": "Infinite Bladder",
       "ja": "無限の膀胱",
       "UniqueID": "336192b8347a8ed438f161d42b64f1ee",
-      "UniqueIDIndex": 3836,
+      "UniqueIDIndex": 3846,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3505,8 +3505,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5059",
-      "___fn": "Pk_2_7_LargeBladder@5059.json",
+      "___key": "0_5061",
+      "___fn": "Pk_2_7_LargeBladder@5061.json",
       "key": "Pk_2_7_LargeBladder",
       "icon": "Urine",
       "type": "perk",
@@ -3514,7 +3514,7 @@
       "en": "Large Bladder",
       "ja": "大きい膀胱",
       "UniqueID": "293b30cc5a4b9644e86df0744ea68562",
-      "UniqueIDIndex": 3837,
+      "UniqueIDIndex": 3847,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3622,8 +3622,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5060",
-      "___fn": "Pk_2_7_SmallBladder@5060.json",
+      "___key": "0_5062",
+      "___fn": "Pk_2_7_SmallBladder@5062.json",
       "key": "Pk_2_7_SmallBladder",
       "icon": "Urine",
       "type": "perk",
@@ -3631,7 +3631,7 @@
       "en": "Small Bladder",
       "ja": "小さい膀胱",
       "UniqueID": "fbe272cbb84b89a41af592fd830b0747",
-      "UniqueIDIndex": 3838,
+      "UniqueIDIndex": 3848,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -3739,8 +3739,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5061",
-      "___fn": "Pk_2_8_Carnivore@5061.json",
+      "___key": "0_5063",
+      "___fn": "Pk_2_8_Carnivore@5063.json",
       "key": "Pk_2_8_Carnivore",
       "icon": "SaturationMeat",
       "type": "perk",
@@ -3748,7 +3748,7 @@
       "en": "Carnivore",
       "ja": "肉食",
       "UniqueID": "c7d758d545e438245a8c4a9fade855c7",
-      "UniqueIDIndex": 3839,
+      "UniqueIDIndex": 3849,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -4003,7 +4003,7 @@
               "key": "VegetarianAction",
               "text": "VegetarianAction",
               "type": "tag",
-              "count": 105,
+              "count": 101,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -4340,8 +4340,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5062",
-      "___fn": "Pk_2_8_Herbivore@5062.json",
+      "___key": "0_5064",
+      "___fn": "Pk_2_8_Herbivore@5064.json",
       "key": "Pk_2_8_Herbivore",
       "icon": "SaturationVegetables",
       "type": "perk",
@@ -4349,7 +4349,7 @@
       "en": "Herbivore",
       "ja": "草食動物",
       "UniqueID": "492825ad20cb8024b8f1211b0133e724",
-      "UniqueIDIndex": 3840,
+      "UniqueIDIndex": 3850,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -4604,7 +4604,7 @@
               "key": "CarnivorousAction",
               "text": "CarnivorousAction",
               "type": "tag",
-              "count": 125,
+              "count": 129,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -4945,8 +4945,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5063",
-      "___fn": "Pk_2_9_ColdResistant@5063.json",
+      "___key": "0_5065",
+      "___fn": "Pk_2_9_ColdResistant@5065.json",
       "key": "Pk_2_9_ColdResistant",
       "icon": "Snowflake_Old",
       "type": "perk",
@@ -4954,7 +4954,7 @@
       "en": "Cold Resistant",
       "ja": "Cold Resistant",
       "UniqueID": "9960d6d48b29bc041aa7fa532d1d33bf",
-      "UniqueIDIndex": 3841,
+      "UniqueIDIndex": 3851,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5062,8 +5062,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5064",
-      "___fn": "Pk_3_1_Short@5064.json",
+      "___key": "0_5066",
+      "___fn": "Pk_3_1_Short@5066.json",
       "key": "Pk_3_1_Short",
       "icon": "Foot_Old",
       "type": "perk",
@@ -5071,7 +5071,7 @@
       "en": "Short Stature",
       "ja": "低身長",
       "UniqueID": "aacfe449a4d38a444b62796f2f257d70",
-      "UniqueIDIndex": 3842,
+      "UniqueIDIndex": 3852,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5179,8 +5179,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5065",
-      "___fn": "Pk_3_1_Tall@5065.json",
+      "___key": "0_5067",
+      "___fn": "Pk_3_1_Tall@5067.json",
       "key": "Pk_3_1_Tall",
       "icon": "Foot_Old",
       "type": "perk",
@@ -5188,7 +5188,7 @@
       "en": "Tall Stature",
       "ja": "高身長",
       "UniqueID": "7e6174616d2e38940a7accabfcf94873",
-      "UniqueIDIndex": 3843,
+      "UniqueIDIndex": 3853,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5296,8 +5296,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5066",
-      "___fn": "Pk_3_1_VeryShort@5066.json",
+      "___key": "0_5068",
+      "___fn": "Pk_3_1_VeryShort@5068.json",
       "key": "Pk_3_1_VeryShort",
       "icon": "Foot_Old",
       "type": "perk",
@@ -5305,7 +5305,7 @@
       "en": "Very Short Stature",
       "ja": "かなり低身長",
       "UniqueID": "9a7b272c92cff2049b8077e67b00dfb2",
-      "UniqueIDIndex": 3844,
+      "UniqueIDIndex": 3854,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5413,8 +5413,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5067",
-      "___fn": "Pk_3_1_VeryTall@5067.json",
+      "___key": "0_5069",
+      "___fn": "Pk_3_1_VeryTall@5069.json",
       "key": "Pk_3_1_VeryTall",
       "icon": "Foot_Old",
       "type": "perk",
@@ -5422,7 +5422,7 @@
       "en": "Very Tall Stature",
       "ja": "かなり高身長",
       "UniqueID": "1d5d126858ee73246901dc277799273a",
-      "UniqueIDIndex": 3845,
+      "UniqueIDIndex": 3855,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5530,8 +5530,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5068",
-      "___fn": "Pk_3_2_Emaciated@5068.json",
+      "___key": "0_5070",
+      "___fn": "Pk_3_2_Emaciated@5070.json",
       "key": "Pk_3_2_Emaciated",
       "icon": "Weight1",
       "type": "perk",
@@ -5539,7 +5539,7 @@
       "en": "Very Low Weight",
       "ja": "痩せ過ぎ",
       "UniqueID": "4efe160fd8c863e439b20ff5c3a289c6",
-      "UniqueIDIndex": 3846,
+      "UniqueIDIndex": 3856,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5647,8 +5647,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5069",
-      "___fn": "Pk_3_2_Obese@5069.json",
+      "___key": "0_5071",
+      "___fn": "Pk_3_2_Obese@5071.json",
       "key": "Pk_3_2_Obese",
       "icon": "Weight3",
       "type": "perk",
@@ -5656,7 +5656,7 @@
       "en": "Very High Weight",
       "ja": "肥満",
       "UniqueID": "dbf94612abbfc3440a2982d8e7122d50",
-      "UniqueIDIndex": 3847,
+      "UniqueIDIndex": 3857,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5764,8 +5764,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5070",
-      "___fn": "Pk_3_2_Overweight@5070.json",
+      "___key": "0_5072",
+      "___fn": "Pk_3_2_Overweight@5072.json",
       "key": "Pk_3_2_Overweight",
       "icon": "Weight3",
       "type": "perk",
@@ -5773,7 +5773,7 @@
       "en": "High Weight",
       "ja": "ぽっちゃり",
       "UniqueID": "67ac96779f6372246a20a4213bff4eb2",
-      "UniqueIDIndex": 3848,
+      "UniqueIDIndex": 3858,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5881,8 +5881,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5071",
-      "___fn": "Pk_3_2_Underweight@5071.json",
+      "___key": "0_5073",
+      "___fn": "Pk_3_2_Underweight@5073.json",
       "key": "Pk_3_2_Underweight",
       "icon": "Weight1",
       "type": "perk",
@@ -5890,7 +5890,7 @@
       "en": "Low Weight",
       "ja": "体重が軽い",
       "UniqueID": "ac03967730ad06849a6ad76f31929f7d",
-      "UniqueIDIndex": 3849,
+      "UniqueIDIndex": 3859,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -5998,8 +5998,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5072",
-      "___fn": "Pk_3_3_Athletic@5072.json",
+      "___key": "0_5074",
+      "___fn": "Pk_3_3_Athletic@5074.json",
       "key": "Pk_3_3_Athletic",
       "icon": "Fitness",
       "type": "perk",
@@ -6007,7 +6007,7 @@
       "en": "Athletic",
       "ja": "アスリート",
       "UniqueID": "46400a5e86486f04e8ff57b67e2caf36",
-      "UniqueIDIndex": 3850,
+      "UniqueIDIndex": 3860,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -6115,8 +6115,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5073",
-      "___fn": "Pk_3_3_Fit@5073.json",
+      "___key": "0_5075",
+      "___fn": "Pk_3_3_Fit@5075.json",
       "key": "Pk_3_3_Fit",
       "icon": "Weight2",
       "type": "perk",
@@ -6124,7 +6124,7 @@
       "en": "Fit",
       "ja": "健康体",
       "UniqueID": "e9245afdfeadaca44b759f6cf666ceda",
-      "UniqueIDIndex": 3851,
+      "UniqueIDIndex": 3861,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -6232,8 +6232,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5074",
-      "___fn": "Pk_3_3_Sedentary@5074.json",
+      "___key": "0_5076",
+      "___fn": "Pk_3_3_Sedentary@5076.json",
       "key": "Pk_3_3_Sedentary",
       "icon": "Weight3",
       "type": "perk",
@@ -6241,7 +6241,7 @@
       "en": "Sedentary",
       "ja": "怠け者",
       "UniqueID": "42ef79fe95ee3544f96c1344c9a47ad6",
-      "UniqueIDIndex": 3852,
+      "UniqueIDIndex": 3862,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -6349,8 +6349,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5075",
-      "___fn": "Pk_3_4_DarkSkin@5075.json",
+      "___key": "0_5077",
+      "___fn": "Pk_3_4_DarkSkin@5077.json",
       "key": "Pk_3_4_DarkSkin",
       "icon": "Perk_DarkSkin_Old",
       "type": "perk",
@@ -6358,7 +6358,7 @@
       "en": "Dark Skin",
       "ja": "黒い肌",
       "UniqueID": "743b75b1adfd85e4e8a4354b298b166d",
-      "UniqueIDIndex": 3853,
+      "UniqueIDIndex": 3863,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -6541,8 +6541,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5076",
-      "___fn": "Pk_3_4_LightSkin@5076.json",
+      "___key": "0_5078",
+      "___fn": "Pk_3_4_LightSkin@5078.json",
       "key": "Pk_3_4_LightSkin",
       "icon": "Perk_PaleSkin_Old",
       "type": "perk",
@@ -6550,7 +6550,7 @@
       "en": "Light Skin",
       "ja": "白い肌",
       "UniqueID": "61f0f90b803c1994d939a2c5b41a7a97",
-      "UniqueIDIndex": 3854,
+      "UniqueIDIndex": 3864,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -6695,8 +6695,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5077",
-      "___fn": "Pk_3_4_VeryDarkSkin@5077.json",
+      "___key": "0_5079",
+      "___fn": "Pk_3_4_VeryDarkSkin@5079.json",
       "key": "Pk_3_4_VeryDarkSkin",
       "icon": "Perk_DarkSkin_Old",
       "type": "perk",
@@ -6704,7 +6704,7 @@
       "en": "Very Dark Skin",
       "ja": "かなり黒い肌",
       "UniqueID": "99eba4e3e4659f04f9fa694a3cb6025b",
-      "UniqueIDIndex": 3855,
+      "UniqueIDIndex": 3865,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -6887,8 +6887,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5078",
-      "___fn": "Pk_3_4_VeryLightSkin@5078.json",
+      "___key": "0_5080",
+      "___fn": "Pk_3_4_VeryLightSkin@5080.json",
       "key": "Pk_3_4_VeryLightSkin",
       "icon": "Perk_PaleSkin_Old",
       "type": "perk",
@@ -6896,7 +6896,7 @@
       "en": "Very Light Skin",
       "ja": "かなり白い肌。",
       "UniqueID": "3b7a5139a767cbb42ad37525429cf0d5",
-      "UniqueIDIndex": 3856,
+      "UniqueIDIndex": 3866,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7041,8 +7041,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5079",
-      "___fn": "Pk_3_5_DarkHair@5079.json",
+      "___key": "0_5081",
+      "___fn": "Pk_3_5_DarkHair@5081.json",
       "key": "Pk_3_5_DarkHair",
       "icon": "Perk_DarkSkin_Old",
       "type": "perk",
@@ -7050,7 +7050,7 @@
       "en": "Dark Hair",
       "ja": "黒い髪",
       "UniqueID": "fd4e6e21a1cca0f4b98979af96c9cd22",
-      "UniqueIDIndex": 3857,
+      "UniqueIDIndex": 3867,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7195,8 +7195,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5080",
-      "___fn": "Pk_3_5_LightHair@5080.json",
+      "___key": "0_5082",
+      "___fn": "Pk_3_5_LightHair@5082.json",
       "key": "Pk_3_5_LightHair",
       "icon": "Perk_PaleSkin_Old",
       "type": "perk",
@@ -7204,7 +7204,7 @@
       "en": "Light Hair",
       "ja": "明るい髪",
       "UniqueID": "320aba5e4b62f8e46ac6a4ad82ab47c4",
-      "UniqueIDIndex": 3858,
+      "UniqueIDIndex": 3868,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7349,8 +7349,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5081",
-      "___fn": "Pk_3_6_DarkEyes@5081.json",
+      "___key": "0_5083",
+      "___fn": "Pk_3_6_DarkEyes@5083.json",
       "key": "Pk_3_6_DarkEyes",
       "icon": "Perk_DarkSkin_Old",
       "type": "perk",
@@ -7358,7 +7358,7 @@
       "en": "Dark Eyes",
       "ja": "黒い目",
       "UniqueID": "6608f05ea9c054042b65ab03408c76e0",
-      "UniqueIDIndex": 3859,
+      "UniqueIDIndex": 3869,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7428,8 +7428,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5082",
-      "___fn": "Pk_3_6_LightEyes@5082.json",
+      "___key": "0_5084",
+      "___fn": "Pk_3_6_LightEyes@5084.json",
       "key": "Pk_3_6_LightEyes",
       "icon": "Perk_PaleSkin_Old",
       "type": "perk",
@@ -7437,7 +7437,7 @@
       "en": "Light Eyes",
       "ja": "明るい目",
       "UniqueID": "1f711dddf0d18a44a853a9ea83a993fb",
-      "UniqueIDIndex": 3860,
+      "UniqueIDIndex": 3870,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7545,8 +7545,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5083",
-      "___fn": "Pk_3_7_NightVision@5083.json",
+      "___key": "0_5085",
+      "___fn": "Pk_3_7_NightVision@5085.json",
       "key": "Pk_3_7_NightVision",
       "icon": "Moon",
       "type": "perk",
@@ -7554,7 +7554,7 @@
       "en": "Night Vision",
       "ja": "Night Vision",
       "UniqueID": "e6c9b8c781518a24bbd3bf9d80a4127f",
-      "UniqueIDIndex": 3861,
+      "UniqueIDIndex": 3871,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7662,8 +7662,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5084",
-      "___fn": "Pk_3_8_Hypertrichosis@5084.json",
+      "___key": "0_5086",
+      "___fn": "Pk_3_8_Hypertrichosis@5086.json",
       "key": "Pk_3_8_Hypertrichosis",
       "icon": "FurCloak",
       "type": "perk",
@@ -7671,7 +7671,7 @@
       "en": "Hypertrichosis",
       "ja": "Hypertrichosis",
       "UniqueID": "f087475be8f011549a236b7fb882e58e",
-      "UniqueIDIndex": 3862,
+      "UniqueIDIndex": 3872,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7779,8 +7779,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5085",
-      "___fn": "Pk_3_9_Callouses@5085.json",
+      "___key": "0_5087",
+      "___fn": "Pk_3_9_Callouses@5087.json",
       "key": "Pk_3_9_Callouses",
       "icon": "FootDamaged_Old",
       "type": "perk",
@@ -7788,7 +7788,7 @@
       "en": "Callouses",
       "ja": "Callouses",
       "UniqueID": "39dcf26ff52b5fa43be5ec5afa525735",
-      "UniqueIDIndex": 3863,
+      "UniqueIDIndex": 3873,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -7933,8 +7933,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5086",
-      "___fn": "Pk_4_10_Claustrophobic@5086.json",
+      "___key": "0_5088",
+      "___fn": "Pk_4_10_Claustrophobic@5088.json",
       "key": "Pk_4_10_Claustrophobic",
       "icon": "MudHut_Outside",
       "type": "perk",
@@ -7942,7 +7942,7 @@
       "en": "Claustrophobic",
       "ja": "Claustrophobic",
       "UniqueID": "4bd989664061f274390d6a5743b36242",
-      "UniqueIDIndex": 3866,
+      "UniqueIDIndex": 3876,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8050,8 +8050,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5087",
-      "___fn": "Pk_4_11_Homebody@5087.json",
+      "___key": "0_5089",
+      "___fn": "Pk_4_11_Homebody@5089.json",
       "key": "Pk_4_11_Homebody",
       "icon": "MudHut_Inside",
       "type": "perk",
@@ -8059,7 +8059,7 @@
       "en": "Homebody",
       "ja": "Homebody",
       "UniqueID": "1edeaa716a086044595df78ef6463dfd",
-      "UniqueIDIndex": 3867,
+      "UniqueIDIndex": 3877,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8167,8 +8167,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5088",
-      "___fn": "Pk_4_1_Optimistic@5088.json",
+      "___key": "0_5090",
+      "___fn": "Pk_4_1_Optimistic@5090.json",
       "key": "Pk_4_1_Optimistic",
       "icon": "Morale1",
       "type": "perk",
@@ -8176,7 +8176,7 @@
       "en": "Optimistic",
       "ja": "楽観主義",
       "UniqueID": "ba4cb100ab554d442b7ecddc2f948c08",
-      "UniqueIDIndex": 3864,
+      "UniqueIDIndex": 3874,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8322,8 +8322,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5089",
-      "___fn": "Pk_4_1_Pessimistic@5089.json",
+      "___key": "0_5091",
+      "___fn": "Pk_4_1_Pessimistic@5091.json",
       "key": "Pk_4_1_Pessimistic",
       "icon": "Morale4",
       "type": "perk",
@@ -8331,7 +8331,7 @@
       "en": "Pessimistic",
       "ja": "悲観主義",
       "UniqueID": "db9e3dc2dd25ee94eb0f59a7605403a1",
-      "UniqueIDIndex": 3865,
+      "UniqueIDIndex": 3875,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8477,8 +8477,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5090",
-      "___fn": "Pk_4_2_DownToEarth@5090.json",
+      "___key": "0_5092",
+      "___fn": "Pk_4_2_DownToEarth@5092.json",
       "key": "Pk_4_2_DownToEarth",
       "icon": "Shield",
       "type": "perk",
@@ -8486,7 +8486,7 @@
       "en": "Down To Earth",
       "ja": "合理的",
       "UniqueID": "0e18515e3d5e8de428b0a52e78b70043",
-      "UniqueIDIndex": 3868,
+      "UniqueIDIndex": 3878,
       "StartUnlocked": true,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8705,8 +8705,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5091",
-      "___fn": "Pk_4_2_Spiritual@5091.json",
+      "___key": "0_5093",
+      "___fn": "Pk_4_2_Spiritual@5093.json",
       "key": "Pk_4_2_Spiritual",
       "icon": "Insight",
       "type": "perk",
@@ -8714,7 +8714,7 @@
       "en": "Spiritual",
       "ja": "霊的",
       "UniqueID": "697dc40a59583e940945b36156a4e8f0",
-      "UniqueIDIndex": 3869,
+      "UniqueIDIndex": 3879,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8822,8 +8822,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5092",
-      "___fn": "Pk_4_3_Anxious@5092.json",
+      "___key": "0_5094",
+      "___fn": "Pk_4_3_Anxious@5094.json",
       "key": "Pk_4_3_Anxious",
       "icon": "Watcher_Old",
       "type": "perk",
@@ -8831,7 +8831,7 @@
       "en": "Anxious",
       "ja": "不安",
       "UniqueID": "e44f0524073f36143ae0ec101947e318",
-      "UniqueIDIndex": 3870,
+      "UniqueIDIndex": 3880,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -8939,8 +8939,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5093",
-      "___fn": "Pk_4_3_Carefree@5093.json",
+      "___key": "0_5095",
+      "___fn": "Pk_4_3_Carefree@5095.json",
       "key": "Pk_4_3_Carefree",
       "icon": "Morale1",
       "type": "perk",
@@ -8948,7 +8948,7 @@
       "en": "Carefree",
       "ja": "呑気",
       "UniqueID": "79ccf9890e26daf458e503c5b278d547",
-      "UniqueIDIndex": 3871,
+      "UniqueIDIndex": 3881,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9056,8 +9056,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5094",
-      "___fn": "Pk_4_3_SingularFocus@5094.json",
+      "___key": "0_5096",
+      "___fn": "Pk_4_3_SingularFocus@5096.json",
       "key": "Pk_4_3_SingularFocus",
       "icon": "Wakefulness4",
       "type": "perk",
@@ -9065,7 +9065,7 @@
       "en": "Singular Focus",
       "ja": "一点集中",
       "UniqueID": "962f758323ef35f4b8a81d9c4ef99348",
-      "UniqueIDIndex": 3872,
+      "UniqueIDIndex": 3882,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9173,8 +9173,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5095",
-      "___fn": "Pk_4_3_WanderingFocus@5095.json",
+      "___key": "0_5097",
+      "___fn": "Pk_4_3_WanderingFocus@5097.json",
       "key": "Pk_4_3_WanderingFocus",
       "icon": "Wakefulness1",
       "type": "perk",
@@ -9182,7 +9182,7 @@
       "en": "Wandering Focus",
       "ja": "ぼんやり",
       "UniqueID": "5c5949a9e09f5484e8f503e6575f3207",
-      "UniqueIDIndex": 3873,
+      "UniqueIDIndex": 3883,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9290,8 +9290,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5096",
-      "___fn": "Pk_4_4_Brave@5096.json",
+      "___key": "0_5098",
+      "___fn": "Pk_4_4_Brave@5098.json",
       "key": "Pk_4_4_Brave",
       "icon": "Shield",
       "type": "perk",
@@ -9299,7 +9299,7 @@
       "en": "Brave",
       "ja": "勇敢",
       "UniqueID": "b51278a30a1d22f4c80f02eabb132799",
-      "UniqueIDIndex": 3874,
+      "UniqueIDIndex": 3884,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9407,8 +9407,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5097",
-      "___fn": "Pk_4_4_Fainthearted@5097.json",
+      "___key": "0_5099",
+      "___fn": "Pk_4_4_Fainthearted@5099.json",
       "key": "Pk_4_4_Fainthearted",
       "icon": "Stress",
       "type": "perk",
@@ -9416,7 +9416,7 @@
       "en": "Fainthearted",
       "ja": "豆腐メンタル",
       "UniqueID": "a4c82e406f47a39429a6de5bc7b2c478",
-      "UniqueIDIndex": 3875,
+      "UniqueIDIndex": 3885,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9562,8 +9562,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5098",
-      "___fn": "Pk_4_5_Loner@5098.json",
+      "___key": "0_5100",
+      "___fn": "Pk_4_5_Loner@5100.json",
       "key": "Pk_4_5_Loner",
       "icon": "Loneliness",
       "type": "perk",
@@ -9571,7 +9571,7 @@
       "en": "Loner",
       "ja": "孤独",
       "UniqueID": "705e3ec400280aa449cff5a23f7a60a5",
-      "UniqueIDIndex": 3876,
+      "UniqueIDIndex": 3886,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9679,8 +9679,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5099",
-      "___fn": "Pk_4_5_Social@5099.json",
+      "___key": "0_5101",
+      "___fn": "Pk_4_5_Social@5101.json",
       "key": "Pk_4_5_Social",
       "icon": "Entertainment2_Old",
       "type": "perk",
@@ -9688,7 +9688,7 @@
       "en": "Social",
       "ja": "社交的",
       "UniqueID": "0383a346540923c459d34071aba73923",
-      "UniqueIDIndex": 3877,
+      "UniqueIDIndex": 3887,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -9833,8 +9833,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5100",
-      "___fn": "Pk_4_6_Creative@5100.json",
+      "___key": "0_5102",
+      "___fn": "Pk_4_6_Creative@5102.json",
       "key": "Pk_4_6_Creative",
       "icon": "Entertainment2_Old",
       "type": "perk",
@@ -9842,7 +9842,7 @@
       "en": "Creative",
       "ja": "クリエイティブ",
       "UniqueID": "5d2a677f2b22ad34fb9b459e07bff770",
-      "UniqueIDIndex": 3878,
+      "UniqueIDIndex": 3888,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -10473,7 +10473,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -10777,8 +10777,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5101",
-      "___fn": "Pk_4_6_Physical@5101.json",
+      "___key": "0_5103",
+      "___fn": "Pk_4_6_Physical@5103.json",
       "key": "Pk_4_6_Physical",
       "icon": "Fitness",
       "type": "perk",
@@ -10786,7 +10786,7 @@
       "en": "Physical",
       "ja": "フィジカル",
       "UniqueID": "5bdad45ecfda97e47b2938aa17ceba57",
-      "UniqueIDIndex": 3879,
+      "UniqueIDIndex": 3889,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -11041,7 +11041,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -11345,8 +11345,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5102",
-      "___fn": "Pk_4_7_Resolute@5102.json",
+      "___key": "0_5104",
+      "___fn": "Pk_4_7_Resolute@5104.json",
       "key": "Pk_4_7_Resolute",
       "icon": "Shield",
       "type": "perk",
@@ -11354,7 +11354,7 @@
       "en": "Resolute",
       "ja": "意志が強い",
       "UniqueID": "7bd1a7cc0b1e31a40ab23f1128fd0cb6",
-      "UniqueIDIndex": 3880,
+      "UniqueIDIndex": 3890,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -11462,8 +11462,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5103",
-      "___fn": "Pk_4_7_Trusting@5103.json",
+      "___key": "0_5105",
+      "___fn": "Pk_4_7_Trusting@5105.json",
       "key": "Pk_4_7_Trusting",
       "icon": "Wellbeing",
       "type": "perk",
@@ -11471,7 +11471,7 @@
       "en": "Trusting",
       "ja": "純粋",
       "UniqueID": "880f5840f440f6c469eb60d00efc47b8",
-      "UniqueIDIndex": 3881,
+      "UniqueIDIndex": 3891,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -11579,8 +11579,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5104",
-      "___fn": "Pk_4_8_Feral@5104.json",
+      "___key": "0_5106",
+      "___fn": "Pk_4_8_Feral@5106.json",
       "key": "Pk_4_8_Feral",
       "icon": "HunterProximity_Old",
       "type": "perk",
@@ -11588,7 +11588,7 @@
       "en": "Feral",
       "ja": "野生",
       "UniqueID": "520b8ae1d45d92e45827d76f4d4a3c67",
-      "UniqueIDIndex": 3882,
+      "UniqueIDIndex": 3892,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -11696,8 +11696,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5105",
-      "___fn": "Pk_4_8_Refined@5105.json",
+      "___key": "0_5107",
+      "___fn": "Pk_4_8_Refined@5107.json",
       "key": "Pk_4_8_Refined",
       "icon": "Appetite",
       "type": "perk",
@@ -11705,7 +11705,7 @@
       "en": "Refined",
       "ja": "上品",
       "UniqueID": "7d1e15242da739845aecc7992ad6c734",
-      "UniqueIDIndex": 3883,
+      "UniqueIDIndex": 3893,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -11813,8 +11813,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5106",
-      "___fn": "Pk_4_9_MeatLover@5106.json",
+      "___key": "0_5108",
+      "___fn": "Pk_4_9_MeatLover@5108.json",
       "key": "Pk_4_9_MeatLover",
       "icon": "SaturationMeat",
       "type": "perk",
@@ -11822,7 +11822,7 @@
       "en": "Meat Lover",
       "ja": "肉大好き",
       "UniqueID": "2b75cf53ba56a1c47a93ffb2aa03c5f4",
-      "UniqueIDIndex": 3884,
+      "UniqueIDIndex": 3894,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -12115,7 +12115,7 @@
               "key": "CarnivorousAction",
               "text": "CarnivorousAction",
               "type": "tag",
-              "count": 125,
+              "count": 129,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -12419,8 +12419,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5107",
-      "___fn": "Pk_4_9_SaladLover@5107.json",
+      "___key": "0_5109",
+      "___fn": "Pk_4_9_SaladLover@5109.json",
       "key": "Pk_4_9_SaladLover",
       "icon": "SaturationVegetables",
       "type": "perk",
@@ -12428,7 +12428,7 @@
       "en": "Salad Lover",
       "ja": "サラダ大好き",
       "UniqueID": "51dc9267c356b154bb14bd4f52d8b431",
-      "UniqueIDIndex": 3885,
+      "UniqueIDIndex": 3895,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -12721,7 +12721,7 @@
               "key": "VegetarianAction",
               "text": "VegetarianAction",
               "type": "tag",
-              "count": 105,
+              "count": 101,
               "SpoilageTime": {
                 "Active": true,
                 "CardStatName": {
@@ -13021,8 +13021,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5108",
-      "___fn": "Pk_4_9_SweetTooth@5108.json",
+      "___key": "0_5110",
+      "___fn": "Pk_4_9_SweetTooth@5110.json",
       "key": "Pk_4_9_SweetTooth",
       "icon": "Flour_Rye",
       "type": "perk",
@@ -13030,7 +13030,7 @@
       "en": "Sweet Tooth",
       "ja": "甘党",
       "UniqueID": "7c0e93df8c800544d87fe08db12dabd5",
-      "UniqueIDIndex": 3886,
+      "UniqueIDIndex": 3896,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -13515,8 +13515,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5109",
-      "___fn": "Pk_5_10_SpringStart@5109.json",
+      "___key": "0_5111",
+      "___fn": "Pk_5_10_SpringStart@5111.json",
       "key": "Pk_5_10_SpringStart",
       "icon": "Growth",
       "type": "perk",
@@ -13524,7 +13524,7 @@
       "en": "Spring Start",
       "ja": "Spring Start",
       "UniqueID": "2cdbec02cae7487498e104d1dbd30c64",
-      "UniqueIDIndex": 3895,
+      "UniqueIDIndex": 3905,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -13706,8 +13706,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5110",
-      "___fn": "Pk_5_11_MudhutStart@5110.json",
+      "___key": "0_5112",
+      "___fn": "Pk_5_11_MudhutStart@5112.json",
       "key": "Pk_5_11_MudhutStart",
       "icon": "MudHut_Outside",
       "type": "perk",
@@ -13715,7 +13715,7 @@
       "en": "Mudhut Start",
       "ja": "Mudhut Start",
       "UniqueID": "19c9257e8f77f4c4ea9e10aafc60a542",
-      "UniqueIDIndex": 3896,
+      "UniqueIDIndex": 3906,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -13891,8 +13891,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5111",
-      "___fn": "Pk_5_12_CabinStart@5111.json",
+      "___key": "0_5113",
+      "___fn": "Pk_5_12_CabinStart@5113.json",
       "key": "Pk_5_12_CabinStart",
       "icon": "Cabin_Outside",
       "type": "perk",
@@ -13900,7 +13900,7 @@
       "en": "Cabin Start",
       "ja": "Cabin Start",
       "UniqueID": "6681c95a88bb4bd48a80c19660bd419b",
-      "UniqueIDIndex": 3897,
+      "UniqueIDIndex": 3907,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -14076,8 +14076,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5112",
-      "___fn": "Pk_5_13_LakeStart@5112.json",
+      "___key": "0_5114",
+      "___fn": "Pk_5_13_LakeStart@5114.json",
       "key": "Pk_5_13_LakeStart",
       "icon": "LakeIsland",
       "type": "perk",
@@ -14085,7 +14085,7 @@
       "en": "Lake Start",
       "ja": "Lake Start",
       "UniqueID": "039a353aa34ca3148aeeb1568ba8bfec",
-      "UniqueIDIndex": 3898,
+      "UniqueIDIndex": 3908,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -14372,8 +14372,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5113",
-      "___fn": "Pk_5_14_OldHollowStart@5113.json",
+      "___key": "0_5115",
+      "___fn": "Pk_5_14_OldHollowStart@5115.json",
       "key": "Pk_5_14_OldHollowStart",
       "icon": "DeathHollow",
       "type": "perk",
@@ -14381,7 +14381,7 @@
       "en": "Old Hollow Start",
       "ja": "Old Hollow Start",
       "UniqueID": "9adb4a160833c2a41a0d43473b1e4cea",
-      "UniqueIDIndex": 3899,
+      "UniqueIDIndex": 3909,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -14670,8 +14670,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5114",
-      "___fn": "Pk_5_15_DeerGroveStart@5114.json",
+      "___key": "0_5116",
+      "___fn": "Pk_5_15_DeerGroveStart@5116.json",
       "key": "Pk_5_15_DeerGroveStart",
       "icon": "Pond",
       "type": "perk",
@@ -14679,7 +14679,7 @@
       "en": "Deer Grove Start",
       "ja": "Deer Grove Start",
       "UniqueID": "0c16cdbbbbb237f41809f59cc1ecc15f",
-      "UniqueIDIndex": 3900,
+      "UniqueIDIndex": 3910,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -14968,8 +14968,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5115",
-      "___fn": "Pk_5_16_Everwinter@5115.json",
+      "___key": "0_5117",
+      "___fn": "Pk_5_16_Everwinter@5117.json",
       "key": "Pk_5_16_Everwinter",
       "icon": "Snow",
       "type": "perk",
@@ -14977,7 +14977,7 @@
       "en": "Everwinter",
       "ja": "Everwinter",
       "UniqueID": "aa532c5429ac15141867850349347a44",
-      "UniqueIDIndex": 3901,
+      "UniqueIDIndex": 3911,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -15085,8 +15085,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5116",
-      "___fn": "Pk_5_17_Eversummer@5116.json",
+      "___key": "0_5118",
+      "___fn": "Pk_5_17_Eversummer@5118.json",
       "key": "Pk_5_17_Eversummer",
       "icon": "Sun",
       "type": "perk",
@@ -15094,7 +15094,7 @@
       "en": "Eversummer",
       "ja": "Eversummer",
       "UniqueID": "15d03331dee909d448cd382e3b7ca0a6",
-      "UniqueIDIndex": 3902,
+      "UniqueIDIndex": 3912,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -15202,8 +15202,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5117",
-      "___fn": "Pk_5_18_Everrain@5117.json",
+      "___key": "0_5119",
+      "___fn": "Pk_5_18_Everrain@5119.json",
       "key": "Pk_5_18_Everrain",
       "icon": "Rain",
       "type": "perk",
@@ -15211,7 +15211,7 @@
       "en": "Everrain",
       "ja": "Everrain",
       "UniqueID": "a226fc11fba99e74b84e5e4d52cd7c50",
-      "UniqueIDIndex": 3903,
+      "UniqueIDIndex": 3913,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -15460,8 +15460,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5118",
-      "___fn": "Pk_5_19_Everdry@5118.json",
+      "___key": "0_5120",
+      "___fn": "Pk_5_19_Everdry@5120.json",
       "key": "Pk_5_19_Everdry",
       "icon": "WeatherClear_0",
       "type": "perk",
@@ -15469,7 +15469,7 @@
       "en": "Everdry",
       "ja": "Everdry",
       "UniqueID": "19bccd7c2960b14498aea38325c93d15",
-      "UniqueIDIndex": 3904,
+      "UniqueIDIndex": 3914,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -15577,8 +15577,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5119",
-      "___fn": "Pk_5_1_1_RusticClothing@5119.json",
+      "___key": "0_5121",
+      "___fn": "Pk_5_1_1_RusticClothing@5121.json",
       "key": "Pk_5_1_1_RusticClothing",
       "icon": "Coat_Straw",
       "type": "perk",
@@ -15586,7 +15586,7 @@
       "en": "Rustic Clothing",
       "ja": "Rustic Clothing",
       "UniqueID": "d1272ddcf4af5df43a7dc04655a2d07f",
-      "UniqueIDIndex": 3887,
+      "UniqueIDIndex": 3897,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -16199,8 +16199,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5120",
-      "___fn": "Pk_5_1_2_SurvivalGear@5120.json",
+      "___key": "0_5122",
+      "___fn": "Pk_5_1_2_SurvivalGear@5122.json",
       "key": "Pk_5_1_2_SurvivalGear",
       "icon": "Waterskin",
       "type": "perk",
@@ -16208,7 +16208,7 @@
       "en": "Survival Gear",
       "ja": "Survival Gear",
       "UniqueID": "16fbe9f718997e146baf742b02e75284",
-      "UniqueIDIndex": 3888,
+      "UniqueIDIndex": 3898,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -16493,8 +16493,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5121",
-      "___fn": "Pk_5_1_3_HuntingGear@5121.json",
+      "___key": "0_5123",
+      "___fn": "Pk_5_1_3_HuntingGear@5123.json",
       "key": "Pk_5_1_3_HuntingGear",
       "icon": "BowSimple",
       "type": "perk",
@@ -16502,7 +16502,7 @@
       "en": "Hunting Gear",
       "ja": "Hunting Gear",
       "UniqueID": "dcf01abd1e847834eb288b2a02dc08f5",
-      "UniqueIDIndex": 3889,
+      "UniqueIDIndex": 3899,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -16896,8 +16896,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5122",
-      "___fn": "Pk_5_1_4_FarmingGear@5122.json",
+      "___key": "0_5124",
+      "___fn": "Pk_5_1_4_FarmingGear@5124.json",
       "key": "Pk_5_1_4_FarmingGear",
       "icon": "Hoe_Flint",
       "type": "perk",
@@ -16905,7 +16905,7 @@
       "en": "Farming Gear",
       "ja": "Farming Gear",
       "UniqueID": "f689134e9523ba542ae6d603110b9559",
-      "UniqueIDIndex": 3890,
+      "UniqueIDIndex": 3900,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -17192,8 +17192,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5123",
-      "___fn": "Pk_5_1_5_SpiritualGear@5123.json",
+      "___key": "0_5125",
+      "___fn": "Pk_5_1_5_SpiritualGear@5125.json",
       "key": "Pk_5_1_5_SpiritualGear",
       "icon": "Amulet",
       "type": "perk",
@@ -17201,7 +17201,7 @@
       "en": "Spiritual Gear",
       "ja": "Spiritual Gear",
       "UniqueID": "f264be6214e703e44a8d3f831868a43d",
-      "UniqueIDIndex": 3891,
+      "UniqueIDIndex": 3901,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -17589,8 +17589,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5124",
-      "___fn": "Pk_5_1_6_ScribeGear@5124.json",
+      "___key": "0_5126",
+      "___fn": "Pk_5_1_6_ScribeGear@5126.json",
       "key": "Pk_5_1_6_ScribeGear",
       "icon": "Parchment",
       "type": "perk",
@@ -17598,7 +17598,7 @@
       "en": "Cartographer/Scribe Gear",
       "ja": "Cartographer/Scribe Gear",
       "UniqueID": "f3085af9c6b26b7428023b598619db71",
-      "UniqueIDIndex": 3892,
+      "UniqueIDIndex": 3902,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -18939,8 +18939,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5125",
-      "___fn": "Pk_5_1_7_WeavingGear@5125.json",
+      "___key": "0_5127",
+      "___fn": "Pk_5_1_7_WeavingGear@5127.json",
       "key": "Pk_5_1_7_WeavingGear",
       "icon": "Hackler",
       "type": "perk",
@@ -18948,7 +18948,7 @@
       "en": "Weaving Gear",
       "ja": "Weaving Gear",
       "UniqueID": "fdb07f517c6c709438c52d3993aaaaff",
-      "UniqueIDIndex": 3893,
+      "UniqueIDIndex": 3903,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -20804,8 +20804,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5126",
-      "___fn": "Pk_5_1_8_SmithingGear@5126.json",
+      "___key": "0_5128",
+      "___fn": "Pk_5_1_8_SmithingGear@5128.json",
       "key": "Pk_5_1_8_SmithingGear",
       "icon": "Hammer",
       "type": "perk",
@@ -20813,7 +20813,7 @@
       "en": "Smithing Gear",
       "ja": "Smithing Gear",
       "UniqueID": "714e1e19197bd2d42b008d59ebf6a09a",
-      "UniqueIDIndex": 3894,
+      "UniqueIDIndex": 3904,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -22728,8 +22728,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5127",
-      "___fn": "Pk_5_20_Wetlands@5127.json",
+      "___key": "0_5129",
+      "___fn": "Pk_5_20_Wetlands@5129.json",
       "key": "Pk_5_20_Wetlands",
       "icon": "Rain",
       "type": "perk",
@@ -22737,7 +22737,7 @@
       "en": "Wetlands",
       "ja": "Wetlands",
       "UniqueID": "ed5afa4544d4ee2439c53d83e413edee",
-      "UniqueIDIndex": 3905,
+      "UniqueIDIndex": 3915,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -22949,8 +22949,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5128",
-      "___fn": "Pk_5_21_Drylands@5128.json",
+      "___key": "0_5130",
+      "___fn": "Pk_5_21_Drylands@5130.json",
       "key": "Pk_5_21_Drylands",
       "icon": "WeatherClear_0",
       "type": "perk",
@@ -22958,7 +22958,7 @@
       "en": "Drylands",
       "ja": "Drylands",
       "UniqueID": "ebf826592f5890c44a329ad0efd8d9c4",
-      "UniqueIDIndex": 3906,
+      "UniqueIDIndex": 3916,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -23066,8 +23066,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5129",
-      "___fn": "Pk_5_22_ScarceFauna@5129.json",
+      "___key": "0_5131",
+      "___fn": "Pk_5_22_ScarceFauna@5131.json",
       "key": "Pk_5_22_ScarceFauna",
       "icon": "Doe_Wild",
       "type": "perk",
@@ -23075,7 +23075,7 @@
       "en": "Scarce Fauna",
       "ja": "Scarce Fauna",
       "UniqueID": "4e0ed50072ad9254c9e9519013622208",
-      "UniqueIDIndex": 3907,
+      "UniqueIDIndex": 3917,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -23590,8 +23590,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5130",
-      "___fn": "Pk_5_23_AbundantFauna@5130.json",
+      "___key": "0_5132",
+      "___fn": "Pk_5_23_AbundantFauna@5132.json",
       "key": "Pk_5_23_AbundantFauna",
       "icon": "Squirrel_Wild",
       "type": "perk",
@@ -23599,7 +23599,7 @@
       "en": "Abundant Fauna",
       "ja": "Abundant Fauna",
       "UniqueID": "13edaf4679cd32c4f805945a1cead1b2",
-      "UniqueIDIndex": 3908,
+      "UniqueIDIndex": 3918,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -24151,8 +24151,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5131",
-      "___fn": "Pk_5_24_StartingPoultry@5131.json",
+      "___key": "0_5133",
+      "___fn": "Pk_5_24_StartingPoultry@5133.json",
       "key": "Pk_5_24_StartingPoultry",
       "icon": "Chicken_Live",
       "type": "perk",
@@ -24160,7 +24160,7 @@
       "en": "Starting Poultry",
       "ja": "Starting Poultry",
       "UniqueID": "0fae5cf3f15077f448d657d760496189",
-      "UniqueIDIndex": 3909,
+      "UniqueIDIndex": 3919,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -24681,8 +24681,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5132",
-      "___fn": "Pk_5_25_StartingCattle@5132.json",
+      "___key": "0_5134",
+      "___fn": "Pk_5_25_StartingCattle@5134.json",
       "key": "Pk_5_25_StartingCattle",
       "icon": "Cow_Tamed",
       "type": "perk",
@@ -24690,7 +24690,7 @@
       "en": "Starting Cattle",
       "ja": "Starting Cattle",
       "UniqueID": "ab16ac4c584a6294fa0365ef589ce8aa",
-      "UniqueIDIndex": 3910,
+      "UniqueIDIndex": 3920,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -25330,8 +25330,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5133",
-      "___fn": "Pk_5_26_SwampStart@5133.json",
+      "___key": "0_5135",
+      "___fn": "Pk_5_26_SwampStart@5135.json",
       "key": "Pk_5_26_SwampStart",
       "icon": "Swamp1",
       "type": "perk",
@@ -25339,7 +25339,7 @@
       "en": "Swamp Start",
       "ja": "Swamp Start",
       "UniqueID": "837b06ad463faa646b0065f9ff7542a3",
-      "UniqueIDIndex": 3911,
+      "UniqueIDIndex": 3921,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -29684,8 +29684,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5134",
-      "___fn": "Pk_5_6_WolfProtection@5134.json",
+      "___key": "0_5136",
+      "___fn": "Pk_5_6_WolfProtection@5136.json",
       "key": "Pk_5_6_WolfProtection",
       "icon": "Wolf_Wild",
       "type": "perk",
@@ -29693,7 +29693,7 @@
       "en": "Wolf Protection",
       "ja": "Wolf Protection",
       "UniqueID": "8c2199fe71a427d4ca0f4e952518b3ed",
-      "UniqueIDIndex": 3912,
+      "UniqueIDIndex": 3922,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -29838,8 +29838,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5135",
-      "___fn": "Pk_5_7_WolfAttraction@5135.json",
+      "___key": "0_5137",
+      "___fn": "Pk_5_7_WolfAttraction@5137.json",
       "key": "Pk_5_7_WolfAttraction",
       "icon": "Wolf_Pack",
       "type": "perk",
@@ -29847,7 +29847,7 @@
       "en": "Wolf Attraction",
       "ja": "Wolf Attraction",
       "UniqueID": "d73623057253f9a49b1c5b5658a527d0",
-      "UniqueIDIndex": 3913,
+      "UniqueIDIndex": 3923,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -29992,8 +29992,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5136",
-      "___fn": "Pk_5_8_AutumnStart@5136.json",
+      "___key": "0_5138",
+      "___fn": "Pk_5_8_AutumnStart@5138.json",
       "key": "Pk_5_8_AutumnStart",
       "icon": "SaturationMushrooms",
       "type": "perk",
@@ -30001,7 +30001,7 @@
       "en": "Autumn Start",
       "ja": "Autumn Start",
       "UniqueID": "9678bd3690dfa7649b4e5f0dd6e85a8f",
-      "UniqueIDIndex": 3914,
+      "UniqueIDIndex": 3924,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -30146,8 +30146,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5137",
-      "___fn": "Pk_5_9_WinterStart@5137.json",
+      "___key": "0_5139",
+      "___fn": "Pk_5_9_WinterStart@5139.json",
       "key": "Pk_5_9_WinterStart",
       "icon": "Snow",
       "type": "perk",
@@ -30155,7 +30155,7 @@
       "en": "Winter Start",
       "ja": "Winter Start",
       "UniqueID": "8c0b37b181d9a404bbf0e0b3d6e5deb3",
-      "UniqueIDIndex": 3915,
+      "UniqueIDIndex": 3925,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -30300,8 +30300,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5138",
-      "___fn": "Pk_6_10_Scribe@5138.json",
+      "___key": "0_5140",
+      "___fn": "Pk_6_10_Scribe@5140.json",
       "key": "Pk_6_10_Scribe",
       "icon": "Parchment",
       "type": "perk",
@@ -30309,7 +30309,7 @@
       "en": "Scribe",
       "ja": "Scribe",
       "UniqueID": "1c432891cc1525241b970f9cac53fd58",
-      "UniqueIDIndex": 3917,
+      "UniqueIDIndex": 3927,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -30695,8 +30695,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5139",
-      "___fn": "Pk_6_11_Butcher@5139.json",
+      "___key": "0_5141",
+      "___fn": "Pk_6_11_Butcher@5141.json",
       "key": "Pk_6_11_Butcher",
       "icon": "ButcherKnife_Copper",
       "type": "perk",
@@ -30704,7 +30704,7 @@
       "en": "Butcher",
       "ja": "Butcher",
       "UniqueID": "6a77f143a1967a543b6c5db6a9565b61",
-      "UniqueIDIndex": 3918,
+      "UniqueIDIndex": 3928,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -31548,8 +31548,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5140",
-      "___fn": "Pk_6_12_Leatherworker@5140.json",
+      "___key": "0_5142",
+      "___fn": "Pk_6_12_Leatherworker@5142.json",
       "key": "Pk_6_12_Leatherworker",
       "icon": "Skin_Leather_VeryLarge",
       "type": "perk",
@@ -31557,7 +31557,7 @@
       "en": "Leatherworker",
       "ja": "Leatherworker",
       "UniqueID": "20790fadee5ea024aa3b9987b8ab6d28",
-      "UniqueIDIndex": 3919,
+      "UniqueIDIndex": 3929,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -33136,8 +33136,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5141",
-      "___fn": "Pk_6_13_Mystic@5141.json",
+      "___key": "0_5143",
+      "___fn": "Pk_6_13_Mystic@5143.json",
       "key": "Pk_6_13_Mystic",
       "icon": "Amulet",
       "type": "perk",
@@ -33145,7 +33145,7 @@
       "en": "Mystic",
       "ja": "Mystic",
       "UniqueID": "a9e589743fef74041b024121b6f112b0",
-      "UniqueIDIndex": 3920,
+      "UniqueIDIndex": 3930,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -33674,8 +33674,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5142",
-      "___fn": "Pk_6_14_Farmer@5142.json",
+      "___key": "0_5144",
+      "___fn": "Pk_6_14_Farmer@5144.json",
       "key": "Pk_6_14_Farmer",
       "icon": "Turnroot_Fresh",
       "type": "perk",
@@ -33683,7 +33683,7 @@
       "en": "Farmer",
       "ja": "Farmer",
       "UniqueID": "a3f085a7ba3e9314195664dcfd251ee3",
-      "UniqueIDIndex": 3921,
+      "UniqueIDIndex": 3931,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -34422,8 +34422,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5143",
-      "___fn": "Pk_6_15_Woodworker@5143.json",
+      "___key": "0_5145",
+      "___fn": "Pk_6_15_Woodworker@5145.json",
       "key": "Pk_6_15_Woodworker",
       "icon": "Plank",
       "type": "perk",
@@ -34431,7 +34431,7 @@
       "en": "Woodworker",
       "ja": "Woodworker",
       "UniqueID": "1130a5f4d4f990d419243f119cfa2d68",
-      "UniqueIDIndex": 3922,
+      "UniqueIDIndex": 3932,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -36640,8 +36640,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5144",
-      "___fn": "Pk_6_16_Fisher@5144.json",
+      "___key": "0_5146",
+      "___fn": "Pk_6_16_Fisher@5146.json",
       "key": "Pk_6_16_Fisher",
       "icon": "FishingLine",
       "type": "perk",
@@ -36649,7 +36649,7 @@
       "en": "Fisher",
       "ja": "Fisher",
       "UniqueID": "1cda76db5a82e5b479b56dc767829489",
-      "UniqueIDIndex": 3923,
+      "UniqueIDIndex": 3933,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -37388,8 +37388,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5145",
-      "___fn": "Pk_6_1_Knapper@5145.json",
+      "___key": "0_5147",
+      "___fn": "Pk_6_1_Knapper@5147.json",
       "key": "Pk_6_1_Knapper",
       "icon": "Flint",
       "type": "perk",
@@ -37397,7 +37397,7 @@
       "en": "Knapper",
       "ja": "Knapper",
       "UniqueID": "3c064bd190f237a459373577326a8603",
-      "UniqueIDIndex": 3916,
+      "UniqueIDIndex": 3926,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -38136,8 +38136,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5146",
-      "___fn": "Pk_6_2_Archer@5146.json",
+      "___key": "0_5148",
+      "___fn": "Pk_6_2_Archer@5148.json",
       "key": "Pk_6_2_Archer",
       "icon": "BowSimple",
       "type": "perk",
@@ -38145,7 +38145,7 @@
       "en": "Archer",
       "ja": "Archer",
       "UniqueID": "8fdbdbb0059a4e24c850b9086cefabc4",
-      "UniqueIDIndex": 3924,
+      "UniqueIDIndex": 3934,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -39409,8 +39409,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5147",
-      "___fn": "Pk_6_3_Spearfighter@5147.json",
+      "___key": "0_5149",
+      "___fn": "Pk_6_3_Spearfighter@5149.json",
       "key": "Pk_6_3_Spearfighter",
       "icon": "Spear_GhostBronze",
       "type": "perk",
@@ -39418,7 +39418,7 @@
       "en": "Spearfighter",
       "ja": "Spearfighter",
       "UniqueID": "a2d8af840ac0f1043ab5d52fe43089e8",
-      "UniqueIDIndex": 3925,
+      "UniqueIDIndex": 3935,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -40472,8 +40472,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5148",
-      "___fn": "Pk_6_4_Tracker@5148.json",
+      "___key": "0_5150",
+      "___fn": "Pk_6_4_Tracker@5150.json",
       "key": "Pk_6_4_Tracker",
       "icon": "Tracks",
       "type": "perk",
@@ -40481,7 +40481,7 @@
       "en": "Tracker",
       "ja": "Tracker",
       "UniqueID": "9f2de75e4b0091c419fd7fb683691f6a",
-      "UniqueIDIndex": 3926,
+      "UniqueIDIndex": 3936,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -40589,8 +40589,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5149",
-      "___fn": "Pk_6_5_Climber@5149.json",
+      "___key": "0_5151",
+      "___fn": "Pk_6_5_Climber@5151.json",
       "key": "Pk_6_5_Climber",
       "icon": "Tree1",
       "type": "perk",
@@ -40598,7 +40598,7 @@
       "en": "Climber",
       "ja": "Climber",
       "UniqueID": "ef3f41598c5d5da4fae992bbfba0e152",
-      "UniqueIDIndex": 3927,
+      "UniqueIDIndex": 3937,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -40706,8 +40706,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5150",
-      "___fn": "Pk_6_5_Stalker@5150.json",
+      "___key": "0_5152",
+      "___fn": "Pk_6_5_Stalker@5152.json",
       "key": "Pk_6_5_Stalker",
       "icon": "Darkness",
       "type": "perk",
@@ -40715,7 +40715,7 @@
       "en": "Stalker",
       "ja": "Stalker",
       "UniqueID": "9003744fbccf19849932d394d4c88e5e",
-      "UniqueIDIndex": 3928,
+      "UniqueIDIndex": 3938,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -40823,8 +40823,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5151",
-      "___fn": "Pk_6_6_Trapper@5151.json",
+      "___key": "0_5153",
+      "___fn": "Pk_6_6_Trapper@5153.json",
       "key": "Pk_6_6_Trapper",
       "icon": "DeadfallTrap",
       "type": "perk",
@@ -40832,7 +40832,7 @@
       "en": "Trapper",
       "ja": "Trapper",
       "UniqueID": "e21ee6456853e084a945b513eeedd39e",
-      "UniqueIDIndex": 3929,
+      "UniqueIDIndex": 3939,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -41466,8 +41466,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5152",
-      "___fn": "Pk_6_7_Smith@5152.json",
+      "___key": "0_5154",
+      "___fn": "Pk_6_7_Smith@5154.json",
       "key": "Pk_6_7_Smith",
       "icon": "Furnace_On",
       "type": "perk",
@@ -41475,7 +41475,7 @@
       "en": "Smith",
       "ja": "Smith",
       "UniqueID": "e39ed9bae96e4dd478b055d5256c9ff0",
-      "UniqueIDIndex": 3930,
+      "UniqueIDIndex": 3940,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -44209,8 +44209,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5153",
-      "___fn": "Pk_6_8_Weaver@5153.json",
+      "___key": "0_5155",
+      "___fn": "Pk_6_8_Weaver@5155.json",
       "key": "Pk_6_8_Weaver",
       "icon": "Basket_Hand",
       "type": "perk",
@@ -44218,7 +44218,7 @@
       "en": "Weaver",
       "ja": "Weaver",
       "UniqueID": "ab1a014af94a0774083bc3e52f77390a",
-      "UniqueIDIndex": 3931,
+      "UniqueIDIndex": 3941,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -46007,8 +46007,8 @@
       "m_Script": {
         "FileName": "SortIcon"
       },
-      "___key": "0_5154",
-      "___fn": "Pk_6_9_Awakened@5154.json",
+      "___key": "0_5156",
+      "___fn": "Pk_6_9_Awakened@5156.json",
       "key": "Pk_6_9_Awakened",
       "icon": "God2",
       "type": "perk",
@@ -46016,7 +46016,7 @@
       "en": "Awakened",
       "ja": "Awakened",
       "UniqueID": "7bbc7a415b64b1a4aacebdaa4d338da3",
-      "UniqueIDIndex": 3932,
+      "UniqueIDIndex": 3942,
       "StartUnlocked": false,
       "ActionObjectives": [],
       "CardsOnBoardObjectives": [],
@@ -46236,8 +46236,8 @@
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6471",
-      "___fn": "Pkg_Appetite@6471.json",
+      "___key": "0_6473",
+      "___fn": "Pkg_Appetite@6473.json",
       "key": "Pkg_Appetite",
       "icon": "",
       "type": "other",
@@ -46269,15 +46269,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "f9bec5cc314412c41a0401b3b62c661d",
-      "UniqueIDIndex": 3933
+      "UniqueIDIndex": 3943
     },
     {
       "m_Name": "Pkg_AthleticFitSedentary",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6472",
-      "___fn": "Pkg_AthleticFitSedentary@6472.json",
+      "___key": "0_6474",
+      "___fn": "Pkg_AthleticFitSedentary@6474.json",
       "key": "Pkg_AthleticFitSedentary",
       "icon": "",
       "type": "other",
@@ -46317,15 +46317,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "949757d192dee4a4ea63bd00b5e47af2",
-      "UniqueIDIndex": 3934
+      "UniqueIDIndex": 3944
     },
     {
       "m_Name": "Pkg_Bladder",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6473",
-      "___fn": "Pkg_Bladder@6473.json",
+      "___key": "0_6475",
+      "___fn": "Pkg_Bladder@6475.json",
       "key": "Pkg_Bladder",
       "icon": "",
       "type": "other",
@@ -46365,15 +46365,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "1d2736a6fe90bce448d7a4b13d80caf0",
-      "UniqueIDIndex": 3935
+      "UniqueIDIndex": 3945
     },
     {
       "m_Name": "Pkg_Bowels",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6474",
-      "___fn": "Pkg_Bowels@6474.json",
+      "___key": "0_6476",
+      "___fn": "Pkg_Bowels@6476.json",
       "key": "Pkg_Bowels",
       "icon": "",
       "type": "other",
@@ -46413,15 +46413,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "41cae757f1671bb4593b72d8c92d133b",
-      "UniqueIDIndex": 3936
+      "UniqueIDIndex": 3946
     },
     {
       "m_Name": "Pkg_BraveFainthearted",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6475",
-      "___fn": "Pkg_BraveFainthearted@6475.json",
+      "___key": "0_6477",
+      "___fn": "Pkg_BraveFainthearted@6477.json",
       "key": "Pkg_BraveFainthearted",
       "icon": "",
       "type": "other",
@@ -46453,15 +46453,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "1eb396bdccfbebc41940eda076d47528",
-      "UniqueIDIndex": 3937
+      "UniqueIDIndex": 3947
     },
     {
       "m_Name": "Pkg_CarefreeAnxious",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6476",
-      "___fn": "Pkg_CarefreeAnxious@6476.json",
+      "___key": "0_6478",
+      "___fn": "Pkg_CarefreeAnxious@6478.json",
       "key": "Pkg_CarefreeAnxious",
       "icon": "",
       "type": "other",
@@ -46493,15 +46493,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "6207f0888a6e5db408efbc7bcb8d54a8",
-      "UniqueIDIndex": 3938
+      "UniqueIDIndex": 3948
     },
     {
       "m_Name": "Pkg_CarnivoreHerbivore",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6477",
-      "___fn": "Pkg_CarnivoreHerbivore@6477.json",
+      "___key": "0_6479",
+      "___fn": "Pkg_CarnivoreHerbivore@6479.json",
       "key": "Pkg_CarnivoreHerbivore",
       "icon": "",
       "type": "other",
@@ -46533,15 +46533,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "4d689642a748721468c44778c570b43a",
-      "UniqueIDIndex": 3939
+      "UniqueIDIndex": 3949
     },
     {
       "m_Name": "Pkg_ClaustrophobicHomebody",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6478",
-      "___fn": "Pkg_ClaustrophobicHomebody@6478.json",
+      "___key": "0_6480",
+      "___fn": "Pkg_ClaustrophobicHomebody@6480.json",
       "key": "Pkg_ClaustrophobicHomebody",
       "icon": "",
       "type": "other",
@@ -46573,15 +46573,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "a66f046cdfcb1294d9140af5ff3fb2fc",
-      "UniqueIDIndex": 3940
+      "UniqueIDIndex": 3950
     },
     {
       "m_Name": "Pkg_ColdResistantColdSensitive",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6479",
-      "___fn": "Pkg_ColdResistantColdSensitive@6479.json",
+      "___key": "0_6481",
+      "___fn": "Pkg_ColdResistantColdSensitive@6481.json",
       "key": "Pkg_ColdResistantColdSensitive",
       "icon": "",
       "type": "other",
@@ -46613,15 +46613,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "5383dd24991bd2740a830040406b535b",
-      "UniqueIDIndex": 3941
+      "UniqueIDIndex": 3951
     },
     {
       "m_Name": "Pkg_Diet",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6480",
-      "___fn": "Pkg_Diet@6480.json",
+      "___key": "0_6482",
+      "___fn": "Pkg_Diet@6482.json",
       "key": "Pkg_Diet",
       "icon": "",
       "type": "other",
@@ -46653,15 +46653,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "c0558700a32690a418feb951d157e7eb",
-      "UniqueIDIndex": 3942
+      "UniqueIDIndex": 3952
     },
     {
       "m_Name": "Pkg_EversummerEverwinter",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6481",
-      "___fn": "Pkg_EversummerEverwinter@6481.json",
+      "___key": "0_6483",
+      "___fn": "Pkg_EversummerEverwinter@6483.json",
       "key": "Pkg_EversummerEverwinter",
       "icon": "",
       "type": "other",
@@ -46693,15 +46693,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "741f2ad5e3c70e347a82095eed17c0f5",
-      "UniqueIDIndex": 3943
+      "UniqueIDIndex": 3953
     },
     {
       "m_Name": "Pkg_EyeColour",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6482",
-      "___fn": "Pkg_EyeColour@6482.json",
+      "___key": "0_6484",
+      "___fn": "Pkg_EyeColour@6484.json",
       "key": "Pkg_EyeColour",
       "icon": "",
       "type": "other",
@@ -46733,15 +46733,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "62af54ab41c39b54b9a8140792852765",
-      "UniqueIDIndex": 3944
+      "UniqueIDIndex": 3954
     },
     {
       "m_Name": "Pkg_FeralRefined",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6483",
-      "___fn": "Pkg_FeralRefined@6483.json",
+      "___key": "0_6485",
+      "___fn": "Pkg_FeralRefined@6485.json",
       "key": "Pkg_FeralRefined",
       "icon": "",
       "type": "other",
@@ -46773,15 +46773,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "c44c39482ba9c824d90297e782356294",
-      "UniqueIDIndex": 3945
+      "UniqueIDIndex": 3955
     },
     {
       "m_Name": "Pkg_Hair",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6484",
-      "___fn": "Pkg_Hair@6484.json",
+      "___key": "0_6486",
+      "___fn": "Pkg_Hair@6486.json",
       "key": "Pkg_Hair",
       "icon": "",
       "type": "other",
@@ -46813,15 +46813,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "df504a677129c8246b888f42cf2bba46",
-      "UniqueIDIndex": 3946
+      "UniqueIDIndex": 3956
     },
     {
       "m_Name": "Pkg_Height",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6485",
-      "___fn": "Pkg_Height@6485.json",
+      "___key": "0_6487",
+      "___fn": "Pkg_Height@6487.json",
       "key": "Pkg_Height",
       "icon": "",
       "type": "other",
@@ -46869,15 +46869,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "72a4c9c5d589c9c4292fd70dbf78e73d",
-      "UniqueIDIndex": 3947
+      "UniqueIDIndex": 3957
     },
     {
       "m_Name": "Pkg_Hormones",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6486",
-      "___fn": "Pkg_Hormones@6486.json",
+      "___key": "0_6488",
+      "___fn": "Pkg_Hormones@6488.json",
       "key": "Pkg_Hormones",
       "icon": "",
       "type": "other",
@@ -46925,15 +46925,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "cf3a08005c532ea4193fd27493a3e144",
-      "UniqueIDIndex": 3948
+      "UniqueIDIndex": 3958
     },
     {
       "m_Name": "Pkg_Immune",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6487",
-      "___fn": "Pkg_Immune@6487.json",
+      "___key": "0_6489",
+      "___fn": "Pkg_Immune@6489.json",
       "key": "Pkg_Immune",
       "icon": "",
       "type": "other",
@@ -46965,15 +46965,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "017d6649df4a4194a885bed4bb0e4028",
-      "UniqueIDIndex": 3949
+      "UniqueIDIndex": 3959
     },
     {
       "m_Name": "Pkg_Metabolism",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6488",
-      "___fn": "Pkg_Metabolism@6488.json",
+      "___key": "0_6490",
+      "___fn": "Pkg_Metabolism@6490.json",
       "key": "Pkg_Metabolism",
       "icon": "",
       "type": "other",
@@ -47005,15 +47005,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "db8f7ea7092c4ad4db1589861fc147ca",
-      "UniqueIDIndex": 3950
+      "UniqueIDIndex": 3960
     },
     {
       "m_Name": "Pkg_Mood",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6489",
-      "___fn": "Pkg_Mood@6489.json",
+      "___key": "0_6491",
+      "___fn": "Pkg_Mood@6491.json",
       "key": "Pkg_Mood",
       "icon": "",
       "type": "other",
@@ -47045,15 +47045,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "3fd35b847ce9c2f489d6b68fdd8e3b30",
-      "UniqueIDIndex": 3951
+      "UniqueIDIndex": 3961
     },
     {
       "m_Name": "Pkg_Pain",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6490",
-      "___fn": "Pkg_Pain@6490.json",
+      "___key": "0_6492",
+      "___fn": "Pkg_Pain@6492.json",
       "key": "Pkg_Pain",
       "icon": "",
       "type": "other",
@@ -47085,15 +47085,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "8a2c8059ca49c9546971af85a85e6968",
-      "UniqueIDIndex": 3952
+      "UniqueIDIndex": 3962
     },
     {
       "m_Name": "Pkg_RainFrequency",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6491",
-      "___fn": "Pkg_RainFrequency@6491.json",
+      "___key": "0_6493",
+      "___fn": "Pkg_RainFrequency@6493.json",
       "key": "Pkg_RainFrequency",
       "icon": "",
       "type": "other",
@@ -47141,15 +47141,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "ecc1bd938d7fdc7488ae41928fa4f35b",
-      "UniqueIDIndex": 3953
+      "UniqueIDIndex": 3963
     },
     {
       "m_Name": "Pkg_ScarceFaunaAbundantFauna",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6492",
-      "___fn": "Pkg_ScarceFaunaAbundantFauna@6492.json",
+      "___key": "0_6494",
+      "___fn": "Pkg_ScarceFaunaAbundantFauna@6494.json",
       "key": "Pkg_ScarceFaunaAbundantFauna",
       "icon": "",
       "type": "other",
@@ -47181,15 +47181,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "8d60371ad0ba108408cc9c25d4b42030",
-      "UniqueIDIndex": 3954
+      "UniqueIDIndex": 3964
     },
     {
       "m_Name": "Pkg_Skin",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6493",
-      "___fn": "Pkg_Skin@6493.json",
+      "___key": "0_6495",
+      "___fn": "Pkg_Skin@6495.json",
       "key": "Pkg_Skin",
       "icon": "",
       "type": "other",
@@ -47237,15 +47237,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "f45f6d2b83c0eff4fa4046ee9e757fa3",
-      "UniqueIDIndex": 3955
+      "UniqueIDIndex": 3965
     },
     {
       "m_Name": "Pkg_SocialLoner",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6494",
-      "___fn": "Pkg_SocialLoner@6494.json",
+      "___key": "0_6496",
+      "___fn": "Pkg_SocialLoner@6496.json",
       "key": "Pkg_SocialLoner",
       "icon": "",
       "type": "other",
@@ -47277,15 +47277,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "8c3c18376083b3b4aa86df7fa424a263",
-      "UniqueIDIndex": 3956
+      "UniqueIDIndex": 3966
     },
     {
       "m_Name": "Pkg_StartingLocation",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6495",
-      "___fn": "Pkg_StartingLocation@6495.json",
+      "___key": "0_6497",
+      "___fn": "Pkg_StartingLocation@6497.json",
       "key": "Pkg_StartingLocation",
       "icon": "",
       "type": "other",
@@ -47333,15 +47333,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "0dcc7ebeafa81c345accf285880b364c",
-      "UniqueIDIndex": 3957
+      "UniqueIDIndex": 3967
     },
     {
       "m_Name": "Pkg_StartingSeason",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6496",
-      "___fn": "Pkg_StartingSeason@6496.json",
+      "___key": "0_6498",
+      "___fn": "Pkg_StartingSeason@6498.json",
       "key": "Pkg_StartingSeason",
       "icon": "",
       "type": "other",
@@ -47381,15 +47381,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "bc9e5bec336846045b4487ef2ba7b6b4",
-      "UniqueIDIndex": 3958
+      "UniqueIDIndex": 3968
     },
     {
       "m_Name": "Pkg_Thirst",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6497",
-      "___fn": "Pkg_Thirst@6497.json",
+      "___key": "0_6499",
+      "___fn": "Pkg_Thirst@6499.json",
       "key": "Pkg_Thirst",
       "icon": "",
       "type": "other",
@@ -47421,15 +47421,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "82b9b4da7847bec4782063ad83636ba1",
-      "UniqueIDIndex": 3959
+      "UniqueIDIndex": 3969
     },
     {
       "m_Name": "Pkg_Trust",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6498",
-      "___fn": "Pkg_Trust@6498.json",
+      "___key": "0_6500",
+      "___fn": "Pkg_Trust@6500.json",
       "key": "Pkg_Trust",
       "icon": "",
       "type": "other",
@@ -47461,15 +47461,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "05af647b6c49f0d41b65ccba30a9d331",
-      "UniqueIDIndex": 3960
+      "UniqueIDIndex": 3970
     },
     {
       "m_Name": "Pkg_Weight",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6499",
-      "___fn": "Pkg_Weight@6499.json",
+      "___key": "0_6501",
+      "___fn": "Pkg_Weight@6501.json",
       "key": "Pkg_Weight",
       "icon": "",
       "type": "other",
@@ -47518,15 +47518,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "992d6205fd1e01f4a95d2cb94ed40a44",
-      "UniqueIDIndex": 3961
+      "UniqueIDIndex": 3971
     },
     {
       "m_Name": "Pkg_WinterStartSpringStartAutumnStart",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6500",
-      "___fn": "Pkg_WinterStartSpringStartAutumnStart@6500.json",
+      "___key": "0_6502",
+      "___fn": "Pkg_WinterStartSpringStartAutumnStart@6502.json",
       "key": "Pkg_WinterStartSpringStartAutumnStart",
       "icon": "",
       "type": "other",
@@ -47566,15 +47566,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "bb536a3638a74ec4fbe694d0b85899b0",
-      "UniqueIDIndex": 3962
+      "UniqueIDIndex": 3972
     },
     {
       "m_Name": "Pkg_WolfProtectionWolfAttraction",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6501",
-      "___fn": "Pkg_WolfProtectionWolfAttraction@6501.json",
+      "___key": "0_6503",
+      "___fn": "Pkg_WolfProtectionWolfAttraction@6503.json",
       "key": "Pkg_WolfProtectionWolfAttraction",
       "icon": "",
       "type": "other",
@@ -47606,15 +47606,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "f8c9f3b5d71dbb14e952e3fa63ba63be",
-      "UniqueIDIndex": 3963
+      "UniqueIDIndex": 3973
     },
     {
       "m_Name": "Pkg_WonderingFocusSingularFocus",
       "m_Script": {
         "FileName": "sactx-4096x4096-DXT5-Cards-a6bef5ef"
       },
-      "___key": "0_6502",
-      "___fn": "Pkg_WonderingFocusSingularFocus@6502.json",
+      "___key": "0_6504",
+      "___fn": "Pkg_WonderingFocusSingularFocus@6504.json",
       "key": "Pkg_WonderingFocusSingularFocus",
       "icon": "",
       "type": "other",
@@ -47646,7 +47646,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "6a01ff47f09f6b94a9317396e366621a",
-      "UniqueIDIndex": 3964
+      "UniqueIDIndex": 3974
     }
   ],
   "tabGroups": [
@@ -47655,8 +47655,8 @@
       "m_Script": {
         "FileName": "Bracers_Leather"
       },
-      "___key": "0_6465",
-      "___fn": "PkTab0_Sex@6465.json",
+      "___key": "0_6467",
+      "___fn": "PkTab0_Sex@6467.json",
       "key": "PkTab0_Sex",
       "icon": "",
       "type": "other",
@@ -47724,15 +47724,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "9be1b5be8f64df444b73828b99159b0c",
-      "UniqueIDIndex": 3965
+      "UniqueIDIndex": 3975
     },
     {
       "m_Name": "PkTab1_Physical",
       "m_Script": {
         "FileName": "Bracers_Leather"
       },
-      "___key": "0_6466",
-      "___fn": "PkTab1_Physical@6466.json",
+      "___key": "0_6468",
+      "___fn": "PkTab1_Physical@6468.json",
       "key": "PkTab1_Physical",
       "icon": "",
       "type": "other",
@@ -47929,15 +47929,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "f913e8e1e69615943b6dfaa6dba9cda1",
-      "UniqueIDIndex": 3966
+      "UniqueIDIndex": 3976
     },
     {
       "m_Name": "PkTab2_Psychological",
       "m_Script": {
         "FileName": "Bracers_Leather"
       },
-      "___key": "0_6467",
-      "___fn": "PkTab2_Psychological@6467.json",
+      "___key": "0_6469",
+      "___fn": "PkTab2_Psychological@6469.json",
       "key": "PkTab2_Psychological",
       "icon": "",
       "type": "other",
@@ -48141,15 +48141,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "335cd7a47a90df5419abc30a4105db1a",
-      "UniqueIDIndex": 3967
+      "UniqueIDIndex": 3977
     },
     {
       "m_Name": "PkTab3_Physiological",
       "m_Script": {
         "FileName": "Bracers_Leather"
       },
-      "___key": "0_6468",
-      "___fn": "PkTab3_Physiological@6468.json",
+      "___key": "0_6470",
+      "___fn": "PkTab3_Physiological@6470.json",
       "key": "PkTab3_Physiological",
       "icon": "",
       "type": "other",
@@ -48345,15 +48345,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "5d894fd43dd840949ae17ae1bda18bbc",
-      "UniqueIDIndex": 3968
+      "UniqueIDIndex": 3978
     },
     {
       "m_Name": "PkTab4_Situational",
       "m_Script": {
         "FileName": "Bracers_Leather"
       },
-      "___key": "0_6469",
-      "___fn": "PkTab4_Situational@6469.json",
+      "___key": "0_6471",
+      "___fn": "PkTab4_Situational@6471.json",
       "key": "PkTab4_Situational",
       "icon": "",
       "type": "other",
@@ -48613,15 +48613,15 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "72120cda8e1cef540b1b25118dd7edaa",
-      "UniqueIDIndex": 3969
+      "UniqueIDIndex": 3979
     },
     {
       "m_Name": "PkTab5_Knowledge",
       "m_Script": {
         "FileName": "Bracers_Leather"
       },
-      "___key": "0_6470",
-      "___fn": "PkTab5_Knowledge@6470.json",
+      "___key": "0_6472",
+      "___fn": "PkTab5_Knowledge@6472.json",
       "key": "PkTab5_Knowledge",
       "icon": "",
       "type": "other",
@@ -48777,7 +48777,7 @@
       "m_GameObject": null,
       "m_Enabled": 1,
       "UniqueID": "aacb8df12eedb7b48a9801360ae638c7",
-      "UniqueIDIndex": 3970
+      "UniqueIDIndex": 3980
     }
   ]
 }

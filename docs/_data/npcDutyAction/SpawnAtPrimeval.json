@@ -7,7 +7,7 @@
   "MovementType": 1,
   "MoveDestination": 0,
   "MoveAwayFromDestination": false,
-  "DestinationSelection": 0,
+  "DestinationSelection": 1,
   "MoveToEnvironments": [
     {
       "key": "Env_GroveOak_PrimevalWoods",

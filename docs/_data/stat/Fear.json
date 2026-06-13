@@ -6,7 +6,7 @@
   "zh": "恐惧",
   "en": "Fear",
   "ja": "恐怖",
-  "UniqueIDIndex": 3297,
+  "UniqueIDIndex": 3307,
   "GameName": {
     "DefaultText": "Fear",
     "Text": "恐惧",
@@ -13358,9 +13358,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "被动效果：Fear",

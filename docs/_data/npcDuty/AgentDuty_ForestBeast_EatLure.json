@@ -5,7 +5,7 @@
   "zh": "Forest Beast Eat Lure",
   "en": "Forest Beast Eat Lure",
   "ja": "Forest Beast Eat Lure",
-  "UniqueIDIndex": 2914,
+  "UniqueIDIndex": 2922,
   "DutyName": {
     "DefaultText": "Forest Beast Eat Lure",
     "Text": "Forest Beast Eat Lure",
@@ -345,7 +345,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

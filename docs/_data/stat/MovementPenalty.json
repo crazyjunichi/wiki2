@@ -6,7 +6,7 @@
   "zh": "移动惩罚",
   "en": "Movement Penalty",
   "ja": "動きペナルティ",
-  "UniqueIDIndex": 3753,
+  "UniqueIDIndex": 3763,
   "GameName": {
     "DefaultText": "Movement Penalty",
     "Text": "移动惩罚",
@@ -307,7 +307,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -967,7 +967,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {
@@ -1627,7 +1627,7 @@
               "key": "LegAction",
               "text": "LegAction",
               "type": "tag",
-              "count": 534,
+              "count": 499,
               "SpecialDurability1": {
                 "Active": true,
                 "CardStatName": {

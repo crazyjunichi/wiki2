@@ -6,7 +6,7 @@
   "zh": "帚石南",
   "en": "Heather",
   "ja": "Heather",
-  "UniqueIDIndex": 455,
+  "UniqueIDIndex": 456,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1826,7 +1826,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {

@@ -6,7 +6,7 @@
   "zh": "极佬",
   "en": "Physical",
   "ja": "フィジカル",
-  "UniqueIDIndex": 3879,
+  "UniqueIDIndex": 3889,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -261,7 +261,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {

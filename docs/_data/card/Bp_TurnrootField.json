@@ -6,7 +6,7 @@
   "zh": "翻根",
   "en": "Turnroot",
   "ja": "ターンルート",
-  "UniqueIDIndex": 653,
+  "UniqueIDIndex": 654,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -2142,7 +2142,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {

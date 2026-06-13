@@ -6,7 +6,7 @@
   "zh": "皮革鞋",
   "en": "Leather Shoes",
   "ja": "革靴",
-  "UniqueIDIndex": 2019,
+  "UniqueIDIndex": 2020,
   "CardType": 0,
   "CardTags": [
     {
@@ -226,7 +226,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",

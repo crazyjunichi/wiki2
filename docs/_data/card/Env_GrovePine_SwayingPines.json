@@ -2081,6 +2081,22 @@
         "en": "Action: West",
         "ja": "アクション：西"
       }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportNorthWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Swaying Pines",
+        "en": "Action: Swaying Pines",
+        "ja": "アクション：Swaying Pines"
+      }
     }
   ],
   "_useFor": [

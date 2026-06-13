@@ -6,7 +6,7 @@
   "zh": "柰草(成熟)",
   "en": "Appleweed",
   "ja": "アップルウィード",
-  "UniqueIDIndex": 175,
+  "UniqueIDIndex": 176,
   "CardType": 0,
   "CardTags": [
     {
@@ -14,7 +14,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",

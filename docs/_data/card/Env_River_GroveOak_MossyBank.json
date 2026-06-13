@@ -6,7 +6,7 @@
   "zh": "覆苔河岸",
   "en": "Mossy Bank",
   "ja": "コケだらけの川岸",
-  "UniqueIDIndex": 109,
+  "UniqueIDIndex": 110,
   "CardType": 4,
   "CardTags": [
     {
@@ -2610,6 +2610,22 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：北"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Mossy Bank",
+        "en": "Action: Mossy Bank",
+        "ja": "アクション：Mossy Bank"
       }
     }
   ],

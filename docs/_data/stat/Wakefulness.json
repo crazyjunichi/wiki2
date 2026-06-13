@@ -6,7 +6,7 @@
   "zh": "清醒度",
   "en": "Wakefulness",
   "ja": "眠さ",
-  "UniqueIDIndex": 4518,
+  "UniqueIDIndex": 4528,
   "GameName": {
     "DefaultText": "Wakefulness",
     "Text": "清醒度",
@@ -891,7 +891,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -912,7 +912,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",
@@ -933,7 +933,7 @@
     {
       "link": {
         "key": "BogMyrtleEffect",
-        "icon": "FlyAgaric",
+        "icon": "BogMyrtle_Fresh",
         "type": "stat",
         "zh": "沼泽香木效果",
         "en": "Bog Myrtle Effect",

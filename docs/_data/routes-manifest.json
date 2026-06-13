@@ -1,6 +1,6 @@
 {
-  "gameVersion": "EA_0.64b",
-  "pageCount": 4285,
+  "gameVersion": "EA_0.64f",
+  "pageCount": 4295,
   "routes": [
     {
       "name": "_BlueprintIndex",
@@ -7856,6 +7856,14 @@
       "file": "templates/CardData.vue",
       "props": {
         "id": "Env_MineConstructionStartingPointWitchstoneMine"
+      }
+    },
+    {
+      "name": "Env_MoontouchedWorld",
+      "path": "/Env_MoontouchedWorld",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "Env_MoontouchedWorld"
       }
     },
     {
@@ -21163,27 +21171,83 @@
       }
     },
     {
-      "name": "VDEBUG_Path_TeleportAJ",
-      "path": "/VDEBUG_Path_TeleportAJ",
+      "name": "VDEBUG_Path_TeleportMiddleWoods1",
+      "path": "/VDEBUG_Path_TeleportMiddleWoods1",
       "file": "templates/CardData.vue",
       "props": {
-        "id": "VDEBUG_Path_TeleportAJ"
+        "id": "VDEBUG_Path_TeleportMiddleWoods1"
       }
     },
     {
-      "name": "VDEBUG_Path_TeleportKP",
-      "path": "/VDEBUG_Path_TeleportKP",
+      "name": "VDEBUG_Path_TeleportMiddleWoods2",
+      "path": "/VDEBUG_Path_TeleportMiddleWoods2",
       "file": "templates/CardData.vue",
       "props": {
-        "id": "VDEBUG_Path_TeleportKP"
+        "id": "VDEBUG_Path_TeleportMiddleWoods2"
       }
     },
     {
-      "name": "VDEBUG_Path_TeleportQY",
-      "path": "/VDEBUG_Path_TeleportQY",
+      "name": "VDEBUG_Path_TeleportMiddleWoods3",
+      "path": "/VDEBUG_Path_TeleportMiddleWoods3",
       "file": "templates/CardData.vue",
       "props": {
-        "id": "VDEBUG_Path_TeleportQY"
+        "id": "VDEBUG_Path_TeleportMiddleWoods3"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportNorthWoods1",
+      "path": "/VDEBUG_Path_TeleportNorthWoods1",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportNorthWoods1"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportNorthWoods2",
+      "path": "/VDEBUG_Path_TeleportNorthWoods2",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportNorthWoods2"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportNorthWoods3",
+      "path": "/VDEBUG_Path_TeleportNorthWoods3",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportNorthWoods3"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
+      "path": "/VDEBUG_Path_TeleportPrimevalWoodsNorth",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportPrimevalWoodsNorth"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+      "path": "/VDEBUG_Path_TeleportPrimevalWoodsSouth",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportPrimevalWoodsSouth"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportRiverNorth",
+      "path": "/VDEBUG_Path_TeleportRiverNorth",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportRiverNorth"
+      }
+    },
+    {
+      "name": "VDEBUG_Path_TeleportRiverSouth",
+      "path": "/VDEBUG_Path_TeleportRiverSouth",
+      "file": "templates/CardData.vue",
+      "props": {
+        "id": "VDEBUG_Path_TeleportRiverSouth"
       }
     },
     {
@@ -29563,6 +29627,14 @@
       }
     },
     {
+      "name": "tag_TanningLiqour",
+      "path": "/tag_TanningLiqour",
+      "file": "templates/Tag.vue",
+      "props": {
+        "id": "tag_TanningLiqour"
+      }
+    },
+    {
       "name": "tag_TanningResult",
       "path": "/tag_TanningResult",
       "file": "templates/Tag.vue",
@@ -30400,6 +30472,14 @@
       "file": "templates/CardGroup.vue",
       "props": {
         "id": "GpTag_Needle"
+      }
+    },
+    {
+      "name": "GpTag_OakLongStick",
+      "path": "/GpTag_OakLongStick",
+      "file": "templates/CardGroup.vue",
+      "props": {
+        "id": "GpTag_OakLongStick"
       }
     },
     {

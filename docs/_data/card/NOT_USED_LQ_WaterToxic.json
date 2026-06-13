@@ -6,7 +6,7 @@
   "zh": "Toxic Water",
   "en": "Toxic Water",
   "ja": "Toxic Water",
-  "UniqueIDIndex": 1985,
+  "UniqueIDIndex": 1986,
   "CardType": 9,
   "CardTags": [
     {
@@ -2607,7 +2607,7 @@
           "key": "VegetarianAction",
           "text": "VegetarianAction",
           "type": "tag",
-          "count": 105,
+          "count": 101,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

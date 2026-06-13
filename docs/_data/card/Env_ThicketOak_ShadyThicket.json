@@ -6,7 +6,7 @@
   "zh": "幽影丛林",
   "en": "Shady Thicket",
   "ja": "Shady Thicket",
-  "UniqueIDIndex": 130,
+  "UniqueIDIndex": 131,
   "CardType": 4,
   "CardTags": [
     {
@@ -2247,6 +2247,22 @@
         "zh": "动作：爬下去",
         "en": "Action: Climb Down",
         "ja": "アクション：Climb Down"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Shady Thicket",
+        "en": "Action: Shady Thicket",
+        "ja": "アクション：Shady Thicket"
       }
     }
   ],

@@ -6,7 +6,7 @@
   "zh": "骨刀",
   "en": "Bone Knife",
   "ja": "骨ナイフ",
-  "UniqueIDIndex": 1575,
+  "UniqueIDIndex": 1576,
   "CardType": 0,
   "CardTags": [
     {
@@ -10353,14 +10353,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：凿个冰洞",
         "en": "Action: Create Ice Hole",
-        "ja": "アクション：アイスホールを作る"
+        "ja": "アクション：Create Ice Hole"
       }
     },
     {
@@ -10752,14 +10752,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：凿个冰洞",
         "en": "Action: Create Ice Hole",
-        "ja": "アクション：アイスホールを作る"
+        "ja": "アクション：Create Ice Hole"
       }
     },
     {

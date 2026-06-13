@@ -6,7 +6,7 @@
   "zh": "足部损伤",
   "en": "Foot Damage",
   "ja": "足のダメージ",
-  "UniqueIDIndex": 3344,
+  "UniqueIDIndex": 3354,
   "GameName": {
     "DefaultText": "Foot Damage",
     "Text": "足部损伤",
@@ -5313,7 +5313,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5334,7 +5334,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },
@@ -5355,7 +5355,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

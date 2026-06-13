@@ -6,7 +6,7 @@
   "zh": "胃肠道寄生虫感染",
   "en": "Parasitic Gut Infection",
   "ja": "腸の寄生虫感染",
-  "UniqueIDIndex": 3812,
+  "UniqueIDIndex": 3822,
   "GameName": {
     "DefaultText": "Parasitic Gut Infection",
     "Text": "胃肠道寄生虫感染",
@@ -1593,13 +1593,34 @@
         "ja": "アイスホール"
       },
       "localization": {
-        "zh": "动作：饮用",
+        "zh": "动作：Drink",
         "en": "Action: Drink",
-        "ja": "アクション：飲む"
+        "ja": "アクション：Drink"
       },
       "value": {
         "x": 0,
         "y": 20
+      },
+      "key": "IceHoleRiver_Drink"
+    },
+    {
+      "link": {
+        "key": "IceHoleRiver",
+        "icon": "FishingHole",
+        "type": "card",
+        "CardType": 2,
+        "zh": "冰洞",
+        "en": "Ice Hole",
+        "ja": "アイスホール"
+      },
+      "localization": {
+        "zh": "动作：Drink",
+        "en": "Action: Drink",
+        "ja": "アクション：Drink"
+      },
+      "value": {
+        "x": 0,
+        "y": 150
       },
       "key": "IceHoleRiver_Drink"
     },

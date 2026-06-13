@@ -6,7 +6,7 @@
   "zh": "金属锄",
   "en": "Metal Hoe",
   "ja": "Metal Hoe",
-  "UniqueIDIndex": 635,
+  "UniqueIDIndex": 636,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1733,6 +1733,21 @@
                   "en": "Willow Long Stick",
                   "ja": "ヤナギの長い棒"
                 }
+              },
+              {
+                "Conditions": {
+                  "Special4Range": {
+                    "x": 5,
+                    "y": 5
+                  }
+                },
+                "Name": {
+                  "DefaultText": "Alder Long Stick",
+                  "Text": "Alder Long Stick",
+                  "zh": "Alder Long Stick",
+                  "en": "Alder Long Stick",
+                  "ja": "Alder Long Stick"
+                }
               }
             ],
             "SpoilageTime": {
@@ -3425,13 +3440,13 @@
       ],
       "StepActionTags": [
         {
-          "key": "HammeringActionSoftSpecial2Drops",
-          "text": "HammeringActionSoftSpecial2Drops",
+          "key": "HammeringActionSoftSpecial3Drops",
+          "text": "HammeringActionSoftSpecial3Drops",
           "type": "tag",
           "count": 0,
-          "zh": "锤击动作软特殊2掉落",
-          "en": "HammeringActionSoftSpecial2Drops",
-          "ja": "HammeringActionSoftSpecial2Drops"
+          "zh": "锤击动作软特殊3掉落",
+          "en": "HammeringActionSoftSpecial3Drops",
+          "ja": "HammeringActionSoftSpecial3Drops"
         }
       ]
     }

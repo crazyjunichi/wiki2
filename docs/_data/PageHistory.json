@@ -2991,9 +2991,9 @@
           },
           "Name": {
             "DefaultText": "Iron Chisel Blade Blank",
-            "Text": "铁凿刃坯",
-            "zh": "铁凿刃坯",
-            "en": "White Bronze Chisel Blade Blank",
+            "Text": "Iron Chisel Blade Blank",
+            "zh": "Iron Chisel Blade Blank",
+            "en": "Iron Chisel Blade Blank",
             "ja": "Iron Chisel Blade Blank"
           }
         },
@@ -3105,9 +3105,9 @@
           },
           "Name": {
             "DefaultText": "Heated Iron Chisel Blade Blank",
-            "Text": "加热的铁凿刃坯",
-            "zh": "加热的铁凿刃坯",
-            "en": "Heated White Bronze Chisel Blade Blank",
+            "Text": "Heated Iron Chisel Blade Blank",
+            "zh": "Heated Iron Chisel Blade Blank",
+            "en": "Heated Iron Chisel Blade Blank",
             "ja": "Heated Iron Chisel Blade Blank"
           }
         }
@@ -7559,9 +7559,9 @@
       "icon": "CopperNugget",
       "type": "card",
       "CardType": 7,
-      "zh": "布衬衫",
+      "zh": "5 块铜块",
       "en": "5 Copper Nuggets",
-      "ja": "シャツ（布）",
+      "ja": "5 Copper Nuggets",
       "createAt": 1776313603466,
       "version": "EA_0.62",
       "uuid": "bbd72396a77f3ad4f9b118db2c7a5a9e"
@@ -7571,9 +7571,9 @@
       "icon": "Egg_Partridge",
       "type": "card",
       "CardType": 7,
-      "zh": "布衬衫",
+      "zh": "15 颗灰山鹑蛋",
       "en": "15 Partridge Eggs",
-      "ja": "シャツ（布）",
+      "ja": "15 Partridge Eggs",
       "createAt": 1776313603467,
       "version": "EA_0.62",
       "uuid": "607e90b32540e1540a2b0a8e0e4832ce"
@@ -12985,7 +12985,7 @@
       "key": "CarnivorousAction",
       "text": "CarnivorousAction",
       "type": "tag",
-      "count": 125,
+      "count": 129,
       "SpoilageTime": {
         "Active": true,
         "CardStatName": {
@@ -18191,7 +18191,7 @@
       "key": "DrinkingAction",
       "text": "DrinkingAction",
       "type": "tag",
-      "count": 57,
+      "count": 58,
       "UsageDurability": {
         "Active": true,
         "CardStatName": {
@@ -20160,7 +20160,7 @@
       "icon": "Reeds_Plant",
       "type": "card",
       "CardType": 4,
-      "zh": "芦苇池塘",
+      "zh": "芦苇水池",
       "en": "Reed Pool",
       "ja": "Reed Pool",
       "createAt": 1780073035064,
@@ -27218,10 +27218,10 @@
     },
     {
       "key": "GpTag_DriedStomach",
-      "text": "“巫石粉末”",
+      "text": "“胃干”",
       "type": "tag",
-      "zh": "巫石粉末",
-      "en": "Witchstone Dust",
+      "zh": "胃干",
+      "en": "Dried Stomach",
       "ja": "Dried Stomach",
       "SubGroups": [],
       "count": 2,
@@ -27287,7 +27287,7 @@
       "en": "Enchantable",
       "ja": "エンチャント可能",
       "SubGroups": [],
-      "count": 60,
+      "count": 61,
       "createAt": 1743072658316,
       "version": "0"
     },
@@ -28929,9 +28929,9 @@
       "icon": "Pond_Winter",
       "type": "card",
       "CardType": 2,
-      "zh": "结冰的池塘",
+      "zh": "冰冻老妪池塘",
       "en": "Frozen Hag Pond",
-      "ja": "凍った池",
+      "ja": "Frozen Hag Pond",
       "createAt": 1780073035084,
       "version": "EA_0.64",
       "uuid": "2f5f09c91257610458f271e4c1cfa4ea"
@@ -30290,7 +30290,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000
@@ -34102,7 +34102,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {
@@ -37615,9 +37615,9 @@
       "icon": "Pond_Winter",
       "type": "card",
       "CardType": 2,
-      "zh": "结冰的池塘",
+      "zh": "冰冻蚊虫池塘",
       "en": "Frozen Mosquito Pond",
-      "ja": "凍った池",
+      "ja": "Frozen Mosquito Pond",
       "createAt": 1780073035110,
       "version": "EA_0.64",
       "uuid": "67f4c269acd1b3c439a1083a45c633b6"
@@ -47438,7 +47438,7 @@
       "icon": "Reeds_Plant",
       "type": "card",
       "CardType": 8,
-      "zh": "芦苇池塘",
+      "zh": "芦苇水池",
       "en": "Reed Pool",
       "ja": "Reed Pool",
       "createAt": 1780073035129,
@@ -57863,6 +57863,21 @@
             "en": "Willow Long Stick",
             "ja": "ヤナギの長い棒"
           }
+        },
+        {
+          "Conditions": {
+            "Special4Range": {
+              "x": 5,
+              "y": 5
+            }
+          },
+          "Name": {
+            "DefaultText": "Alder Long Stick",
+            "Text": "Alder Long Stick",
+            "zh": "Alder Long Stick",
+            "en": "Alder Long Stick",
+            "ja": "Alder Long Stick"
+          }
         }
       ],
       "createAt": 1743072658312,
@@ -58392,7 +58407,7 @@
           "Text": "青蛙种群",
           "zh": "青蛙种群",
           "en": "Frog Population",
-          "ja": "カエルの数"
+          "ja": "Frog Population"
         },
         "OverrideIcon": null,
         "MaxValue": 20000
@@ -64873,7 +64888,7 @@
       "key": "TravelAction",
       "text": "TravelAction",
       "type": "tag",
-      "count": 385,
+      "count": 350,
       "SpoilageTime": {
         "Active": true,
         "CardStatName": {
@@ -65957,42 +65972,6 @@
       "version": "0"
     },
     {
-      "key": "VDEBUG_Path_TeleportAJ",
-      "icon": "",
-      "type": "card",
-      "CardType": 2,
-      "zh": "East",
-      "en": "East",
-      "ja": "East",
-      "createAt": 1764750006236,
-      "version": "EA_0.55",
-      "uuid": "21300401c0d6046488a10676675d09a9"
-    },
-    {
-      "key": "VDEBUG_Path_TeleportKP",
-      "icon": "",
-      "type": "card",
-      "CardType": 2,
-      "zh": "East",
-      "en": "East",
-      "ja": "East",
-      "createAt": 1764750006237,
-      "version": "EA_0.55",
-      "uuid": "8080092b2cded7a4e9310348cc262d57"
-    },
-    {
-      "key": "VDEBUG_Path_TeleportQY",
-      "icon": "",
-      "type": "card",
-      "CardType": 2,
-      "zh": "East",
-      "en": "East",
-      "ja": "East",
-      "createAt": 1743072658313,
-      "uuid": "90857fc14142220448462203ec242894",
-      "version": "0"
-    },
-    {
       "key": "VDEBUG_Path_TeleportSwampNorth",
       "icon": "",
       "type": "card",
@@ -66114,7 +66093,7 @@
       "key": "VegetarianAction",
       "text": "VegetarianAction",
       "type": "tag",
-      "count": 105,
+      "count": 101,
       "SpoilageTime": {
         "Active": true,
         "CardStatName": {
@@ -71315,7 +71294,7 @@
       "text": "“适合园艺的”",
       "icon": "",
       "type": "tag",
-      "count": 83,
+      "count": 82,
       "zh": "适合园艺的",
       "en": "Gardenable",
       "ja": "園芸できる",
@@ -72739,7 +72718,7 @@
       "text": "“精魄附魔”",
       "icon": "",
       "type": "tag",
-      "count": 81,
+      "count": 82,
       "zh": "可容纳精魄",
       "en": "Enchantable by Spirit",
       "ja": "精霊でエンチャントできる",
@@ -73400,6 +73379,164 @@
       "ja": "魚の餌",
       "createAt": 1743072658315,
       "version": "0"
+    },
+    {
+      "key": "Env_MoontouchedWorld",
+      "icon": "",
+      "type": "card",
+      "CardType": 4,
+      "zh": "MoontouchedWorld",
+      "en": "MoontouchedWorld",
+      "ja": "MoontouchedWorld",
+      "createAt": 1781365470309,
+      "version": "EA_0.64",
+      "uuid": "aff7accd46d88f24f97b9531f20ebe1b"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportMiddleWoods1",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470328,
+      "version": "EA_0.64",
+      "uuid": "e66db45e6cd6e3c4f96b95ab15e6d7f5"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportMiddleWoods2",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470328,
+      "version": "EA_0.64",
+      "uuid": "75e2565770b501b42b427a91f835bec8"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportMiddleWoods3",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470329,
+      "version": "EA_0.64",
+      "uuid": "0e8b784357ab3414da23291b7c6b5076"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportNorthWoods1",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470329,
+      "version": "EA_0.64",
+      "uuid": "9cef1f764d35fde4ea82cbe450388719"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportNorthWoods2",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470330,
+      "version": "EA_0.64",
+      "uuid": "5aeebfafa49bc424e9a1d141b6c56ec7"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportNorthWoods3",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470330,
+      "version": "EA_0.64",
+      "uuid": "07c55ff13e92cb9488c907cadbd64b6a"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470331,
+      "version": "EA_0.64",
+      "uuid": "f28eea1440d70124db5dbe9d9c544e82"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportPrimevalWoodsSouth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470331,
+      "version": "EA_0.64",
+      "uuid": "3d392648a27a86a49b382dbf1d85cbb9"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportRiverNorth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1764750006236,
+      "version": "EA_0.55",
+      "uuid": "21300401c0d6046488a10676675d09a9"
+    },
+    {
+      "key": "VDEBUG_Path_TeleportRiverSouth",
+      "icon": "",
+      "type": "card",
+      "CardType": 2,
+      "zh": "East",
+      "en": "East",
+      "ja": "East",
+      "createAt": 1781365470332,
+      "version": "EA_0.64",
+      "uuid": "bfcec460566dc3249bb2586b6648445e"
+    },
+    {
+      "key": "tag_TanningLiqour",
+      "text": "“Tanning Liqour”",
+      "icon": "",
+      "type": "tag",
+      "count": 0,
+      "zh": "Tanning Liqour",
+      "en": "Tanning Liqour",
+      "ja": "Tanning Liqour",
+      "createAt": 1781365470347,
+      "version": "EA_0.64",
+      "uuid": ""
+    },
+    {
+      "key": "GpTag_OakLongStick",
+      "text": "“碎料”",
+      "type": "tag",
+      "zh": "碎料",
+      "en": "Scraps",
+      "ja": "残り物",
+      "SubGroups": [],
+      "count": 1,
+      "createAt": 1781365470348,
+      "version": "EA_0.64",
+      "uuid": ""
     }
   ],
   "updateLogs": [

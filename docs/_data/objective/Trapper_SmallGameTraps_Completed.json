@@ -6,7 +6,7 @@
   "zh": "小型捕猎动物",
   "en": "Small Game Traps",
   "ja": "Small Game Traps",
-  "UniqueIDIndex": 4468,
+  "UniqueIDIndex": 4478,
   "StartUnlocked": false,
   "ActionObjectives": [],
   "CardsOnBoardObjectives": [],
@@ -26,7 +26,7 @@
         "en": "Mouse",
         "ja": "Mouse",
         "UniqueID": "119db550bcc5cde41860a0f40e87416f",
-        "UniqueIDIndex": 4471,
+        "UniqueIDIndex": 4481,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -248,7 +248,7 @@
         "en": "Squirrel",
         "ja": "Squirrel",
         "UniqueID": "bac7766de92912149a1707a03ccdebe1",
-        "UniqueIDIndex": 4472,
+        "UniqueIDIndex": 4482,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -470,7 +470,7 @@
         "en": "Badger",
         "ja": "Badger",
         "UniqueID": "730161cc26d9eea4fb41890841482b08",
-        "UniqueIDIndex": 4473,
+        "UniqueIDIndex": 4483,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -688,7 +688,7 @@
         "en": "Hare",
         "ja": "Hare",
         "UniqueID": "d01fec3da76432e4f93982ed22948fcb",
-        "UniqueIDIndex": 4474,
+        "UniqueIDIndex": 4484,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [
@@ -906,7 +906,7 @@
         "en": "Fox",
         "ja": "Fox",
         "UniqueID": "d31a1c97dc4ea1141950ceddfab9d774",
-        "UniqueIDIndex": 4475,
+        "UniqueIDIndex": 4485,
         "StartUnlocked": false,
         "ActionObjectives": [],
         "CardsOnBoardObjectives": [

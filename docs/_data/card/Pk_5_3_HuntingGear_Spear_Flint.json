@@ -6,7 +6,7 @@
   "zh": "燧石矛(专有)",
   "en": "Flint Spear(Pk)",
   "ja": "Flint Spear",
-  "UniqueIDIndex": 2112,
+  "UniqueIDIndex": 2113,
   "CardType": 0,
   "CardTags": [
     {
@@ -7339,6 +7339,21 @@
                       "zh": "长柳木棍",
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
+                    }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
                     }
                   }
                 ],

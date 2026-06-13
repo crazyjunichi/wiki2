@@ -6,7 +6,7 @@
   "zh": "北部湍流",
   "en": "Northern Rapids",
   "ja": "北の急流",
-  "UniqueIDIndex": 112,
+  "UniqueIDIndex": 113,
   "CardType": 4,
   "CardTags": [
     {
@@ -2784,6 +2784,22 @@
         "zh": "动作：北方",
         "en": "Action: North",
         "ja": "アクション：北"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportRiverNorth",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Northern Rapids",
+        "en": "Action: Northern Rapids",
+        "ja": "アクション：Northern Rapids"
       }
     }
   ],

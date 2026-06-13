@@ -6,7 +6,7 @@
   "zh": "泥浆喷吐",
   "en": "Mudling Spit",
   "ja": "ドロヌーの唾液",
-  "UniqueIDIndex": 2638,
+  "UniqueIDIndex": 2646,
   "CardType": 0,
   "CardTags": [
     {
@@ -6054,8 +6054,8 @@
               "Active": true,
               "CardStatName": {
                 "DefaultText": "River Type",
-                "Text": "河流类型",
-                "zh": "河流类型",
+                "Text": "River Type",
+                "zh": "River Type",
                 "en": "River Type",
                 "ja": "River Type"
               },

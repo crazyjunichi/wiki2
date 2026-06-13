@@ -6,7 +6,7 @@
   "zh": "陷坑",
   "en": "Pit Trap",
   "ja": "落とし穴",
-  "UniqueIDIndex": 2090,
+  "UniqueIDIndex": 2091,
   "CardType": 2,
   "CardTags": [
     {
@@ -4055,6 +4055,21 @@
                       "en": "Willow Long Stick",
                       "ja": "ヤナギの長い棒"
                     }
+                  },
+                  {
+                    "Conditions": {
+                      "Special4Range": {
+                        "x": 5,
+                        "y": 5
+                      }
+                    },
+                    "Name": {
+                      "DefaultText": "Alder Long Stick",
+                      "Text": "Alder Long Stick",
+                      "zh": "Alder Long Stick",
+                      "en": "Alder Long Stick",
+                      "ja": "Alder Long Stick"
+                    }
                   }
                 ],
                 "SpoilageTime": {
@@ -4854,7 +4869,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "cf4a2923e7142524f8aff07c95a916e5",
-            "UniqueIDIndex": 3080
+            "UniqueIDIndex": 3089
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -5442,7 +5457,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "879f824941ccad94daff21e4cde082fb",
-              "UniqueIDIndex": 3075
+              "UniqueIDIndex": 3084
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,
@@ -5497,7 +5512,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "7ac23f79b1fb4e843b4cda85e550ff2c",
-              "UniqueIDIndex": 3078
+              "UniqueIDIndex": 3087
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,

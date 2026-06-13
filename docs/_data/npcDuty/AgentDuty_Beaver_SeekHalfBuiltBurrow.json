@@ -5,7 +5,7 @@
   "zh": "Beaver Seek Half Built Burrow",
   "en": "Beaver Seek Half Built Burrow",
   "ja": "Beaver Seek Half Built Burrow",
-  "UniqueIDIndex": 2864,
+  "UniqueIDIndex": 2872,
   "DutyName": {
     "DefaultText": "Beaver Seek Half Built Burrow",
     "Text": "Beaver Seek Half Built Burrow",
@@ -349,7 +349,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

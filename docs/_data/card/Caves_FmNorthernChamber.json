@@ -6,7 +6,7 @@
   "zh": "北部洞穴",
   "en": "Northern Chamber",
   "ja": "北の間",
-  "UniqueIDIndex": 808,
+  "UniqueIDIndex": 809,
   "CardType": 8,
   "CardTags": [
     {
@@ -17345,7 +17345,7 @@
           "key": "LegAction",
           "text": "LegAction",
           "type": "tag",
-          "count": 534,
+          "count": 499,
           "SpecialDurability1": {
             "Active": true,
             "CardStatName": {
@@ -17466,7 +17466,7 @@
           "key": "TravelAction",
           "text": "TravelAction",
           "type": "tag",
-          "count": 385,
+          "count": 350,
           "SpoilageTime": {
             "Active": true,
             "CardStatName": {

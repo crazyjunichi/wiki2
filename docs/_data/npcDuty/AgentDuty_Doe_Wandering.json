@@ -5,7 +5,7 @@
   "zh": "Doe Wondering",
   "en": "Doe Wondering",
   "ja": "Doe Wondering",
-  "UniqueIDIndex": 2911,
+  "UniqueIDIndex": 2919,
   "DutyName": {
     "DefaultText": "Doe Wondering",
     "Text": "Doe Wondering",
@@ -239,7 +239,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,
@@ -455,7 +455,7 @@
       "ja": ""
     },
     {
-      "key": "New WaitDutyAction_0_7808",
+      "key": "New WaitDutyAction_0_7819",
       "icon": "",
       "type": "WaitDutyAction",
       "zh": "",

@@ -6,7 +6,7 @@
   "zh": "基础温度",
   "en": "Base Temperature",
   "ja": "Base Temperature",
-  "UniqueIDIndex": 3109,
+  "UniqueIDIndex": 3118,
   "GameName": {
     "DefaultText": "Base Temperature",
     "Text": "Base Temperature",
@@ -2724,14 +2724,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": -10000,
@@ -2744,9 +2744,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -2764,16 +2764,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": -10000,
@@ -2786,9 +2786,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -2808,16 +2808,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": -10000,
@@ -3195,14 +3195,14 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖干土",
         "en": "Action: Dig up Dirt",
-        "ja": "アクション：泥をすくう"
+        "ja": "アクション：Dig up Dirt"
       },
       "value": {
         "x": -10000,
@@ -3215,9 +3215,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "zh": "动作：挖泥巴",
@@ -3235,16 +3235,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Dirt",
         "Text": "挖干土",
         "zh": "挖干土",
         "en": "Dig Up Dirt",
-        "ja": "土をすくう"
+        "ja": "Dig Up Dirt"
       },
       "value": {
         "x": -10000,
@@ -3257,9 +3257,9 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Dig Up Mud",
@@ -3279,16 +3279,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       },
       "value": {
         "x": -10000,

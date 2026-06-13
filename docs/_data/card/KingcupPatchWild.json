@@ -6,7 +6,7 @@
   "zh": "驴蹄草丛",
   "en": "Kingcup Patch",
   "ja": "Kingcup Patch",
-  "UniqueIDIndex": 1570,
+  "UniqueIDIndex": 1571,
   "CardType": 2,
   "CardTags": [],
   "CardName": {
@@ -4060,11 +4060,11 @@
     "RLegHitProbabilityModifier": 0
   },
   "CardDescription": {
-    "DefaultText": "A nutritious plant that grows in swampy areas. ",
+    "DefaultText": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration.",
     "Text": "一种生长在沼泽地区的营养丰富的植物。",
     "zh": "一种生长在沼泽地区的营养丰富的植物。",
     "en": "A nutritious plant that grows in swampy areas. ",
-    "ja": "A nutritious plant that grows in swampy areas. "
+    "ja": "A nutritious plant that grows in swampy areas. Needs low to medium acidity, medium to high nutrients, and high hydration."
   },
   "CanBeRenamed": false,
   "AlternateNames": [
@@ -7138,7 +7138,7 @@
       "icon": "Reeds_Plant",
       "type": "card",
       "CardType": 4,
-      "zh": "芦苇池塘",
+      "zh": "芦苇水池",
       "en": "Reed Pool",
       "ja": "Reed Pool",
       "SpoilageTime": {
@@ -7242,7 +7242,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool",
         "SpoilageTime": {

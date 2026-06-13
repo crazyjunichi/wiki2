@@ -6,7 +6,7 @@
   "zh": "加热的金属锭",
   "en": "Heated Metal Bar",
   "ja": "Heated Metal Bar",
-  "UniqueIDIndex": 1789,
+  "UniqueIDIndex": 1790,
   "CardType": 0,
   "CardTags": [
     {
@@ -15134,11 +15134,11 @@
     "RLegHitProbabilityModifier": 0
   },
   "CardDescription": {
-    "DefaultText": "Required for forging metal tools. Can be heated up on any fire.",
+    "DefaultText": "Required for forging metal tools. Should be heated on a hot enough fire.",
     "Text": "用于锻造金属工具。可在任何火上加热。",
     "zh": "用于锻造金属工具。可在任何火上加热。",
     "en": "Required for forging metal tools. Can be heated up on any fire.",
-    "ja": "Required for forging metal tools. Can be heated up on any fire."
+    "ja": "Required for forging metal tools. Should be heated on a hot enough fire."
   },
   "CanBeRenamed": false,
   "AlternateNames": [

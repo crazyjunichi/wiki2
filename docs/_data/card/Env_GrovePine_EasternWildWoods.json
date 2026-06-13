@@ -2270,7 +2270,7 @@
     },
     {
       "link": {
-        "key": "VDEBUG_Path_TeleportAJ",
+        "key": "VDEBUG_Path_TeleportPrimevalWoodsNorth",
         "icon": "",
         "type": "card",
         "CardType": 2,
@@ -2279,9 +2279,9 @@
         "ja": "East"
       },
       "localization": {
-        "zh": "动作：Eatern Wild Woods",
-        "en": "Action: Eatern Wild Woods",
-        "ja": "アクション：Eatern Wild Woods"
+        "zh": "动作：Eastern Wild Woods",
+        "en": "Action: Eastern Wild Woods",
+        "ja": "アクション：Eastern Wild Woods"
       }
     }
   ],

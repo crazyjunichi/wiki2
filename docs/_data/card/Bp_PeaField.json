@@ -6,7 +6,7 @@
   "zh": "豌豆",
   "en": "Peas",
   "ja": "ピース",
-  "UniqueIDIndex": 518,
+  "UniqueIDIndex": 519,
   "CardType": 7,
   "CardTags": [],
   "CardName": {
@@ -1846,7 +1846,7 @@
       "key": "LegAction",
       "text": "LegAction",
       "type": "tag",
-      "count": 534,
+      "count": 499,
       "SpecialDurability1": {
         "Active": true,
         "CardStatName": {

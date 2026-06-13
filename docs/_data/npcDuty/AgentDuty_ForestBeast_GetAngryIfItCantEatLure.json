@@ -5,7 +5,7 @@
   "zh": "Forest Beat get angry if it cant eat Lure",
   "en": "Forest Beat get angry if it cant eat Lure",
   "ja": "Forest Beat get angry if it cant eat Lure",
-  "UniqueIDIndex": 2915,
+  "UniqueIDIndex": 2923,
   "DutyName": {
     "DefaultText": "Forest Beat get angry if it cant eat Lure",
     "Text": "Forest Beat get angry if it cant eat Lure",
@@ -345,7 +345,7 @@
           "m_GameObject": null,
           "m_Enabled": 1,
           "UniqueID": "16eb4865d583a1d4d82def0680f3065d",
-          "UniqueIDIndex": 3050
+          "UniqueIDIndex": 3059
         },
         "ConditionRange": {
           "x": 1,

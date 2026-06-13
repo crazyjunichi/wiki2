@@ -6,7 +6,7 @@
   "zh": "冰洞",
   "en": "Ice Hole",
   "ja": "アイスホール",
-  "UniqueIDIndex": 1474,
+  "UniqueIDIndex": 1475,
   "CardType": 2,
   "CardTags": [
     {
@@ -192,8 +192,8 @@
         "Active": true,
         "CardStatName": {
           "DefaultText": "River Type",
-          "Text": "河流类型",
-          "zh": "河流类型",
+          "Text": "River Type",
+          "zh": "River Type",
           "en": "River Type",
           "ja": "River Type"
         },
@@ -256,6 +256,18 @@
           "zh": "珍稀鱼类种群数量",
           "en": "Rare Fish Population",
           "ja": "レアな魚の数"
+        },
+        "OverrideIcon": null,
+        "MaxValue": 1000
+      },
+      "SpecialDurability4": {
+        "Active": true,
+        "CardStatName": {
+          "DefaultText": "River Type",
+          "Text": "River Type",
+          "zh": "River Type",
+          "en": "River Type",
+          "ja": "River Type"
         },
         "OverrideIcon": null,
         "MaxValue": 1000
@@ -847,13 +859,33 @@
           "ja": "アイスホール"
         },
         "localization": {
-          "zh": "动作：饮用",
+          "zh": "动作：Drink",
           "en": "Action: Drink",
-          "ja": "アクション：飲む"
+          "ja": "アクション：Drink"
         },
         "value": {
-          "x": 16,
-          "y": 16
+          "x": -250,
+          "y": -250
+        }
+      },
+      {
+        "link": {
+          "key": "IceHoleRiver",
+          "icon": "FishingHole",
+          "type": "card",
+          "CardType": 2,
+          "zh": "冰洞",
+          "en": "Ice Hole",
+          "ja": "アイスホール"
+        },
+        "localization": {
+          "zh": "动作：Drink",
+          "en": "Action: Drink",
+          "ja": "アクション：Drink"
+        },
+        "value": {
+          "x": -250,
+          "y": -250
         }
       },
       {
@@ -1309,16 +1341,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -1429,16 +1461,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -1549,16 +1581,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -1671,16 +1703,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -1950,7 +1982,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -2075,7 +2107,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -5088,16 +5120,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -5210,16 +5242,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -5239,7 +5271,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -5364,7 +5396,7 @@
           "icon": "Reeds_Plant",
           "type": "card",
           "CardType": 8,
-          "zh": "芦苇池塘",
+          "zh": "芦苇水池",
           "en": "Reed Pool",
           "ja": "Reed Pool",
           "SpoilageTime": {
@@ -8252,16 +8284,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -8372,16 +8404,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -8494,16 +8526,16 @@
             "MaxValue": 1000
           },
           "SpecialDurability4": {
-            "Active": false,
+            "Active": true,
             "CardStatName": {
-              "DefaultText": "",
-              "Text": "SpecialDurability4",
-              "zh": "特殊4",
-              "en": "Special4",
-              "ja": ""
+              "DefaultText": "River Type",
+              "Text": "River Type",
+              "zh": "River Type",
+              "en": "River Type",
+              "ja": "River Type"
             },
             "OverrideIcon": null,
-            "MaxValue": 0
+            "MaxValue": 1000
           }
         },
         "localization": {
@@ -9395,17 +9427,17 @@
     ]
   },
   "SpecialDurability4": {
-    "Active": false,
+    "Active": true,
     "FloatValue": 0,
     "CardStatName": {
-      "DefaultText": "",
-      "Text": "SpecialDurability4",
-      "zh": "特殊4",
-      "en": "Special4",
-      "ja": ""
+      "DefaultText": "River Type",
+      "Text": "River Type",
+      "zh": "River Type",
+      "en": "River Type",
+      "ja": "River Type"
     },
     "RandomStartingOffset": 0,
-    "MaxValue": 0,
+    "MaxValue": 1000,
     "RestrictToSpecificValues": false,
     "ValidValues": [],
     "RatePerDaytimePoint": 0,
@@ -9420,7 +9452,7 @@
       "Active": false,
       "FloatValue": 0
     },
-    "HidingOptions": 0,
+    "HidingOptions": 2,
     "TextDisplay": 0,
     "NumberPrecision": 0,
     "OverrideIcon": null,
@@ -19221,7 +19253,7 @@
             "text": "“精魄附魔”",
             "icon": "",
             "type": "tag",
-            "count": 81,
+            "count": 82,
             "zh": "可容纳精魄",
             "en": "Enchantable by Spirit",
             "ja": "精霊でエンチャントできる",
@@ -26786,10 +26818,10 @@
     {
       "ActionName": {
         "DefaultText": "Drink",
-        "Text": "饮用",
-        "zh": "饮用",
+        "Text": "Drink",
+        "zh": "Drink",
         "en": "Drink",
-        "ja": "飲む"
+        "ja": "Drink"
       },
       "ActionDescription": {
         "DefaultText": "",
@@ -26989,15 +27021,15 @@
           }
         },
         "RequiredSpecial4Percent": {
-          "Active": false,
+          "Active": true,
           "FloatValue": 0,
-          "MaxValue": 0,
+          "MaxValue": 0.001,
           "ScaleRequirementPerPortionOfLiquid": {
             "Active": false,
             "FloatValue": 0
           }
         },
-        "HideActionIfNotMet": false,
+        "HideActionIfNotMet": true,
         "FailMessage": {
           "DefaultText": "",
           "Text": "",
@@ -27030,6 +27062,80 @@
       "StartDialog": null,
       "ProducedCards": [],
       "StatModifications": [
+        {
+          "Stat": {
+            "key": "Thirst",
+            "icon": "Water",
+            "type": "stat",
+            "zh": "口渴度",
+            "en": "Thirst",
+            "ja": "喉の渇き",
+            "max": 288,
+            "min": 0
+          },
+          "ValueModifier": {
+            "x": 288,
+            "y": 288
+          },
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MinValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MaxValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "CannotModifyBeyond": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IgnoreNovelty": false,
+          "IsInverse": false
+        },
+        {
+          "Stat": {
+            "key": "Filth",
+            "icon": "Filth",
+            "type": "stat",
+            "zh": "污垢",
+            "en": "Filth",
+            "ja": "汚れ",
+            "max": 500,
+            "min": 0
+          },
+          "ValueModifier": {
+            "x": 2,
+            "y": 2
+          },
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MinValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MaxValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "CannotModifyBeyond": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "ApplyEachTick": true,
+          "InstantModifier": false,
+          "IgnoreNovelty": false,
+          "IsInverse": false
+        },
         {
           "Stat": {
             "key": "Focus",
@@ -27069,18 +27175,18 @@
         },
         {
           "Stat": {
-            "key": "Thirst",
-            "icon": "Water",
+            "key": "Stamina",
+            "icon": "Stamina",
             "type": "stat",
-            "zh": "口渴度",
-            "en": "Thirst",
-            "ja": "喉の渇き",
-            "max": 288,
+            "zh": "耐力",
+            "en": "Stamina",
+            "ja": "スタミナ",
+            "max": 32,
             "min": 0
           },
           "ValueModifier": {
-            "x": 288,
-            "y": 288
+            "x": 0,
+            "y": 0
           },
           "RateModifier": {
             "x": 0,
@@ -27099,7 +27205,44 @@
             "FloatValue": 0,
             "MaxValue": 0
           },
-          "ApplyEachTick": false,
+          "ApplyEachTick": true,
+          "InstantModifier": false,
+          "IgnoreNovelty": false,
+          "IsInverse": false
+        },
+        {
+          "Stat": {
+            "key": "Weight",
+            "icon": "Weight2",
+            "type": "stat",
+            "zh": "体重",
+            "en": "Weight",
+            "ja": "体重",
+            "max": 1000000,
+            "min": 293999
+          },
+          "ValueModifier": {
+            "x": -3,
+            "y": -3
+          },
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MinValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MaxValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "CannotModifyBeyond": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "ApplyEachTick": true,
           "InstantModifier": false,
           "IgnoreNovelty": false,
           "IsInverse": false
@@ -27216,7 +27359,7 @@
         "ja": ""
       },
       "ReceivingCardChanges": {
-        "ModType": 1,
+        "ModType": 0,
         "TransformInto": null,
         "TransformToLiquidQuantity": 0,
         "TransferSpoilage": false,
@@ -27274,8 +27417,8 @@
         "AddedFlavours": [],
         "AddedSpiceTags": [],
         "SpoilageChange": {
-          "x": 16,
-          "y": 16
+          "x": -250,
+          "y": -250
         },
         "GetSpoilageFromOtherCard": false,
         "UsageChange": {
@@ -27296,6 +27439,670 @@
         "LiquidQuantityChange": {
           "x": 0,
           "y": 0
+        },
+        "Special1Change": {
+          "x": 0,
+          "y": 0
+        },
+        "GetSpecial1FromOtherCard": false,
+        "Special2Change": {
+          "x": 0,
+          "y": 0
+        },
+        "GetSpecial2FromOtherCard": false,
+        "Special3Change": {
+          "x": 0,
+          "y": 0
+        },
+        "GetSpecial3FromOtherCard": false,
+        "Special4Change": {
+          "x": 0,
+          "y": 0
+        },
+        "GetSpecial4FromOtherCard": false,
+        "StatInterpolatedDurabilityChanges": [],
+        "DurabilityInterpolatedTransfers": [],
+        "ScaleChangesPerPortionOfLiquid": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "UseOtherCardForLiquidQuantity": false
+      },
+      "CustomWindowPrefab": null,
+      "OpenQuestLog": false,
+      "OpenMap": false,
+      "UpdateMap": false,
+      "EditDescription": false,
+      "FadeToBlack": 0,
+      "FadeMessage": {
+        "DefaultText": "",
+        "Text": "",
+        "zh": "",
+        "en": "",
+        "ja": ""
+      },
+      "FadeTips": false,
+      "TravelToPreviousEnv": false,
+      "TravelToOtherRoom": false,
+      "RoomDirection": 0,
+      "ExitDirection": 0,
+      "MinMaxExplorationDrops": {
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "ExplorationValue": 0,
+      "HasExplorationDirection": false,
+      "ExplorationDirection": 0,
+      "DontShowOnCompass": false,
+      "DontShowOnInGameMap": false,
+      "PerformUponInspection": false,
+      "DontCloseInspectionWindow": false,
+      "AlwaysShow": false,
+      "AppearsOnCardsInInventory": false,
+      "VisibilityWithInventory": 0,
+      "AlternateActionIfConditionsNotMet": {
+        "Active": false,
+        "IntValue": 0
+      }
+    },
+    {
+      "ActionName": {
+        "DefaultText": "Drink",
+        "Text": "Drink",
+        "zh": "Drink",
+        "en": "Drink",
+        "ja": "Drink"
+      },
+      "ActionDescription": {
+        "DefaultText": "",
+        "Text": "",
+        "zh": "",
+        "en": "",
+        "ja": ""
+      },
+      "NoveltyShared": false,
+      "VictorySettings": {
+        "Victory": false,
+        "SpecialEnding": false,
+        "VictoryMessage": {
+          "DefaultText": "",
+          "Text": "",
+          "zh": "",
+          "en": "",
+          "ja": ""
+        }
+      },
+      "UnavailableInDemo": false,
+      "SaveGame": false,
+      "ConfirmPopup": false,
+      "CustomConfirmText": {
+        "DefaultText": "",
+        "Text": "",
+        "zh": "",
+        "en": "",
+        "ja": ""
+      },
+      "NotInterruptedByEncounters": false,
+      "StackCompatible": false,
+      "DaytimeCost": 0,
+      "UseMiniTicks": 1,
+      "ActionSounds": [
+        {
+          "FileName": "Drink"
+        }
+      ],
+      "DisablePitchVariation": false,
+      "ActionTags": [
+        {
+          "key": "DrinkingAction",
+          "text": "DrinkingAction",
+          "type": "tag",
+          "count": 58,
+          "UsageDurability": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Vitamins",
+              "Text": "维生素",
+              "zh": "维生素",
+              "en": "Vitamins",
+              "ja": "ビタミン"
+            },
+            "OverrideIcon": {
+              "FileName": "Shield"
+            },
+            "MaxValue": 1000
+          },
+          "FuelCapacity": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Liquid Temperature",
+              "Text": "液体温度",
+              "zh": "液体温度",
+              "en": "Liquid Temperature",
+              "ja": "Liquid Temperature"
+            },
+            "OverrideIcon": {
+              "FileName": "Hot"
+            },
+            "MaxValue": 200
+          },
+          "Progress": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Thickness",
+              "Text": "浓稠度",
+              "zh": "浓稠度",
+              "en": "Thickness",
+              "ja": "濃厚さ"
+            },
+            "OverrideIcon": {
+              "FileName": "Water"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability1": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Calories",
+              "Text": "卡路里",
+              "zh": "卡路里",
+              "en": "Calories",
+              "ja": "カロリー"
+            },
+            "OverrideIcon": {
+              "FileName": "Weight3"
+            },
+            "MaxValue": 1
+          },
+          "SpecialDurability2": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Quality",
+              "Text": "品质",
+              "zh": "品质",
+              "en": "Quality",
+              "ja": "クオリティ"
+            },
+            "OverrideIcon": {
+              "FileName": "Quality"
+            },
+            "MaxValue": 100
+          },
+          "SpecialDurability3": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Proteins",
+              "Text": "蛋白质",
+              "zh": "蛋白质",
+              "en": "Proteins",
+              "ja": "タンパク質"
+            },
+            "OverrideIcon": {
+              "FileName": "Health"
+            },
+            "MaxValue": 1
+          },
+          "SpecialDurability4": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Waste",
+              "Text": "铁元素",
+              "zh": "铁元素",
+              "en": "Waste",
+              "ja": "ゴミ"
+            },
+            "OverrideIcon": {
+              "FileName": "Filth"
+            },
+            "MaxValue": 1
+          },
+          "SpoilageTime": {
+            "Active": true,
+            "CardStatName": {
+              "DefaultText": "Bacteria",
+              "Text": "细菌",
+              "zh": "细菌",
+              "en": "Bacteria",
+              "ja": "ばい菌"
+            },
+            "OverrideIcon": {
+              "FileName": "Bacteria"
+            },
+            "MaxValue": 4800
+          },
+          "zh": "饮水动作",
+          "en": "DrinkingAction",
+          "ja": "DrinkingAction"
+        }
+      ],
+      "RequiredStatValues": [],
+      "RequiredNPCStatValues": [],
+      "RequiredCardsOnBoard": [],
+      "RequiredTagsOnBoard": [],
+      "RequiredAlreadyVisitedEnvironments": [],
+      "RequiredReceivingContainer": [],
+      "RequiredReceivingContainerTag": [],
+      "RequiredNOTReceivingContainerTag": [],
+      "RequiredReceivingContainerDurabilities": {
+        "RequiredSpoilagePercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredUsagePercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredFuelPercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredProgressPercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredLiquidQuantity": 0,
+        "RequiredSpecial1Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredSpecial2Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredSpecial3Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredSpecial4Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "HideActionIfNotMet": false,
+        "FailMessage": {
+          "DefaultText": "",
+          "Text": "",
+          "zh": "",
+          "en": "",
+          "ja": ""
+        },
+        "SpecificFailMessages": []
+      },
+      "RequiredReceivingDurabilities": {
+        "RequiredSpoilagePercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredUsagePercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredFuelPercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredProgressPercent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredLiquidQuantity": 0,
+        "RequiredSpecial1Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredSpecial2Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredSpecial3Percent": {
+          "Active": false,
+          "FloatValue": 0,
+          "MaxValue": 0,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "RequiredSpecial4Percent": {
+          "Active": true,
+          "FloatValue": 0.002,
+          "MaxValue": 1,
+          "ScaleRequirementPerPortionOfLiquid": {
+            "Active": false,
+            "FloatValue": 0
+          }
+        },
+        "HideActionIfNotMet": false,
+        "FailMessage": {
+          "DefaultText": "",
+          "Text": "",
+          "zh": "",
+          "en": "",
+          "ja": ""
+        },
+        "SpecificFailMessages": []
+      },
+      "RequiredReceivingLiquidContent": {
+        "IsActive": false,
+        "RequiredLiquid": null,
+        "RequiredGroup": null,
+        "RequiredQuantity": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "RequiredActiveHidingGroups": [],
+      "HideIfConditionsNotMet": false,
+      "NotBaseAction": false,
+      "Cancellable": false,
+      "InstantStatModifications": false,
+      "DontDoStatModificationsOnCancel": false,
+      "InstantDurabilityModifications": false,
+      "ReceivingCardFlavourBonus": false,
+      "GivenCardFlavourBonus": false,
+      "ResetWhenDone": null,
+      "StatInterruptions": [],
+      "StartDialog": null,
+      "ProducedCards": [],
+      "StatModifications": [
+        {
+          "Stat": {
+            "key": "Thirst",
+            "icon": "Water",
+            "type": "stat",
+            "zh": "口渴度",
+            "en": "Thirst",
+            "ja": "喉の渇き",
+            "max": 288,
+            "min": 0
+          },
+          "ValueModifier": {
+            "x": 40,
+            "y": 40
+          },
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MinValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MaxValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "CannotModifyBeyond": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IgnoreNovelty": false,
+          "IsInverse": false
+        },
+        {
+          "Stat": {
+            "key": "Infection_Gastrointestinal",
+            "icon": "Bacteria",
+            "type": "stat",
+            "zh": "胃肠道感染",
+            "en": "Gastrointestinal Infection",
+            "ja": "胃腸感染",
+            "max": 1000,
+            "min": 0
+          },
+          "ValueModifier": {
+            "x": 50,
+            "y": 350
+          },
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MinValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MaxValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "CannotModifyBeyond": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IgnoreNovelty": false,
+          "IsInverse": false
+        },
+        {
+          "Stat": {
+            "key": "Parasites",
+            "icon": "",
+            "type": "stat",
+            "zh": "胃肠道寄生虫感染",
+            "en": "Parasitic Gut Infection",
+            "ja": "腸の寄生虫感染",
+            "max": 1500,
+            "min": 0
+          },
+          "ValueModifier": {
+            "x": 0,
+            "y": 150
+          },
+          "RateModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MinValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "MaxValueModifier": {
+            "x": 0,
+            "y": 0
+          },
+          "CannotModifyBeyond": {
+            "Active": false,
+            "FloatValue": 0,
+            "MaxValue": 0
+          },
+          "ApplyEachTick": false,
+          "InstantModifier": false,
+          "IgnoreNovelty": false,
+          "IsInverse": false
+        }
+      ],
+      "InterpolatedStatModifications": [],
+      "NPCStatModifications": [],
+      "TemporaryStatModifications": [],
+      "MovePlayer": {
+        "MoveOption": 0,
+        "ToEnv": null,
+        "Pathfinding": null,
+        "Direction": 0
+      },
+      "MoveReceivingCard": {
+        "Card": null,
+        "UseCardinalDirection": false,
+        "MoveInDirection": 0,
+        "Pathfinding": null
+      },
+      "MoveNPC": [],
+      "SetNPCHome": [],
+      "ExtraDurabilityModifications": [],
+      "BlueprintsFullUnlock": [],
+      "CompletedImprovements": [],
+      "AddedInRunPerks": [],
+      "DontShowDestroyMessage": false,
+      "CustomDestroyMessage": {
+        "DefaultText": "",
+        "Text": "",
+        "zh": "",
+        "en": "",
+        "ja": ""
+      },
+      "NoCardsAffectedMessage": {
+        "DefaultText": "",
+        "Text": "",
+        "zh": "",
+        "en": "",
+        "ja": ""
+      },
+      "ReceivingCardChanges": {
+        "ModType": 0,
+        "TransformInto": null,
+        "TransformToLiquidQuantity": 0,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransferFuel": false,
+        "TransferCharges": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferInventory": false,
+        "TransferSavedIngredients": false,
+        "AverageGivenAndReceivingCards": false,
+        "TransferLiquid": false,
+        "SpoilageTransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "UsageTransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "FuelTransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "ProgressTransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "Special1TransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "Special2TransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "Special3TransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "Special4TransferScale": {
+          "Active": false,
+          "FloatValue": 0
+        },
+        "ModifyDurability": false,
+        "ModifyLiquid": true,
+        "DropOnDestroyList": false,
+        "LiquidEffectScaling": 2,
+        "AddFlavoursFromTargetCard": false,
+        "AddFlavoursFromOtherCard": false,
+        "AddSpicesFromTargetCard": false,
+        "AddSpicesFromOtherCard": false,
+        "AddedFlavours": [],
+        "AddedSpiceTags": [],
+        "SpoilageChange": {
+          "x": -250,
+          "y": -250
+        },
+        "GetSpoilageFromOtherCard": false,
+        "UsageChange": {
+          "x": 0,
+          "y": 0
+        },
+        "GetUsageFromOtherCard": false,
+        "FuelChange": {
+          "x": 0,
+          "y": 0
+        },
+        "GetFuelFromOtherCard": false,
+        "ChargesChange": {
+          "x": 0,
+          "y": 0
+        },
+        "GetProgressFromOtherCard": false,
+        "LiquidQuantityChange": {
+          "x": -300,
+          "y": -300
         },
         "Special1Change": {
           "x": 0,
@@ -30190,16 +30997,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻老妪池塘",
         "en": "Frozen Hag Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Hag Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       }
     },
     {
@@ -30208,16 +31015,16 @@
         "icon": "Pond_Winter",
         "type": "card",
         "CardType": 2,
-        "zh": "结冰的池塘",
+        "zh": "冰冻蚊虫池塘",
         "en": "Frozen Mosquito Pond",
-        "ja": "凍った池"
+        "ja": "Frozen Mosquito Pond"
       },
       "localization": {
         "DefaultText": "Create Ice Hole",
         "Text": "凿个冰洞",
         "zh": "凿个冰洞",
         "en": "Create Ice Hole",
-        "ja": "アイスホールを作る"
+        "ja": "Create Ice Hole"
       }
     },
     {
@@ -30340,7 +31147,7 @@
         "icon": "Reeds_Plant",
         "type": "card",
         "CardType": 8,
-        "zh": "芦苇池塘",
+        "zh": "芦苇水池",
         "en": "Reed Pool",
         "ja": "Reed Pool"
       },

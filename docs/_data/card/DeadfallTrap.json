@@ -6,7 +6,7 @@
   "zh": "落石陷阱",
   "en": "Deadfall Trap",
   "ja": "落石トラップ",
-  "UniqueIDIndex": 937,
+  "UniqueIDIndex": 938,
   "CardType": 2,
   "CardTags": [
     {
@@ -7296,7 +7296,7 @@
             "m_GameObject": null,
             "m_Enabled": 1,
             "UniqueID": "cf4a2923e7142524f8aff07c95a916e5",
-            "UniqueIDIndex": 3080
+            "UniqueIDIndex": 3089
           },
           "UseAssociatedAgent": true,
           "TargetAgent": null,
@@ -7884,7 +7884,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "879f824941ccad94daff21e4cde082fb",
-              "UniqueIDIndex": 3075
+              "UniqueIDIndex": 3084
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,
@@ -7939,7 +7939,7 @@
               "m_GameObject": null,
               "m_Enabled": 1,
               "UniqueID": "b799e5eb54d234f448187ad6ccea381f",
-              "UniqueIDIndex": 3076
+              "UniqueIDIndex": 3085
             },
             "UseAssociatedAgent": true,
             "TargetAgent": null,

@@ -11,8 +11,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_2255",
-      "___fn": "WanderingOakIntro@2255.json",
+      "___key": "0_2254",
+      "___fn": "WanderingOakIntro@2254.json",
       "key": "WanderingOakIntro",
       "zh": "WanderingOakIntro",
       "en": "WanderingOakIntro",
@@ -818,12 +818,12 @@
           "NewNextLine": {
             "NextStep": 0,
             "NextLine": {
-              "key": "Insight_0_7753",
+              "key": "Insight_0_7764",
               "icon": "",
               "type": "dialog",
-              "zh": "Insight_0_7753",
-              "en": "Insight_0_7753",
-              "ja": "Insight_0_7753"
+              "zh": "Insight_0_7764",
+              "en": "Insight_0_7764",
+              "ja": "Insight_0_7764"
             },
             "NextScene": null,
             "DontClearHistory": false
@@ -1207,16 +1207,16 @@
       }
     },
     {
-      "m_Name": "Insight_0_7753",
+      "m_Name": "Insight_0_7764",
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7753",
-      "___fn": "Insight@7753.json",
-      "key": "Insight_0_7753",
-      "zh": "Insight_0_7753",
-      "en": "Insight_0_7753",
-      "ja": "Insight_0_7753",
+      "___key": "0_7764",
+      "___fn": "Insight@7764.json",
+      "key": "Insight_0_7764",
+      "zh": "Insight_0_7764",
+      "en": "Insight_0_7764",
+      "ja": "Insight_0_7764",
       "StartingPoint": false,
       "StartingConditions": {
         "NotInBackground": false,
@@ -1871,8 +1871,8 @@
       "m_Script": {
         "FileName": "SpoonAuger_Blank_Tin"
       },
-      "___key": "0_7644",
-      "___fn": "No Patience@7644.json",
+      "___key": "0_7655",
+      "___fn": "No Patience@7655.json",
       "key": "No_Patience",
       "zh": "No_Patience",
       "en": "No_Patience",

@@ -6,7 +6,7 @@
   "zh": "仙灵草催眠效果",
   "en": "Fairyweed Soporific Effect",
   "ja": "妖精草の眠気",
-  "UniqueIDIndex": 3232,
+  "UniqueIDIndex": 3242,
   "GameName": {
     "DefaultText": "Fairyweed Soporific Effect",
     "Text": "仙灵草催眠效果",
@@ -740,7 +740,7 @@
         "ja": "妖精茶"
       },
       "localization": {
-        "zh": "动作：Drink",
+        "zh": "动作：饮用",
         "en": "Action: Drink",
         "ja": "アクション：Drink"
       },

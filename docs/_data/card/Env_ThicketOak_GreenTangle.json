@@ -6,7 +6,7 @@
   "zh": "纷乱翠林",
   "en": "Green Tangle",
   "ja": "草木の絡まり",
-  "UniqueIDIndex": 125,
+  "UniqueIDIndex": 126,
   "CardType": 4,
   "CardTags": [
     {
@@ -2093,6 +2093,22 @@
         "zh": "动作：南方",
         "en": "Action: South",
         "ja": "アクション：南"
+      }
+    },
+    {
+      "link": {
+        "key": "VDEBUG_Path_TeleportMiddleWoods2",
+        "icon": "",
+        "type": "card",
+        "CardType": 2,
+        "zh": "East",
+        "en": "East",
+        "ja": "East"
+      },
+      "localization": {
+        "zh": "动作：Green Tangle",
+        "en": "Action: Green Tangle",
+        "ja": "アクション：Green Tangle"
       }
     }
   ],
